@@ -1,0 +1,31 @@
+name: Validate corpus
+
+# Integrity gate: on every push and PR, check that the authoritative/derived wall
+# holds, recorded SHA-256 hashes match the files on disk, and every record fits its
+# JSON Schema. Fails the build (exit 1) if anything is off.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install --quiet pyyaml jsonschema
+
+      - name: Validate wall, hashes, and schema
+        run: python scripts/validate_corpus.py

@@ -1,0 +1,60 @@
+name: Source monitor
+
+# Weekly watch of the official source pages (monitoring/sources.json). Fetches each,
+# reduces it to comparable text, hashes it, and compares to the stored baseline.
+# It ONLY watches and queues: on a detected change it opens an issue for the
+# maintainer to triage. Nothing is ingested automatically. The advanced baseline and
+# the latest report are committed back so the next run diffs against them.
+
+on:
+  schedule:
+    - cron: "17 20 * * 1"   # every Monday 20:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write   # commit the advanced baseline + report
+  issues: write     # open a triage issue on change
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check monitored sources
+        id: watch
+        run: python scripts/watch_sources.py
+
+      - name: Commit advanced baseline and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add monitoring/sources.json monitoring/last_report.md
+          if git diff --cached --quiet; then
+            echo "No baseline or report changes to commit."
+          else
+            git commit -m "chore(monitor): update source baseline and report"
+            git push
+          fi
+
+      - name: Open triage issue on change
+        if: steps.watch.outputs.changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let body = 'A monitored official source changed. See `monitoring/last_report.md` in the repo.';
+            try { body = fs.readFileSync('monitoring/last_report.md', 'utf8'); } catch (e) {}
+            const today = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Source monitor: a monitored source changed (${today})`,
+              body: body + '\n\n_Automated flag. A change may be a genuinely new/amended instrument OR a cosmetic page update — triage before ingesting._',
+              labels: ['source-monitor']
+            });

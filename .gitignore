@@ -1,6 +1,10 @@
-# Private construction toolkit — never published. The corpus stays independently
-# verifiable without it: originals + text + hashes + open schemas are all published.
-scripts/
+# Construction toolkit is private EXCEPT the read-only utilities below, which CI and
+# the weekly source monitor run on GitHub. The corpus stays independently verifiable
+# regardless: originals + text + hashes + open schemas are all published.
+scripts/*
+!scripts/hashing.py
+!scripts/validate_corpus.py
+!scripts/watch_sources.py
 __pycache__/
 *.pyc
 .DS_Store
