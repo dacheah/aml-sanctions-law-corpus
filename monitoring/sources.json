@@ -55,6 +55,26 @@
       "name": "US IEEPA — 50 U.S.C. ch. 35 (current)",
       "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter35&edition=prelim",
       "last_sha256": null
+    },
+    {
+      "name": "EU 4AMLD — Directive (EU) 2015/849 (consolidated, EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L0849-20241230",
+      "last_sha256": null
+    },
+    {
+      "name": "EU AML Regulation 2024/1624 (AMLR, EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1624",
+      "last_sha256": null
+    },
+    {
+      "name": "EU 6AMLD — Directive (EU) 2024/1640 (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1640",
+      "last_sha256": null
+    },
+    {
+      "name": "EU AMLA Regulation 2024/1620 (EUR-Lex)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1620",
+      "last_sha256": null
     }
   ],
   "_pending_once_ids_confirmed": [

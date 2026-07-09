@@ -17,6 +17,10 @@
 - **United Kingdom:**
     - *MLR 2017*: reg.18
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 10 Business-wide risk assessment
+    - *4AMLD (Dir (EU) 2015/849)*: Article 8 1. Member States shall ensure that obliged entitie
+    - *AMLD6 (Dir (EU) 2024/1640)*: Article 7 Risk assessment at Union level; Article 8 National risk assessment
 
 ### R.2 — National cooperation and coordination
 *Note:* Institutional/coordination measure; not a captured instrument in v1.
@@ -48,6 +52,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.4 — Confiscation and provisional measures
 *Concepts:* `enforcement_and_offences`
@@ -72,6 +77,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ## C — Terrorist financing and proliferation financing
 
@@ -98,6 +104,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.6 — Targeted financial sanctions related to terrorism and terrorist financing
 *Concepts:* `asset_freezing`, `designation_criteria`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`, `sanctions_permits`
@@ -110,6 +117,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *SAMLA 2018*: s.3 Financial sanctions; s.11 Designation of a person by name under a designation pow; s.15 Exceptions and licences
 - **United States:**
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities; § 1701. Unusual and extraordinary threat; dec-
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.7 — Targeted financial sanctions related to proliferation
 *Concepts:* `asset_freezing`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`
@@ -123,6 +131,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *SAMLA 2018*: s.3 Financial sanctions
 - **United States:**
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities; § 1701. Unusual and extraordinary threat; dec-
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.8 — Non-profit organisations
 *Note:* NPO-specific measures not captured in v1.
@@ -149,6 +158,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 19 Application of customer due diligence measures; Article 20 Customer due diligence measures; Article 22 Identification and verification of the identity o; Article 33 Simplified due diligence measures; Article 34 Scope of application of enhanced due diligence me; Article 48 General provisions relating to reliance on other 
+    - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
 
 ### R.11 — Record-keeping
 *Concepts:* `record_keeping`
@@ -163,6 +175,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5314. Records and reports on foreign financial
     - *31 C.F.R. Part 1010*: § 1010.410 Records to be made and retained by financial inst
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 77 Record retention
+    - *4AMLD (Dir (EU) 2015/849)*: Article 40 1. Member States shall require obliged entities t
 
 ### R.12 — Politically exposed persons
 *Concepts:* `politically_exposed_persons`
@@ -172,6 +187,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:**
     - *MLR 2017*: reg.35
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 42 Specific provisions regarding politically exposed
+    - *4AMLD (Dir (EU) 2015/849)*: Article 20 With respect to transactions or business relation; Article 22 Where a politically exposed person is no longer e
 
 ### R.13 — Correspondent banking
 *Concepts:* `correspondent_banking`
@@ -183,6 +201,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318A. Special measures for jurisdictions, finan-
     - *31 C.F.R. Part 1010*: § 1010.620 Due diligence programs for private banking accoun
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 36 Specific enhanced due diligence measures for cros
 
 ### R.14 — Money or value transfer services
 *Concepts:* `enrolment_registration`
@@ -194,6 +214,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 5  Remittance Sector Register; 6  Virtual Asset Service Provider Register; 13  Timing of enrolment; 14  Registration to provide registrable virtual asset servic; 19  Notifying AML/CTF compliance officer—certain persons wit
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.15 — New technologies (incl. virtual assets)
 *Concepts:* `virtual_assets`
@@ -204,6 +225,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 6  Virtual Asset Service Provider Register; 11  Delayed application of requirement to report transfers o; 12  Delayed application of certain Principal Act provisions; 14  Registration to provide registrable virtual asset servic
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.16 — Wire transfers
 *Concepts:* `funds_transfer_reporting`
@@ -215,6 +237,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 9  IVTS reporting transition date; 10  Modification of reporting obligations before IVTS report; 11  Delayed application of requirement to report transfers o
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.17 — Reliance on third parties
 *Concepts:* `customer_due_diligence`
@@ -230,6 +253,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 19 Application of customer due diligence measures; Article 20 Customer due diligence measures; Article 22 Identification and verification of the identity o; Article 33 Simplified due diligence measures; Article 34 Scope of application of enhanced due diligence me; Article 48 General provisions relating to reliance on other 
+    - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
 
 ### R.18 — Internal controls and foreign branches and subsidiaries
 *Concepts:* `amlctf_program`
@@ -243,6 +269,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *MLR 2017*: reg.18; reg.19
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
+- **European Union:**
+    - *4AMLD (Dir (EU) 2015/849)*: Article 8 1. Member States shall ensure that obliged entitie
 
 ### R.19 — Higher-risk countries
 *Concepts:* `risk_based_approach`, `customer_due_diligence`
@@ -258,6 +286,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 10 Business-wide risk assessment; Article 19 Application of customer due diligence measures; Article 20 Customer due diligence measures; Article 22 Identification and verification of the identity o; Article 33 Simplified due diligence measures; Article 34 Scope of application of enhanced due diligence me; Article 48 General provisions relating to reliance on other 
+    - *4AMLD (Dir (EU) 2015/849)*: Article 8 1. Member States shall ensure that obliged entitie; Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
+    - *AMLD6 (Dir (EU) 2024/1640)*: Article 7 Risk assessment at Union level; Article 8 National risk assessment
 
 ### R.20 — Reporting of suspicious transactions
 *Concepts:* `suspicious_matter_reporting`
@@ -271,6 +303,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.320 Reports of suspicious transactions.
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 69 Reporting of suspicions; Article 70 Specific provisions for reporting of suspicions b
+    - *4AMLD (Dir (EU) 2015/849)*: Article 33 1. Member States shall require obliged entities, 
 
 ### R.21 — Tipping-off and confidentiality
 *Concepts:* `tipping_off`
@@ -282,6 +317,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:**
     - *Terrorism Act 2000*: s.21D Tipping off: regulated sector
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:**
+    - *4AMLD (Dir (EU) 2015/849)*: Article 39 1. Obliged entities and their directors and emplo
 
 ### R.22 — DNFBPs: customer due diligence
 *Concepts:* `designated_services`, `customer_due_diligence`
@@ -297,6 +334,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 19 Application of customer due diligence measures; Article 20 Customer due diligence measures; Article 22 Identification and verification of the identity o; Article 33 Simplified due diligence measures; Article 34 Scope of application of enhanced due diligence me; Article 48 General provisions relating to reliance on other 
+    - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
 
 ### R.23 — DNFBPs: other measures
 *Concepts:* `designated_services`
@@ -306,6 +346,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Amendment Act 2024*: Schedule 3—; Part 1—Real estate; Part 2—Dealers in precious metals and stones; Part 3—Professional services
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ## E — Transparency and beneficial ownership of legal persons and arrangements
 
@@ -319,6 +360,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5336. Beneficial ownership information report-
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.380 Reports of beneficial ownership information.
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 51 Identification of beneficial owners for legal ent; Article 52 Beneficial ownership through ownership interest; Article 53 Beneficial ownership through control; Article 58 Identification of beneficial owners for express t; Article 62 Beneficial ownership information
+    - *4AMLD (Dir (EU) 2015/849)*: Article 30 1. ►M1 Member States shall ensure that corporate ; Article 31 1. Member States shall ensure that this Article a
+    - *AMLD6 (Dir (EU) 2024/1640)*: Article 10 Central beneficial ownership registers
 
 ### R.25 — Transparency and beneficial ownership of legal arrangements
 *Concepts:* `beneficial_ownership`
@@ -330,6 +375,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5336. Beneficial ownership information report-
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.380 Reports of beneficial ownership information.
+- **European Union:**
+    - *AMLR (Reg (EU) 2024/1624)*: Article 51 Identification of beneficial owners for legal ent; Article 52 Beneficial ownership through ownership interest; Article 53 Beneficial ownership through control; Article 58 Identification of beneficial owners for express t; Article 62 Beneficial ownership information
+    - *4AMLD (Dir (EU) 2015/849)*: Article 30 1. ►M1 Member States shall ensure that corporate ; Article 31 1. Member States shall ensure that this Article a
+    - *AMLD6 (Dir (EU) 2024/1640)*: Article 10 Central beneficial ownership registers
 
 ## F — Powers and responsibilities of competent authorities
 
@@ -342,6 +391,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:**
+    - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
+    - *AMLA Reg (Reg (EU) 2024/1620)*: Article 1 Establishment and scope of action; Article 5 Tasks; Article 13 The listing of selected obliged entities
 
 ### R.27 — Powers of supervisors
 *Concepts:* `supervisory_architecture`
@@ -352,6 +404,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:**
+    - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
+    - *AMLA Reg (Reg (EU) 2024/1620)*: Article 1 Establishment and scope of action; Article 5 Tasks; Article 13 The listing of selected obliged entities
 
 ### R.28 — Regulation and supervision of DNFBPs
 *Concepts:* `supervisory_architecture`, `designated_services`
@@ -362,6 +417,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:**
+    - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
+    - *AMLA Reg (Reg (EU) 2024/1620)*: Article 1 Establishment and scope of action; Article 5 Tasks; Article 13 The listing of selected obliged entities
 
 ### R.29 — Financial intelligence units
 *Note:* The FIU (AUSTRAC / NCA-UKFIU) is an institution, not a captured instrument in v1.
@@ -391,6 +449,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.31 — Powers of law enforcement and investigative authorities
 *Concepts:* `enforcement_and_offences`
@@ -415,6 +474,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.32 — Cash couriers
 *Note:* Cross-border cash declaration regimes not separately captured in v1.
@@ -454,6 +514,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ## G — International cooperation
 

@@ -48,6 +48,30 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 4,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 1,
+       "provisions": [
+        "Article 10 Business-wide risk assessment"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 1,
+       "provisions": [
+        "Article 8 1. Member States shall ensure that obliged entities take appropriate steps to identify and"
+       ]
+      },
+      "AMLD6 (Dir (EU) 2024/1640)": {
+       "count": 2,
+       "provisions": [
+        "Article 7 Risk assessment at Union level",
+        "Article 8 National risk assessment"
+       ]
+      }
+     }
     }
    }
   },
@@ -69,6 +93,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -225,6 +253,10 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -379,6 +411,10 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -533,6 +569,10 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -638,6 +678,10 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -721,6 +765,10 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -744,6 +792,10 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -765,6 +817,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -852,6 +908,29 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 8,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 6,
+       "provisions": [
+        "Article 19 Application of customer due diligence measures",
+        "Article 20 Customer due diligence measures",
+        "Article 22 Identification and verification of the identity of customers and beneficial owners",
+        "Article 33 Simplified due diligence measures",
+        "Article 34 Scope of application of enhanced due diligence measures",
+        "Article 48 General provisions relating to reliance on other obliged entities"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 2,
+       "provisions": [
+        "Article 11 Member States shall ensure that obliged entities apply customer due diligence measures in",
+        "Article 13 1. Customer due diligence measures shall comprise:"
+       ]
+      }
+     }
     }
    }
   },
@@ -933,6 +1012,23 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 2,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 1,
+       "provisions": [
+        "Article 77 Record retention"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 1,
+       "provisions": [
+        "Article 40 1. Member States shall require obliged entities to retain the following documents and info"
+       ]
+      }
+     }
     }
    }
   },
@@ -972,6 +1068,24 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 3,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 1,
+       "provisions": [
+        "Article 42 Specific provisions regarding politically exposed persons"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 2,
+       "provisions": [
+        "Article 20 With respect to transactions or business relationships with politically exposed persons, M",
+        "Article 22 Where a politically exposed person is no longer entrusted with a prominent public function"
+       ]
+      }
+     }
     }
    }
   },
@@ -1022,6 +1136,17 @@
        "count": 1,
        "provisions": [
         "§ 1010.620 Due diligence programs for private banking accounts."
+       ]
+      }
+     }
+    },
+    "EU": {
+     "provision_count": 1,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 1,
+       "provisions": [
+        "Article 36 Specific enhanced due diligence measures for cross-border correspondent relationships"
        ]
       }
      }
@@ -1087,6 +1212,10 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1138,6 +1267,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1192,6 +1325,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1279,6 +1416,29 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 8,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 6,
+       "provisions": [
+        "Article 19 Application of customer due diligence measures",
+        "Article 20 Customer due diligence measures",
+        "Article 22 Identification and verification of the identity of customers and beneficial owners",
+        "Article 33 Simplified due diligence measures",
+        "Article 34 Scope of application of enhanced due diligence measures",
+        "Article 48 General provisions relating to reliance on other obliged entities"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 2,
+       "provisions": [
+        "Article 11 Member States shall ensure that obliged entities apply customer due diligence measures in",
+        "Article 13 1. Customer due diligence measures shall comprise:"
+       ]
+      }
+     }
     }
    }
   },
@@ -1358,6 +1518,17 @@
        "count": 1,
        "provisions": [
         "§ 5318. Compliance, exemptions, and summons"
+       ]
+      }
+     }
+    },
+    "EU": {
+     "provision_count": 1,
+     "instruments": {
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 1,
+       "provisions": [
+        "Article 8 1. Member States shall ensure that obliged entities take appropriate steps to identify and"
        ]
       }
      }
@@ -1453,6 +1624,38 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 12,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 7,
+       "provisions": [
+        "Article 10 Business-wide risk assessment",
+        "Article 19 Application of customer due diligence measures",
+        "Article 20 Customer due diligence measures",
+        "Article 22 Identification and verification of the identity of customers and beneficial owners",
+        "Article 33 Simplified due diligence measures",
+        "Article 34 Scope of application of enhanced due diligence measures",
+        "Article 48 General provisions relating to reliance on other obliged entities"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 3,
+       "provisions": [
+        "Article 8 1. Member States shall ensure that obliged entities take appropriate steps to identify and",
+        "Article 11 Member States shall ensure that obliged entities apply customer due diligence measures in",
+        "Article 13 1. Customer due diligence measures shall comprise:"
+       ]
+      },
+      "AMLD6 (Dir (EU) 2024/1640)": {
+       "count": 2,
+       "provisions": [
+        "Article 7 Risk assessment at Union level",
+        "Article 8 National risk assessment"
+       ]
+      }
+     }
     }
    }
   },
@@ -1521,6 +1724,24 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 3,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 2,
+       "provisions": [
+        "Article 69 Reporting of suspicions",
+        "Article 70 Specific provisions for reporting of suspicions by certain categories of obliged entities"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 1,
+       "provisions": [
+        "Article 33 1. Member States shall require obliged entities, and, where applicable, their directors an"
+       ]
+      }
+     }
     }
    }
   },
@@ -1573,6 +1794,17 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 1,
+     "instruments": {
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 1,
+       "provisions": [
+        "Article 39 1. Obliged entities and their directors and employees shall not disclose to the customer c"
+       ]
+      }
+     }
     }
    }
   },
@@ -1666,6 +1898,29 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 8,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 6,
+       "provisions": [
+        "Article 19 Application of customer due diligence measures",
+        "Article 20 Customer due diligence measures",
+        "Article 22 Identification and verification of the identity of customers and beneficial owners",
+        "Article 33 Simplified due diligence measures",
+        "Article 34 Scope of application of enhanced due diligence measures",
+        "Article 48 General provisions relating to reliance on other obliged entities"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 2,
+       "provisions": [
+        "Article 11 Member States shall ensure that obliged entities apply customer due diligence measures in",
+        "Article 13 1. Customer due diligence measures shall comprise:"
+       ]
+      }
+     }
     }
    }
   },
@@ -1707,6 +1962,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1759,6 +2018,34 @@
        "provisions": [
         "§ 1010.230 Beneficial ownership requirements for legal entity customers.",
         "§ 1010.380 Reports of beneficial ownership information."
+       ]
+      }
+     }
+    },
+    "EU": {
+     "provision_count": 8,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 5,
+       "provisions": [
+        "Article 51 Identification of beneficial owners for legal entities",
+        "Article 52 Beneficial ownership through ownership interest",
+        "Article 53 Beneficial ownership through control",
+        "Article 58 Identification of beneficial owners for express trusts and similar legal arrangements",
+        "Article 62 Beneficial ownership information"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 2,
+       "provisions": [
+        "Article 30 1. ►M1 Member States shall ensure that corporate and other legal entities incorporated wit",
+        "Article 31 1. Member States shall ensure that this Article applies to trusts and other types of legal"
+       ]
+      },
+      "AMLD6 (Dir (EU) 2024/1640)": {
+       "count": 1,
+       "provisions": [
+        "Article 10 Central beneficial ownership registers"
        ]
       }
      }
@@ -1815,6 +2102,34 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 8,
+     "instruments": {
+      "AMLR (Reg (EU) 2024/1624)": {
+       "count": 5,
+       "provisions": [
+        "Article 51 Identification of beneficial owners for legal entities",
+        "Article 52 Beneficial ownership through ownership interest",
+        "Article 53 Beneficial ownership through control",
+        "Article 58 Identification of beneficial owners for express trusts and similar legal arrangements",
+        "Article 62 Beneficial ownership information"
+       ]
+      },
+      "4AMLD (Dir (EU) 2015/849)": {
+       "count": 2,
+       "provisions": [
+        "Article 30 1. ►M1 Member States shall ensure that corporate and other legal entities incorporated wit",
+        "Article 31 1. Member States shall ensure that this Article applies to trusts and other types of legal"
+       ]
+      },
+      "AMLD6 (Dir (EU) 2024/1640)": {
+       "count": 1,
+       "provisions": [
+        "Article 10 Central beneficial ownership registers"
+       ]
+      }
+     }
     }
    }
   },
@@ -1864,6 +2179,27 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 6,
+     "instruments": {
+      "AMLD6 (Dir (EU) 2024/1640)": {
+       "count": 3,
+       "provisions": [
+        "Article 37 Powers and resources of national supervisors",
+        "Article 40 Risk-based supervision",
+        "Article 49 AML/CFT supervisory colleges in the financial sector"
+       ]
+      },
+      "AMLA Reg (Reg (EU) 2024/1620)": {
+       "count": 3,
+       "provisions": [
+        "Article 1 Establishment and scope of action",
+        "Article 5 Tasks",
+        "Article 13 The listing of selected obliged entities"
+       ]
+      }
+     }
     }
    }
   },
@@ -1913,6 +2249,27 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 6,
+     "instruments": {
+      "AMLD6 (Dir (EU) 2024/1640)": {
+       "count": 3,
+       "provisions": [
+        "Article 37 Powers and resources of national supervisors",
+        "Article 40 Risk-based supervision",
+        "Article 49 AML/CFT supervisory colleges in the financial sector"
+       ]
+      },
+      "AMLA Reg (Reg (EU) 2024/1620)": {
+       "count": 3,
+       "provisions": [
+        "Article 1 Establishment and scope of action",
+        "Article 5 Tasks",
+        "Article 13 The listing of selected obliged entities"
+       ]
+      }
+     }
     }
    }
   },
@@ -1970,6 +2327,27 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 6,
+     "instruments": {
+      "AMLD6 (Dir (EU) 2024/1640)": {
+       "count": 3,
+       "provisions": [
+        "Article 37 Powers and resources of national supervisors",
+        "Article 40 Risk-based supervision",
+        "Article 49 AML/CFT supervisory colleges in the financial sector"
+       ]
+      },
+      "AMLA Reg (Reg (EU) 2024/1620)": {
+       "count": 3,
+       "provisions": [
+        "Article 1 Establishment and scope of action",
+        "Article 5 Tasks",
+        "Article 13 The listing of selected obliged entities"
+       ]
+      }
+     }
     }
    }
   },
@@ -1991,6 +2369,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2147,6 +2529,10 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2301,6 +2687,10 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2322,6 +2712,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2347,6 +2741,10 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2368,6 +2766,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2524,6 +2926,10 @@
        ]
       }
      }
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2545,6 +2951,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2570,6 +2980,10 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2591,6 +3005,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2616,6 +3034,10 @@
     "USA": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "EU": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2637,6 +3059,10 @@
      "instruments": {}
     },
     "USA": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "EU": {
      "provision_count": 0,
      "instruments": {}
     }

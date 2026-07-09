@@ -1,0 +1,59 @@
+corpus_id: eu/reg/2024-1624
+version_id: '2024-05-31'
+title: Regulation (EU) 2024/1624 — Anti-Money Laundering Regulation (single rulebook)
+short_title: AMLR (Reg (EU) 2024/1624)
+jurisdiction: EU
+document_type: Regulation (EU)
+legal_status: binding
+redistribution: open
+official_citation: Regulation (EU) 2024/1624 of 31 May 2024, OJ L, 19.6.2024 (CELEX 32024R1624)
+authentic_languages:
+- en
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1624
+source_publisher: Publications Office of the European Union (EUR-Lex)
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:50b5bd31483639c2dafbfc9dc637265c10670b7c1acf67c9e168314ae90696bc
+original_sha256: sha256:9d76872f87433dac05645ca10bf7d204dd8bb1386171bd070ae717454aad3682
+text_sha256: sha256:50b5bd31483639c2dafbfc9dc637265c10670b7c1acf67c9e168314ae90696bc
+text_fidelity: extracted_verified
+language: en
+authoritative_status: authentic_text
+license: EU reuse (Decision 2011/833/EU)
+rights_note: © European Union, https://eur-lex.europa.eu, 1998–2026. Reuse authorised under Commission
+  Decision 2011/833/EU, with attribution. English is one of the equally authentic language versions.
+capture_history:
+- date: '2026-07-09'
+  source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1624
+  original_sha256: sha256:9d76872f87433dac05645ca10bf7d204dd8bb1386171bd070ae717454aad3682
+  note: EUR-Lex as-adopted OJ PDF (EN), CELEX 32024R1624.
+supersedes: null
+superseded_by: null
+related_documents:
+- eu/dir/2015-849
+- eu/dir/2024-1640
+- gbr/regs/mlr-2017
+- usa/cfr/31-1010
+- aus/rules/aml-ctf-2025
+provenance_note: The Anti-Money Laundering Regulation — directly-applicable EU single rulebook (customer
+  due diligence, beneficial ownership, obliged entities). Adopted 31 May 2024; applies mostly from 10
+  July 2027. As-adopted authentic OJ text. English authentic version captured from EUR-Lex; every EU official-language
+  version is equally authentic. Single-column PDF; text.txt extracted with the top OJ/CELEX running header
+  removed, de-hyphenated, letter-spaced headings re-joined, and EUR-Lex consolidation markers (▼B/▼M)
+  stripped as editorial furniture. © European Union; reuse under Commission Decision 2011/833/EU. extracted_unverified.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction (poppler pdftotext vs PyMuPDF) compared by order-robust multiset token
+    coverage.
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.9976
+    unigram_reverse: 0.9707
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits the OJ/CELEX running header and EUR-Lex
+    consolidation markers the comparison engine retains; a token diff confirms the residual is non-substantive.'

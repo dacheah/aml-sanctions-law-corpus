@@ -1,0 +1,56 @@
+corpus_id: eu/reg/2024-1620
+version_id: '2024-05-31'
+title: Regulation (EU) 2024/1620 — establishing the Anti-Money Laundering Authority (AMLA)
+short_title: AMLA Reg (Reg (EU) 2024/1620)
+jurisdiction: EU
+document_type: Regulation (EU)
+legal_status: binding
+redistribution: open
+official_citation: Regulation (EU) 2024/1620 of 31 May 2024 (CELEX 32024R1620)
+authentic_languages:
+- en
+source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1620
+source_publisher: Publications Office of the European Union (EUR-Lex)
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:c4c083fcd4127ac638cacbdefaab375b582b097674f13623dd442c4143dadea0
+original_sha256: sha256:74c0c2500a49c152e1f2ae71ddb962fdb130ae560ad0dc2c2d6d2eec1fa506f4
+text_sha256: sha256:c4c083fcd4127ac638cacbdefaab375b582b097674f13623dd442c4143dadea0
+text_fidelity: extracted_verified
+language: en
+authoritative_status: authentic_text
+license: EU reuse (Decision 2011/833/EU)
+rights_note: © European Union, https://eur-lex.europa.eu, 1998–2026. Reuse authorised under Commission
+  Decision 2011/833/EU, with attribution. English is one of the equally authentic language versions.
+capture_history:
+- date: '2026-07-09'
+  source_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1620
+  original_sha256: sha256:74c0c2500a49c152e1f2ae71ddb962fdb130ae560ad0dc2c2d6d2eec1fa506f4
+  note: EUR-Lex as-adopted OJ PDF (EN), CELEX 32024R1620.
+supersedes: null
+superseded_by: null
+related_documents:
+- eu/dir/2024-1640
+- eu/reg/2024-1624
+provenance_note: The Regulation establishing the Anti-Money Laundering Authority (AMLA), the EU-level
+  supervisor and FIU-coordination body. Adopted 31 May 2024; AMLA phases in from 2025. As-adopted authentic
+  OJ text. English authentic version captured from EUR-Lex; every EU official-language version is equally
+  authentic. Single-column PDF; text.txt extracted with the top OJ/CELEX running header removed, de-hyphenated,
+  letter-spaced headings re-joined, and EUR-Lex consolidation markers (▼B/▼M) stripped as editorial furniture.
+  © European Union; reuse under Commission Decision 2011/833/EU. extracted_unverified.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction (poppler pdftotext vs PyMuPDF) compared by order-robust multiset token
+    coverage.
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.9973
+    unigram_reverse: 0.9721
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits the OJ/CELEX running header and EUR-Lex
+    consolidation markers the comparison engine retains; a token diff confirms the residual is non-substantive.'

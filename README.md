@@ -1,11 +1,12 @@
-# AML/CTF & Financial-Sanctions Legal Corpus (Australia, United Kingdom & United States, v1)
+# AML/CTF & Financial-Sanctions Legal Corpus (Australia, United Kingdom, United States & European Union, v1)
 
 [![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml)
 
 A neutral, provenance-tracked, machine-readable record of the **law** of anti-money-laundering /
 counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone. Version 1
-covers **Australia**, the **United Kingdom** and the **United States** as separate, cross-referenced
-jurisdiction branches — never merged; each instrument is recorded from its own official source.
+covers **Australia**, the **United Kingdom**, the **United States** and the **European Union** as separate,
+cross-referenced jurisdiction branches — never merged; each instrument is recorded from its own official
+source.
 
 > **An independent, non-commercial reference project. Not affiliated with or endorsed by any employer or
 > government body. Not legal or compliance advice.** This corpus records what each instrument says, as at
@@ -55,6 +56,8 @@ sha256sum authoritative/<id>/<version>/text.txt      # compare to text_sha256 in
 | Money-laundering offences 18 U.S.C. §§1956–1957; terrorist-financing offences 18 U.S.C. §§2339A–2339C | USA | ingested — U.S. Code 2024 edition (govinfo) |
 | International Emergency Economic Powers Act — 50 U.S.C. ch. 35 (§§1701–1708) | USA | ingested — U.S. Code 2024 edition (govinfo) |
 | 31 C.F.R. Part 1010 — FinCEN general provisions (CDD, beneficial ownership) | USA | ingested — eCFR, current as of 7 Jul 2026 |
+| Directive (EU) 2015/849 — Fourth AML Directive (consolidated to 30 Dec 2024) | EU | ingested — EUR-Lex consolidated (EN) |
+| Regulation (EU) 2024/1624 (AMLR); Directive (EU) 2024/1640 (AMLD6); Regulation (EU) 2024/1620 (AMLA) | EU | ingested — 2024 AML package, as adopted (applies mostly from 10 Jul 2027) |
 
 The 1 July 2026 compilation of the AML/CTF Act will be added when the Federal Register publishes it;
 official sources (AU and UK) are monitored for change (`docs/monitoring.md`). UK legislation is Crown

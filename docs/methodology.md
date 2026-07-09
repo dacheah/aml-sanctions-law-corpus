@@ -86,12 +86,25 @@ added by recorded decision (2026-07-09) — the **United States** branch: the Ba
 ch. 53, subch. II, §§5311–5336, incl. the Corporate Transparency Act §5336), the money-laundering
 offences (18 U.S.C. §§1956–1957), the terrorist-financing offences (18 U.S.C. §§2339A–2339C), the
 International Emergency Economic Powers Act (50 U.S.C. ch. 35), and 31 C.F.R. Part 1010 (FinCEN general
-provisions). All jurisdictions are cross-referenced, never merged; UK texts are Crown copyright under the
-Open Government Licence v3.0, and US federal texts are in the public domain (17 U.S.C. §105) — both
-`redistribution: open`. Out of scope (until a further recorded decision): other comparative jurisdictions
-(EU), the sanctions *lists* / designations of any jurisdiction (operational data, not law — the enabling
-Acts/Regulations are in), OFAC program regulations (31 CFR ch. V), supervisory guidance
-(FCA/JMLSG/AUSTRAC/FinCEN/FFIEC), state money-transmitter law, tax law, and general criminal law.
+provisions); and — added by recorded decision (2026-07-09) — the **European Union** branch: the Fourth AML
+Directive (Directive (EU) 2015/849, consolidated) and the 2024 AML package — the AML Regulation (Regulation
+(EU) 2024/1624), the Sixth AML Directive (Directive (EU) 2024/1640) and the Regulation establishing the AML
+Authority (Regulation (EU) 2024/1620). All jurisdictions are cross-referenced, never merged; UK texts are
+Crown copyright under the Open Government Licence v3.0, US federal texts are public domain (17 U.S.C. §105),
+and EU texts are © European Union reusable under Commission Decision 2011/833/EU with attribution — all
+`redistribution: open`. Out of scope (until a further recorded decision): the sanctions *lists* /
+designations of any jurisdiction (operational data, not law — the enabling Acts/Regulations are in), OFAC
+program regulations (31 CFR ch. V), EU restrictive-measures regimes and EBA/technical standards, supervisory
+guidance (FCA/JMLSG/AUSTRAC/FinCEN/FFIEC), national transpositions of EU directives, state money-transmitter
+law, tax law, and general criminal law.
+
+The EU texts are captured from **EUR-Lex** as the English authentic version (every EU official-language
+version is equally authentic; English is one of them, recorded in provenance). The Fourth Directive is the
+EUR-Lex consolidated version (`official_consolidation`); the 2024 package is captured as adopted
+(`authentic_text`) — adopted law that mostly *applies from 10 July 2027*, with the application dates noted in
+each record. Single-column PDFs are extracted with the OJ/CELEX running header removed, de-hyphenated,
+letter-spaced headings re-joined, and EUR-Lex consolidation markers (▼B/▼M) stripped; each EU record is
+`extracted_verified` against `pdftotext` (see §4).
 
 The UK primary texts are captured from `legislation.gov.uk` as the official "latest available (Revised)"
 consolidations (or "as enacted" for the two amendment-lineage Acts). The revised versions carry
