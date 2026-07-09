@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+title: "AML/CTF & Financial-Sanctions Legal Corpus (Australia, v1)"
+abstract: >-
+  A neutral, provenance-first, machine-readable record of the law of
+  anti-money-laundering / counter-terrorism-financing (AML/CTF) and financial
+  sanctions, anchored on Australia with the FATF 40 Recommendations as backbone.
+  Every authoritative text carries its official source, SHA-256 hash, and dated
+  version; a separate derived layer adds structure and neutral concept tags.
+type: dataset
+authors:
+  - family-names: Cheah
+    given-names: Dan
+repository-code: "https://github.com/dacheah/aml-sanctions-law-corpus"
+url: "https://huggingface.co/datasets/dacheah/aml-sanctions-law-corpus"
+license: CC-BY-4.0
+keywords:
+  - AML
+  - CTF
+  - anti-money-laundering
+  - sanctions
+  - FATF
+  - Australia
+  - legal
+  - provenance
+  - legal-nlp
+date-released: "2026-07-09"

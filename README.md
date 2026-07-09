@@ -1,5 +1,7 @@
 # AML/CTF & Financial-Sanctions Legal Corpus (Australia, v1)
 
+[![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml)
+
 A neutral, provenance-tracked, machine-readable record of the **law** of anti-money-laundering /
 counter-terrorism-financing (AML/CTF) and financial sanctions. Version 1 is anchored on Australia, on
 the FATF standard as backbone.
@@ -46,6 +48,13 @@ sha256sum authoritative/<id>/<version>/text.txt      # compare to text_sha256 in
 
 The 1 July 2026 compilation of the AML/CTF Act will be added when the Federal Register publishes it;
 official sources are monitored for change (`docs/monitoring.md`).
+
+## Also available as a dataset
+
+A machine-readable export — one row per instrument version (full text + provenance) and one row per
+provision (with neutral concept tags) — is published as a Hugging Face dataset:
+**[huggingface.co/datasets/dacheah/aml-sanctions-law-corpus](https://huggingface.co/datasets/dacheah/aml-sanctions-law-corpus)**.
+It is generated from this repository's open layers; the FATF material stays withheld there too.
 
 ## Licensing
 
