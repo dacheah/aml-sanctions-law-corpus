@@ -63,10 +63,24 @@ any commercial full-text use (see `restricted-sources.md`). Each source keeps it
 
 In scope (v1): the Australian AML/CTF core (AML/CTF Act 2006 across the reform point-in-time states; the
 Amendment Act 2024; the AML/CTF Rules 2025 and Transitional Rules 2026); the FATF 40 Recommendations
-(restricted); and the Australian sanctions branch (Charter of the United Nations Act 1945; Autonomous
-Sanctions Act 2011 + Regulations 2011), cross-referenced not merged. Out of scope (until a deliberate,
-recorded decision): comparative jurisdictions (US/UK/EU), the sanctions *lists* (operational data, not
-law — the enabling Acts/Regulations are in), tax law, and general criminal law.
+(restricted); the Australian sanctions branch (Charter of the United Nations Act 1945; Autonomous
+Sanctions Act 2011 + Regulations 2011); and — added by recorded decision (2026-07-09) — the **United
+Kingdom** branch: the Proceeds of Crime Act 2002, the Terrorism Act 2000, the Money Laundering, Terrorist
+Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692), the Sanctions
+and Anti-Money Laundering Act 2018, and the Economic Crime (Transparency and Enforcement) Act 2022 and
+Economic Crime and Corporate Transparency Act 2023 (captured as enacted, for amendment lineage). All
+jurisdictions are cross-referenced, never merged; UK texts are Crown copyright under the Open Government
+Licence v3.0 (`redistribution: open`). Out of scope (until a further recorded decision): other comparative
+jurisdictions (US/EU), the sanctions *lists* / designations of any jurisdiction (operational data, not
+law — the enabling Acts/Regulations are in), supervisory guidance (FCA/JMLSG/AUSTRAC), tax law, and
+general criminal law.
+
+The UK primary texts are captured from `legislation.gov.uk` as the official "latest available (Revised)"
+consolidations (or "as enacted" for the two amendment-lineage Acts). The revised versions carry
+`authoritative_status: official_consolidation`; because they are PDFs, `text.txt` is extracted with the
+per-page running headers/footers and the repeated "Changes to legislation" banner removed as
+non-substantive presentation, and `text_fidelity` stays `extracted_unverified` pending a provision-level
+check.
 
 ## 7. Neutral concept vocabulary
 

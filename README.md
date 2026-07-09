@@ -1,10 +1,11 @@
-# AML/CTF & Financial-Sanctions Legal Corpus (Australia, v1)
+# AML/CTF & Financial-Sanctions Legal Corpus (Australia & United Kingdom, v1)
 
 [![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml)
 
 A neutral, provenance-tracked, machine-readable record of the **law** of anti-money-laundering /
-counter-terrorism-financing (AML/CTF) and financial sanctions. Version 1 is anchored on Australia, on
-the FATF standard as backbone.
+counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone. Version 1
+covers **Australia** and the **United Kingdom** as separate, cross-referenced jurisdiction branches —
+never merged; each instrument is recorded from its own official source.
 
 > **An independent, non-commercial reference project. Not affiliated with or endorsed by any employer or
 > government body. Not legal or compliance advice.** This corpus records what each instrument says, as at
@@ -45,9 +46,13 @@ sha256sum authoritative/<id>/<version>/text.txt      # compare to text_sha256 in
 | AML/CTF Rules 2025 (Comp. 1) + Transitional Rules 2026 (Comp. 1) | AUS | ingested |
 | FATF 40 Recommendations + Interpretive Notes | international | ingested — restricted posture (hash + citation + excerpt; full text withheld, see [`docs/restricted-sources.md`](docs/restricted-sources.md)) |
 | Charter of the United Nations Act 1945 (Comp. 15); Autonomous Sanctions Act 2011 (Comp. 4) + Regulations 2011 (Comp. 18) | AUS | ingested — sanctions branch, cross-referenced |
+| Proceeds of Crime Act 2002 (c. 29); Terrorism Act 2000 (c. 11); Sanctions and Anti-Money Laundering Act 2018 (c. 13) | GBR | ingested — official revised (in-force) consolidations from legislation.gov.uk |
+| Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692) | GBR | ingested — revised, in force to 3 Jul 2026 (incl. SI 2026/621) |
+| Economic Crime (Transparency and Enforcement) Act 2022 (c. 10); Economic Crime and Corporate Transparency Act 2023 (c. 56) | GBR | ingested — as enacted (amendment lineage) |
 
 The 1 July 2026 compilation of the AML/CTF Act will be added when the Federal Register publishes it;
-official sources are monitored for change (`docs/monitoring.md`).
+official sources (AU and UK) are monitored for change (`docs/monitoring.md`). UK legislation is Crown
+copyright under the Open Government Licence v3.0.
 
 ## Also available as a dataset
 

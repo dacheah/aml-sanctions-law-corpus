@@ -1,0 +1,46 @@
+corpus_id: gbr/act/terrorism-2000
+version_id: '2026-07-03'
+title: Terrorism Act 2000
+short_title: Terrorism Act 2000
+jurisdiction: GBR
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Terrorism Act 2000 (c. 11) — revised version, latest available (generated 3 July 2026),
+  legislation.gov.uk
+authentic_languages:
+- en
+adoption_date: '2000-07-20'
+source_url: https://www.legislation.gov.uk/ukpga/2000/11
+source_publisher: The National Archives (King's Printer of Acts of Parliament), legislation.gov.uk
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:bcd8d7406440966baa53cf1d5050d2868bf6129b8134e8f1df5048593fac008c
+original_sha256: sha256:69768887c6a7f77490409714f93cec00e027e9adbbec0d4c1f923630ef177535
+text_sha256: sha256:bcd8d7406440966baa53cf1d5050d2868bf6129b8134e8f1df5048593fac008c
+text_fidelity: extracted_unverified
+language: en
+authoritative_status: official_consolidation
+license: OGL-3.0
+rights_note: 'Contains public sector information licensed under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+  © Crown copyright. Source: legislation.gov.uk.'
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.legislation.gov.uk/ukpga/2000/11
+  original_sha256: sha256:69768887c6a7f77490409714f93cec00e027e9adbbec0d4c1f923630ef177535
+  note: Official legislation.gov.uk revised PDF (latest available), generated 3 July 2026.
+supersedes: null
+superseded_by: null
+related_documents:
+- gbr/act/poca-2002
+- aus/act/aml-ctf-2006
+- aus/act/charter-un-1945
+provenance_note: Terrorism Act 2000 (c. 11). Terrorist-property and terrorist-financing offences are in
+  Part III (ss. 15-31). Official 'latest available (Revised)' consolidation from legislation.gov.uk; the
+  page notes some editorial changes are not yet applied ('outstanding changes'), so version_id uses the
+  3 July 2026 generation date. Byte-exact original captured as the official PDF; text.txt extracted with
+  per-page running headers/footers and the 'Changes to legislation' banner removed. Crown copyright, OGL
+  v3.0. Fidelity extracted_unverified pending verification.

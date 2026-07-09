@@ -1,0 +1,45 @@
+corpus_id: gbr/act/samla-2018
+version_id: '2026-07-02'
+title: Sanctions and Anti-Money Laundering Act 2018
+short_title: SAMLA 2018
+jurisdiction: GBR
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Sanctions and Anti-Money Laundering Act 2018 (c. 13) — revised version, in force to
+  2 July 2026, legislation.gov.uk
+authentic_languages:
+- en
+source_url: https://www.legislation.gov.uk/ukpga/2018/13
+source_publisher: The National Archives (King's Printer of Acts of Parliament), legislation.gov.uk
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:6cf9ebc8ab24a71d0d8404aa4a797b7f41c3f7a6913e74893991e8c96d57994b
+original_sha256: sha256:cb732ccd36340ff75daa44b2f463c652df89abdf5ad336612fc51386b09c77f3
+text_sha256: sha256:6cf9ebc8ab24a71d0d8404aa4a797b7f41c3f7a6913e74893991e8c96d57994b
+text_fidelity: extracted_unverified
+language: en
+authoritative_status: official_consolidation
+license: OGL-3.0
+rights_note: 'Contains public sector information licensed under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+  © Crown copyright. Source: legislation.gov.uk.'
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.legislation.gov.uk/ukpga/2018/13
+  original_sha256: sha256:cb732ccd36340ff75daa44b2f463c652df89abdf5ad336612fc51386b09c77f3
+  note: Official legislation.gov.uk revised PDF (latest available), in force to 2 July 2026.
+supersedes: null
+superseded_by: null
+related_documents:
+- gbr/regs/mlr-2017
+- aus/act/autonomous-sanctions-2011
+- aus/act/charter-un-1945
+provenance_note: Sanctions and Anti-Money Laundering Act 2018 (c. 13) — the post-Brexit framework empowering
+  the making of sanctions regulations and of money-laundering/terrorist-financing regulations. The enabling
+  framework is in scope; specific sanctions designations and lists made under it are out of scope (operational
+  data, not law). Official 'latest available (Revised)' consolidation from legislation.gov.uk, in force
+  to 2 July 2026. Byte-exact original captured as the official PDF; text.txt extracted with per-page furniture
+  removed. Crown copyright, OGL v3.0. Fidelity extracted_unverified pending verification.

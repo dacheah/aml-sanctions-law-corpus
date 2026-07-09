@@ -1,0 +1,43 @@
+corpus_id: gbr/act/ectea-2022
+version_id: '2022-03-15'
+title: Economic Crime (Transparency and Enforcement) Act 2022
+short_title: ECTEA 2022
+jurisdiction: GBR
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Economic Crime (Transparency and Enforcement) Act 2022 (c. 10) (as enacted), legislation.gov.uk
+authentic_languages:
+- en
+adoption_date: '2022-03-15'
+source_url: https://www.legislation.gov.uk/ukpga/2022/10/enacted
+source_publisher: The National Archives (King's Printer of Acts of Parliament), legislation.gov.uk
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:576d982ee9b8eae86628d59a97cada0b3cf0a9cbb2c635eebe12a8a6cb73a30b
+original_sha256: sha256:707f1e42659e2c784170f93c1ceef022680d87bfa85781e75bea5d657e3ae6a4
+text_sha256: sha256:576d982ee9b8eae86628d59a97cada0b3cf0a9cbb2c635eebe12a8a6cb73a30b
+text_fidelity: extracted_unverified
+language: en
+authoritative_status: authentic_text
+license: OGL-3.0
+rights_note: 'Contains public sector information licensed under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+  © Crown copyright. Source: legislation.gov.uk.'
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.legislation.gov.uk/ukpga/2022/10/enacted
+  original_sha256: sha256:707f1e42659e2c784170f93c1ceef022680d87bfa85781e75bea5d657e3ae6a4
+  note: Official legislation.gov.uk 'Original (As enacted)' PDF.
+supersedes: null
+superseded_by: null
+related_documents:
+- gbr/act/poca-2002
+- gbr/act/eccta-2023
+provenance_note: Economic Crime (Transparency and Enforcement) Act 2022 (c. 10), enacted 15 March 2022.
+  Establishes the Register of Overseas Entities and reforms unexplained wealth orders and sanctions enforcement;
+  amends the Proceeds of Crime Act 2002. Captured 'as enacted' for lineage. Byte-exact original captured
+  as the official PDF; text.txt extracted with per-page furniture removed. Crown copyright, OGL v3.0.
+  Fidelity extracted_unverified.
