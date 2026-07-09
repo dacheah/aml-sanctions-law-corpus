@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "AML/CTF & Financial-Sanctions Legal Corpus (Australia, United Kingdom, United States & European Union)",
+  "creators": [
+    { "name": "Cheah, Dan" }
+  ],
+  "description": "A neutral, provenance-first, machine-readable record of the law of anti-money-laundering / counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone. Version 1 covers four fidelity-verified jurisdictions as separate, cross-referenced branches (never merged): Australia, the United Kingdom, the United States, and the European Union. Every authoritative text carries its official source, retrieval date, citation, jurisdiction, and SHA-256 of both the byte-exact original and the stored text; a strict wall separates authoritative source texts from the derived layer (structure, neutral concept tags, a version timeline, and a four-way FATF crosswalk); every change is a new dated version. This project's own contributions are CC BY 4.0; the underlying source texts are not relicensed and each keeps its own terms (Commonwealth CC BY 4.0; UK Open Government Licence v3.0; US public domain; EU reuse under Commission Decision 2011/833/EU; FATF material is copyright and withheld). A reference record of the law — not legal or compliance advice.",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "anti-money-laundering",
+    "AML",
+    "CTF",
+    "financial sanctions",
+    "FATF",
+    "Australia",
+    "United Kingdom",
+    "United States",
+    "European Union",
+    "legal corpus",
+    "provenance",
+    "legal-nlp",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/dacheah/aml-sanctions-law-corpus",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/dacheah/aml-sanctions-law-corpus",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Mixed-provenance corpus: this record's own contributions (derived layer, schemas, documentation, site) are CC BY 4.0; source texts keep their own terms (see NOTICE). FATF material is copyright and is not redistributed."
+}

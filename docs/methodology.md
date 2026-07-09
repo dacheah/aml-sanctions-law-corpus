@@ -65,6 +65,14 @@ legislation" banner) that `pdftotext` retains; a token-level diff confirmed that
 substantive text. Verification is by tooling, not eye; a stronger `verbatim_transcription` flag is reserved
 for line-by-line human certification.
 
+**Reproducible extraction.** Each `text.txt` is derived from its byte-exact original by committed code, not
+ad-hoc steps: the toolkit's `extract.py` holds one profile per jurisdiction/format (AU DOCX; UK/US/EU PDF,
+with the US two-column and EU letter-spacing handling; US eCFR HTML) and re-derives every text on demand,
+comparing the result's SHA-256 to the stored hash. It reproduces 24 of the 27 text-bearing v1 records
+byte-exact; three early Australian records predate the module and differ only in blank-line placement
+(equivalent content, retained as stored under the append-only rule). From v1.1 on, `extract.py` is the
+canonical extraction for every new capture.
+
 ## 5. Licensing & the restricted posture
 
 Commonwealth legislation is CC BY 4.0 (open) — the publishable core. FATF material is copyright-restricted:
