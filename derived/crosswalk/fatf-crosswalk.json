@@ -1,0 +1,2076 @@
+{
+ "_derived": true,
+ "_disclaimer": "UNOFFICIAL derived analytical crosswalk. References FATF Recommendation numbers/topics (not the copyright-restricted FATF text). Lists curated corpus provisions tagged with concepts relevant to each Recommendation's subject; NOT legal advice and NOT an assertion of adequate implementation. Every provision is a human-reviewed curated tag that traces to an authoritative text hash.",
+ "source": "curated concept tags (scripts/concepts.py) resolved to provision labels via the structure layer",
+ "recommendations": [
+  {
+   "recommendation": "R.1",
+   "title": "Assessing risks and applying a risk-based approach",
+   "group": "A",
+   "group_title": "AML/CFT policies and coordination",
+   "concepts": [
+    "risk_based_approach"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 5,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 4,
+       "provisions": [
+        "26C  Reporting entities must undertake an ML/TF risk assessment",
+        "26D  Reporting entities must review and update ML/TF risk assessment",
+        "26E  Reporting entities must have up-to-date ML/TF risk assessment before providing designated services",
+        "26R  AUSTRAC CEO may require reporting entity to undertake ML/TF risk assessment etc."
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 5—AML/CTF programs"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 1,
+     "instruments": {
+      "MLR 2017": {
+       "count": 1,
+       "provisions": [
+        "reg.18 —(1)  A relevant person must take appropriate steps to identify and assess the risks of money"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.2",
+   "title": "National cooperation and coordination",
+   "group": "A",
+   "group_title": "AML/CFT policies and coordination",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Institutional/coordination measure; not a captured instrument in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.3",
+   "title": "Money laundering offence",
+   "group": "B",
+   "group_title": "Money laundering and confiscation",
+   "concepts": [
+    "enforcement_and_offences"
+   ],
+   "in_v1_scope": true,
+   "note": "Curated to the principal money-laundering offence provisions.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 29,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 5,
+       "provisions": [
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity",
+        "142  Conducting transactions so as to avoid reporting requirements relating to threshold transactions",
+        "143  Conducting transfers to avoid reporting requirements relating to cross-border movements of monetary instruments",
+        "236  Defence of taking reasonable precautions, and exercising due diligence, to avoid a contravention"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 9—"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 9,
+       "provisions": [
+        "14  Injunctions",
+        "16  Offence—contravening a sanction law",
+        "17  Offence—false or misleading information given in connection with a sanction law",
+        "18  CEO of Commonwealth entity may give information or document on request by CEO of designated Commonwealth entity",
+        "19  Power to require information or documents to be given",
+        "20  Information may be required to be given on oath",
+        "21  Offence for failure to comply with requirement",
+        "22  Self-incrimination not an excuse",
+        "24  Further disclosure and use of information and documents"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 4,
+       "provisions": [
+        "17  Forfeiture of sanctioned vessels",
+        "23  Request to AFP for help",
+        "24  Informing AFP of opinion about asset",
+        "25  Protection of information"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 9,
+       "provisions": [
+        "12  Offences",
+        "13  Injunctions",
+        "20  Offence—dealing with freezable assets",
+        "25  Compensation for persons wrongly affected",
+        "27  Offence—Contravening a UN sanction enforcement law",
+        "28  Offence—False or misleading information given in connection with a UN sanction enforcement law",
+        "30  Power to require information or documents to be given",
+        "32  Offence for failure to comply with requirement",
+        "35  Further disclosure and use of information and documents"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 1,
+       "provisions": [
+        "20  Notice may be provided after conduct occurs"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 9,
+     "instruments": {
+      "POCA 2002": {
+       "count": 4,
+       "provisions": [
+        "s.327 Concealing etc",
+        "s.328 Arrangements",
+        "s.329 Acquisition, use and possession",
+        "s.330 Failure to disclose: regulated sector"
+       ]
+      },
+      "Terrorism Act 2000": {
+       "count": 4,
+       "provisions": [
+        "s.15 Fund-raising.",
+        "s.16 Use and possession.",
+        "s.17 Funding arrangements.",
+        "s.18 Money laundering."
+       ]
+      },
+      "SAMLA 2018": {
+       "count": 1,
+       "provisions": [
+        "s.17 Enforcement"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.4",
+   "title": "Confiscation and provisional measures",
+   "group": "B",
+   "group_title": "Money laundering and confiscation",
+   "concepts": [
+    "enforcement_and_offences"
+   ],
+   "in_v1_scope": true,
+   "note": "Confiscation/recovery sits within the enforcement-and-offences tag.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 29,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 5,
+       "provisions": [
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity",
+        "142  Conducting transactions so as to avoid reporting requirements relating to threshold transactions",
+        "143  Conducting transfers to avoid reporting requirements relating to cross-border movements of monetary instruments",
+        "236  Defence of taking reasonable precautions, and exercising due diligence, to avoid a contravention"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 9—"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 9,
+       "provisions": [
+        "14  Injunctions",
+        "16  Offence—contravening a sanction law",
+        "17  Offence—false or misleading information given in connection with a sanction law",
+        "18  CEO of Commonwealth entity may give information or document on request by CEO of designated Commonwealth entity",
+        "19  Power to require information or documents to be given",
+        "20  Information may be required to be given on oath",
+        "21  Offence for failure to comply with requirement",
+        "22  Self-incrimination not an excuse",
+        "24  Further disclosure and use of information and documents"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 4,
+       "provisions": [
+        "17  Forfeiture of sanctioned vessels",
+        "23  Request to AFP for help",
+        "24  Informing AFP of opinion about asset",
+        "25  Protection of information"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 9,
+       "provisions": [
+        "12  Offences",
+        "13  Injunctions",
+        "20  Offence—dealing with freezable assets",
+        "25  Compensation for persons wrongly affected",
+        "27  Offence—Contravening a UN sanction enforcement law",
+        "28  Offence—False or misleading information given in connection with a UN sanction enforcement law",
+        "30  Power to require information or documents to be given",
+        "32  Offence for failure to comply with requirement",
+        "35  Further disclosure and use of information and documents"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 1,
+       "provisions": [
+        "20  Notice may be provided after conduct occurs"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 9,
+     "instruments": {
+      "POCA 2002": {
+       "count": 4,
+       "provisions": [
+        "s.327 Concealing etc",
+        "s.328 Arrangements",
+        "s.329 Acquisition, use and possession",
+        "s.330 Failure to disclose: regulated sector"
+       ]
+      },
+      "Terrorism Act 2000": {
+       "count": 4,
+       "provisions": [
+        "s.15 Fund-raising.",
+        "s.16 Use and possession.",
+        "s.17 Funding arrangements.",
+        "s.18 Money laundering."
+       ]
+      },
+      "SAMLA 2018": {
+       "count": 1,
+       "provisions": [
+        "s.17 Enforcement"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.5",
+   "title": "Terrorist financing offence",
+   "group": "C",
+   "group_title": "Terrorist financing and proliferation financing",
+   "concepts": [
+    "enforcement_and_offences"
+   ],
+   "in_v1_scope": true,
+   "note": "Terrorist-financing offence provisions.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 29,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 5,
+       "provisions": [
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity",
+        "142  Conducting transactions so as to avoid reporting requirements relating to threshold transactions",
+        "143  Conducting transfers to avoid reporting requirements relating to cross-border movements of monetary instruments",
+        "236  Defence of taking reasonable precautions, and exercising due diligence, to avoid a contravention"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 9—"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 9,
+       "provisions": [
+        "14  Injunctions",
+        "16  Offence—contravening a sanction law",
+        "17  Offence—false or misleading information given in connection with a sanction law",
+        "18  CEO of Commonwealth entity may give information or document on request by CEO of designated Commonwealth entity",
+        "19  Power to require information or documents to be given",
+        "20  Information may be required to be given on oath",
+        "21  Offence for failure to comply with requirement",
+        "22  Self-incrimination not an excuse",
+        "24  Further disclosure and use of information and documents"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 4,
+       "provisions": [
+        "17  Forfeiture of sanctioned vessels",
+        "23  Request to AFP for help",
+        "24  Informing AFP of opinion about asset",
+        "25  Protection of information"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 9,
+       "provisions": [
+        "12  Offences",
+        "13  Injunctions",
+        "20  Offence—dealing with freezable assets",
+        "25  Compensation for persons wrongly affected",
+        "27  Offence—Contravening a UN sanction enforcement law",
+        "28  Offence—False or misleading information given in connection with a UN sanction enforcement law",
+        "30  Power to require information or documents to be given",
+        "32  Offence for failure to comply with requirement",
+        "35  Further disclosure and use of information and documents"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 1,
+       "provisions": [
+        "20  Notice may be provided after conduct occurs"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 9,
+     "instruments": {
+      "POCA 2002": {
+       "count": 4,
+       "provisions": [
+        "s.327 Concealing etc",
+        "s.328 Arrangements",
+        "s.329 Acquisition, use and possession",
+        "s.330 Failure to disclose: regulated sector"
+       ]
+      },
+      "Terrorism Act 2000": {
+       "count": 4,
+       "provisions": [
+        "s.15 Fund-raising.",
+        "s.16 Use and possession.",
+        "s.17 Funding arrangements.",
+        "s.18 Money laundering."
+       ]
+      },
+      "SAMLA 2018": {
+       "count": 1,
+       "provisions": [
+        "s.17 Enforcement"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.6",
+   "title": "Targeted financial sanctions related to terrorism and terrorist financing",
+   "group": "C",
+   "group_title": "Terrorist financing and proliferation financing",
+   "concepts": [
+    "asset_freezing",
+    "designation_criteria",
+    "un_and_autonomous_sanctions",
+    "sanctions_prohibitions",
+    "sanctions_permits"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 45,
+     "instruments": {
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 26,
+       "provisions": [
+        "7  Designating controlled assets",
+        "15  Prohibition of dealing with controlled assets",
+        "20  Permit for assets and controlled assets",
+        "6\tElectronic money.",
+        "6A  Thematic designation of persons or entities or declaration of persons",
+        "8  Sanctioned vessels",
+        "10  Revocation of designation under regulation 6, 6A, 7 or 8 or declaration under regulation 6 or 6A",
+        "11  Application for revocation of designation under regulation 6, 6A, 7 or 8 or declaration under regulation 6 or 6A",
+        "21  Advance notice of listing of persons, entities and assets",
+        "22  Consolidated list of entities, persons and assets",
+        "4\tMoney orders.",
+        "4A  Sanctioned imports",
+        "5\tBankers’ drafts.",
+        "5A  Sanctioned commercial activity—Syria",
+        "5B  Sanctioned commercial activity—Russia",
+        "5C  Sanctioned commercial activity—specified Ukraine regions",
+        "5CA  Sanctioned commercial activity—DPRK",
+        "12  Prohibitions relating to a sanctioned supply",
+        "12A  Prohibitions relating to sanctioned import",
+        "13  Prohibitions relating to the provision of sanctioned services",
+        "13A  Prohibitions relating to engaging in sanctioned commercial activity",
+        "14  Prohibition of dealing with designated persons or entities",
+        "16  Prohibitions relating to sanctioned vessels",
+        "5D  Suspension of sanctions for specified activities"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 14,
+       "provisions": [
+        "20  Offence—dealing with freezable assets",
+        "21  Offence—giving an asset to a proscribed person or entity",
+        "22A  Regulations on procedures relating to freezable assets",
+        "15  Listing persons, entities and assets",
+        "15A  Duration of listing",
+        "16  Minister may revoke the listing",
+        "17  Listed person or entity may apply to have the listing revoked",
+        "18  Proscription by regulation",
+        "38A  Effect of certain listings",
+        "6  Regulations may apply sanctions",
+        "8  Regulations expire when sanctions resolution ceases to bind",
+        "11  Other instruments giving effect to Security Council decisions",
+        "13A  Invalidation of permission, authorisations etc.",
+        "22  Authorised dealings"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 5,
+       "provisions": [
+        "10A  Proscription of persons or entities relating to past circumstances, actions or positions",
+        "6  Specifying a provision as a sanction law",
+        "10  Regulations may apply sanctions",
+        "16  Offence—contravening a sanction law",
+        "15  Invalidation of authorisations"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 3,
+     "instruments": {
+      "SAMLA 2018": {
+       "count": 3,
+       "provisions": [
+        "s.3 Financial sanctions",
+        "s.11 Designation of a person by name under a designation power",
+        "s.15 Exceptions and licences"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.7",
+   "title": "Targeted financial sanctions related to proliferation",
+   "group": "C",
+   "group_title": "Terrorist financing and proliferation financing",
+   "concepts": [
+    "asset_freezing",
+    "un_and_autonomous_sanctions",
+    "sanctions_prohibitions"
+   ],
+   "in_v1_scope": true,
+   "note": "Corpus captures the general sanctions framework; proliferation-specific regimes are not separately branched in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 25,
+     "instruments": {
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 16,
+       "provisions": [
+        "7  Designating controlled assets",
+        "15  Prohibition of dealing with controlled assets",
+        "20  Permit for assets and controlled assets",
+        "4\tMoney orders.",
+        "4A  Sanctioned imports",
+        "5\tBankers’ drafts.",
+        "5A  Sanctioned commercial activity—Syria",
+        "5B  Sanctioned commercial activity—Russia",
+        "5C  Sanctioned commercial activity—specified Ukraine regions",
+        "5CA  Sanctioned commercial activity—DPRK",
+        "12  Prohibitions relating to a sanctioned supply",
+        "12A  Prohibitions relating to sanctioned import",
+        "13  Prohibitions relating to the provision of sanctioned services",
+        "13A  Prohibitions relating to engaging in sanctioned commercial activity",
+        "14  Prohibition of dealing with designated persons or entities",
+        "16  Prohibitions relating to sanctioned vessels"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 6,
+       "provisions": [
+        "20  Offence—dealing with freezable assets",
+        "21  Offence—giving an asset to a proscribed person or entity",
+        "22A  Regulations on procedures relating to freezable assets",
+        "6  Regulations may apply sanctions",
+        "8  Regulations expire when sanctions resolution ceases to bind",
+        "11  Other instruments giving effect to Security Council decisions"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 3,
+       "provisions": [
+        "6  Specifying a provision as a sanction law",
+        "10  Regulations may apply sanctions",
+        "16  Offence—contravening a sanction law"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 1,
+     "instruments": {
+      "SAMLA 2018": {
+       "count": 1,
+       "provisions": [
+        "s.3 Financial sanctions"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.8",
+   "title": "Non-profit organisations",
+   "group": "C",
+   "group_title": "Terrorist financing and proliferation financing",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "NPO-specific measures not captured in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.9",
+   "title": "Financial institution secrecy laws",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Not a distinct captured instrument in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.10",
+   "title": "Customer due diligence",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "customer_due_diligence"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 16,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 12,
+       "provisions": [
+        "28  Undertaking initial customer due diligence",
+        "29  Exemptions from initial customer due diligence",
+        "30  Undertaking ongoing customer due diligence",
+        "31  Simplified customer due diligence",
+        "32  Enhanced customer due diligence obligation",
+        "35C  Reporting entities to notify inability to verify identity",
+        "37  Collection and verification of KYC information may be carried out by an agent of a reporting entity",
+        "50  Request to obtain information about the identity of holders of foreign credit cards and foreign debit cards",
+        "141  Customer commonly known by 2 or more different names—disclosure to reporting entity",
+        "35E  Retention of verification information—credit reporting bodies",
+        "35F  Retention of verification information—reporting entities",
+        "111  Retention of records of customer due diligence"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 2—"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 6—Customer due diligence"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 2,
+       "provisions": [
+        "7  Requirement for AML/CTF policies to deal with carrying out initial customer due diligence",
+        "8  Use of applicable customer identification procedures by reporting entity"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 3,
+     "instruments": {
+      "MLR 2017": {
+       "count": 3,
+       "provisions": [
+        "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
+        "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
+        "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.11",
+   "title": "Record-keeping",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "record_keeping"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 15,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 12,
+       "provisions": [
+        "35E  Retention of verification information—credit reporting bodies",
+        "35F  Retention of verification information—reporting entities",
+        "96  Due diligence assessments and records of correspondent banking relationships",
+        "107  Transaction records to be retained",
+        "109  Records relating to transferred ADI accounts",
+        "110  Retention of records relating to closed ADI accounts",
+        "111  Retention of records of customer due diligence",
+        "114  Retention of information if initial customer due diligence taken to have been carried out by a reporting entity",
+        "114A  Retention of records of assessments of agreements or arrangements covered by section 37A",
+        "114B  Retention of records made or obtained under the repealed Financial Transaction Reports Act 1988",
+        "116  Retention of records relating to Part 1A",
+        "117  Retention of records about correspondent banking relationships"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 11—"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 1,
+       "provisions": [
+        "26  Retention of records and documents"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 1,
+       "provisions": [
+        "37  Retention of records and documents"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 1,
+     "instruments": {
+      "MLR 2017": {
+       "count": 1,
+       "provisions": [
+        "reg.40 —(1)  Subject to paragraph (5), a relevant person must keep the records specified in"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.12",
+   "title": "Politically exposed persons",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "politically_exposed_persons"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 1,
+     "instruments": {
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 6—Customer due diligence"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 1,
+     "instruments": {
+      "MLR 2017": {
+       "count": 1,
+       "provisions": [
+        "reg.35 —(1)  A relevant person must have in place appropriate risk-management systems and"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.13",
+   "title": "Correspondent banking",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "correspondent_banking"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 4,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 3,
+       "provisions": [
+        "95  Prohibitions on correspondent banking relationships involving shell banks",
+        "96  Due diligence assessments and records of correspondent banking relationships",
+        "117  Retention of records about correspondent banking relationships"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 7—Correspondent banking"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.14",
+   "title": "Money or value transfer services",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "enrolment_registration"
+   ],
+   "in_v1_scope": true,
+   "note": "MVTS registration/enrolment provisions.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 21,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 14,
+       "provisions": [
+        "26M  Reporting entities must notify AUSTRAC of entity’s AML/CTF compliance officer",
+        "26S  Registered remittance affiliates of a registered remittance network provider",
+        "51B  Reporting entities must enrol",
+        "51C  Reporting Entities Roll",
+        "51D  Enrolment",
+        "51E  Applications for enrolment",
+        "51F  Enrolled persons to advise of change in enrolment details",
+        "51G  Removal of entries from the Reporting Entities Roll",
+        "74  Unregistered persons must not provide certain remittance services",
+        "75  Remittance Sector Register",
+        "75A  Information to be entered on the Remittance Sector Register",
+        "76A  Unregistered persons must not provide certain virtual asset services",
+        "76B  Virtual Asset Service Provider Register",
+        "76C  Information to be entered on the Virtual Asset Service Provider Register"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 2,
+       "provisions": [
+        "Part 3—Enrolment",
+        "Part 4—Registration"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 5,
+       "provisions": [
+        "5  Remittance Sector Register",
+        "6  Virtual Asset Service Provider Register",
+        "13  Timing of enrolment",
+        "14  Registration to provide registrable virtual asset services",
+        "19  Notifying AML/CTF compliance officer—certain persons with delayed enrolment"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.15",
+   "title": "New technologies (incl. virtual assets)",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "virtual_assets"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 12,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 7,
+       "provisions": [
+        "5B  Meaning of virtual asset",
+        "19  Translation of virtual assets to Australian currency",
+        "46A  Reports of transfers of value involving unverified self-hosted virtual asset wallets",
+        "66A  Obligations of ordering and beneficiary institutions relating to virtual asset transfers",
+        "76A  Unregistered persons must not provide certain virtual asset services",
+        "76B  Virtual Asset Service Provider Register",
+        "76C  Information to be entered on the Virtual Asset Service Provider Register"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 6—"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 4,
+       "provisions": [
+        "6  Virtual Asset Service Provider Register",
+        "11  Delayed application of requirement to report transfers of value involving unverified self-hosted virtual asset wallets",
+        "12  Delayed application of certain Principal Act provisions",
+        "14  Registration to provide registrable virtual asset services"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.16",
+   "title": "Wire transfers",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "funds_transfer_reporting"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 8,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 3,
+       "provisions": [
+        "46  Reports of international value transfer services",
+        "46A  Reports of transfers of value involving unverified self-hosted virtual asset wallets",
+        "66A  Obligations of ordering and beneficiary institutions relating to virtual asset transfers"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 8—"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 8—Transfers of value"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 3,
+       "provisions": [
+        "9  IVTS reporting transition date",
+        "10  Modification of reporting obligations before IVTS reporting transition date",
+        "11  Delayed application of requirement to report transfers of value involving unverified self-hosted virtual asset wallets"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.17",
+   "title": "Reliance on third parties",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "customer_due_diligence"
+   ],
+   "in_v1_scope": true,
+   "note": "Third-party reliance sits within the CDD provisions.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 16,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 12,
+       "provisions": [
+        "28  Undertaking initial customer due diligence",
+        "29  Exemptions from initial customer due diligence",
+        "30  Undertaking ongoing customer due diligence",
+        "31  Simplified customer due diligence",
+        "32  Enhanced customer due diligence obligation",
+        "35C  Reporting entities to notify inability to verify identity",
+        "37  Collection and verification of KYC information may be carried out by an agent of a reporting entity",
+        "50  Request to obtain information about the identity of holders of foreign credit cards and foreign debit cards",
+        "141  Customer commonly known by 2 or more different names—disclosure to reporting entity",
+        "35E  Retention of verification information—credit reporting bodies",
+        "35F  Retention of verification information—reporting entities",
+        "111  Retention of records of customer due diligence"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 2—"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 6—Customer due diligence"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 2,
+       "provisions": [
+        "7  Requirement for AML/CTF policies to deal with carrying out initial customer due diligence",
+        "8  Use of applicable customer identification procedures by reporting entity"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 3,
+     "instruments": {
+      "MLR 2017": {
+       "count": 3,
+       "provisions": [
+        "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
+        "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
+        "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.18",
+   "title": "Internal controls and foreign branches and subsidiaries",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "amlctf_program"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 21,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 13,
+       "provisions": [
+        "10A  Key terms relating to reporting groups",
+        "26B  What is an AML/CTF program?",
+        "26F  Reporting entities must develop and maintain AML/CTF policies",
+        "26G  Reporting entities must comply with AML/CTF policies",
+        "26J  Reporting entities must designate an individual as the AML/CTF compliance officer for the reporting entity",
+        "26K  Reporting entities must have an AML/CTF compliance officer",
+        "26N  AML/CTF program documentation",
+        "26P  AML/CTF program approvals",
+        "26U  Business of a lead entity of a reporting group",
+        "26M  Reporting entities must notify AUSTRAC of entity’s AML/CTF compliance officer",
+        "47  AML/CTF compliance reports",
+        "161  External audits—risk management etc.",
+        "236B  Application of this Act in relation to reporting groups"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 1—"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 2,
+       "provisions": [
+        "Part 2—Reporting groups",
+        "Part 5—AML/CTF programs"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 5,
+       "provisions": [
+        "7  Requirement for AML/CTF policies to deal with carrying out initial customer due diligence",
+        "16  Timing of first independent evaluation for previously regulated reporting entities",
+        "17  Timing of first independent evaluation for reporting entities that did not previously require independent reviews",
+        "18  Notifying AML/CTF compliance officer—general",
+        "19  Notifying AML/CTF compliance officer—certain persons with delayed enrolment"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 2,
+     "instruments": {
+      "MLR 2017": {
+       "count": 2,
+       "provisions": [
+        "reg.18 —(1)  A relevant person must take appropriate steps to identify and assess the risks of money",
+        "reg.19 —(1)  A relevant person must—"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.19",
+   "title": "Higher-risk countries",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "risk_based_approach",
+    "customer_due_diligence"
+   ],
+   "in_v1_scope": true,
+   "note": "Enhanced measures for higher-risk jurisdictions.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 21,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 16,
+       "provisions": [
+        "26C  Reporting entities must undertake an ML/TF risk assessment",
+        "26D  Reporting entities must review and update ML/TF risk assessment",
+        "26E  Reporting entities must have up-to-date ML/TF risk assessment before providing designated services",
+        "26R  AUSTRAC CEO may require reporting entity to undertake ML/TF risk assessment etc.",
+        "28  Undertaking initial customer due diligence",
+        "29  Exemptions from initial customer due diligence",
+        "30  Undertaking ongoing customer due diligence",
+        "31  Simplified customer due diligence",
+        "32  Enhanced customer due diligence obligation",
+        "35C  Reporting entities to notify inability to verify identity",
+        "37  Collection and verification of KYC information may be carried out by an agent of a reporting entity",
+        "50  Request to obtain information about the identity of holders of foreign credit cards and foreign debit cards",
+        "141  Customer commonly known by 2 or more different names—disclosure to reporting entity",
+        "35E  Retention of verification information—credit reporting bodies",
+        "35F  Retention of verification information—reporting entities",
+        "111  Retention of records of customer due diligence"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 2,
+       "provisions": [
+        "Part 5—AML/CTF programs",
+        "Part 6—Customer due diligence"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 2—"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 2,
+       "provisions": [
+        "7  Requirement for AML/CTF policies to deal with carrying out initial customer due diligence",
+        "8  Use of applicable customer identification procedures by reporting entity"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 4,
+     "instruments": {
+      "MLR 2017": {
+       "count": 4,
+       "provisions": [
+        "reg.18 —(1)  A relevant person must take appropriate steps to identify and assess the risks of money",
+        "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
+        "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
+        "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.20",
+   "title": "Reporting of suspicious transactions",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "suspicious_matter_reporting"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 3,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 2,
+       "provisions": [
+        "39D  Exemption—when a suspicious matter reporting obligation arises",
+        "41  Reports of suspicious matters"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 9—Reporting"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 5,
+     "instruments": {
+      "POCA 2002": {
+       "count": 4,
+       "provisions": [
+        "s.330 Failure to disclose: regulated sector",
+        "s.331 Failure to disclose: nominated officers in the regulated sector",
+        "s.337 Protected disclosures",
+        "s.338 Authorised disclosures"
+       ]
+      },
+      "Terrorism Act 2000": {
+       "count": 1,
+       "provisions": [
+        "s.19 Disclosure of information: duty."
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.21",
+   "title": "Tipping-off and confidentiality",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "tipping_off"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 4,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 2,
+       "provisions": [
+        "123  Offence of tipping off",
+        "124  Report and information not admissible"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 5—"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 10—Secrecy and access"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 1,
+     "instruments": {
+      "Terrorism Act 2000": {
+       "count": 1,
+       "provisions": [
+        "s.21D Tipping off: regulated sector"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.22",
+   "title": "DNFBPs: customer due diligence",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "designated_services",
+    "customer_due_diligence"
+   ],
+   "in_v1_scope": true,
+   "note": "Designated non-financial businesses and professions.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 23,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 15,
+       "provisions": [
+        "6  Designated services",
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity",
+        "28  Undertaking initial customer due diligence",
+        "29  Exemptions from initial customer due diligence",
+        "30  Undertaking ongoing customer due diligence",
+        "31  Simplified customer due diligence",
+        "32  Enhanced customer due diligence obligation",
+        "35C  Reporting entities to notify inability to verify identity",
+        "37  Collection and verification of KYC information may be carried out by an agent of a reporting entity",
+        "50  Request to obtain information about the identity of holders of foreign credit cards and foreign debit cards",
+        "141  Customer commonly known by 2 or more different names—disclosure to reporting entity",
+        "35E  Retention of verification information—credit reporting bodies",
+        "35F  Retention of verification information—reporting entities",
+        "111  Retention of records of customer due diligence"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 5,
+       "provisions": [
+        "Schedule 3—",
+        "Part 1—Real estate",
+        "Part 2—Dealers in precious metals and stones",
+        "Part 3—Professional services",
+        "Schedule 2—"
+       ]
+      },
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 6—Customer due diligence"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 2,
+       "provisions": [
+        "7  Requirement for AML/CTF policies to deal with carrying out initial customer due diligence",
+        "8  Use of applicable customer identification procedures by reporting entity"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 3,
+     "instruments": {
+      "MLR 2017": {
+       "count": 3,
+       "provisions": [
+        "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
+        "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
+        "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.23",
+   "title": "DNFBPs: other measures",
+   "group": "D",
+   "group_title": "Preventive measures",
+   "concepts": [
+    "designated_services"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 7,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 3,
+       "provisions": [
+        "6  Designated services",
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 4,
+       "provisions": [
+        "Schedule 3—",
+        "Part 1—Real estate",
+        "Part 2—Dealers in precious metals and stones",
+        "Part 3—Professional services"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.24",
+   "title": "Transparency and beneficial ownership of legal persons",
+   "group": "E",
+   "group_title": "Transparency and beneficial ownership of legal persons and arrangements",
+   "concepts": [
+    "beneficial_ownership"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 1,
+     "instruments": {
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 6—Customer due diligence"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 1,
+     "instruments": {
+      "MLR 2017": {
+       "count": 1,
+       "provisions": [
+        "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.25",
+   "title": "Transparency and beneficial ownership of legal arrangements",
+   "group": "E",
+   "group_title": "Transparency and beneficial ownership of legal persons and arrangements",
+   "concepts": [
+    "beneficial_ownership"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 1,
+     "instruments": {
+      "AML/CTF Rules 2025": {
+       "count": 1,
+       "provisions": [
+        "Part 6—Customer due diligence"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 1,
+     "instruments": {
+      "MLR 2017": {
+       "count": 1,
+       "provisions": [
+        "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.26",
+   "title": "Regulation and supervision of financial institutions",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [
+    "supervisory_architecture"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 8,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 5,
+       "provisions": [
+        "26R  AUSTRAC CEO may require reporting entity to undertake ML/TF risk assessment etc.",
+        "161  External audits—risk management etc.",
+        "202  Notices to reporting entities",
+        "203  Contents of notices to reporting entities",
+        "244  Reports to the AUSTRAC CEO etc."
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 9—"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 2,
+       "provisions": [
+        "25A  Review of operation of the autonomous sanctions legislative framework",
+        "26  Delegations by Minister"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.27",
+   "title": "Powers of supervisors",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [
+    "supervisory_architecture"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 8,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 5,
+       "provisions": [
+        "26R  AUSTRAC CEO may require reporting entity to undertake ML/TF risk assessment etc.",
+        "161  External audits—risk management etc.",
+        "202  Notices to reporting entities",
+        "203  Contents of notices to reporting entities",
+        "244  Reports to the AUSTRAC CEO etc."
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 9—"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 2,
+       "provisions": [
+        "25A  Review of operation of the autonomous sanctions legislative framework",
+        "26  Delegations by Minister"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.28",
+   "title": "Regulation and supervision of DNFBPs",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [
+    "supervisory_architecture",
+    "designated_services"
+   ],
+   "in_v1_scope": true,
+   "note": "",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 15,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 8,
+       "provisions": [
+        "26R  AUSTRAC CEO may require reporting entity to undertake ML/TF risk assessment etc.",
+        "161  External audits—risk management etc.",
+        "202  Notices to reporting entities",
+        "203  Contents of notices to reporting entities",
+        "244  Reports to the AUSTRAC CEO etc.",
+        "6  Designated services",
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 5,
+       "provisions": [
+        "Schedule 9—",
+        "Schedule 3—",
+        "Part 1—Real estate",
+        "Part 2—Dealers in precious metals and stones",
+        "Part 3—Professional services"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 2,
+       "provisions": [
+        "25A  Review of operation of the autonomous sanctions legislative framework",
+        "26  Delegations by Minister"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.29",
+   "title": "Financial intelligence units",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "The FIU (AUSTRAC / NCA-UKFIU) is an institution, not a captured instrument in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.30",
+   "title": "Responsibilities of law enforcement and investigative authorities",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [
+    "enforcement_and_offences"
+   ],
+   "in_v1_scope": true,
+   "note": "Investigative/enforcement provisions.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 29,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 5,
+       "provisions": [
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity",
+        "142  Conducting transactions so as to avoid reporting requirements relating to threshold transactions",
+        "143  Conducting transfers to avoid reporting requirements relating to cross-border movements of monetary instruments",
+        "236  Defence of taking reasonable precautions, and exercising due diligence, to avoid a contravention"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 9—"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 9,
+       "provisions": [
+        "14  Injunctions",
+        "16  Offence—contravening a sanction law",
+        "17  Offence—false or misleading information given in connection with a sanction law",
+        "18  CEO of Commonwealth entity may give information or document on request by CEO of designated Commonwealth entity",
+        "19  Power to require information or documents to be given",
+        "20  Information may be required to be given on oath",
+        "21  Offence for failure to comply with requirement",
+        "22  Self-incrimination not an excuse",
+        "24  Further disclosure and use of information and documents"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 4,
+       "provisions": [
+        "17  Forfeiture of sanctioned vessels",
+        "23  Request to AFP for help",
+        "24  Informing AFP of opinion about asset",
+        "25  Protection of information"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 9,
+       "provisions": [
+        "12  Offences",
+        "13  Injunctions",
+        "20  Offence—dealing with freezable assets",
+        "25  Compensation for persons wrongly affected",
+        "27  Offence—Contravening a UN sanction enforcement law",
+        "28  Offence—False or misleading information given in connection with a UN sanction enforcement law",
+        "30  Power to require information or documents to be given",
+        "32  Offence for failure to comply with requirement",
+        "35  Further disclosure and use of information and documents"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 1,
+       "provisions": [
+        "20  Notice may be provided after conduct occurs"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 9,
+     "instruments": {
+      "POCA 2002": {
+       "count": 4,
+       "provisions": [
+        "s.327 Concealing etc",
+        "s.328 Arrangements",
+        "s.329 Acquisition, use and possession",
+        "s.330 Failure to disclose: regulated sector"
+       ]
+      },
+      "Terrorism Act 2000": {
+       "count": 4,
+       "provisions": [
+        "s.15 Fund-raising.",
+        "s.16 Use and possession.",
+        "s.17 Funding arrangements.",
+        "s.18 Money laundering."
+       ]
+      },
+      "SAMLA 2018": {
+       "count": 1,
+       "provisions": [
+        "s.17 Enforcement"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.31",
+   "title": "Powers of law enforcement and investigative authorities",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [
+    "enforcement_and_offences"
+   ],
+   "in_v1_scope": true,
+   "note": "Investigation powers (e.g. POCA Part 8).",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 29,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 5,
+       "provisions": [
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity",
+        "142  Conducting transactions so as to avoid reporting requirements relating to threshold transactions",
+        "143  Conducting transfers to avoid reporting requirements relating to cross-border movements of monetary instruments",
+        "236  Defence of taking reasonable precautions, and exercising due diligence, to avoid a contravention"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 9—"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 9,
+       "provisions": [
+        "14  Injunctions",
+        "16  Offence—contravening a sanction law",
+        "17  Offence—false or misleading information given in connection with a sanction law",
+        "18  CEO of Commonwealth entity may give information or document on request by CEO of designated Commonwealth entity",
+        "19  Power to require information or documents to be given",
+        "20  Information may be required to be given on oath",
+        "21  Offence for failure to comply with requirement",
+        "22  Self-incrimination not an excuse",
+        "24  Further disclosure and use of information and documents"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 4,
+       "provisions": [
+        "17  Forfeiture of sanctioned vessels",
+        "23  Request to AFP for help",
+        "24  Informing AFP of opinion about asset",
+        "25  Protection of information"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 9,
+       "provisions": [
+        "12  Offences",
+        "13  Injunctions",
+        "20  Offence—dealing with freezable assets",
+        "25  Compensation for persons wrongly affected",
+        "27  Offence—Contravening a UN sanction enforcement law",
+        "28  Offence—False or misleading information given in connection with a UN sanction enforcement law",
+        "30  Power to require information or documents to be given",
+        "32  Offence for failure to comply with requirement",
+        "35  Further disclosure and use of information and documents"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 1,
+       "provisions": [
+        "20  Notice may be provided after conduct occurs"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 9,
+     "instruments": {
+      "POCA 2002": {
+       "count": 4,
+       "provisions": [
+        "s.327 Concealing etc",
+        "s.328 Arrangements",
+        "s.329 Acquisition, use and possession",
+        "s.330 Failure to disclose: regulated sector"
+       ]
+      },
+      "Terrorism Act 2000": {
+       "count": 4,
+       "provisions": [
+        "s.15 Fund-raising.",
+        "s.16 Use and possession.",
+        "s.17 Funding arrangements.",
+        "s.18 Money laundering."
+       ]
+      },
+      "SAMLA 2018": {
+       "count": 1,
+       "provisions": [
+        "s.17 Enforcement"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.32",
+   "title": "Cash couriers",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Cross-border cash declaration regimes not separately captured in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.33",
+   "title": "Statistics",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Institutional/procedural; not a captured instrument.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.34",
+   "title": "Guidance and feedback",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Supervisory guidance is out of v1 scope by design.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.35",
+   "title": "Sanctions",
+   "group": "F",
+   "group_title": "Powers and responsibilities of competent authorities",
+   "concepts": [
+    "enforcement_and_offences"
+   ],
+   "in_v1_scope": true,
+   "note": "Penalties for non-compliance.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 29,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 5,
+       "provisions": [
+        "139  Providing a designated service using a false customer name or customer anonymity",
+        "140  Receiving a designated service using a false customer name or customer anonymity",
+        "142  Conducting transactions so as to avoid reporting requirements relating to threshold transactions",
+        "143  Conducting transfers to avoid reporting requirements relating to cross-border movements of monetary instruments",
+        "236  Defence of taking reasonable precautions, and exercising due diligence, to avoid a contravention"
+       ]
+      },
+      "AML/CTF Amendment Act 2024": {
+       "count": 1,
+       "provisions": [
+        "Schedule 9—"
+       ]
+      },
+      "Autonomous Sanctions Act 2011": {
+       "count": 9,
+       "provisions": [
+        "14  Injunctions",
+        "16  Offence—contravening a sanction law",
+        "17  Offence—false or misleading information given in connection with a sanction law",
+        "18  CEO of Commonwealth entity may give information or document on request by CEO of designated Commonwealth entity",
+        "19  Power to require information or documents to be given",
+        "20  Information may be required to be given on oath",
+        "21  Offence for failure to comply with requirement",
+        "22  Self-incrimination not an excuse",
+        "24  Further disclosure and use of information and documents"
+       ]
+      },
+      "Autonomous Sanctions Regulations 2011": {
+       "count": 4,
+       "provisions": [
+        "17  Forfeiture of sanctioned vessels",
+        "23  Request to AFP for help",
+        "24  Informing AFP of opinion about asset",
+        "25  Protection of information"
+       ]
+      },
+      "Charter of the United Nations Act 1945": {
+       "count": 9,
+       "provisions": [
+        "12  Offences",
+        "13  Injunctions",
+        "20  Offence—dealing with freezable assets",
+        "25  Compensation for persons wrongly affected",
+        "27  Offence—Contravening a UN sanction enforcement law",
+        "28  Offence—False or misleading information given in connection with a UN sanction enforcement law",
+        "30  Power to require information or documents to be given",
+        "32  Offence for failure to comply with requirement",
+        "35  Further disclosure and use of information and documents"
+       ]
+      },
+      "AML/CTF Transitional Rules 2026": {
+       "count": 1,
+       "provisions": [
+        "20  Notice may be provided after conduct occurs"
+       ]
+      }
+     }
+    },
+    "GBR": {
+     "provision_count": 9,
+     "instruments": {
+      "POCA 2002": {
+       "count": 4,
+       "provisions": [
+        "s.327 Concealing etc",
+        "s.328 Arrangements",
+        "s.329 Acquisition, use and possession",
+        "s.330 Failure to disclose: regulated sector"
+       ]
+      },
+      "Terrorism Act 2000": {
+       "count": 4,
+       "provisions": [
+        "s.15 Fund-raising.",
+        "s.16 Use and possession.",
+        "s.17 Funding arrangements.",
+        "s.18 Money laundering."
+       ]
+      },
+      "SAMLA 2018": {
+       "count": 1,
+       "provisions": [
+        "s.17 Enforcement"
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "recommendation": "R.36",
+   "title": "International instruments",
+   "group": "G",
+   "group_title": "International cooperation",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "International-cooperation measures not captured in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.37",
+   "title": "Mutual legal assistance",
+   "group": "G",
+   "group_title": "International cooperation",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Not a captured instrument in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.38",
+   "title": "Mutual legal assistance: freezing and confiscation",
+   "group": "G",
+   "group_title": "International cooperation",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Not a captured instrument in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.39",
+   "title": "Extradition",
+   "group": "G",
+   "group_title": "International cooperation",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Not a captured instrument in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  },
+  {
+   "recommendation": "R.40",
+   "title": "Other forms of international cooperation",
+   "group": "G",
+   "group_title": "International cooperation",
+   "concepts": [],
+   "in_v1_scope": false,
+   "note": "Not a captured instrument in v1.",
+   "jurisdictions": {
+    "AUS": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    }
+   }
+  }
+ ]
+}

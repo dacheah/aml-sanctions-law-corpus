@@ -17,11 +17,13 @@ never merged; each instrument is recorded from its own official source.
   captured original and full provenance (`metadata.yaml`). **Append-only**: every amendment or new
   compilation is a new dated version; nothing is ever overwritten.
 - **`derived/`** — everything generated from the authoritative texts: structure extraction, neutral
-  concept tags, and a commencement/version timeline. **Unofficial**, labelled, and traceable to a specific
-  authoritative version by its text hash. Freely regenerable.
+  concept tags, a commencement/version timeline, and a **FATF cross-jurisdiction crosswalk**
+  (`derived/crosswalk/`) mapping each FATF Recommendation to the Australian and UK provisions that address
+  it. **Unofficial**, labelled, and traceable to a specific authoritative version by its text hash. Freely
+  regenerable.
 - **`schema/`** — the JSON Schemas every record must satisfy.
 - **`site/`** — a static, dependency-free browsable site (`site/index.html`): each instrument beside its
-  provenance, plus a browse-by-concept index.
+  provenance, a browse-by-concept index, and a browse-by-FATF-Recommendation crosswalk.
 - **`docs/`** — the methodology, concept vocabulary, restricted-source notes, and monitoring policy.
 
 The wall between `authoritative/` and `derived/` is absolute: official texts never mix with anything

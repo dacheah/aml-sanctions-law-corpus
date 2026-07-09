@@ -101,3 +101,16 @@ The derived layer tags provisions with a neutral, construct-based vocabulary des
 is *about*, taking no position — kept jurisdiction-agnostic so later branches reuse it. Marquee provisions
 are curated (human-reviewed); the remainder use a keyword fallback. See `concept-vocabulary.md` and
 `derived/concept-index.md`. Tags are unofficial and never legally operative.
+
+## 8. FATF cross-jurisdiction crosswalk
+
+Because the concept vocabulary is shared across jurisdictions, the derived layer can align them. The
+crosswalk (`derived/crosswalk/`) maps each of the 40 FATF Recommendations to the corpus's neutral concepts,
+then lists the curated (human-reviewed) provisions carrying those concepts in each jurisdiction, so a reader
+can see how Australia and the United Kingdom each address the same international standard. It references the
+FATF Recommendation *numbers and short topics only* — identifiers, not the copyright-restricted FATF text,
+consistent with the restricted posture in §5. It is **unofficial and analytical**: a navigation aid, not
+legal advice, and not an assertion that any provision fully or adequately implements a Recommendation.
+Recommendations whose subject falls outside v1 scope (institutional bodies, international-cooperation
+instruments) are marked as such, which doubles as an honest coverage map. Every listed provision traces,
+through the concept tag, to an authoritative text hash.
