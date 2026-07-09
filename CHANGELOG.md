@@ -16,6 +16,25 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.0.1] — 2026-07-09
+
+Maintenance release: a citable DOI and reproducible extraction. The authoritative texts and their hashes
+are **unchanged** from 1.0.0 (append-only) — this release is tooling, metadata, and documentation only.
+
+### Added
+
+- `.zenodo.json` — deposit metadata so each GitHub release auto-archives to Zenodo and mints a DOI.
+- `CHANGELOG.md` — this changelog (Keep a Changelog format).
+- **Reproducible extraction** — the toolkit's `extract.py` re-derives every `text.txt` from its byte-exact
+  original using committed per-jurisdiction profiles (AU DOCX; UK/US/EU PDF, incl. the US two-column and EU
+  letter-spacing handling; US eCFR HTML), and checks each result's SHA-256 against the stored hash. It
+  reproduces **24 of the 27** text-bearing records byte-exact; three early Australian records predate the
+  module and differ only in blank-line placement (equivalent content, retained as stored).
+
+### Changed
+
+- `docs/methodology.md` §4 now documents the reproducible-extraction method and its 24/27 result.
+
 ## [1.0.0] — 2026-07-09
 
 Initial public release. A neutral, provenance-first, machine-readable record of anti-money-laundering /
@@ -75,5 +94,6 @@ covering four fidelity-verified jurisdictions as separate, cross-referenced bran
 - This is a reference record of the law — **not legal or compliance advice** — and takes no position on any
   matter, institution, or investigation.
 
-[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.0.1
 [1.0.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.0.0
