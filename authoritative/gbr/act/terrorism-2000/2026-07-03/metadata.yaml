@@ -21,7 +21,7 @@ original_filename: original.pdf
 content_hash: sha256:bcd8d7406440966baa53cf1d5050d2868bf6129b8134e8f1df5048593fac008c
 original_sha256: sha256:69768887c6a7f77490409714f93cec00e027e9adbbec0d4c1f923630ef177535
 text_sha256: sha256:bcd8d7406440966baa53cf1d5050d2868bf6129b8134e8f1df5048593fac008c
-text_fidelity: extracted_unverified
+text_fidelity: extracted_verified
 language: en
 authoritative_status: official_consolidation
 license: OGL-3.0
@@ -44,3 +44,20 @@ provenance_note: Terrorism Act 2000 (c. 11). Terrorist-property and terrorist-fi
   3 July 2026 generation date. Byte-exact original captured as the official PDF; text.txt extracted with
   per-page running headers/footers and the 'Changes to legislation' banner removed. Crown copyright, OGL
   v3.0. Fidelity extracted_unverified pending verification.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction of the byte-exact original with a different engine, compared by order-robust
+    multiset token coverage. unigram_forward = fraction of stored tokens present in the independent extraction
+    (fabrication check); bigram_forward = ordered-pair agreement (sequence check); unigram_reverse = fraction
+    of independent tokens present in stored text (completeness proxy).
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF text engines)
+  metrics:
+    unigram_forward: 0.9991
+    bigram_forward: 0.9898
+    unigram_reverse: 0.8676
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: Two independent PDF text engines agree on the substantive text. The reverse-direction difference
+    is wholly attributable to this corpus's deliberate removal of per-page furniture (the repeated 'Changes
+    to legislation' banner, 'Document Generated' line and running-header title, which pdftotext retains);
+    a token-level diff confirmed the residual is furniture, not substantive provisions.

@@ -20,7 +20,7 @@ original_filename: original.pdf
 content_hash: sha256:576d982ee9b8eae86628d59a97cada0b3cf0a9cbb2c635eebe12a8a6cb73a30b
 original_sha256: sha256:707f1e42659e2c784170f93c1ceef022680d87bfa85781e75bea5d657e3ae6a4
 text_sha256: sha256:576d982ee9b8eae86628d59a97cada0b3cf0a9cbb2c635eebe12a8a6cb73a30b
-text_fidelity: extracted_unverified
+text_fidelity: extracted_verified
 language: en
 authoritative_status: authentic_text
 license: OGL-3.0
@@ -41,3 +41,20 @@ provenance_note: Economic Crime (Transparency and Enforcement) Act 2022 (c. 10),
   amends the Proceeds of Crime Act 2002. Captured 'as enacted' for lineage. Byte-exact original captured
   as the official PDF; text.txt extracted with per-page furniture removed. Crown copyright, OGL v3.0.
   Fidelity extracted_unverified.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction of the byte-exact original with a different engine, compared by order-robust
+    multiset token coverage. unigram_forward = fraction of stored tokens present in the independent extraction
+    (fabrication check); bigram_forward = ordered-pair agreement (sequence check); unigram_reverse = fraction
+    of independent tokens present in stored text (completeness proxy).
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF text engines)
+  metrics:
+    unigram_forward: 0.9996
+    bigram_forward: 0.9866
+    unigram_reverse: 0.8951
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: Two independent PDF text engines agree on the substantive text. The reverse-direction difference
+    is wholly attributable to this corpus's deliberate removal of per-page furniture (the repeated 'Changes
+    to legislation' banner, 'Document Generated' line and running-header title, which pdftotext retains);
+    a token-level diff confirmed the residual is furniture, not substantive provisions.

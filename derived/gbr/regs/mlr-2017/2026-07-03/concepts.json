@@ -28,7 +28,7 @@
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
     "asset_freezing",
@@ -36,7 +36,6 @@
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
-    "designation_criteria",
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
@@ -104,8 +103,9 @@
     {
       "unit": "reg.8 —(1)  Parts 1 to 6 [F41, 7A] and 8 to 11 apply to the persons (“relevant persons”) acting in the",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.9 —(1)  For the purposes of these Regulations, a relevant person (“A”) is to be regarded as",
@@ -179,8 +179,9 @@
       "unit": "reg.18 —(1)  A relevant person must take appropriate steps to identify and assess the risks of money",
       "concepts": [
         "risk_based_approach",
-        "supervisory_architecture"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.18A —(1)  A relevant person must take appropriate steps to identify and assess the risks of",
@@ -192,10 +193,9 @@
     {
       "unit": "reg.19 —(1)  A relevant person must—",
       "concepts": [
-        "customer_due_diligence",
-        "risk_based_approach",
-        "supervisory_architecture"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.19A —(1)  A relevant person must—",
@@ -257,25 +257,17 @@
     {
       "unit": "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "risk_based_approach",
-        "funds_transfer_reporting",
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
       "concepts": [
         "customer_due_diligence",
-        "beneficial_ownership",
-        "risk_based_approach",
-        "record_keeping",
-        "tipping_off",
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.29 —(1)  This regulation applies in addition to regulation 28 where a relevant person is a credit",
@@ -325,14 +317,9 @@
     {
       "unit": "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "risk_based_approach",
-        "designation_criteria",
-        "supervisory_architecture",
-        "scope_and_application",
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.34 —(1)  A credit institution or financial institution (the “correspondent”) which has or proposes",
@@ -347,13 +334,9 @@
     {
       "unit": "reg.35 —(1)  A relevant person must have in place appropriate risk-management systems and",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "risk_based_approach",
-        "politically_exposed_persons",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "politically_exposed_persons"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.36 —(1)  The duty under section 30(1) of the Bank of England and Financial Services Act",
@@ -405,11 +388,9 @@
     {
       "unit": "reg.40 —(1)  Subject to paragraph (5), a relevant person must keep the records specified in",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "record_keeping",
-        "definitions_and_interpretation"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.41 —(1)  Any personal data obtained by relevant persons for the purposes of these Regulations",
@@ -972,7 +953,7 @@
       ]
     },
     {
-      "unit": "reg.3 Financial leasing.",
+      "unit": "Sch. para 3 Financial leasing.",
       "concepts": [
         "definitions_and_interpretation"
       ]
@@ -984,211 +965,211 @@
       ]
     },
     {
-      "unit": "reg.1 An offence under the Perjury Act 1911 M149.",
+      "unit": "Sch. para 1 An offence under the Perjury Act 1911 M149.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.2 An offence under section 89 of the Criminal Justice Act 1967 (false written statements tendered",
+      "unit": "Sch. para 2 An offence under section 89 of the Criminal Justice Act 1967 (false written statements tendered",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.3 An offence under section 20BB of the Taxes Management Act 1970 (falsification of",
+      "unit": "Sch. para 3 An offence under section 20BB of the Taxes Management Act 1970 (falsification of",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.4 An offence under section 11 of the European Communities Act 1972 (EU offences) M152.",
+      "unit": "Sch. para 4 An offence under section 11 of the European Communities Act 1972 (EU offences) M152.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.5 An offence under Article 10 of the Perjury (Northern Ireland) Order 1979 (false statutory",
+      "unit": "Sch. para 5 An offence under Article 10 of the Perjury (Northern Ireland) Order 1979 (false statutory",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.6 An offence under the Customs and Excise Management Act 1979 M154.",
+      "unit": "Sch. para 6 An offence under the Customs and Excise Management Act 1979 M154.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.7 An offence under the Estate Agency Act 1979, or specified for the purposes of section 3 of",
+      "unit": "Sch. para 7 An offence under the Estate Agency Act 1979, or specified for the purposes of section 3 of",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.8 An offence under any of sections 1 to 5 of the Forgery and Counterfeiting Act 1981 M156",
+      "unit": "Sch. para 8 An offence under any of sections 1 to 5 of the Forgery and Counterfeiting Act 1981 M156",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.9 An offence under section 35 of the Administration of Justice Act 1985 (penalty for pretending",
+      "unit": "Sch. para 9 An offence under section 35 of the Administration of Justice Act 1985 (penalty for pretending",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.10 An offence under section 11(1) (undischarged bankrupts) or 13 (criminal penalties) of the",
+      "unit": "Sch. para 10 An offence under section 11(1) (undischarged bankrupts) or 13 (criminal penalties) of the",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.11 An offence under section 1, 2, 3, 3ZA or 3A of the Computer Misuse Act 1990 M159 (computer",
+      "unit": "Sch. para 11 An offence under section 1, 2, 3, 3ZA or 3A of the Computer Misuse Act 1990 M159 (computer",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.12 An offence under section 112 (false representations or obtaining benefit) or 114 (offences",
+      "unit": "Sch. para 12 An offence under section 112 (false representations or obtaining benefit) or 114 (offences",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.13 An offence under section 52 of the Criminal Justice Act 1993 M161 (the offence of insider",
+      "unit": "Sch. para 13 An offence under section 52 of the Criminal Justice Act 1993 M161 (the offence of insider",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.14 An offence under the Value Added Tax Act 1994 M162.",
+      "unit": "Sch. para 14 An offence under the Value Added Tax Act 1994 M162.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.15 An offence under section 44(2) of the Criminal Law (Consolidation) (Scotland) Act 1995",
+      "unit": "Sch. para 15 An offence under section 44(2) of the Criminal Law (Consolidation) (Scotland) Act 1995",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.16 An offence under the Data Protection Act 1998 M164.",
+      "unit": "Sch. para 16 An offence under the Data Protection Act 1998 M164.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.17 An offence under the Terrorism Act 2000 M165.",
+      "unit": "Sch. para 17 An offence under the Terrorism Act 2000 M165.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.18 An offence under paragraph 7(2) or (3) of Schedule 3 to the Anti-Terrorism, Crime and",
+      "unit": "Sch. para 18 An offence under paragraph 7(2) or (3) of Schedule 3 to the Anti-Terrorism, Crime and",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.19 An offence under the Money Laundering Regulations 2001 M167, the Money Laundering",
+      "unit": "Sch. para 19 An offence under the Money Laundering Regulations 2001 M167, the Money Laundering",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.20 An offence under section 35 of the Tax Credits Act 2002 M170 (offence of fraud).",
+      "unit": "Sch. para 20 An offence under section 35 of the Tax Credits Act 2002 M170 (offence of fraud).",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.21 An offence under Part 7 (money laundering) or Part 8 (investigations) of, or listed in",
+      "unit": "Sch. para 21 An offence under Part 7 (money laundering) or Part 8 (investigations) of, or listed in",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.22 An offence under the Commissioners for Revenue and Customs Act 2005 M172.",
+      "unit": "Sch. para 22 An offence under the Commissioners for Revenue and Customs Act 2005 M172.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.23 An offence under the Terrorism Act 2006 M173.",
+      "unit": "Sch. para 23 An offence under the Terrorism Act 2006 M173.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.24 An offence under section 1, 2, 6 or 7 of the Bribery Act 2010 M174 (bribery).",
+      "unit": "Sch. para 24 An offence under section 1, 2, 6 or 7 of the Bribery Act 2010 M174 (bribery).",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.25 An offence under section 45 of the Serious Crime Act 2015 M175 (offence of participating in",
+      "unit": "Sch. para 25 An offence under section 45 of the Serious Crime Act 2015 M175 (offence of participating in",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.26 An offence under Parts 1 (general privacy protections); 2 (lawful interception of",
+      "unit": "Sch. para 26 An offence under Parts 1 (general privacy protections); 2 (lawful interception of",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.27 An offence under section 45 (failure to prevent facilitation of UK tax evasion offences) or 46",
+      "unit": "Sch. para 27 An offence under section 45 (failure to prevent facilitation of UK tax evasion offences) or 46",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.28 An offence of cheating the public revenue.",
+      "unit": "Sch. para 28 An offence of cheating the public revenue.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.29 An offence under the law of any part of the United Kingdom consisting of being knowingly",
+      "unit": "Sch. para 29 An offence under the law of any part of the United Kingdom consisting of being knowingly",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.30 Any offence which has deception or dishonesty as one of its components.",
+      "unit": "Sch. para 30 Any offence which has deception or dishonesty as one of its components.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.31 The common law offences of conspiracy to defraud and perverting the course of justice.",
+      "unit": "Sch. para 31 The common law offences of conspiracy to defraud and perverting the course of justice.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.32 An offence of attempting, conspiring or inciting the commission of an offence specified in",
+      "unit": "Sch. para 32 An offence of attempting, conspiring or inciting the commission of an offence specified in",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.33 An offence under section 44 of the Serious Crime Act 2007 of doing an act capable of",
+      "unit": "Sch. para 33 An offence under section 44 of the Serious Crime Act 2007 of doing an act capable of",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.34 An offence of aiding, abetting, counselling or procuring the commission of an offence",
+      "unit": "Sch. para 34 An offence of aiding, abetting, counselling or procuring the commission of an offence",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.35 An act which—",
+      "unit": "Sch. para 35 An act which—",
       "concepts": [
         "beneficial_ownership",
         "enforcement_and_offences",
@@ -1196,68 +1177,68 @@
       ]
     },
     {
-      "unit": "reg.3 Discrepancies listed in this paragraph are in the form of—",
+      "unit": "Sch. para 3 Discrepancies listed in this paragraph are in the form of—",
       "concepts": [
         "beneficial_ownership"
       ]
     },
     {
-      "unit": "reg.3 A trust holding sums or assets of a pension scheme which is a registered pension scheme for",
+      "unit": "Sch. para 3 A trust holding sums or assets of a pension scheme which is a registered pension scheme for",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.5 A trust for charitable purposes which—",
+      "unit": "Sch. para 5 A trust for charitable purposes which—",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.6A —(1)  A trust which is created as a requirement of opening a relevant account for the sole",
+      "unit": "Sch. para 6A —(1)  A trust which is created as a requirement of opening a relevant account for the sole",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "reg.10 —(1)  A trust—",
+      "unit": "Sch. para 10 —(1)  A trust—",
       "concepts": [
         "enrolment_registration",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "reg.12 A trust created by a relevant supervised person for the purpose of holding client money,",
+      "unit": "Sch. para 12 A trust created by a relevant supervised person for the purpose of holding client money,",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.13 A trust created for the purpose of enabling or facilitating an activity listed in points 2, 3, 6, 7",
+      "unit": "Sch. para 13 A trust created for the purpose of enabling or facilitating an activity listed in points 2, 3, 6, 7",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.14 A trust created for the purpose of—",
+      "unit": "Sch. para 14 A trust created for the purpose of—",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.23 A trust created for the purposes of enabling or assisting—",
+      "unit": "Sch. para 23 A trust created for the purposes of enabling or assisting—",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "reg.23A —(1)  A trust which—",
+      "unit": "Sch. para 23A —(1)  A trust which—",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "reg.24 In this Schedule, “relevant supervised person” means—",
+      "unit": "Sch. para 24 In this Schedule, “relevant supervised person” means—",
       "concepts": [
         "supervisory_architecture",
         "definitions_and_interpretation"
@@ -1270,94 +1251,94 @@
       ]
     },
     {
-      "unit": "reg.1 The number of persons subject to the supervision of the supervisory authority, or in the case",
+      "unit": "Sch. para 1 The number of persons subject to the supervision of the supervisory authority, or in the case",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.2 The number of supervised persons who are individuals.",
+      "unit": "Sch. para 2 The number of supervised persons who are individuals.",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.3 In the case of a self-regulatory organisation, the number of its supervised persons who act as",
+      "unit": "Sch. para 3 In the case of a self-regulatory organisation, the number of its supervised persons who act as",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.5 The services provided by supervised persons.",
+      "unit": "Sch. para 5 The services provided by supervised persons.",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.6 The number of firms subject to the supervision of the supervisory authority which the authority",
+      "unit": "Sch. para 6 The number of firms subject to the supervision of the supervisory authority which the authority",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.7 The number of applications for approval received by the supervisory authority under",
+      "unit": "Sch. para 7 The number of applications for approval received by the supervisory authority under",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.9 In the case of a self-regulatory organisation, the number, amount and type of disciplinary",
+      "unit": "Sch. para 9 In the case of a self-regulatory organisation, the number, amount and type of disciplinary",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.10 The number of times the supervisory authority has—",
+      "unit": "Sch. para 10 The number of times the supervisory authority has—",
       "concepts": [
         "enrolment_registration",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.11 The number of times the supervisory authority has exercised any powers under Part 8.",
+      "unit": "Sch. para 11 The number of times the supervisory authority has exercised any powers under Part 8.",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.12 The number of contraventions of these Regulations committed by supervised persons.",
+      "unit": "Sch. para 12 The number of contraventions of these Regulations committed by supervised persons.",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.14 The number of times the supervisory authority has exercised the other powers under Part 9.",
+      "unit": "Sch. para 14 The number of times the supervisory authority has exercised the other powers under Part 9.",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.15 The number of times the supervisory authority or any of its supervised persons has made a",
+      "unit": "Sch. para 15 The number of times the supervisory authority or any of its supervised persons has made a",
       "concepts": [
         "suspicious_matter_reporting",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.16 The number of supervised persons who have contravened requirements imposed by or",
+      "unit": "Sch. para 16 The number of supervised persons who have contravened requirements imposed by or",
       "concepts": [
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.17 Information on the money laundering and terrorist financing practices that the supervisory",
+      "unit": "Sch. para 17 Information on the money laundering and terrorist financing practices that the supervisory",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.18 Indications that the supervisory authority considers to suggest that a transfer of criminal funds",
+      "unit": "Sch. para 18 Indications that the supervisory authority considers to suggest that a transfer of criminal funds",
       "concepts": [
         "supervisory_architecture"
       ]
@@ -1369,7 +1350,7 @@
       ]
     },
     {
-      "unit": "reg.1 For the purposes of Part 9 of these Regulations, “relevant requirement” means—",
+      "unit": "Sch. para 1 For the purposes of Part 9 of these Regulations, “relevant requirement” means—",
       "concepts": [
         "customer_due_diligence",
         "funds_transfer_reporting",
@@ -1378,32 +1359,32 @@
       ]
     },
     {
-      "unit": "reg.2 The requirements specified in this paragraph are those imposed in—",
+      "unit": "Sch. para 2 The requirements specified in this paragraph are those imposed in—",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "reg.3 The requirements specified in this paragraph are those imposed in—",
+      "unit": "Sch. para 3 The requirements specified in this paragraph are those imposed in—",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "reg.4 The requirements specified in this paragraph are those imposed in—",
+      "unit": "Sch. para 4 The requirements specified in this paragraph are those imposed in—",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "reg.5 The requirements specified in this paragraph are those—",
+      "unit": "Sch. para 5 The requirements specified in this paragraph are those—",
       "concepts": [
         "risk_based_approach",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.7 The requirements specified in this paragraph are those imposed in—",
+      "unit": "Sch. para 7 The requirements specified in this paragraph are those imposed in—",
       "concepts": [
         "customer_due_diligence",
         "enrolment_registration",
@@ -1411,69 +1392,69 @@
       ]
     },
     {
-      "unit": "reg.9 The requirements specified in this paragraph are those imposed in—",
+      "unit": "Sch. para 9 The requirements specified in this paragraph are those imposed in—",
       "concepts": [
         "beneficial_ownership",
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.10 The requirements specified in this paragraph are those imposed in—",
+      "unit": "Sch. para 10 The requirements specified in this paragraph are those imposed in—",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.11 The requirements specified in this paragraph are those imposed in regulation 64(2)",
+      "unit": "Sch. para 11 The requirements specified in this paragraph are those imposed in regulation 64(2)",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "reg.13 The requirement specified in this paragraph is the requirement imposed in regulation 84(1).",
+      "unit": "Sch. para 13 The requirement specified in this paragraph is the requirement imposed in regulation 84(1).",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "reg.1 In this Schedule",
+      "unit": "Sch. para 1 In this Schedule",
       "concepts": [
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.2 Where the NCA has, in its performance of FIU functions, disseminated any information to",
+      "unit": "Sch. para 2 Where the NCA has, in its performance of FIU functions, disseminated any information to",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.7 Where the NCA has provided relevant information to a foreign FIU, and that foreign FIU",
+      "unit": "Sch. para 7 Where the NCA has provided relevant information to a foreign FIU, and that foreign FIU",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.11 The NCA is not required to comply with the duty to give consent to the dissemination of",
+      "unit": "Sch. para 11 The NCA is not required to comply with the duty to give consent to the dissemination of",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "reg.16 Where the NCA receives information from a foreign FIU, the NCA must—",
+      "unit": "Sch. para 16 Where the NCA receives information from a foreign FIU, the NCA must—",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.1 Part 12 of FSMA (control over authorised persons) applies, with the modifications specified in",
+      "unit": "Sch. para 1 Part 12 of FSMA (control over authorised persons) applies, with the modifications specified in",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.2 The modifications specified in this paragraph are—",
+      "unit": "Sch. para 2 The modifications specified in this paragraph are—",
       "concepts": [
         "beneficial_ownership",
         "enrolment_registration",
@@ -1481,7 +1462,7 @@
       ]
     },
     {
-      "unit": "reg.186 The matter specified in section 185(3)(a) is whether the section 178 notice-giver",
+      "unit": "Sch. para 186 The matter specified in section 185(3)(a) is whether the section 178 notice-giver",
       "concepts": [
         "beneficial_ownership",
         "enrolment_registration",
@@ -1490,13 +1471,13 @@
       ]
     },
     {
-      "unit": "reg.3 Part 12 of FSMA (control over authorised persons) applies, with the modifications specified",
+      "unit": "Sch. para 3 Part 12 of FSMA (control over authorised persons) applies, with the modifications specified",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.4 The modifications specified in this paragraph are—",
+      "unit": "Sch. para 4 The modifications specified in this paragraph are—",
       "concepts": [
         "enrolment_registration",
         "enforcement_and_offences",
@@ -1504,19 +1485,19 @@
       ]
     },
     {
-      "unit": "reg.5 In this Schedule—",
+      "unit": "Sch. para 5 In this Schedule—",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.3 —(1)  FSMA M192 is amended as follows.",
+      "unit": "Sch. para 3 —(1)  FSMA M192 is amended as follows.",
       "concepts": [
         "politically_exposed_persons"
       ]
     },
     {
-      "unit": "reg.4 —(1)  The Terrorism Act 2000 M194 is amended as follows.",
+      "unit": "Sch. para 4 —(1)  The Terrorism Act 2000 M194 is amended as follows.",
       "concepts": [
         "amlctf_program",
         "supervisory_architecture",
@@ -1524,7 +1505,7 @@
       ]
     },
     {
-      "unit": "reg.6 —(1)  The Proceeds of Crime Act 2002 M207 is amended as follows.",
+      "unit": "Sch. para 6 —(1)  The Proceeds of Crime Act 2002 M207 is amended as follows.",
       "concepts": [
         "amlctf_program",
         "supervisory_architecture",
@@ -1532,55 +1513,55 @@
       ]
     },
     {
-      "unit": "reg.9 In Schedule 17 (offences in relation to which a deferred prosecution arrangement may be",
+      "unit": "Sch. para 9 In Schedule 17 (offences in relation to which a deferred prosecution arrangement may be",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.10 In Schedule 34 to the Finance Act 2014 M225, in paragraph 6(4)(j) (criminal offences)",
+      "unit": "Sch. para 10 In Schedule 34 to the Finance Act 2014 M225, in paragraph 6(4)(j) (criminal offences)",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "reg.11 In the Bank of England and Financial Services Act 2016—",
+      "unit": "Sch. para 11 In the Bank of England and Financial Services Act 2016—",
       "concepts": [
         "politically_exposed_persons"
       ]
     },
     {
-      "unit": "reg.12 Schedule 3 (other matters) to the Estate Agents (Undesirable Practices) (No 2) Order 1991",
+      "unit": "Sch. para 12 Schedule 3 (other matters) to the Estate Agents (Undesirable Practices) (No 2) Order 1991",
       "concepts": [
         "customer_due_diligence"
       ]
     },
     {
-      "unit": "reg.14 In the meaning of “relevant business” in regulation 2 (interpretation) of the Terrorism Act",
+      "unit": "Sch. para 14 In the meaning of “relevant business” in regulation 2 (interpretation) of the Terrorism Act",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "reg.15 In regulation 114(3)(b) in the Representation of the People (England and Wales) Regulations",
+      "unit": "Sch. para 15 In regulation 114(3)(b) in the Representation of the People (England and Wales) Regulations",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.16 In regulation 113(3)(b) in the Representation of the People (Scotland) Regulations 2001 M231",
+      "unit": "Sch. para 16 In regulation 113(3)(b) in the Representation of the People (Scotland) Regulations 2001 M231",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.22 In regulation 112(3)(b) of the Representation of the People (Northern Ireland) Regulations",
+      "unit": "Sch. para 22 In regulation 112(3)(b) of the Representation of the People (Northern Ireland) Regulations",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.24 —(1)  The Payment Services Regulations 2009 M240 are amended as follows.",
+      "unit": "Sch. para 24 —(1)  The Payment Services Regulations 2009 M240 are amended as follows.",
       "concepts": [
         "enrolment_registration",
         "supervisory_architecture",
@@ -1588,7 +1569,7 @@
       ]
     },
     {
-      "unit": "reg.28 —(1)  The Electronic Money Regulations 2011 M250 are amended as follows.",
+      "unit": "Sch. para 28 —(1)  The Electronic Money Regulations 2011 M250 are amended as follows.",
       "concepts": [
         "enrolment_registration",
         "supervisory_architecture",
@@ -1596,19 +1577,19 @@
       ]
     },
     {
-      "unit": "reg.33 In regulation 25(1)(b) of Part 4 (refusal of application) in the Payment Accounts Regulation",
+      "unit": "Sch. para 33 In regulation 25(1)(b) of Part 4 (refusal of application) in the Payment Accounts Regulation",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.34 In paragraph 8(b) of Schedule 4 (disclosure to a credit reference agency) of the Register of",
+      "unit": "Sch. para 34 In paragraph 8(b) of Schedule 4 (disclosure to a credit reference agency) of the Register of",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "reg.35 In Part 1 of the Schedule to the Economic Growth (Regulatory Functions) Order 2017 M263,",
+      "unit": "Sch. para 35 In Part 1 of the Schedule to the Economic Growth (Regulatory Functions) Order 2017 M263,",
       "concepts": [
         "customer_due_diligence",
         "beneficial_ownership",

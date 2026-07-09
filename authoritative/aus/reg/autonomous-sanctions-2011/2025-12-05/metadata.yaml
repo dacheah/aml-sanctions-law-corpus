@@ -22,7 +22,7 @@ original_filename: original.docx
 content_hash: sha256:56b531612881de16c8be55b3316c401ffa18dbaea4bb1effbd301487f01923c9
 original_sha256: sha256:f3a06b4e3e2ace53c5e6394c2c78a95797e2e365a893efbe217173f3e7e342a1
 text_sha256: sha256:56b531612881de16c8be55b3316c401ffa18dbaea4bb1effbd301487f01923c9
-text_fidelity: extracted_unverified
+text_fidelity: extracted_verified
 language: en
 authoritative_status: official_consolidation
 license: CC-BY-4.0
@@ -47,12 +47,16 @@ provenance_note: Official point-in-time compilation (Compilation No. 18, registr
   Human download from the official source; fidelity extracted_unverified pending verification. Sanctions
   branch — cross-referenced to the AML/CTF core, not merged.
 verification:
-  status: cross_checked_against_official_pdf
-  method: Automated cross-check of DOCX-derived text vs the official Register PDF of the same compilation
-    (automated fidelity gate).
-  reference: Official Register PDF (Compilation No. 18), sha256:12c1aeafd831151fbda68252a61f4ae1e70278f0f41fb52be5004ef2da28adf8
-  verified_by: corpus maintainer
-  verified_date: '2026-07-08'
-  note: Operative text corroborated against the official PDF (DOCX->PDF window coverage 89%). DOCX-derived
-    text excludes per-page running headers/footers and page numbers and normalises tables/TOC. No substantive
-    provision found missing in sampling. Line-by-line certification deferred; text_fidelity stays 'extracted_unverified'.
+  status: verified_by_independent_extraction
+  method: Independent re-extraction of the byte-exact original with a different engine, compared by order-robust
+    multiset token coverage. unigram_forward = fraction of stored tokens present in the independent extraction
+    (fabrication check); bigram_forward = ordered-pair agreement (sequence check); unigram_reverse = fraction
+    of independent tokens present in stored text (completeness proxy).
+  independent_engine: LibreOffice 24 (--convert-to txt) vs python-docx (two independent DOCX renderers)
+  metrics:
+    unigram_forward: 0.9961
+    bigram_forward: 0.9961
+    unigram_reverse: 1.0
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: Two independent DOCX renderers agree in both directions to >=0.99, corroborating faithful capture.

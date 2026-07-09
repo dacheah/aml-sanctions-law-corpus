@@ -20,7 +20,7 @@ original_filename: original.pdf
 content_hash: sha256:a1a8b9ffb2b5cf173068d7487099f280b33a72551f4ab9c02ded2525f88d4ae9
 original_sha256: sha256:2e5a67fb346d593eeebe141cee657d8c5f475de0620496542ae40f9af15b0017
 text_sha256: sha256:a1a8b9ffb2b5cf173068d7487099f280b33a72551f4ab9c02ded2525f88d4ae9
-text_fidelity: extracted_unverified
+text_fidelity: extracted_verified
 language: en
 authoritative_status: authentic_text
 license: OGL-3.0
@@ -41,3 +41,20 @@ provenance_note: Economic Crime and Corporate Transparency Act 2023 (c. 56), ena
   of Crime Act 2002 (including cryptoasset civil recovery and information-sharing). Captured 'as enacted'
   for lineage. Byte-exact original captured as the official PDF; text.txt extracted with per-page furniture
   removed. Crown copyright, OGL v3.0. Fidelity extracted_unverified.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction of the byte-exact original with a different engine, compared by order-robust
+    multiset token coverage. unigram_forward = fraction of stored tokens present in the independent extraction
+    (fabrication check); bigram_forward = ordered-pair agreement (sequence check); unigram_reverse = fraction
+    of independent tokens present in stored text (completeness proxy).
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF text engines)
+  metrics:
+    unigram_forward: 0.9994
+    bigram_forward: 0.99
+    unigram_reverse: 0.8876
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: Two independent PDF text engines agree on the substantive text. The reverse-direction difference
+    is wholly attributable to this corpus's deliberate removal of per-page furniture (the repeated 'Changes
+    to legislation' banner, 'Document Generated' line and running-header title, which pdftotext retains);
+    a token-level diff confirmed the residual is furniture, not substantive provisions.

@@ -28,7 +28,7 @@
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
     "asset_freezing",
     "beneficial_ownership",
@@ -37,6 +37,8 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "record_keeping",
+    "sanctions_permits",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
@@ -54,9 +56,9 @@
       "unit": "s.3 Financial sanctions",
       "concepts": [
         "asset_freezing",
-        "designation_criteria",
-        "definitions_and_interpretation"
-      ]
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.4 Immigration sanctions",
@@ -102,10 +104,9 @@
     {
       "unit": "s.11 Designation of a person by name under a designation power",
       "concepts": [
-        "suspicious_matter_reporting",
-        "designation_criteria",
-        "definitions_and_interpretation"
-      ]
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.12 Designation of persons by description under a designation power",
@@ -131,8 +132,9 @@
     {
       "unit": "s.15 Exceptions and licences",
       "concepts": [
-        "designation_criteria"
-      ]
+        "sanctions_permits"
+      ],
+      "curated": true
     },
     {
       "unit": "s.16 Information",
@@ -145,7 +147,8 @@
       "unit": "s.17 Enforcement",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.19 Enforcement: goods etc on ships",
@@ -317,115 +320,115 @@
       ]
     },
     {
-      "unit": "s.2 Preventing the export of goods of a prescribed description—",
+      "unit": "Sch. para 2 Preventing the export of goods of a prescribed description—",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.3 Preventing the import of all goods, or of goods of a prescribed description—",
+      "unit": "Sch. para 3 Preventing the import of all goods, or of goods of a prescribed description—",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.4 Preventing the movement outside the United Kingdom of goods of a prescribed",
+      "unit": "Sch. para 4 Preventing the movement outside the United Kingdom of goods of a prescribed",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.5 Preventing a transfer of technology of a prescribed description—",
+      "unit": "Sch. para 5 Preventing a transfer of technology of a prescribed description—",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.6 Preventing goods or technology of a prescribed description from being made",
+      "unit": "Sch. para 6 Preventing goods or technology of a prescribed description from being made",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.7 Preventing the acquisition of goods or technology of a prescribed description—",
+      "unit": "Sch. para 7 Preventing the acquisition of goods or technology of a prescribed description—",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.8 Preventing land, or land of a prescribed description, from being made available to,",
+      "unit": "Sch. para 8 Preventing land, or land of a prescribed description, from being made available to,",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.9 Preventing the acquisition of land, or land of a prescribed description—",
+      "unit": "Sch. para 9 Preventing the acquisition of land, or land of a prescribed description—",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.10 Preventing—",
+      "unit": "Sch. para 10 Preventing—",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.11 Preventing all services, or services of a prescribed description, from being",
+      "unit": "Sch. para 11 Preventing all services, or services of a prescribed description, from being",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.12 Preventing all services, or services of a prescribed description, from being",
+      "unit": "Sch. para 12 Preventing all services, or services of a prescribed description, from being",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.14 Preventing services, or services of a prescribed description, from being provided or",
+      "unit": "Sch. para 14 Preventing services, or services of a prescribed description, from being provided or",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "s.15 So far as a UN Security Council Resolution provides for the taking of measures",
+      "unit": "Sch. para 15 So far as a UN Security Council Resolution provides for the taking of measures",
       "concepts": [
         "un_and_autonomous_sanctions"
       ]
     },
     {
-      "unit": "s.26 (1) This paragraph applies where regulations include provision for a purpose mentioned",
+      "unit": "Sch. para 26 (1) This paragraph applies where regulations include provision for a purpose mentioned",
       "concepts": [
         "un_and_autonomous_sanctions"
       ]
     },
     {
-      "unit": "s.27 (1) This paragraph applies in relation to any provision of CEMA which specifies a",
+      "unit": "Sch. para 27 (1) This paragraph applies in relation to any provision of CEMA which specifies a",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.30 The question whether any such interference is necessary is to be determined by the",
+      "unit": "Sch. para 30 The question whether any such interference is necessary is to be determined by the",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.32 For the purposes of this Schedule—",
+      "unit": "Sch. para 32 For the purposes of this Schedule—",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.2 (1) Require—",
+      "unit": "Sch. para 2 (1) Require—",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.6 Make provision for and in connection with the creation, production and retention",
+      "unit": "Sch. para 6 Make provision for and in connection with the creation, production and retention",
       "concepts": [
         "beneficial_ownership",
         "record_keeping",
@@ -433,100 +436,100 @@
       ]
     },
     {
-      "unit": "s.7 (1) Confer supervisory functions on the Financial Conduct Authority, the",
+      "unit": "Sch. para 7 (1) Confer supervisory functions on the Financial Conduct Authority, the",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.8 (1) Confer supervisory functions on a prescribed body (an “oversight body”) in relation",
+      "unit": "Sch. para 8 (1) Confer supervisory functions on a prescribed body (an “oversight body”) in relation",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.9 Make provision for and in connection with the registration of relevant persons by",
+      "unit": "Sch. para 9 Make provision for and in connection with the registration of relevant persons by",
       "concepts": [
         "enrolment_registration",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.10 Make provision enabling supervisory authorities to enter into arrangements with",
+      "unit": "Sch. para 10 Make provision enabling supervisory authorities to enter into arrangements with",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.11 (1) Confer investigatory powers on—",
+      "unit": "Sch. para 11 (1) Confer investigatory powers on—",
       "concepts": [
         "record_keeping",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.12 (1) Authorise supervisory authorities to impose charges on persons supervised by them",
+      "unit": "Sch. para 12 (1) Authorise supervisory authorities to impose charges on persons supervised by them",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.13 (1) Authorise the Financial Conduct Authority and the Commissioners for Her Majesty's",
+      "unit": "Sch. para 13 (1) Authorise the Financial Conduct Authority and the Commissioners for Her Majesty's",
       "concepts": [
         "enrolment_registration",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.15 Make provision—",
+      "unit": "Sch. para 15 Make provision—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.16 Make provision for and in connection with reviews of, and appeals against,",
+      "unit": "Sch. para 16 Make provision for and in connection with reviews of, and appeals against,",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.17 Make provision exempting prescribed persons from prescribed requirements,",
+      "unit": "Sch. para 17 Make provision exempting prescribed persons from prescribed requirements,",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.18 Regulations under section 49 may not provide for an offence created by such",
+      "unit": "Sch. para 18 Regulations under section 49 may not provide for an offence created by such",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.19 Regulations under section 49 may provide for the creation of a criminal offence",
+      "unit": "Sch. para 19 Regulations under section 49 may provide for the creation of a criminal offence",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20 Regulations under section 49 which confer a power to impose a civil monetary",
+      "unit": "Sch. para 20 Regulations under section 49 which confer a power to impose a civil monetary",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.21 (1) In this paragraph “relevant regulations” means regulations under section 49 which",
+      "unit": "Sch. para 21 (1) In this paragraph “relevant regulations” means regulations under section 49 which",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.22 (1) Regulations under section 49 may impose requirements in relation to conduct outside",
+      "unit": "Sch. para 22 (1) Regulations under section 49 may impose requirements in relation to conduct outside",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.23 (1) Without prejudice to anything in section 49, paragraphs 1 to 22 or section 54(2),",
+      "unit": "Sch. para 23 (1) Without prejudice to anything in section 49, paragraphs 1 to 22 or section 54(2),",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences",
@@ -534,31 +537,31 @@
       ]
     },
     {
-      "unit": "s.24 In this Schedule—",
+      "unit": "Sch. para 24 In this Schedule—",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.4 In section 61(1) of the Serious Organised Crime and Police Act 2005 (offences to",
+      "unit": "Sch. para 4 In section 61(1) of the Serious Organised Crime and Police Act 2005 (offences to",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.5 (1) Schedule 1 to the Serious Crime Act 2007 (offences in relation to which a serious",
+      "unit": "Sch. para 5 (1) Schedule 1 to the Serious Crime Act 2007 (offences in relation to which a serious",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.6 (1) Part 2 of Schedule 17 to the Crime and Courts Act 2013 (offences in relation to which",
+      "unit": "Sch. para 6 (1) Part 2 of Schedule 17 to the Crime and Courts Act 2013 (offences in relation to which",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.8 (1) Part 8 of the Policing and Crime Act 2017 (financial sanctions) is amended as",
+      "unit": "Sch. para 8 (1) Part 8 of the Policing and Crime Act 2017 (financial sanctions) is amended as",
       "concepts": [
         "definitions_and_interpretation"
       ]
@@ -570,7 +573,7 @@
       ]
     },
     {
-      "unit": "s.9 The following provisions are repealed or revoked—",
+      "unit": "Sch. para 9 The following provisions are repealed or revoked—",
       "concepts": [
         "asset_freezing"
       ]

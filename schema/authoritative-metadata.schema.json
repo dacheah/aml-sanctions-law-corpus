@@ -56,12 +56,20 @@
     },
     "legal_status": {
       "type": "string",
-      "enum": ["binding", "guidance", "soft-law"],
+      "enum": [
+        "binding",
+        "guidance",
+        "soft-law"
+      ],
       "description": "Legal force in the stated jurisdiction (design-lock §1): binding law | non-binding guidance | international soft-law standard. Distinct from authoritative_status (which is about text authenticity, not legal force)."
     },
     "redistribution": {
       "type": "string",
-      "enum": ["open", "restricted", "excluded"],
+      "enum": [
+        "open",
+        "restricted",
+        "excluded"
+      ],
       "description": "Licence-driven redistribution posture (design-lock §1, JC-03): open = full text stored and redistributable; restricted = hash + citation + short excerpt only in the open layer, full text held privately; excluded = not ingested as authoritative text."
     },
     "official_citation": {
@@ -245,6 +253,14 @@
         },
         "note": {
           "type": "string"
+        },
+        "independent_engine": {
+          "type": "string",
+          "description": "The independent tool/engine used to re-extract the original for the fidelity cross-check."
+        },
+        "metrics": {
+          "type": "object",
+          "description": "Quantitative agreement metrics from the independent-extraction cross-check (e.g. unigram_forward, bigram_forward, unigram_reverse)."
         }
       }
     },
@@ -281,7 +297,10 @@
       "if": {
         "properties": {
           "authoritative_status": {
-            "enum": ["authoritative_missing", "restricted_withheld"]
+            "enum": [
+              "authoritative_missing",
+              "restricted_withheld"
+            ]
           }
         }
       },

@@ -20,7 +20,7 @@ original_filename: original.pdf
 content_hash: sha256:7a24cdaf7d91844f4b5395598453422b31e73d22d30c781a53c1133c4d9b3a6d
 original_sha256: sha256:907d89059266aae292d4a1d878a8c6571c5aa999890bb8236859f47f4ce0b398
 text_sha256: sha256:7a24cdaf7d91844f4b5395598453422b31e73d22d30c781a53c1133c4d9b3a6d
-text_fidelity: extracted_unverified
+text_fidelity: extracted_verified
 language: en
 authoritative_status: official_consolidation
 license: OGL-3.0
@@ -43,3 +43,20 @@ provenance_note: Proceeds of Crime Act 2002 (c. 29). The principal UK money-laun
   PDF; text.txt extracted from that PDF with per-page running headers/footers and the repeated 'Changes
   to legislation' banner removed (non-substantive presentation). Crown copyright, Open Government Licence
   v3.0. Human download from the official source; fidelity extracted_unverified pending verification.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction of the byte-exact original with a different engine, compared by order-robust
+    multiset token coverage. unigram_forward = fraction of stored tokens present in the independent extraction
+    (fabrication check); bigram_forward = ordered-pair agreement (sequence check); unigram_reverse = fraction
+    of independent tokens present in stored text (completeness proxy).
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF text engines)
+  metrics:
+    unigram_forward: 0.9994
+    bigram_forward: 0.9927
+    unigram_reverse: 0.8407
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: Two independent PDF text engines agree on the substantive text. The reverse-direction difference
+    is wholly attributable to this corpus's deliberate removal of per-page furniture (the repeated 'Changes
+    to legislation' banner, 'Document Generated' line and running-header title, which pdftotext retains);
+    a token-level diff confirmed the residual is furniture, not substantive provisions.

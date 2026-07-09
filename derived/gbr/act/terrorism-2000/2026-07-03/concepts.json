@@ -28,7 +28,7 @@
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
     "asset_freezing",
@@ -141,33 +141,36 @@
       "unit": "s.15 Fund-raising.",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.16 Use and possession.",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.17 Funding arrangements.",
       "concepts": [
-        "threshold_transaction_reporting",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.18 Money laundering.",
       "concepts": [
-        "record_keeping",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.19 Disclosure of information: duty.",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "s.21 Cooperation with police.",
@@ -180,9 +183,9 @@
     {
       "unit": "s.21D Tipping off: regulated sector",
       "concepts": [
-        "tipping_off",
-        "enforcement_and_offences"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "s.21E Disclosures within an undertaking or group etc",
@@ -695,7 +698,7 @@
       ]
     },
     {
-      "unit": "s.6 (1) A provision of the M107Northern Ireland (Emergency Provisions) Act 1996 to which",
+      "unit": "Sch. para 6 (1) A provision of the M107Northern Ireland (Emergency Provisions) Act 1996 to which",
       "concepts": [
         "enforcement_and_offences"
       ]
@@ -713,47 +716,47 @@
       ]
     },
     {
-      "unit": "s.4 (1) The Commission shall sit at such times and in such places as the Lord Chancellor",
+      "unit": "Sch. para 4 (1) The Commission shall sit at such times and in such places as the Lord Chancellor",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.5 (1) The Lord Chancellor may make rules—",
+      "unit": "Sch. para 5 (1) The Lord Chancellor may make rules—",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.7 (1) The relevant law officer may appoint a person to represent the interests of an",
+      "unit": "Sch. para 7 (1) The relevant law officer may appoint a person to represent the interests of an",
       "concepts": [
         "asset_freezing",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.1 (1) A business is in the regulated sector to the extent that it consists of—",
+      "unit": "Sch. para 1 (1) A business is in the regulated sector to the extent that it consists of—",
       "concepts": [
         "enrolment_registration",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.2 (1) A business is not in the regulated sector to the extent that it consists of—",
+      "unit": "Sch. para 2 (1) A business is not in the regulated sector to the extent that it consists of—",
       "concepts": [
         "enrolment_registration",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.3 (1) In this Part—",
+      "unit": "Sch. para 3 (1) In this Part—",
       "concepts": [
         "amlctf_program",
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.4 (1) The following bodies are supervisory authorities—",
+      "unit": "Sch. para 4 (1) The following bodies are supervisory authorities—",
       "concepts": [
         "supervisory_architecture"
       ]
@@ -765,111 +768,111 @@
       ]
     },
     {
-      "unit": "s.1 In this Part of this Schedule—",
+      "unit": "Sch. para 1 In this Part of this Schedule—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.4A (1) Where a court makes a forfeiture order in a case where—",
+      "unit": "Sch. para 4A (1) Where a court makes a forfeiture order in a case where—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.5 (1) The High Court may make a restraint order under this paragraph where—",
+      "unit": "Sch. para 5 (1) The High Court may make a restraint order under this paragraph where—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.6 (1) A restraint order shall provide for notice of it to be given to any person affected by",
+      "unit": "Sch. para 6 (1) A restraint order shall provide for notice of it to be given to any person affected by",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.8 (1) The M114Land Charges Act 1972 and the [F358Land Registration Act 2002]—",
+      "unit": "Sch. para 8 (1) The M114Land Charges Act 1972 and the [F358Land Registration Act 2002]—",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "s.9 (1) This paragraph applies where a restraint order is discharged under [F361paragraph 6(4)",
+      "unit": "Sch. para 9 (1) This paragraph applies where a restraint order is discharged under [F361paragraph 6(4)",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.10 (1) This paragraph applies where—",
+      "unit": "Sch. para 10 (1) This paragraph applies where—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.11 (1) For the purposes of this Part of this Schedule proceedings for an offence are",
+      "unit": "Sch. para 11 (1) For the purposes of this Part of this Schedule proceedings for an offence are",
       "concepts": [
         "asset_freezing",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.13 (1) Subject to the provisions of this paragraph, a Scottish, Northern Ireland or Islands",
+      "unit": "Sch. para 13 (1) Subject to the provisions of this paragraph, a Scottish, Northern Ireland or Islands",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "s.15 In this Part of this Schedule—",
+      "unit": "Sch. para 15 In this Part of this Schedule—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.17 (1) The Court of Session may by rules of court prescribe the powers and duties of an",
+      "unit": "Sch. para 17 (1) The Court of Session may by rules of court prescribe the powers and duties of an",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.17A (1) Where a court makes a forfeiture order in a case where—",
+      "unit": "Sch. para 17A (1) Where a court makes a forfeiture order in a case where—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.18 (1) The Court of Session, on an application made by the Lord Advocate, may make a",
+      "unit": "Sch. para 18 (1) The Court of Session, on an application made by the Lord Advocate, may make a",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.19 (1) A restraint order shall provide for notice of it to be given to any person affected by",
+      "unit": "Sch. para 19 (1) A restraint order shall provide for notice of it to be given to any person affected by",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.21 (1) On the application of the Lord Advocate, the Court of Session may, in respect of",
+      "unit": "Sch. para 21 (1) On the application of the Lord Advocate, the Court of Session may, in respect of",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "s.23 (1) This paragraph applies where a restraint order is recalled under paragraph [F38219(3A)",
+      "unit": "Sch. para 23 (1) This paragraph applies where a restraint order is recalled under paragraph [F38219(3A)",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.25 (1) For the purposes of this Part of this Schedule proceedings for an offence are",
+      "unit": "Sch. para 25 (1) For the purposes of this Part of this Schedule proceedings for an offence are",
       "concepts": [
         "asset_freezing",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.27 (1) Subject to the provisions of this paragraph, an England and Wales order, Northern",
+      "unit": "Sch. para 27 (1) Subject to the provisions of this paragraph, an England and Wales order, Northern",
       "concepts": [
         "enrolment_registration"
       ]
@@ -881,43 +884,43 @@
       ]
     },
     {
-      "unit": "s.29 In this Part of this Schedule—",
+      "unit": "Sch. para 29 In this Part of this Schedule—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.32A (1) Where a court makes a forfeiture order in a case where—",
+      "unit": "Sch. para 32A (1) Where a court makes a forfeiture order in a case where—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.33 (1) The High Court may make a restraint order under this paragraph where—",
+      "unit": "Sch. para 33 (1) The High Court may make a restraint order under this paragraph where—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.34 (1) A restraint order shall provide for notice of it to be given to any person affected by",
+      "unit": "Sch. para 34 (1) A restraint order shall provide for notice of it to be given to any person affected by",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.35 (1) A constable may seize any property subject to a restraint order for the purpose of",
+      "unit": "Sch. para 35 (1) A constable may seize any property subject to a restraint order for the purpose of",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.37 (1) A person commits an offence if he contravenes a restraint order.",
+      "unit": "Sch. para 37 (1) A person commits an offence if he contravenes a restraint order.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.38 (1) The prosecutor shall be treated for the purposes of section 66 of the M123Land",
+      "unit": "Sch. para 38 (1) The prosecutor shall be treated for the purposes of section 66 of the M123Land",
       "concepts": [
         "enrolment_registration",
         "enforcement_and_offences",
@@ -925,45 +928,45 @@
       ]
     },
     {
-      "unit": "s.41 (1) For the purposes of this Part of this Schedule proceedings for an offence are",
+      "unit": "Sch. para 41 (1) For the purposes of this Part of this Schedule proceedings for an offence are",
       "concepts": [
         "asset_freezing",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.43 (1) Subject to the provisions of this paragraph, an England and Wales, Scottish or Islands",
+      "unit": "Sch. para 43 (1) Subject to the provisions of this paragraph, an England and Wales, Scottish or Islands",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "s.50 (1) Where money or other property falls to be dealt with in accordance with paragraph",
+      "unit": "Sch. para 50 (1) Where money or other property falls to be dealt with in accordance with paragraph",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.52 (1) An order may be made under this paragraph to secure that an Islands or external",
+      "unit": "Sch. para 52 (1) An order may be made under this paragraph to secure that an Islands or external",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.53 (1) In this Part of this Schedule (other than in paragraph 51) “insolvency practitioner”",
+      "unit": "Sch. para 53 (1) In this Part of this Schedule (other than in paragraph 51) “insolvency practitioner”",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "s.1 (1) A constable may apply to a justice of the peace for the issue of a warrant under this",
+      "unit": "Sch. para 1 (1) A constable may apply to a justice of the peace for the issue of a warrant under this",
       "concepts": [
         "record_keeping",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.3 (1) [F428A constable] may by a written authority signed by him authorise a search of",
+      "unit": "Sch. para 3 (1) [F428A constable] may by a written authority signed by him authorise a search of",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences",
@@ -971,87 +974,87 @@
       ]
     },
     {
-      "unit": "s.5 (1) [F430An appropriate officer] may apply to a Circuit judge for an order under this",
+      "unit": "Sch. para 5 (1) [F430An appropriate officer] may apply to a Circuit judge for an order under this",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.11 (1) A constable may apply to a Circuit judge for the issue of a warrant under this",
+      "unit": "Sch. para 11 (1) A constable may apply to a Circuit judge for the issue of a warrant under this",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.13 (1) A constable may apply to a Circuit judge for an order under this paragraph requiring",
+      "unit": "Sch. para 13 (1) A constable may apply to a Circuit judge for an order under this paragraph requiring",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.14 (1) A person commits an offence if, in purported compliance with an order under",
+      "unit": "Sch. para 14 (1) A person commits an offence if, in purported compliance with an order under",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.15 (1) A police officer of at least the rank of superintendent may by a written order signed",
+      "unit": "Sch. para 15 (1) A police officer of at least the rank of superintendent may by a written order signed",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.16 (1) If a police officer of at least the rank of superintendent has reasonable grounds for",
+      "unit": "Sch. para 16 (1) If a police officer of at least the rank of superintendent has reasonable grounds for",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.17 For the purposes of sections 21 and 22 of the M149Police and Criminal Evidence Act",
+      "unit": "Sch. para 17 For the purposes of sections 21 and 22 of the M149Police and Criminal Evidence Act",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.18 In the application of this Part to Northern Ireland—",
+      "unit": "Sch. para 18 In the application of this Part to Northern Ireland—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.22 (1) The procurator fiscal may apply to the sheriff for an order under this paragraph for",
+      "unit": "Sch. para 22 (1) The procurator fiscal may apply to the sheriff for an order under this paragraph for",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.26 (1) An order under paragraph 22 may be made in relation to material in the possession,",
+      "unit": "Sch. para 26 (1) An order under paragraph 22 may be made in relation to material in the possession,",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.28 (1) The procurator fiscal may apply to the sheriff to grant a warrant under this paragraph",
+      "unit": "Sch. para 28 (1) The procurator fiscal may apply to the sheriff to grant a warrant under this paragraph",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.30 (1) The procurator fiscal may apply to the sheriff for an order under this paragraph",
+      "unit": "Sch. para 30 (1) The procurator fiscal may apply to the sheriff for an order under this paragraph",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.31 (1) A police officer of at least the rank of superintendent may by a written order signed",
+      "unit": "Sch. para 31 (1) A police officer of at least the rank of superintendent may by a written order signed",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.32 (1) If a police officer of at least the rank of superintendent has reasonable grounds for",
+      "unit": "Sch. para 32 (1) If a police officer of at least the rank of superintendent has reasonable grounds for",
       "concepts": [
         "enforcement_and_offences"
       ]
@@ -1063,110 +1066,110 @@
       ]
     },
     {
-      "unit": "s.4 A terrorist financing investigation is a terrorist investigation into—",
+      "unit": "Sch. para 4 A terrorist financing investigation is a terrorist investigation into—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.10 (1) These are the requirements for the making of a disclosure order.",
+      "unit": "Sch. para 10 (1) These are the requirements for the making of a disclosure order.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.11 (1) A person commits an offence if without reasonable excuse the person fails to comply",
+      "unit": "Sch. para 11 (1) A person commits an offence if without reasonable excuse the person fails to comply",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.12 (1) A statement made by a person in response to a requirement imposed under a",
+      "unit": "Sch. para 12 (1) A statement made by a person in response to a requirement imposed under a",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.13 (1) A disclosure order does not confer the right to require a person—",
+      "unit": "Sch. para 13 (1) A disclosure order does not confer the right to require a person—",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.14 (1) An application for a disclosure order may be made without notice to a judge in",
+      "unit": "Sch. para 14 (1) An application for a disclosure order may be made without notice to a judge in",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.17 A terrorist financing investigation is a terrorist investigation into—",
+      "unit": "Sch. para 17 A terrorist financing investigation is a terrorist investigation into—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20 (1) These are the requirements for the making of a disclosure order.",
+      "unit": "Sch. para 20 (1) These are the requirements for the making of a disclosure order.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.21 (1) A person commits an offence if without reasonable excuse the person fails to comply",
+      "unit": "Sch. para 21 (1) A person commits an offence if without reasonable excuse the person fails to comply",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.22 (1) A statement made by a person in response to a requirement imposed under a",
+      "unit": "Sch. para 22 (1) A statement made by a person in response to a requirement imposed under a",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.23 (1) A disclosure order does not confer the right to require a person—",
+      "unit": "Sch. para 23 (1) A disclosure order does not confer the right to require a person—",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.1 (1) Where an order has been made under this paragraph in relation to a terrorist",
+      "unit": "Sch. para 1 (1) Where an order has been made under this paragraph in relation to a terrorist",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.6 (1) In this Schedule “financial institution” means—",
+      "unit": "Sch. para 6 (1) In this Schedule “financial institution” means—",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.7 (1) In this Schedule “customer information” means (subject to sub-paragraph (3))—",
+      "unit": "Sch. para 7 (1) In this Schedule “customer information” means (subject to sub-paragraph (3))—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.8 (1) This paragraph applies where an offence under paragraph 1(3) is committed by an",
+      "unit": "Sch. para 8 (1) This paragraph applies where an offence under paragraph 1(3) is committed by an",
       "concepts": [
         "threshold_transaction_reporting",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.9 (1) Customer information provided by a financial institution under this Schedule shall",
+      "unit": "Sch. para 9 (1) Customer information provided by a financial institution under this Schedule shall",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.7 (1) A statement made by a financial institution in response to an account monitoring",
+      "unit": "Sch. para 7 (1) A statement made by a financial institution in response to an account monitoring",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.13 Where an authorisation specifies more than one area or place—",
+      "unit": "Sch. para 13 Where an authorisation specifies more than one area or place—",
       "concepts": [
         "definitions_and_interpretation"
       ]
@@ -1178,68 +1181,68 @@
       ]
     },
     {
-      "unit": "s.5 A person who is questioned under paragraph 2 or 3 must—",
+      "unit": "Sch. para 5 A person who is questioned under paragraph 2 or 3 must—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.8 (1) An examining officer who questions a person under paragraph 2 may, for the purpose",
+      "unit": "Sch. para 8 (1) An examining officer who questions a person under paragraph 2 may, for the purpose",
       "concepts": [
         "suspicious_matter_reporting"
       ]
     },
     {
-      "unit": "s.11 (1) This paragraph applies to anything which—",
+      "unit": "Sch. para 11 (1) This paragraph applies to anything which—",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.11A (1) This paragraph applies where the examining officer is a constable.",
+      "unit": "Sch. para 11A (1) This paragraph applies where the examining officer is a constable.",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.16 (1) The Secretary of State may by order make provision requiring a person to whom",
+      "unit": "Sch. para 16 (1) The Secretary of State may by order make provision requiring a person to whom",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.18 (1) A person commits an offence if he—",
+      "unit": "Sch. para 18 (1) A person commits an offence if he—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.7 (1) [F550A person detained under Schedule 7 or section 41 or 43B]F551... in England, Wales",
+      "unit": "Sch. para 7 (1) [F550A person detained under Schedule 7 or section 41 or 43B]F551... in England, Wales",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.10 (1) This paragraph applies where a person is detained in England, Wales or Northern",
+      "unit": "Sch. para 10 (1) This paragraph applies where a person is detained in England, Wales or Northern",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.11 (1) Before fingerprints or a sample are taken from a person under paragraph 10, he shall",
+      "unit": "Sch. para 11 (1) Before fingerprints or a sample are taken from a person under paragraph 10, he shall",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.13 (1) Where appropriate written consent to the taking of an intimate sample from a person",
+      "unit": "Sch. para 13 (1) Where appropriate written consent to the taking of an intimate sample from a person",
       "concepts": [
         "enrolment_registration",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.15 (1) In the application of [F572paragraphs 10 to 13] in relation to a person detained",
+      "unit": "Sch. para 15 (1) In the application of [F572paragraphs 10 to 13] in relation to a person detained",
       "concepts": [
         "enrolment_registration",
         "enforcement_and_offences",
@@ -1247,127 +1250,127 @@
       ]
     },
     {
-      "unit": "s.16 (1) A person detained under Schedule 7 or section 41 [F575or 43B] at a [F576place] in",
+      "unit": "Sch. para 16 (1) A person detained under Schedule 7 or section 41 [F575or 43B] at a [F576place] in",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20 (1) Subject to the modifications specified in sub-paragraphs (2) and (3), section 18 of",
+      "unit": "Sch. para 20 (1) Subject to the modifications specified in sub-paragraphs (2) and (3), section 18 of",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20A (1) This paragraph applies to—",
+      "unit": "Sch. para 20A (1) This paragraph applies to—",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.20B (1) This paragraph applies to paragraph 20A material relating to a person who is detained",
+      "unit": "Sch. para 20B (1) This paragraph applies to paragraph 20A material relating to a person who is detained",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20C (1) This paragraph applies to paragraph 20A material relating to a person who is detained",
+      "unit": "Sch. para 20C (1) This paragraph applies to paragraph 20A material relating to a person who is detained",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20D (1) For the purposes of paragraphs 20B and 20C, a person is to be treated as having been",
+      "unit": "Sch. para 20D (1) For the purposes of paragraphs 20B and 20C, a person is to be treated as having been",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20E (1) Paragraph 20A material may be retained for as long as a national security",
+      "unit": "Sch. para 20E (1) Paragraph 20A material may be retained for as long as a national security",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.20F (1) If fingerprints or relevant physical data are required by paragraph 20A to be",
+      "unit": "Sch. para 20F (1) If fingerprints or relevant physical data are required by paragraph 20A to be",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.20G (1) This paragraph applies to—",
+      "unit": "Sch. para 20G (1) This paragraph applies to—",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20H (1) Any material to which paragraph 20A or 20G applies must not be used other than—",
+      "unit": "Sch. para 20H (1) Any material to which paragraph 20A or 20G applies must not be used other than—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20J In paragraphs 20A to 20I—",
+      "unit": "Sch. para 20J In paragraphs 20A to 20I—",
       "concepts": [
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.23 (1) A review officer may authorise a person’s continued detention only if satisfied that",
+      "unit": "Sch. para 23 (1) A review officer may authorise a person’s continued detention only if satisfied that",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.32 (1) A judicial authority may issue a warrant of further detention only if satisfied that—",
+      "unit": "Sch. para 32 (1) A judicial authority may issue a warrant of further detention only if satisfied that—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.34 (1) The [F641person] who has made an application for a warrant may apply to the judicial",
+      "unit": "Sch. para 34 (1) The [F641person] who has made an application for a warrant may apply to the judicial",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.38 (1) The Secretary of State may make a temporary extension order if—",
+      "unit": "Sch. para 38 (1) The Secretary of State may make a temporary extension order if—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.1 (1) This Schedule makes supplementary provision relating to the offence in section 58A",
+      "unit": "Sch. para 1 (1) This Schedule makes supplementary provision relating to the offence in section 58A",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.3 (1) This paragraph applies where a service provider is established in an EEA state F662...",
+      "unit": "Sch. para 3 (1) This paragraph applies where a service provider is established in an EEA state F662...",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.4 (1) A service provider is not guilty of an offence under section 58A in respect of anything",
+      "unit": "Sch. para 4 (1) A service provider is not guilty of an offence under section 58A in respect of anything",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.5 (1) This paragraph applies where an information society service consists in the",
+      "unit": "Sch. para 5 (1) This paragraph applies where an information society service consists in the",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.6 (1) A service provider is not guilty of an offence under section 58A in respect of anything",
+      "unit": "Sch. para 6 (1) A service provider is not guilty of an offence under section 58A in respect of anything",
       "concepts": [
         "enforcement_and_offences",
         "definitions_and_interpretation"
@@ -1386,147 +1389,147 @@
       ]
     },
     {
-      "unit": "s.6 Offences under section 35 of the M171Malicious Damage Act 1861 (interference with",
+      "unit": "Sch. para 6 Offences under section 35 of the M171Malicious Damage Act 1861 (interference with",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.7 Offences under the following provisions of the M172Offences against the Person Act",
+      "unit": "Sch. para 7 Offences under the following provisions of the M172Offences against the Person Act",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.8 Offences under the following provisions of the M173Explosive Substances Act 1883",
+      "unit": "Sch. para 8 Offences under the following provisions of the M173Explosive Substances Act 1883",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.9 Offences under the following provisions of the M174Prison Act (Northern Ireland)",
+      "unit": "Sch. para 9 Offences under the following provisions of the M174Prison Act (Northern Ireland)",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.10 [F677Subject to notes 2 and 3 below,] offences under the following provisions of the",
+      "unit": "Sch. para 10 [F677Subject to notes 2 and 3 below,] offences under the following provisions of the",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.11 Offences under the following provisions of the M176Protection of the Person and",
+      "unit": "Sch. para 11 Offences under the following provisions of the M176Protection of the Person and",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.12 Offences under section 1 of the M177Aviation Security Act 1982 (aircraft) F682. . . .",
+      "unit": "Sch. para 12 Offences under section 1 of the M177Aviation Security Act 1982 (aircraft) F682. . . .",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.13 Offences in Northern Ireland under section 2 of the M178Criminal Jurisdiction Act",
+      "unit": "Sch. para 13 Offences in Northern Ireland under section 2 of the M178Criminal Jurisdiction Act",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.14 Offences under the following provisions of the M179Criminal Damage (Northern",
+      "unit": "Sch. para 14 Offences under the following provisions of the M179Criminal Damage (Northern",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.15 Offences under Article 3 of the M180Criminal Law (Amendment) (Northern Ireland)",
+      "unit": "Sch. para 15 Offences under Article 3 of the M180Criminal Law (Amendment) (Northern Ireland)",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.17 Offences under the M181Taking of Hostages Act 1982 F689. . . .",
+      "unit": "Sch. para 17 Offences under the M181Taking of Hostages Act 1982 F689. . . .",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.18 Offences under section 2 of the M182Nuclear Material (Offences) Act 1983 (offences",
+      "unit": "Sch. para 18 Offences under section 2 of the M182Nuclear Material (Offences) Act 1983 (offences",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.19 Offences under the following provisions of the M183Computer Misuse Act 1990",
+      "unit": "Sch. para 19 Offences under the following provisions of the M183Computer Misuse Act 1990",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.20 Offences under the following provisions of the M184Aviation and Maritime Security",
+      "unit": "Sch. para 20 Offences under the following provisions of the M184Aviation and Maritime Security",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.21 Offences under the following provisions of M185the Channel Tunnel (Security) Order",
+      "unit": "Sch. para 21 Offences under the following provisions of M185the Channel Tunnel (Security) Order",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.22 Offences under the following provisions of this Act—",
+      "unit": "Sch. para 22 Offences under the following provisions of this Act—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.22A Offences under paragraph 1(1) or (2) of Schedule 2 to the Justice (Northern Ireland)",
+      "unit": "Sch. para 22A Offences under paragraph 1(1) or (2) of Schedule 2 to the Justice (Northern Ireland)",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.22B Offences under section 9 of the Prevention of Terrorism Act 2005 (contravention",
+      "unit": "Sch. para 22B Offences under section 9 of the Prevention of Terrorism Act 2005 (contravention",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.22C Offences under Part 1 of the Terrorism Act 2006 (terrorism-related offences).]",
+      "unit": "Sch. para 22C Offences under Part 1 of the Terrorism Act 2006 (terrorism-related offences).]",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.23 Offences under section 1 of the Fraud Act 2006 (fraud) subject to note 2 below.]",
+      "unit": "Sch. para 23 Offences under section 1 of the Fraud Act 2006 (fraud) subject to note 2 below.]",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.1 Any offence specified in this Part of this Schedule F700. . . is not a scheduled offence",
+      "unit": "Sch. para 1 Any offence specified in this Part of this Schedule F700. . . is not a scheduled offence",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.2 An offence specified in [F702paragraph 10(a) or (c) or 23] is a scheduled offence",
+      "unit": "Sch. para 2 An offence specified in [F702paragraph 10(a) or (c) or 23] is a scheduled offence",
       "concepts": [
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.3 An offence specified in paragraph 10(b) or (d) is a scheduled offence only where",
+      "unit": "Sch. para 3 An offence specified in paragraph 10(b) or (d) is a scheduled offence only where",
       "concepts": [
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.4 The offence specified in paragraph 16(g) is a scheduled offence only where it is",
+      "unit": "Sch. para 4 The offence specified in paragraph 16(g) is a scheduled offence only where it is",
       "concepts": [
         "enforcement_and_offences"
       ]
@@ -1550,50 +1553,50 @@
       ]
     },
     {
-      "unit": "s.7 (1) This paragraph applies where an officer is empowered by virtue of any provision of",
+      "unit": "Sch. para 7 (1) This paragraph applies where an officer is empowered by virtue of any provision of",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.9 (1) Where an officer makes a record of a search in accordance with paragraph 8, he shall",
+      "unit": "Sch. para 9 (1) Where an officer makes a record of a search in accordance with paragraph 8, he shall",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.10 (1) A person commits an offence if he—",
+      "unit": "Sch. para 10 (1) A person commits an offence if he—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.11 (1) A person commits an offence if he fails to stop when required to do so under",
+      "unit": "Sch. para 11 (1) A person commits an offence if he fails to stop when required to do so under",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.1 (1) The Independent Assessor of Military Complaints Procedures in Northern Ireland",
+      "unit": "Sch. para 1 (1) The Independent Assessor of Military Complaints Procedures in Northern Ireland",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.9 (1) This paragraph applies where a person has a right to compensation in respect of an",
+      "unit": "Sch. para 9 (1) This paragraph applies where a person has a right to compensation in respect of an",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.11 (1) The Secretary of State may serve a notice under this Schedule on an individual—",
+      "unit": "Sch. para 11 (1) The Secretary of State may serve a notice under this Schedule on an individual—",
       "concepts": [
         "enrolment_registration",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.12 (1) A person commits an offence if he obtains compensation or increased compensation",
+      "unit": "Sch. para 12 (1) A person commits an offence if he obtains compensation or increased compensation",
       "concepts": [
         "enforcement_and_offences"
       ]
@@ -1605,177 +1608,177 @@
       ]
     },
     {
-      "unit": "s.1 In this Schedule “security services” means the services of one or more individuals",
+      "unit": "Sch. para 1 In this Schedule “security services” means the services of one or more individuals",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.2 A person commits an offence if he provides or offers to provide security services",
+      "unit": "Sch. para 2 A person commits an offence if he provides or offers to provide security services",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.3 (1) A person commits an offence if he publishes or causes to be published an",
+      "unit": "Sch. para 3 (1) A person commits an offence if he publishes or causes to be published an",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.4 (1) A person commits an offence if he pays money, in respect of the provision of security",
+      "unit": "Sch. para 4 (1) A person commits an offence if he pays money, in respect of the provision of security",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.5 (1) A person guilty of an offence under paragraph 2 or 3 shall be liable—",
+      "unit": "Sch. para 5 (1) A person guilty of an offence under paragraph 2 or 3 shall be liable—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.6 (1) An application for a licence under this Schedule shall be made to the Secretary of",
+      "unit": "Sch. para 6 (1) An application for a licence under this Schedule shall be made to the Secretary of",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.7 (1) The Secretary of State shall grant an application for a licence unless satisfied that—",
+      "unit": "Sch. para 7 (1) The Secretary of State shall grant an application for a licence unless satisfied that—",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.11 (1) Where an appeal is brought under paragraph 10, the Secretary of State may issue a",
+      "unit": "Sch. para 11 (1) Where an appeal is brought under paragraph 10, the Secretary of State may issue a",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.14 (1) A person to whom this paragraph applies shall give the Secretary of State such",
+      "unit": "Sch. para 14 (1) A person to whom this paragraph applies shall give the Secretary of State such",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.15 (1) A person commits an offence if he fails to comply with paragraph 13 or 14.",
+      "unit": "Sch. para 15 (1) A person commits an offence if he fails to comply with paragraph 13 or 14.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.16 (1) A constable may—",
+      "unit": "Sch. para 16 (1) A constable may—",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.17 (1) A person who provides security services for reward commits an offence if he makes",
+      "unit": "Sch. para 17 (1) A person who provides security services for reward commits an offence if he makes",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.18 (1) This paragraph applies where an offence under this Schedule committed by a body",
+      "unit": "Sch. para 18 (1) This paragraph applies where an offence under this Schedule committed by a body",
       "concepts": [
         "threshold_transaction_reporting",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.19 (1) A notice under this Schedule shall be in writing.",
+      "unit": "Sch. para 19 (1) A notice under this Schedule shall be in writing.",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "s.1 In this Schedule an “officer” means [F709(subject to paragraph 6A)] —",
+      "unit": "Sch. para 1 In this Schedule an “officer” means [F709(subject to paragraph 6A)] —",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.2 An officer may enter a vehicle (within the meaning of section 121) for the purpose",
+      "unit": "Sch. para 2 An officer may enter a vehicle (within the meaning of section 121) for the purpose",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.4 (1) Information acquired by an officer may be supplied—",
+      "unit": "Sch. para 4 (1) Information acquired by an officer may be supplied—",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.3 (1) The M198Suppression of Terrorism Act 1978 shall be amended as follows.",
+      "unit": "Sch. para 3 (1) The M198Suppression of Terrorism Act 1978 shall be amended as follows.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.19A An offence under any of sections 15 to 18 of the Terrorism Act 2000.”",
+      "unit": "Sch. para 19A An offence under any of sections 15 to 18 of the Terrorism Act 2000.”",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.4 (1) In Schedule 1 to the M199Legal Aid, Advice and Assistance (Northern Ireland) Order",
+      "unit": "Sch. para 4 (1) In Schedule 1 to the M199Legal Aid, Advice and Assistance (Northern Ireland) Order",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.5 (1) The M200Police and Criminal Evidence Act 1984 shall be amended as follows.",
+      "unit": "Sch. para 5 (1) The M200Police and Criminal Evidence Act 1984 shall be amended as follows.",
       "concepts": [
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.7 (1) The Elected Authorities (Northern Ireland) Act 1989 shall be amended as follows.",
+      "unit": "Sch. para 7 (1) The Elected Authorities (Northern Ireland) Act 1989 shall be amended as follows.",
       "concepts": [
         "designation_criteria"
       ]
     },
     {
-      "unit": "s.8 (1) The M201Police and Criminal Evidence (Northern Ireland) Order 1989 shall be",
+      "unit": "Sch. para 8 (1) The M201Police and Criminal Evidence (Northern Ireland) Order 1989 shall be",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.11 (1) The M203Proceeds of Crime (Scotland) Act 1995 shall be amended as follows.",
+      "unit": "Sch. para 11 (1) The M203Proceeds of Crime (Scotland) Act 1995 shall be amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.12 (1) The following shall be substituted for section 1(1) and (2) of the M204Northern Ireland",
+      "unit": "Sch. para 12 (1) The following shall be substituted for section 1(1) and (2) of the M204Northern Ireland",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.13 (1) The M205Criminal Procedure and Investigations Act 1996 shall, in its application to",
+      "unit": "Sch. para 13 (1) The M205Criminal Procedure and Investigations Act 1996 shall, in its application to",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.14 (1) The M206Proceeds of Crime (Northern Ireland) Order 1996 shall be amended as",
+      "unit": "Sch. para 14 (1) The M206Proceeds of Crime (Northern Ireland) Order 1996 shall be amended as",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.15 (1) This paragraph applies to a reference in paragraph 9 or 10 of the Schedule to the",
+      "unit": "Sch. para 15 (1) This paragraph applies to a reference in paragraph 9 or 10 of the Schedule to the",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.17 (1) This paragraph applies to a reference in section 14(2) of the Northern Ireland",
+      "unit": "Sch. para 17 (1) This paragraph applies to a reference in section 14(2) of the Northern Ireland",
       "concepts": [
         "enforcement_and_offences"
       ]

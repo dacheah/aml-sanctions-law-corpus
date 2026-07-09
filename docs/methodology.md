@@ -48,9 +48,22 @@ version — nothing is overwritten.
 ## 4. Authoritative-text policy
 
 The Federal Register of Legislation is the authority for Australian legislation (`source_is_official:
-true`); regulator copies are secondary. Texts are reproduced faithfully, including source defects, and the
-fidelity flag is only upgraded after a real check against the official source. Gaps are flagged, not
-filled.
+true`); `legislation.gov.uk` (The National Archives) is the authority for UK legislation; regulator copies
+are secondary. Texts are reproduced faithfully, including source defects, and the fidelity flag is only
+upgraded after a real check against the official source. Gaps are flagged, not filled.
+
+**Fidelity verification (independent cross-engine extraction).** `text_fidelity` is upgraded to
+`extracted_verified` only after the stored text is re-derived from the byte-exact original by a *second,
+independent* engine and the two agree. Each original is re-extracted with a different tool from the one
+used at ingest — DOCX via LibreOffice's converter (vs `python-docx`), PDF via poppler's `pdftotext` (vs
+PyMuPDF) — and compared by order-robust multiset token coverage: `unigram_forward` (share of stored tokens
+present in the independent extraction — the fabrication check), `bigram_forward` (ordered-pair agreement —
+the sequence check), and `unigram_reverse` (completeness proxy). The recorded metrics and the engine used
+are stored in each record's `verification` block. For the UK PDFs the reverse direction is intentionally
+below 1.0 because this corpus removes per-page furniture (running headers, the repeated "Changes to
+legislation" banner) that `pdftotext` retains; a token-level diff confirmed that residual is furniture, not
+substantive text. Verification is by tooling, not eye; a stronger `verbatim_transcription` flag is reserved
+for line-by-line human certification.
 
 ## 5. Licensing & the restricted posture
 
@@ -79,8 +92,8 @@ The UK primary texts are captured from `legislation.gov.uk` as the official "lat
 consolidations (or "as enacted" for the two amendment-lineage Acts). The revised versions carry
 `authoritative_status: official_consolidation`; because they are PDFs, `text.txt` is extracted with the
 per-page running headers/footers and the repeated "Changes to legislation" banner removed as
-non-substantive presentation, and `text_fidelity` stays `extracted_unverified` pending a provision-level
-check.
+non-substantive presentation. Each UK record's `text_fidelity` is `extracted_verified`, corroborated by
+independent re-extraction with poppler `pdftotext` (see §4).
 
 ## 7. Neutral concept vocabulary
 

@@ -28,12 +28,11 @@
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
     "asset_freezing",
     "beneficial_ownership",
-    "customer_due_diligence",
     "definitions_and_interpretation",
     "designation_criteria",
     "enforcement_and_offences",
@@ -1349,43 +1348,38 @@
     {
       "unit": "s.327 Concealing etc",
       "concepts": [
-        "customer_due_diligence",
-        "amlctf_program",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.328 Arrangements",
       "concepts": [
-        "customer_due_diligence",
-        "amlctf_program",
-        "record_keeping",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.329 Acquisition, use and possession",
       "concepts": [
-        "customer_due_diligence",
-        "amlctf_program",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.330 Failure to disclose: regulated sector",
       "concepts": [
-        "amlctf_program",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "suspicious_matter_reporting",
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.331 Failure to disclose: nominated officers in the regulated sector",
       "concepts": [
-        "amlctf_program",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "s.332 Failure to disclose: other nominated officers",
@@ -1438,10 +1432,18 @@
       ]
     },
     {
+      "unit": "s.337 Protected disclosures",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
       "unit": "s.338 Authorised disclosures",
       "concepts": [
-        "amlctf_program"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "s.339 Form and manner of disclosures",
@@ -1460,10 +1462,9 @@
     {
       "unit": "s.340 Interpretation",
       "concepts": [
-        "amlctf_program",
-        "enforcement_and_offences",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.341 Investigations",
@@ -2241,74 +2242,74 @@
       ]
     },
     {
-      "unit": "s.1 (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971",
+      "unit": "Sch. para 1 (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.2 An offence under either of the following provisions of this Act—",
+      "unit": "Sch. para 2 An offence under either of the following provisions of this Act—",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.3 An offence under section 56 of the Terrorism Act 2000 (c. 11) (directing the activities",
+      "unit": "Sch. para 3 An offence under section 56 of the Terrorism Act 2000 (c. 11) (directing the activities",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.5 (1) An offence under either of the following provisions of the Customs and Excise",
+      "unit": "Sch. para 5 (1) An offence under either of the following provisions of the Customs and Excise",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.6 An offence under any of the following provisions of the Forgery and Counterfeiting",
+      "unit": "Sch. para 6 An offence under any of the following provisions of the Forgery and Counterfeiting",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.7 (1) An offence under any of the following provisions of the Copyright, Designs and",
+      "unit": "Sch. para 7 (1) An offence under any of the following provisions of the Copyright, Designs and",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.9 An offence under section 21 of the Theft Act 1968 (c. 60) (blackmail).",
+      "unit": "Sch. para 9 An offence under section 21 of the Theft Act 1968 (c. 60) (blackmail).",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.10 (1) An offence of attempting, conspiring or inciting the commission of an offence",
+      "unit": "Sch. para 10 (1) An offence of attempting, conspiring or inciting the commission of an offence",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.3 (1) An administrator—",
+      "unit": "Sch. para 3 (1) An administrator—",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.6 (1) All money received by an administrator in the exercise of his functions must be",
+      "unit": "Sch. para 6 (1) All money received by an administrator in the exercise of his functions must be",
       "concepts": [
         "record_keeping"
       ]
     },
     {
-      "unit": "s.7 (1) An arrestment or [F2032attachment] of realisable property executed on or after the",
+      "unit": "Sch. para 7 (1) An arrestment or [F2032attachment] of realisable property executed on or after the",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
-      "unit": "s.8 (1) If the accountant of court reports to the court that an administrator has failed to",
+      "unit": "Sch. para 8 (1) If the accountant of court reports to the court that an administrator has failed to",
       "concepts": [
         "supervisory_architecture"
       ]
@@ -2320,56 +2321,56 @@
       ]
     },
     {
-      "unit": "s.1 An offence under either of the following provisions of this Act—",
+      "unit": "Sch. para 1 An offence under either of the following provisions of this Act—",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.2 (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971",
+      "unit": "Sch. para 2 (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.3 An offence under section 56 of the Terrorism Act 2000 (c. 11) (directing the activities",
+      "unit": "Sch. para 3 An offence under section 56 of the Terrorism Act 2000 (c. 11) (directing the activities",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.5 (1) An offence under either of the following provisions of the Customs and Excise",
+      "unit": "Sch. para 5 (1) An offence under either of the following provisions of the Customs and Excise",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.6 An offence under any of the following provisions of the Forgery and Counterfeiting",
+      "unit": "Sch. para 6 An offence under any of the following provisions of the Forgery and Counterfeiting",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.7 (1) An offence under any of the following provisions of the Copyright, Designs and",
+      "unit": "Sch. para 7 (1) An offence under any of the following provisions of the Copyright, Designs and",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.8 An offence under either of the following provisions of the Criminal Law",
+      "unit": "Sch. para 8 An offence under either of the following provisions of the Criminal Law",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.9 An offence of blackmail or extortion.",
+      "unit": "Sch. para 9 An offence of blackmail or extortion.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.10 (1) An offence of [F2048attempting,] conspiring or inciting the commission of an offence",
+      "unit": "Sch. para 10 (1) An offence of [F2048attempting,] conspiring or inciting the commission of an offence",
       "concepts": [
         "enforcement_and_offences"
       ]
@@ -2381,80 +2382,80 @@
       ]
     },
     {
-      "unit": "s.1 (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971",
+      "unit": "Sch. para 1 (1) An offence under any of the following provisions of the Misuse of Drugs Act 1971",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.2 An offence under either of the following provisions of this Act—",
+      "unit": "Sch. para 2 An offence under either of the following provisions of this Act—",
       "concepts": [
         "record_keeping",
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.3 An offence under section 56 of the Terrorism Act 2000 (c. 11) (directing the activities",
+      "unit": "Sch. para 3 An offence under section 56 of the Terrorism Act 2000 (c. 11) (directing the activities",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.5 (1) An offence under either of the following provisions of the Customs and Excise",
+      "unit": "Sch. para 5 (1) An offence under either of the following provisions of the Customs and Excise",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.6 An offence under any of the following provisions of the Forgery and Counterfeiting",
+      "unit": "Sch. para 6 An offence under any of the following provisions of the Forgery and Counterfeiting",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.7 (1) An offence under any of the following provisions of the Copyright, Designs and",
+      "unit": "Sch. para 7 (1) An offence under any of the following provisions of the Copyright, Designs and",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.8 (1) An offence under any of the following provisions of the Criminal Law Amendment",
+      "unit": "Sch. para 8 (1) An offence under any of the following provisions of the Criminal Law Amendment",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.9 An offence under section 20 of the Theft Act (Northern Ireland) 1969 (c. 16)",
+      "unit": "Sch. para 9 An offence under section 20 of the Theft Act (Northern Ireland) 1969 (c. 16)",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.10 (1) An offence of attempting, conspiring or inciting the commission of an offence",
+      "unit": "Sch. para 10 (1) An offence of attempting, conspiring or inciting the commission of an offence",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.2 (1) Power to obtain information or to require a person to answer any question.",
+      "unit": "Sch. para 2 (1) Power to obtain information or to require a person to answer any question.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.4 (1) An order making any provision under paragraph 2 or 3 must make provision",
+      "unit": "Sch. para 4 (1) An order making any provision under paragraph 2 or 3 must make provision",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.5 (1) There is or has been a connection where a person described in sub-paragraph (2)—",
+      "unit": "Sch. para 5 (1) There is or has been a connection where a person described in sub-paragraph (2)—",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.6 (1) There is a connection where the property in question is property held on trust, or an",
+      "unit": "Sch. para 6 (1) There is a connection where the property in question is property held on trust, or an",
       "concepts": [
         "definitions_and_interpretation"
       ]
@@ -2481,130 +2482,130 @@
       ]
     },
     {
-      "unit": "s.3 (1) If a gain attributable to a Part 5 transfer accrues to the transferor, it is not a chargeable",
+      "unit": "Sch. para 3 (1) If a gain attributable to a Part 5 transfer accrues to the transferor, it is not a chargeable",
       "concepts": [
         "threshold_transaction_reporting"
       ]
     },
     {
-      "unit": "s.4 If a Part 5 transfer is a transfer of securities within the meaning of [F2141Chapter 2",
+      "unit": "Sch. para 4 If a Part 5 transfer is a transfer of securities within the meaning of [F2141Chapter 2",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.5 In the case of a Part 5 transfer of property consisting of a [F2142deeply] discounted",
+      "unit": "Sch. para 5 In the case of a Part 5 transfer of property consisting of a [F2142deeply] discounted",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.8 In the case of a Part 5 transfer of property consisting of futures or options (within the",
+      "unit": "Sch. para 8 In the case of a Part 5 transfer of property consisting of futures or options (within the",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.3 (1) The Police (Scotland) Act 1967 is amended as follows.",
+      "unit": "Sch. para 3 (1) The Police (Scotland) Act 1967 is amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.4 (1) The Criminal Appeal Act 1968 is amended as follows.",
+      "unit": "Sch. para 4 (1) The Criminal Appeal Act 1968 is amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.5 (1) Section 27 of the Misuse of Drugs Act 1971 (forfeiture) is amended as follows.",
+      "unit": "Sch. para 5 (1) Section 27 of the Misuse of Drugs Act 1971 (forfeiture) is amended as follows.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.9 (1) The Criminal Appeal (Northern Ireland) Act 1980 is amended as follows.",
+      "unit": "Sch. para 9 (1) The Criminal Appeal (Northern Ireland) Act 1980 is amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.12 (1) The Civic Government (Scotland) Act 1982 is amended as follows.",
+      "unit": "Sch. para 12 (1) The Civic Government (Scotland) Act 1982 is amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.13 In Part 2 of Schedule 1 to the Criminal Justice Act 1982 (offences excluded from",
+      "unit": "Sch. para 13 In Part 2 of Schedule 1 to the Criminal Justice Act 1982 (offences excluded from",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.14 (1) The Police and Criminal Evidence Act 1984 is amended as follows.",
+      "unit": "Sch. para 14 (1) The Police and Criminal Evidence Act 1984 is amended as follows.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.17 (1) The Criminal Justice Act 1988 is amended as follows.",
+      "unit": "Sch. para 17 (1) The Criminal Justice Act 1988 is amended as follows.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.19 (1) The Police and Criminal Evidence (Northern Ireland) Order 1989 is amended as",
+      "unit": "Sch. para 19 (1) The Police and Criminal Evidence (Northern Ireland) Order 1989 is amended as",
       "concepts": [
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.22 (1) The Pension Schemes Act 1993 is amended as follows.",
+      "unit": "Sch. para 22 (1) The Pension Schemes Act 1993 is amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.23 (1) The Pension Schemes (Northern Ireland) Act 1993 is amended as follows.",
+      "unit": "Sch. para 23 (1) The Pension Schemes (Northern Ireland) Act 1993 is amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.25 (1) The Drug Trafficking Act 1994 is amended as follows.",
+      "unit": "Sch. para 25 (1) The Drug Trafficking Act 1994 is amended as follows.",
       "concepts": [
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.27 Section 15(2) and (3) of the Proceeds of Crime Act 1995 (investigation into benefit",
+      "unit": "Sch. para 27 Section 15(2) and (3) of the Proceeds of Crime Act 1995 (investigation into benefit",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.28 (1) The Proceeds of Crime (Scotland) Act 1995 is amended as follows.",
+      "unit": "Sch. para 28 (1) The Proceeds of Crime (Scotland) Act 1995 is amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.29 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.",
+      "unit": "Sch. para 29 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
-      "unit": "s.31 (1) The Proceeds of Crime (Northern Ireland) Order 1996 is amended as follows.",
+      "unit": "Sch. para 31 (1) The Proceeds of Crime (Northern Ireland) Order 1996 is amended as follows.",
       "concepts": [
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
     },
     {
-      "unit": "s.40 (1) The Criminal Justice and Police Act 2001 is amended as follows.",
+      "unit": "Sch. para 40 (1) The Criminal Justice and Police Act 2001 is amended as follows.",
       "concepts": [
         "definitions_and_interpretation"
       ]
