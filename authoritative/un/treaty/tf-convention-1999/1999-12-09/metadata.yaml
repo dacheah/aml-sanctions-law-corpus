@@ -1,0 +1,64 @@
+corpus_id: un/treaty/tf-convention-1999
+version_id: '1999-12-09'
+title: International Convention for the Suppression of the Financing of Terrorism (1999)
+short_title: Terrorist Financing Convention 1999
+jurisdiction: international
+document_type: Treaty (UN convention)
+legal_status: binding
+redistribution: open
+official_citation: International Convention for the Suppression of the Financing of Terrorism, adopted
+  by GA res 54/109, 9 December 1999, 2178 UNTS 197
+authentic_languages:
+- ar
+- zh
+- en
+- fr
+- ru
+- es
+source_url: https://www.un.org/law/cod/finterr.htm
+source_publisher: United Nations (UNODC / Office of Legal Affairs)
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: html
+original_filename: original.html
+content_hash: sha256:f2e9eff29141130a59b74c561d4b64e7e9b32ef679f623e8768c38ac30e7d299
+original_sha256: sha256:b40492048fbef8fef5a0a2ef7067fef71703a2498fba4b75c8f762f38656e112
+text_sha256: sha256:f2e9eff29141130a59b74c561d4b64e7e9b32ef679f623e8768c38ac30e7d299
+text_fidelity: extracted_verified
+language: en
+authoritative_status: authentic_text
+license: UN official document (free reproduction with attribution)
+rights_note: United Nations official document. UN treaties and Security Council resolutions may be freely
+  reproduced with attribution to the United Nations. Authentic in the six UN languages (Arabic, Chinese,
+  English, French, Russian, Spanish); the English authentic version is captured.
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.un.org/law/cod/finterr.htm
+  original_sha256: sha256:b40492048fbef8fef5a0a2ef7067fef71703a2498fba4b75c8f762f38656e112
+  note: UN Office of Legal Affairs HTML (EN); the certified-copy PDF is a scan without a text layer, so
+    the OLA HTML text is used.
+supersedes: null
+superseded_by: null
+related_documents:
+- un/unscr/1373-2001
+- gbr/act/terrorism-2000
+- usa/usc/18-2339c
+- eu/dir/2015-849
+provenance_note: The 1999 Terrorist Financing Convention — Article 2 defines the offence of financing
+  terrorism; the treaty basis for national TF offences and for UNSCR 1373. Captured from the UN Office
+  of Legal Affairs HTML text (the treaties.un.org certified copy is a scanned image without a usable text
+  layer). English authentic version; all six UN languages equally authentic. text.txt extracted from the
+  page body (site chrome removed). extracted_unverified.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: regex tag-strip vs BeautifulSoup (independent HTML parse)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 1.0
+    unigram_reverse: 1.0
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits running-header/masthead furniture (PDF)
+    or head/chrome (HTML) the comparison engine retains; a token diff confirms the residual is non-substantive.'

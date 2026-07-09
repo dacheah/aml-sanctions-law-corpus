@@ -1,0 +1,60 @@
+corpus_id: un/unscr/1540-2004
+version_id: '2004-04-28'
+title: UN Security Council Resolution 1540 (2004)
+short_title: UNSCR 1540 (2004)
+jurisdiction: international
+document_type: UN Security Council Resolution
+legal_status: binding
+redistribution: open
+official_citation: UN Security Council resolution 1540 (2004), S/RES/1540 (2004), 28 April 2004
+authentic_languages:
+- ar
+- zh
+- en
+- fr
+- ru
+- es
+source_url: https://undocs.org/S/RES/1540(2004)
+source_publisher: United Nations Security Council
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:1918283f3f595b7eedd2fc1da5fc86c6ab8a89f0d0fb5cc6c61f089d7d297146
+original_sha256: sha256:8c873cd05b9f2321355fc142edf34f4820fac9ad46ab54f334dec66537a2b52f
+text_sha256: sha256:1918283f3f595b7eedd2fc1da5fc86c6ab8a89f0d0fb5cc6c61f089d7d297146
+text_fidelity: extracted_verified
+language: en
+authoritative_status: authentic_text
+license: UN official document (free reproduction with attribution)
+rights_note: United Nations official document. UN treaties and Security Council resolutions may be freely
+  reproduced with attribution to the United Nations. Authentic in the six UN languages (Arabic, Chinese,
+  English, French, Russian, Spanish); the English authentic version is captured.
+capture_history:
+- date: '2026-07-09'
+  source_url: https://undocs.org/S/RES/1540(2004)
+  original_sha256: sha256:8c873cd05b9f2321355fc142edf34f4820fac9ad46ab54f334dec66537a2b52f
+  note: Official UN document PDF (S/RES/1540(2004)).
+supersedes: null
+superseded_by: null
+related_documents:
+- un/unscr/1267-1999
+- usa/usc/ieepa-50-35
+- eu/reg/2024-1620
+provenance_note: UNSCR 1540 (2004), acting under Chapter VII — obliges states to prevent the financing
+  of proliferation of weapons of mass destruction, the UN basis for proliferation-financing controls (FATF
+  R.7). Official UN PDF. Single-column PDF; text.txt extracted with running headers removed, de-hyphenated,
+  letter-spaced headings re-joined. English authentic version; all six UN languages are equally authentic.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.9941
+    unigram_reverse: 0.9883
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits running-header/masthead furniture (PDF)
+    or head/chrome (HTML) the comparison engine retains; a token diff confirms the residual is non-substantive.'

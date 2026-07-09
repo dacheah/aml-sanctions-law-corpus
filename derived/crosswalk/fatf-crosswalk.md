@@ -1,10 +1,13 @@
-# FATF cross-jurisdiction crosswalk (Australia ↔ United Kingdom)
+# FATF cross-jurisdiction crosswalk (UN treaty basis → Australia ↔ United Kingdom ↔ United States ↔ European Union)
 
-> **Unofficial, derived, analytical.** Each FATF Recommendation is mapped to the corpus's neutral
-> concepts; the curated (human-reviewed) provisions carrying those concepts are listed per jurisdiction.
-> It references FATF Recommendation numbers and topics only — **not** the copyright-restricted FATF
-> text — and is a navigation aid, **not legal advice** and not an assertion that a provision fully or
-> adequately implements a Recommendation. Provisions trace to authoritative text hashes.
+> **Unofficial, derived, analytical.** Each FATF Recommendation is shown with its **UN treaty /
+> Security Council basis** (the root international instrument it restates) above the national columns,
+> then mapped to the corpus's neutral concepts; the curated (human-reviewed) provisions carrying those
+> concepts are listed per jurisdiction. It references FATF Recommendation numbers and topics only —
+> **not** the copyright-restricted FATF text — and is a navigation aid, **not legal advice** and not an
+> assertion that a provision fully or adequately implements a Recommendation, nor a claim of legal
+> equivalence between the UN instrument and any national provision. Provisions trace to authoritative
+> text hashes.
 
 ## A — AML/CFT policies and coordination
 
@@ -33,6 +36,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 *Concepts:* `enforcement_and_offences`
 *Note:* Curated to the principal money-laundering offence provisions.
 
+- **UN treaty basis:**
+    - *Vienna Convention 1988*: Art. 3 — offences and sanctions (first internationalised the ML offence)
+    - *Palermo Convention 2000 (UNTOC)*: Art. 6 — criminalization of the laundering of proceeds of crime
+
 - **Australia:**
     - *AML/CTF Act 2006*: 139  Providing a designated service using a false customer n; 140  Receiving a designated service using a false customer n; 142  Conducting transactions so as to avoid reporting requir; 143  Conducting transfers to avoid reporting requirements re; 236  Defence of taking reasonable precautions, and exercisin
     - *AML/CTF Amendment Act 2024*: Schedule 9—
@@ -57,6 +64,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 ### R.4 — Confiscation and provisional measures
 *Concepts:* `enforcement_and_offences`
 *Note:* Confiscation/recovery sits within the enforcement-and-offences tag.
+
+- **UN treaty basis:**
+    - *Vienna Convention 1988*: Art. 5 — confiscation
+    - *Palermo Convention 2000 (UNTOC)*: Art. 12 — confiscation and seizure
 
 - **Australia:**
     - *AML/CTF Act 2006*: 139  Providing a designated service using a false customer n; 140  Receiving a designated service using a false customer n; 142  Conducting transactions so as to avoid reporting requir; 143  Conducting transfers to avoid reporting requirements re; 236  Defence of taking reasonable precautions, and exercisin
@@ -85,6 +96,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 *Concepts:* `enforcement_and_offences`
 *Note:* Terrorist-financing offence provisions.
 
+- **UN treaty basis:**
+    - *Terrorist Financing Convention 1999*: Art. 2 — offence of the financing of terrorism
+    - *UNSCR 1373 (2001)*: para. 1(b) — criminalize wilful provision/collection of funds for terrorism
+
 - **Australia:**
     - *AML/CTF Act 2006*: 139  Providing a designated service using a false customer n; 140  Receiving a designated service using a false customer n; 142  Conducting transactions so as to avoid reporting requir; 143  Conducting transfers to avoid reporting requirements re; 236  Defence of taking reasonable precautions, and exercisin
     - *AML/CTF Amendment Act 2024*: Schedule 9—
@@ -109,6 +124,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 ### R.6 — Targeted financial sanctions related to terrorism and terrorist financing
 *Concepts:* `asset_freezing`, `designation_criteria`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`, `sanctions_permits`
 
+- **UN treaty basis:**
+    - *UNSCR 1267 (1999)*: targeted asset-freezing regime (Al-Qaida / Taliban)
+    - *UNSCR 1373 (2001)*: para. 1(c) — freeze funds and assets of persons who commit terrorist acts
+
 - **Australia:**
     - *Autonomous Sanctions Regulations 2011*: 7  Designating controlled assets; 15  Prohibition of dealing with controlled assets; 20  Permit for assets and controlled assets; 6	Electronic money.; 6A  Thematic designation of persons or entities or declarati; 8  Sanctioned vessels; 10  Revocation of designation under regulation 6, 6A, 7 or 8; 11  Application for revocation of designation under regulati; 21  Advance notice of listing of persons, entities and asset; 22  Consolidated list of entities, persons and assets; 4	Money orders.; 4A  Sanctioned imports; 5	Bankers’ drafts.; 5A  Sanctioned commercial activity—Syria; 5B  Sanctioned commercial activity—Russia; 5C  Sanctioned commercial activity—specified Ukraine regions; 5CA  Sanctioned commercial activity—DPRK; 12  Prohibitions relating to a sanctioned supply; 12A  Prohibitions relating to sanctioned import; 13  Prohibitions relating to the provision of sanctioned ser; 13A  Prohibitions relating to engaging in sanctioned commerc; 14  Prohibition of dealing with designated persons or entiti; 16  Prohibitions relating to sanctioned vessels; 5D  Suspension of sanctions for specified activities _(+2 more)_
     - *Charter of the United Nations Act 1945*: 20  Offence—dealing with freezable assets; 21  Offence—giving an asset to a proscribed person or entity; 22A  Regulations on procedures relating to freezable assets; 15  Listing persons, entities and assets; 15A  Duration of listing; 16  Minister may revoke the listing; 17  Listed person or entity may apply to have the listing re; 18  Proscription by regulation; 38A  Effect of certain listings; 6  Regulations may apply sanctions; 8  Regulations expire when sanctions resolution ceases to bi; 11  Other instruments giving effect to Security Council deci; 13A  Invalidation of permission, authorisations etc.; 22  Authorised dealings
@@ -122,6 +141,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 ### R.7 — Targeted financial sanctions related to proliferation
 *Concepts:* `asset_freezing`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`
 *Note:* Corpus captures the general sanctions framework; proliferation-specific regimes are not separately branched in v1.
+
+- **UN treaty basis:**
+    - *UNSCR 1540 (2004)*: obligations against the financing of proliferation of weapons of mass destruction
 
 - **Australia:**
     - *Autonomous Sanctions Regulations 2011*: 7  Designating controlled assets; 15  Prohibition of dealing with controlled assets; 20  Permit for assets and controlled assets; 4	Money orders.; 4A  Sanctioned imports; 5	Bankers’ drafts.; 5A  Sanctioned commercial activity—Syria; 5B  Sanctioned commercial activity—Russia; 5C  Sanctioned commercial activity—specified Ukraine regions; 5CA  Sanctioned commercial activity—DPRK; 12  Prohibitions relating to a sanctioned supply; 12A  Prohibitions relating to sanctioned import; 13  Prohibitions relating to the provision of sanctioned ser; 13A  Prohibitions relating to engaging in sanctioned commerc; 14  Prohibition of dealing with designated persons or entiti; 16  Prohibitions relating to sanctioned vessels
@@ -495,6 +517,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 *Concepts:* `enforcement_and_offences`
 *Note:* Penalties for non-compliance.
 
+- **UN treaty basis:**
+    - *Palermo Convention 2000 (UNTOC)*: Art. 11 — prosecution, adjudication and sanctions
+
 - **Australia:**
     - *AML/CTF Act 2006*: 139  Providing a designated service using a false customer n; 140  Receiving a designated service using a false customer n; 142  Conducting transactions so as to avoid reporting requir; 143  Conducting transfers to avoid reporting requirements re; 236  Defence of taking reasonable precautions, and exercisin
     - *AML/CTF Amendment Act 2024*: Schedule 9—
@@ -521,25 +546,45 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 ### R.36 — International instruments
 *Note:* International-cooperation measures not captured in v1.
 
-_Outside the corpus's v1 scope — no captured implementing instrument._
+- **UN treaty basis:**
+    - *Vienna Convention 1988*: the Convention itself — R.36 calls on countries to become party and implement
+    - *Palermo Convention 2000 (UNTOC)*: the Convention itself
+    - *Terrorist Financing Convention 1999*: the Convention itself
+
+_No captured national implementing instrument in v1 (rooted in the UN basis above)._
 
 ### R.37 — Mutual legal assistance
 *Note:* Not a captured instrument in v1.
 
-_Outside the corpus's v1 scope — no captured implementing instrument._
+- **UN treaty basis:**
+    - *Vienna Convention 1988*: Art. 7 — mutual legal assistance
+    - *Palermo Convention 2000 (UNTOC)*: Art. 18 — mutual legal assistance
+
+_No captured national implementing instrument in v1 (rooted in the UN basis above)._
 
 ### R.38 — Mutual legal assistance: freezing and confiscation
 *Note:* Not a captured instrument in v1.
 
-_Outside the corpus's v1 scope — no captured implementing instrument._
+- **UN treaty basis:**
+    - *Vienna Convention 1988*: Art. 5 — confiscation, incl. international cooperation
+    - *Palermo Convention 2000 (UNTOC)*: Arts. 12–13 — confiscation and international cooperation for confiscation
+
+_No captured national implementing instrument in v1 (rooted in the UN basis above)._
 
 ### R.39 — Extradition
 *Note:* Not a captured instrument in v1.
 
-_Outside the corpus's v1 scope — no captured implementing instrument._
+- **UN treaty basis:**
+    - *Vienna Convention 1988*: Art. 6 — extradition
+    - *Palermo Convention 2000 (UNTOC)*: Art. 16 — extradition
+
+_No captured national implementing instrument in v1 (rooted in the UN basis above)._
 
 ### R.40 — Other forms of international cooperation
 *Note:* Not a captured instrument in v1.
 
-_Outside the corpus's v1 scope — no captured implementing instrument._
+- **UN treaty basis:**
+    - *Palermo Convention 2000 (UNTOC)*: Art. 27 — law-enforcement cooperation; Art. 7 — measures to combat money-laundering
+
+_No captured national implementing instrument in v1 (rooted in the UN basis above)._
 

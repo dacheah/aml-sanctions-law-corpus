@@ -1,7 +1,7 @@
 {
  "_derived": true,
- "_disclaimer": "UNOFFICIAL derived analytical crosswalk. References FATF Recommendation numbers/topics (not the copyright-restricted FATF text). Lists curated corpus provisions tagged with concepts relevant to each Recommendation's subject; NOT legal advice and NOT an assertion of adequate implementation. Every provision is a human-reviewed curated tag that traces to an authoritative text hash.",
- "source": "curated concept tags (scripts/concepts.py) resolved to provision labels via the structure layer",
+ "_disclaimer": "UNOFFICIAL derived analytical crosswalk. References FATF Recommendation numbers/topics (not the copyright-restricted FATF text). Shows each Recommendation's UN treaty / Security Council basis (a fixed human-curated mapping) above the national columns, then lists curated corpus provisions tagged with concepts relevant to each Recommendation's subject; NOT legal advice, NOT an assertion of adequate implementation, and NOT a claim of legal equivalence between the UN instrument and any national provision. Every national provision is a human-reviewed curated tag that traces to an authoritative text hash.",
+ "source": "UN treaty basis: fixed curated mapping (scripts/build_crosswalk.py UN_BASIS). National columns: curated concept tags (scripts/concepts.py) resolved to provision labels via the structure layer",
  "recommendations": [
   {
    "recommendation": "R.1",
@@ -13,6 +13,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 5,
@@ -83,6 +84,7 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Institutional/coordination measure; not a captured instrument in v1.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -112,6 +114,18 @@
    ],
    "in_v1_scope": true,
    "note": "Curated to the principal money-laundering offence provisions.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/vienna-1988",
+     "short_title": "Vienna Convention 1988",
+     "citation": "Art. 3 — offences and sanctions (first internationalised the ML offence)"
+    },
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "Art. 6 — criminalization of the laundering of proceeds of crime"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 29,
@@ -270,6 +284,18 @@
    ],
    "in_v1_scope": true,
    "note": "Confiscation/recovery sits within the enforcement-and-offences tag.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/vienna-1988",
+     "short_title": "Vienna Convention 1988",
+     "citation": "Art. 5 — confiscation"
+    },
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "Art. 12 — confiscation and seizure"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 29,
@@ -428,6 +454,18 @@
    ],
    "in_v1_scope": true,
    "note": "Terrorist-financing offence provisions.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/tf-convention-1999",
+     "short_title": "Terrorist Financing Convention 1999",
+     "citation": "Art. 2 — offence of the financing of terrorism"
+    },
+    {
+     "corpus_id": "un/unscr/1373-2001",
+     "short_title": "UNSCR 1373 (2001)",
+     "citation": "para. 1(b) — criminalize wilful provision/collection of funds for terrorism"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 29,
@@ -590,6 +628,18 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [
+    {
+     "corpus_id": "un/unscr/1267-1999",
+     "short_title": "UNSCR 1267 (1999)",
+     "citation": "targeted asset-freezing regime (Al-Qaida / Taliban)"
+    },
+    {
+     "corpus_id": "un/unscr/1373-2001",
+     "short_title": "UNSCR 1373 (2001)",
+     "citation": "para. 1(c) — freeze funds and assets of persons who commit terrorist acts"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 45,
@@ -697,6 +747,13 @@
    ],
    "in_v1_scope": true,
    "note": "Corpus captures the general sanctions framework; proliferation-specific regimes are not separately branched in v1.",
+   "un_basis": [
+    {
+     "corpus_id": "un/unscr/1540-2004",
+     "short_title": "UNSCR 1540 (2004)",
+     "citation": "obligations against the financing of proliferation of weapons of mass destruction"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 25,
@@ -780,6 +837,7 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "NPO-specific measures not captured in v1.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -807,6 +865,7 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Not a distinct captured instrument in v1.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -836,6 +895,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 16,
@@ -944,6 +1004,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 15,
@@ -1042,6 +1103,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 1,
@@ -1099,6 +1161,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 4,
@@ -1163,6 +1226,7 @@
    ],
    "in_v1_scope": true,
    "note": "MVTS registration/enrolment provisions.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 21,
@@ -1229,6 +1293,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 12,
@@ -1286,6 +1351,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 8,
@@ -1344,6 +1410,7 @@
    ],
    "in_v1_scope": true,
    "note": "Third-party reliance sits within the CDD provisions.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 16,
@@ -1452,6 +1519,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 21,
@@ -1546,6 +1614,7 @@
    ],
    "in_v1_scope": true,
    "note": "Enhanced measures for higher-risk jurisdictions.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 21,
@@ -1669,6 +1738,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 3,
@@ -1755,6 +1825,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 4,
@@ -1819,6 +1890,7 @@
    ],
    "in_v1_scope": true,
    "note": "Designated non-financial businesses and professions.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 23,
@@ -1934,6 +2006,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 7,
@@ -1981,6 +2054,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 1,
@@ -2062,6 +2136,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 1,
@@ -2143,6 +2218,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 8,
@@ -2213,6 +2289,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 8,
@@ -2284,6 +2361,7 @@
    ],
    "in_v1_scope": true,
    "note": "",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 15,
@@ -2359,6 +2437,7 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "The FIU (AUSTRAC / NCA-UKFIU) is an institution, not a captured instrument in v1.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -2388,6 +2467,7 @@
    ],
    "in_v1_scope": true,
    "note": "Investigative/enforcement provisions.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 29,
@@ -2546,6 +2626,7 @@
    ],
    "in_v1_scope": true,
    "note": "Investigation powers (e.g. POCA Part 8).",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 29,
@@ -2702,6 +2783,7 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Cross-border cash declaration regimes not separately captured in v1.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -2729,6 +2811,7 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Institutional/procedural; not a captured instrument.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -2756,6 +2839,7 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Supervisory guidance is out of v1 scope by design.",
+   "un_basis": [],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -2785,6 +2869,13 @@
    ],
    "in_v1_scope": true,
    "note": "Penalties for non-compliance.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "Art. 11 — prosecution, adjudication and sanctions"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 29,
@@ -2941,6 +3032,23 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "International-cooperation measures not captured in v1.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/vienna-1988",
+     "short_title": "Vienna Convention 1988",
+     "citation": "the Convention itself — R.36 calls on countries to become party and implement"
+    },
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "the Convention itself"
+    },
+    {
+     "corpus_id": "un/treaty/tf-convention-1999",
+     "short_title": "Terrorist Financing Convention 1999",
+     "citation": "the Convention itself"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -2968,6 +3076,18 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Not a captured instrument in v1.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/vienna-1988",
+     "short_title": "Vienna Convention 1988",
+     "citation": "Art. 7 — mutual legal assistance"
+    },
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "Art. 18 — mutual legal assistance"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -2995,6 +3115,18 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Not a captured instrument in v1.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/vienna-1988",
+     "short_title": "Vienna Convention 1988",
+     "citation": "Art. 5 — confiscation, incl. international cooperation"
+    },
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "Arts. 12–13 — confiscation and international cooperation for confiscation"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -3022,6 +3154,18 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Not a captured instrument in v1.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/vienna-1988",
+     "short_title": "Vienna Convention 1988",
+     "citation": "Art. 6 — extradition"
+    },
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "Art. 16 — extradition"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,
@@ -3049,6 +3193,13 @@
    "concepts": [],
    "in_v1_scope": false,
    "note": "Not a captured instrument in v1.",
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "Art. 27 — law-enforcement cooperation; Art. 7 — measures to combat money-laundering"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 0,

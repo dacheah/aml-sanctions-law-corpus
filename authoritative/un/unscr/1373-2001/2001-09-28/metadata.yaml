@@ -1,0 +1,62 @@
+corpus_id: un/unscr/1373-2001
+version_id: '2001-09-28'
+title: UN Security Council Resolution 1373 (2001)
+short_title: UNSCR 1373 (2001)
+jurisdiction: international
+document_type: UN Security Council Resolution
+legal_status: binding
+redistribution: open
+official_citation: UN Security Council resolution 1373 (2001), S/RES/1373 (2001), 28 September 2001
+authentic_languages:
+- ar
+- zh
+- en
+- fr
+- ru
+- es
+source_url: https://undocs.org/S/RES/1373(2001)
+source_publisher: United Nations Security Council
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:77495b8072a93f3a847e140968d893202175ad01acb6b2c3b7298d87a54cdda1
+original_sha256: sha256:f6dfcb2ad5a58d6105fcd4eb9d8881d652a811df0c2fb4f995a99c1029da9049
+text_sha256: sha256:77495b8072a93f3a847e140968d893202175ad01acb6b2c3b7298d87a54cdda1
+text_fidelity: extracted_verified
+language: en
+authoritative_status: authentic_text
+license: UN official document (free reproduction with attribution)
+rights_note: United Nations official document. UN treaties and Security Council resolutions may be freely
+  reproduced with attribution to the United Nations. Authentic in the six UN languages (Arabic, Chinese,
+  English, French, Russian, Spanish); the English authentic version is captured.
+capture_history:
+- date: '2026-07-09'
+  source_url: https://undocs.org/S/RES/1373(2001)
+  original_sha256: sha256:f6dfcb2ad5a58d6105fcd4eb9d8881d652a811df0c2fb4f995a99c1029da9049
+  note: Official UN document PDF (S/RES/1373(2001)).
+supersedes: null
+superseded_by: null
+related_documents:
+- un/treaty/tf-convention-1999
+- un/unscr/1267-1999
+- gbr/act/terrorism-2000
+- usa/usc/ieepa-50-35
+provenance_note: UNSCR 1373 (2001), acting under Chapter VII — obliges all states to criminalise terrorist
+  financing, freeze terrorist assets, and cooperate; the binding counter-terrorism-financing mandate behind
+  national regimes. Official UN PDF. Single-column PDF; text.txt extracted with running headers removed,
+  de-hyphenated, letter-spaced headings re-joined. English authentic version; all six UN languages are
+  equally authentic.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.9862
+    unigram_reverse: 0.9864
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits running-header/masthead furniture (PDF)
+    or head/chrome (HTML) the comparison engine retains; a token diff confirms the residual is non-substantive.'

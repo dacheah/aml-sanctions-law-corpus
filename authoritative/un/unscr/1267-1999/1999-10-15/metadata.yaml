@@ -1,0 +1,61 @@
+corpus_id: un/unscr/1267-1999
+version_id: '1999-10-15'
+title: UN Security Council Resolution 1267 (1999)
+short_title: UNSCR 1267 (1999)
+jurisdiction: international
+document_type: UN Security Council Resolution
+legal_status: binding
+redistribution: open
+official_citation: UN Security Council resolution 1267 (1999), S/RES/1267 (1999), 15 October 1999
+authentic_languages:
+- ar
+- zh
+- en
+- fr
+- ru
+- es
+source_url: https://undocs.org/S/RES/1267(1999)
+source_publisher: United Nations Security Council
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:1f50fca7e1fcaa3da278537419d4e66c9bde72230d33468fc52a721d3ce766d8
+original_sha256: sha256:b2f227be8b893a60e7776966e8fb22d22576531b17e521759fa4dcbebcfebe63
+text_sha256: sha256:1f50fca7e1fcaa3da278537419d4e66c9bde72230d33468fc52a721d3ce766d8
+text_fidelity: extracted_verified
+language: en
+authoritative_status: authentic_text
+license: UN official document (free reproduction with attribution)
+rights_note: United Nations official document. UN treaties and Security Council resolutions may be freely
+  reproduced with attribution to the United Nations. Authentic in the six UN languages (Arabic, Chinese,
+  English, French, Russian, Spanish); the English authentic version is captured.
+capture_history:
+- date: '2026-07-09'
+  source_url: https://undocs.org/S/RES/1267(1999)
+  original_sha256: sha256:b2f227be8b893a60e7776966e8fb22d22576531b17e521759fa4dcbebcfebe63
+  note: Official UN document PDF (S/RES/1267(1999)).
+supersedes: null
+superseded_by: null
+related_documents:
+- un/unscr/1373-2001
+- gbr/act/samla-2018
+- usa/usc/ieepa-50-35
+- eu/reg/2024-1620
+provenance_note: UNSCR 1267 (1999), acting under Chapter VII — established the Al-Qaida/Taliban targeted
+  asset-freezing regime and its Sanctions Committee, the UN root of national targeted financial sanctions.
+  Official UN PDF. Single-column PDF; text.txt extracted with running headers removed, de-hyphenated,
+  letter-spaced headings re-joined. English authentic version; all six UN languages are equally authentic.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.9979
+    unigram_reverse: 0.9856
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits running-header/masthead furniture (PDF)
+    or head/chrome (HTML) the comparison engine retains; a token diff confirms the residual is non-substantive.'

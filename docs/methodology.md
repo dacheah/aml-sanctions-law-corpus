@@ -66,12 +66,13 @@ substantive text. Verification is by tooling, not eye; a stronger `verbatim_tran
 for line-by-line human certification.
 
 **Reproducible extraction.** Each `text.txt` is derived from its byte-exact original by committed code, not
-ad-hoc steps: the toolkit's `extract.py` holds one profile per jurisdiction/format (AU DOCX; UK/US/EU PDF,
-with the US two-column and EU letter-spacing handling; US eCFR HTML) and re-derives every text on demand,
-comparing the result's SHA-256 to the stored hash. It reproduces 24 of the 27 text-bearing v1 records
-byte-exact; three early Australian records predate the module and differ only in blank-line placement
-(equivalent content, retained as stored under the append-only rule). From v1.1 on, `extract.py` is the
-canonical extraction for every new capture.
+ad-hoc steps: the toolkit's `extract.py` holds one profile per jurisdiction/format (AU DOCX; UK/US/EU/UN
+PDF, with the US two-column, EU/UN letter-spacing handling, and UN furniture removal; US eCFR HTML and UN
+full-document HTML) and re-derives every text on demand, comparing the result's SHA-256 to the stored hash.
+It reproduces 30 of the 33 text-bearing v1 records byte-exact — including all six UN backbone records; three
+early Australian records predate the module and differ only in blank-line placement (equivalent content,
+retained as stored under the append-only rule). From v1.1 on, `extract.py` is the canonical extraction for
+every new capture.
 
 ## 5. Licensing & the restricted posture
 
@@ -97,10 +98,17 @@ International Emergency Economic Powers Act (50 U.S.C. ch. 35), and 31 C.F.R. Pa
 provisions); and — added by recorded decision (2026-07-09) — the **European Union** branch: the Fourth AML
 Directive (Directive (EU) 2015/849, consolidated) and the 2024 AML package — the AML Regulation (Regulation
 (EU) 2024/1624), the Sixth AML Directive (Directive (EU) 2024/1640) and the Regulation establishing the AML
-Authority (Regulation (EU) 2024/1620). All jurisdictions are cross-referenced, never merged; UK texts are
-Crown copyright under the Open Government Licence v3.0, US federal texts are public domain (17 U.S.C. §105),
-and EU texts are © European Union reusable under Commission Decision 2011/833/EU with attribution — all
-`redistribution: open`. Out of scope (until a further recorded decision): the sanctions *lists* /
+Authority (Regulation (EU) 2024/1620); and — added by recorded decision (2026-07-09) — the **UN backbone**
+(`jurisdiction: international`): the international treaty and Security Council root that the FATF standard
+restates and that every national branch implements — the UN Convention against Illicit Traffic in Narcotic
+Drugs and Psychotropic Substances (Vienna, 1988), the UN Convention against Transnational Organized Crime
+(Palermo / UNTOC, 2000), the International Convention for the Suppression of the Financing of Terrorism
+(1999), and UN Security Council Resolutions 1267 (1999), 1373 (2001) and 1540 (2004). All jurisdictions are
+cross-referenced, never merged; UK texts are Crown copyright under the Open Government Licence v3.0, US
+federal texts are public domain (17 U.S.C. §105), EU texts are © European Union reusable under Commission
+Decision 2011/833/EU with attribution, and UN treaties and Security Council resolutions are UN official
+documents freely reproducible with attribution — all `redistribution: open`. Out of scope (until a further
+recorded decision): the sanctions *lists* /
 designations of any jurisdiction (operational data, not law — the enabling Acts/Regulations are in), OFAC
 program regulations (31 CFR ch. V), EU restrictive-measures regimes and EBA/technical standards, supervisory
 guidance (FCA/JMLSG/AUSTRAC/FinCEN/FFIEC), national transpositions of EU directives, state money-transmitter
@@ -131,6 +139,22 @@ US records carry `authoritative_status: official_consolidation` and are `extract
 against `pdftotext` and the eCFR HTML against an independent parse (see §4). US federal works are public
 domain (17 U.S.C. §105).
 
+The UN backbone is captured from **UNODC** (the convention PDFs) and the **UN documents system** (the
+Security Council resolution PDFs). UN treaties and Security Council resolutions are `authentic_text`
+(`legal_status: binding`) and are static — a treaty is amended only by protocol and a resolution is fixed as
+adopted — so each `version_id` is simply the adoption date, with no consolidation cycle. UN instruments are
+equally authentic in the six UN languages (Arabic, Chinese, English, French, Russian, Spanish); the English
+authentic version is captured and every language version is recorded as equally authentic (as with the EU
+branch). The single-column PDFs are extracted with running headers/footers dropped by position,
+de-hyphenated and with letter-spaced headings re-joined; each UN record is `extracted_verified` against an
+independent engine (see §4). The Terrorist Financing Convention 1999 is the one exception to PDF capture:
+the available UNODC PDF was a scanned image with no text layer, so the authentic text was captured from the
+UNODC HTML of the same instrument (recorded in that record's provenance). UN official documents may be
+freely reproduced with attribution (`redistribution: open`), so — unlike FATF — the full authentic text is
+published. The Palermo record's stored original is the UNODC ebook, which bundles the Convention with its
+three Protocols; the derived structure layer disambiguates the repeated article numbering per protocol
+section, and the FATF crosswalk's UN-treaty-basis mapping cites the Convention articles directly.
+
 ## 7. Neutral concept vocabulary
 
 The derived layer tags provisions with a neutral, construct-based vocabulary describing what a provision
@@ -143,10 +167,20 @@ are curated (human-reviewed); the remainder use a keyword fallback. See `concept
 Because the concept vocabulary is shared across jurisdictions, the derived layer can align them. The
 crosswalk (`derived/crosswalk/`) maps each of the 40 FATF Recommendations to the corpus's neutral concepts,
 then lists the curated (human-reviewed) provisions carrying those concepts in each jurisdiction, so a reader
-can see how Australia and the United Kingdom each address the same international standard. It references the
-FATF Recommendation *numbers and short topics only* — identifiers, not the copyright-restricted FATF text,
-consistent with the restricted posture in §5. It is **unofficial and analytical**: a navigation aid, not
-legal advice, and not an assertion that any provision fully or adequately implements a Recommendation.
-Recommendations whose subject falls outside v1 scope (institutional bodies, international-cooperation
-instruments) are marked as such, which doubles as an honest coverage map. Every listed provision traces,
-through the concept tag, to an authoritative text hash.
+can see how Australia, the United Kingdom, the United States and the European Union each address the same
+international standard. It references the FATF Recommendation *numbers and short topics only* — identifiers,
+not the copyright-restricted FATF text, consistent with the restricted posture in §5. It is **unofficial and
+analytical**: a navigation aid, not legal advice, and not an assertion that any provision fully or adequately
+implements a Recommendation. Recommendations whose subject falls outside v1 national scope (institutional
+bodies, international-cooperation instruments) are marked as such, which doubles as an honest coverage map.
+Every listed national provision traces, through the concept tag, to an authoritative text hash.
+
+Above the national columns, each Recommendation also shows its **UN treaty / Security Council basis** — the
+root international instrument the Recommendation restates — making the crosswalk *vertical*: UN instrument →
+FATF Recommendation → national provision. This UN-basis mapping is a **fixed, human-curated** table
+(`scripts/build_crosswalk.py`, `UN_BASIS`) held separate from the concept-tag resolution used for the
+national columns, so the specific article/paragraph citations stay exact (and to avoid the Palermo
+protocol-numbering collisions). It restores the international-cooperation Recommendations (R.36–40), which
+have no captured national instrument in v1, to visible coverage through their treaty root. Like the rest of
+the crosswalk it is unofficial and analytical — a claim of lineage, **not** a claim of legal equivalence
+between the UN instrument and any national provision.

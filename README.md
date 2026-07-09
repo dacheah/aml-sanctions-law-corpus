@@ -3,10 +3,12 @@
 [![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21279526.svg)](https://doi.org/10.5281/zenodo.21279526)
 
 A neutral, provenance-tracked, machine-readable record of the **law** of anti-money-laundering /
-counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone. Version 1
-covers **Australia**, the **United Kingdom**, the **United States** and the **European Union** as separate,
-cross-referenced jurisdiction branches — never merged; each instrument is recorded from its own official
-source.
+counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone and rooted
+in the **UN treaty and Security Council** layer beneath it. Version 1 covers **Australia**, the **United
+Kingdom**, the **United States** and the **European Union** as separate, cross-referenced jurisdiction
+branches — never merged; each instrument is recorded from its own official source — over the shared
+**international backbone** (the UN conventions and resolutions, plus the FATF Recommendations) that they
+each implement.
 
 > **An independent, non-commercial reference project. Not affiliated with or endorsed by any employer or
 > government body. Not legal or compliance advice.** This corpus records what each instrument says, as at
@@ -19,9 +21,10 @@ source.
   compilation is a new dated version; nothing is ever overwritten.
 - **`derived/`** — everything generated from the authoritative texts: structure extraction, neutral
   concept tags, a commencement/version timeline, and a **FATF cross-jurisdiction crosswalk**
-  (`derived/crosswalk/`) mapping each FATF Recommendation to the Australian and UK provisions that address
-  it. **Unofficial**, labelled, and traceable to a specific authoritative version by its text hash. Freely
-  regenerable.
+  (`derived/crosswalk/`) mapping each FATF Recommendation to its **UN treaty / Security Council basis**
+  (shown above the national columns) and to the Australian, UK, US and EU provisions that address it —
+  the chain from international root to national implementation. **Unofficial**, labelled, and traceable to a
+  specific authoritative version by its text hash. Freely regenerable.
 - **`schema/`** — the JSON Schemas every record must satisfy.
 - **`site/`** — a static, dependency-free browsable site (`site/index.html`): each instrument beside its
   provenance, a browse-by-concept index, and a browse-by-FATF-Recommendation crosswalk.
@@ -48,6 +51,8 @@ sha256sum authoritative/<id>/<version>/text.txt      # compare to text_sha256 in
 | AML/CTF Amendment Act 2024 (as made) | AUS | ingested |
 | AML/CTF Rules 2025 (Comp. 1) + Transitional Rules 2026 (Comp. 1) | AUS | ingested |
 | FATF 40 Recommendations + Interpretive Notes | international | ingested — restricted posture (hash + citation + excerpt; full text withheld, see [`docs/restricted-sources.md`](docs/restricted-sources.md)) |
+| UN Convention against Illicit Traffic in Narcotic Drugs (Vienna, 1988); UN Convention against Transnational Organized Crime (Palermo/UNTOC, 2000); International Convention for the Suppression of the Financing of Terrorism (1999) | international | ingested — UN backbone; authentic text, open (free reproduction with attribution) |
+| UN Security Council Resolutions 1267 (1999), 1373 (2001) and 1540 (2004) | international | ingested — UN backbone; authentic text, open (the enabling resolutions; designation *lists* out of scope) |
 | Charter of the United Nations Act 1945 (Comp. 15); Autonomous Sanctions Act 2011 (Comp. 4) + Regulations 2011 (Comp. 18) | AUS | ingested — sanctions branch, cross-referenced |
 | Proceeds of Crime Act 2002 (c. 29); Terrorism Act 2000 (c. 11); Sanctions and Anti-Money Laundering Act 2018 (c. 13) | GBR | ingested — official revised (in-force) consolidations from legislation.gov.uk |
 | Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692) | GBR | ingested — revised, in force to 3 Jul 2026 (incl. SI 2026/621) |
@@ -81,6 +86,12 @@ See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
   and any third-party material) — redistributable with attribution.
 - **FATF material** is FATF/OECD copyright and is handled under a restricted posture (link + citation +
   hash + short attributed excerpt; full text not redistributed).
+- **UN treaties and Security Council resolutions** are UN official documents, freely reproducible with
+  attribution to the United Nations; they are equally authentic in the six UN languages (the English
+  authentic version is captured). `redistribution: open`.
+- **UK legislation** is Crown copyright under the Open Government Licence v3.0; **US federal texts** are
+  public domain (17 U.S.C. §105); **EU texts** are © European Union, reusable under Commission Decision
+  2011/833/EU with attribution.
 - Each source text keeps its own terms, recorded per record in `metadata.yaml`.
 
 Attribution for the Australian legislation: *Federal Register of Legislation
