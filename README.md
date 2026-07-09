@@ -1,6 +1,6 @@
 # AML/CTF & Financial-Sanctions Legal Corpus (Australia, United Kingdom, United States & European Union, v1)
 
-[![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml)
+[![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21279526.svg)](https://doi.org/10.5281/zenodo.21279526)
 
 A neutral, provenance-tracked, machine-readable record of the **law** of anti-money-laundering /
 counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone. Version 1
