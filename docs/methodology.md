@@ -81,12 +81,17 @@ Sanctions Act 2011 + Regulations 2011); and — added by recorded decision (2026
 Kingdom** branch: the Proceeds of Crime Act 2002, the Terrorism Act 2000, the Money Laundering, Terrorist
 Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692), the Sanctions
 and Anti-Money Laundering Act 2018, and the Economic Crime (Transparency and Enforcement) Act 2022 and
-Economic Crime and Corporate Transparency Act 2023 (captured as enacted, for amendment lineage). All
-jurisdictions are cross-referenced, never merged; UK texts are Crown copyright under the Open Government
-Licence v3.0 (`redistribution: open`). Out of scope (until a further recorded decision): other comparative
-jurisdictions (US/EU), the sanctions *lists* / designations of any jurisdiction (operational data, not
-law — the enabling Acts/Regulations are in), supervisory guidance (FCA/JMLSG/AUSTRAC), tax law, and
-general criminal law.
+Economic Crime and Corporate Transparency Act 2023 (captured as enacted, for amendment lineage); and —
+added by recorded decision (2026-07-09) — the **United States** branch: the Bank Secrecy Act (31 U.S.C.
+ch. 53, subch. II, §§5311–5336, incl. the Corporate Transparency Act §5336), the money-laundering
+offences (18 U.S.C. §§1956–1957), the terrorist-financing offences (18 U.S.C. §§2339A–2339C), the
+International Emergency Economic Powers Act (50 U.S.C. ch. 35), and 31 C.F.R. Part 1010 (FinCEN general
+provisions). All jurisdictions are cross-referenced, never merged; UK texts are Crown copyright under the
+Open Government Licence v3.0, and US federal texts are in the public domain (17 U.S.C. §105) — both
+`redistribution: open`. Out of scope (until a further recorded decision): other comparative jurisdictions
+(EU), the sanctions *lists* / designations of any jurisdiction (operational data, not law — the enabling
+Acts/Regulations are in), OFAC program regulations (31 CFR ch. V), supervisory guidance
+(FCA/JMLSG/AUSTRAC/FinCEN/FFIEC), state money-transmitter law, tax law, and general criminal law.
 
 The UK primary texts are captured from `legislation.gov.uk` as the official "latest available (Revised)"
 consolidations (or "as enacted" for the two amendment-lineage Acts). The revised versions carry
@@ -94,6 +99,16 @@ consolidations (or "as enacted" for the two amendment-lineage Acts). The revised
 per-page running headers/footers and the repeated "Changes to legislation" banner removed as
 non-substantive presentation. Each UK record's `text_fidelity` is `extracted_verified`, corroborated by
 independent re-extraction with poppler `pdftotext` (see §4).
+
+The US statutes are captured from **govinfo.gov** (GPO) as the official U.S. Code 2024 annual-edition PDFs;
+the regulation (31 C.F.R. Part 1010) from the **eCFR** (Office of the Federal Register), the current
+authoritative-but-unofficial edition. The two-column USC print is extracted column-aware and de-hyphenated,
+with per-page running headers removed and each single-section PDF trimmed to its own section (adjacent
+sections spilling onto a shared page are dropped); the eCFR original is the saved HTML (its PDF export
+exceeded the site limit) and `text.txt` is taken from the Part content container with site chrome removed.
+US records carry `authoritative_status: official_consolidation` and are `extracted_verified` — the USC
+against `pdftotext` and the eCFR HTML against an independent parse (see §4). US federal works are public
+domain (17 U.S.C. §105).
 
 ## 7. Neutral concept vocabulary
 

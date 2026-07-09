@@ -1,0 +1,58 @@
+corpus_id: usa/usc/bsa-31-53-ii
+version_id: '2024'
+title: Bank Secrecy Act — 31 U.S.C. Chapter 53, Subchapter II (Records and Reports on Monetary Instruments
+  Transactions)
+short_title: BSA (31 U.S.C. §§5311–5336)
+jurisdiction: USA
+document_type: Statute (US Code)
+legal_status: binding
+redistribution: open
+official_citation: 31 U.S.C. §§ 5311–5336 (2024 ed.), Subtitle IV, Chapter 53, Subchapter II
+authentic_languages:
+- en
+source_url: https://www.govinfo.gov/content/pkg/USCODE-2024-title31/pdf/USCODE-2024-title31-subtitleIV-chap53-subchapII.pdf
+source_publisher: Office of the Law Revision Counsel / U.S. Government Publishing Office (govinfo.gov)
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:1fcbe4aeab4e29dbd51455d88d34fd4d95ad1266afeba8b781d13e90e4403e09
+original_sha256: sha256:6424dbbd249dd5338a0a37d3d82bf55653310bfb7214219daf8929945c5474a2
+text_sha256: sha256:1fcbe4aeab4e29dbd51455d88d34fd4d95ad1266afeba8b781d13e90e4403e09
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: public-domain (17 U.S.C. §105)
+rights_note: 'United States Government work in the public domain (17 U.S.C. § 105). Source: U.S. Code
+  2024 annual edition, govinfo.gov (GPO).'
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.govinfo.gov/content/pkg/USCODE-2024-title31/pdf/USCODE-2024-title31-subtitleIV-chap53-subchapII.pdf
+  original_sha256: sha256:6424dbbd249dd5338a0a37d3d82bf55653310bfb7214219daf8929945c5474a2
+  note: Official govinfo PDF, U.S. Code 2024 annual edition, Title 31 subchapter II.
+supersedes: null
+superseded_by: null
+related_documents:
+- usa/cfr/31-1010
+- aus/act/aml-ctf-2006
+- gbr/regs/mlr-2017
+provenance_note: 'Bank Secrecy Act core: 31 U.S.C. ch. 53, subch. II (§§5311–5336) — incl. §5318 (compliance
+  programs, CDD), §5318A (special measures), reporting/recordkeeping, and §5336 (Corporate Transparency
+  Act beneficial ownership, added by the AML Act of 2020). U.S. Code 2024 edition (govinfo/GPO); byte-exact
+  PDF; text.txt extracted column-aware, de-hyphenated, running headers removed, spillover trimmed. Public
+  domain (17 U.S.C. §105). extracted_unverified.'
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage
+    (unigram_forward = fabrication check; bigram_forward = sequence; unigram_reverse = completeness proxy).
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.997
+    bigram_forward: 0.9917
+    unigram_reverse: 0.9872
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits per-page running headers and adjacent-section
+    spillover (PDF) / site chrome (HTML) the comparison engine retains; a token diff confirms the residual
+    is non-substantive.'

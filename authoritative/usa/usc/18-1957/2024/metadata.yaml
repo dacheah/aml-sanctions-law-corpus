@@ -1,0 +1,54 @@
+corpus_id: usa/usc/18-1957
+version_id: '2024'
+title: 18 U.S.C. § 1957 — Engaging in monetary transactions in property derived from specified unlawful
+  activity
+short_title: 18 U.S.C. §1957
+jurisdiction: USA
+document_type: Statute (US Code)
+legal_status: binding
+redistribution: open
+official_citation: 18 U.S.C. § 1957 (2024 ed.)
+authentic_languages:
+- en
+source_url: https://www.govinfo.gov/content/pkg/USCODE-2024-title18/pdf/USCODE-2024-title18-partI-chap95-sec1957.pdf
+source_publisher: Office of the Law Revision Counsel / U.S. Government Publishing Office (govinfo.gov)
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:4f25bbabe1eeb37b1f5866a41578632e2849aff4da17998f7caab20993150248
+original_sha256: sha256:905c85dc2f7b2940387fed94a355c1c804e0af70d2faf061793bbea063819c96
+text_sha256: sha256:4f25bbabe1eeb37b1f5866a41578632e2849aff4da17998f7caab20993150248
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: public-domain (17 U.S.C. §105)
+rights_note: 'United States Government work in the public domain (17 U.S.C. § 105). Source: U.S. Code
+  2024 annual edition, govinfo.gov (GPO).'
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.govinfo.gov/content/pkg/USCODE-2024-title18/pdf/USCODE-2024-title18-partI-chap95-sec1957.pdf
+  original_sha256: sha256:905c85dc2f7b2940387fed94a355c1c804e0af70d2faf061793bbea063819c96
+  note: Official govinfo PDF, U.S. Code 2024 annual edition, Title 18.
+supersedes: null
+superseded_by: null
+related_documents:
+- usa/usc/18-1956
+- gbr/act/poca-2002
+provenance_note: 18 U.S.C. §1957 (transacting in criminally derived property over $10,000). U.S. Code
+  2024 edition; byte-exact PDF; column-aware de-hyphenated text, trimmed to section. Public domain. extracted_unverified.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage
+    (unigram_forward = fabrication check; bigram_forward = sequence; unigram_reverse = completeness proxy).
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.9982
+    unigram_reverse: 0.4808
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits per-page running headers and adjacent-section
+    spillover (PDF) / site chrome (HTML) the comparison engine retains; a token diff confirms the residual
+    is non-substantive.'

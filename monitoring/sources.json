@@ -40,6 +40,21 @@
       "name": "UK Sanctions and Anti-Money Laundering Act 2018 (c. 13) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2018/13/contents",
       "last_sha256": null
+    },
+    {
+      "name": "US Bank Secrecy Act — 31 U.S.C. ch. 53 subch. II (current)",
+      "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title31/subtitle4/chapter53/subchapter2&edition=prelim",
+      "last_sha256": null
+    },
+    {
+      "name": "US 31 C.F.R. Part 1010 — FinCEN general provisions (eCFR)",
+      "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010",
+      "last_sha256": null
+    },
+    {
+      "name": "US IEEPA — 50 U.S.C. ch. 35 (current)",
+      "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter35&edition=prelim",
+      "last_sha256": null
     }
   ],
   "_pending_once_ids_confirmed": [

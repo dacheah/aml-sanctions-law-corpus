@@ -1,0 +1,56 @@
+corpus_id: usa/usc/ieepa-50-35
+version_id: '2024'
+title: International Emergency Economic Powers Act — 50 U.S.C. Chapter 35 (§§1701–1708)
+short_title: IEEPA (50 U.S.C. §§1701–1708)
+jurisdiction: USA
+document_type: Statute (US Code)
+legal_status: binding
+redistribution: open
+official_citation: 50 U.S.C. §§ 1701–1708 (2024 ed.), Chapter 35
+authentic_languages:
+- en
+source_url: https://www.govinfo.gov/content/pkg/USCODE-2024-title50/pdf/USCODE-2024-title50-chap35.pdf
+source_publisher: Office of the Law Revision Counsel / U.S. Government Publishing Office (govinfo.gov)
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:94a98e1b057219a95c0a23beba208288b9fc9ad6a1dec51f1f648e0476ab9dda
+original_sha256: sha256:7934fd4ec010f7219a65939d44056671714efabc63def8e648bfdef0260668d4
+text_sha256: sha256:94a98e1b057219a95c0a23beba208288b9fc9ad6a1dec51f1f648e0476ab9dda
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: public-domain (17 U.S.C. §105)
+rights_note: 'United States Government work in the public domain (17 U.S.C. § 105). Source: U.S. Code
+  2024 annual edition, govinfo.gov (GPO).'
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.govinfo.gov/content/pkg/USCODE-2024-title50/pdf/USCODE-2024-title50-chap35.pdf
+  original_sha256: sha256:7934fd4ec010f7219a65939d44056671714efabc63def8e648bfdef0260668d4
+  note: Official govinfo PDF, U.S. Code 2024 annual edition, Title 50 chapter 35.
+supersedes: null
+superseded_by: null
+related_documents:
+- gbr/act/samla-2018
+- aus/act/autonomous-sanctions-2011
+provenance_note: International Emergency Economic Powers Act, 50 U.S.C. ch. 35 (§§1701–1708) — principal
+  statutory authority for US economic sanctions (incl. §1705 penalties). Enabling framework is in scope;
+  OFAC program regs (31 CFR ch. V) and the SDN List are out of scope (data, not law). U.S. Code 2024 edition
+  (govinfo); byte-exact PDF; column-aware de-hyphenated text (extensive executive-order notes retained
+  as in the official edition). Public domain (17 U.S.C. §105). extracted_unverified.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage
+    (unigram_forward = fabrication check; bigram_forward = sequence; unigram_reverse = completeness proxy).
+  independent_engine: poppler pdftotext 24.02 vs PyMuPDF 1.28 (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.997
+    bigram_forward: 0.9925
+    unigram_reverse: 0.9898
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits per-page running headers and adjacent-section
+    spillover (PDF) / site chrome (HTML) the comparison engine retains; a token diff confirms the residual
+    is non-substantive.'

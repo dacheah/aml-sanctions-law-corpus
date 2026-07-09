@@ -1,0 +1,59 @@
+corpus_id: usa/cfr/31-1010
+version_id: '2026-07-07'
+title: 31 C.F.R. Part 1010 — General Provisions (FinCEN)
+short_title: 31 C.F.R. Part 1010
+jurisdiction: USA
+document_type: Regulation (CFR)
+legal_status: binding
+redistribution: open
+official_citation: 31 C.F.R. Part 1010 (eCFR, current as of 7 July 2026; Title 31 last amended 6 July
+  2026)
+authentic_languages:
+- en
+source_url: https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010
+source_publisher: Office of the Federal Register (eCFR, ecfr.gov)
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: html
+original_filename: original.html
+content_hash: sha256:d2b57480dfee197dcc461b4c3df634f792b0071a6c0a498f1f6197a32d90d84e
+original_sha256: sha256:66ff018db75a89d01c89d5284a0d60808e6868087df1870a7196aaf9aca550a5
+text_sha256: sha256:d2b57480dfee197dcc461b4c3df634f792b0071a6c0a498f1f6197a32d90d84e
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: public-domain (17 U.S.C. §105)
+rights_note: 'United States Government work in the public domain (17 U.S.C. § 105). Source: eCFR (Office
+  of the Federal Register), the current authoritative-but-unofficial edition.'
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010
+  original_sha256: sha256:66ff018db75a89d01c89d5284a0d60808e6868087df1870a7196aaf9aca550a5
+  note: eCFR HTML of 31 CFR Part 1010, current as of 7 July 2026.
+supersedes: null
+superseded_by: null
+related_documents:
+- usa/usc/bsa-31-53-ii
+- gbr/regs/mlr-2017
+- aus/rules/aml-ctf-2025
+provenance_note: '31 C.F.R. Part 1010 — FinCEN general BSA implementing provisions: customer due diligence
+  (§1010.230), beneficial-ownership reporting under the Corporate Transparency Act (§1010.380), reporting,
+  recordkeeping, and special measures. Captured from the eCFR (Office of the Federal Register), current
+  authoritative-but-unofficial edition, current as of 7 July 2026. Original is the saved eCFR HTML (PDF
+  generation exceeded the site limit); text.txt from the Part content container (site chrome removed).
+  Public domain (17 U.S.C. §105). extracted_unverified.'
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage
+    (unigram_forward = fabrication check; bigram_forward = sequence; unigram_reverse = completeness proxy).
+  independent_engine: regex tag-strip vs BeautifulSoup (independent HTML parse)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 1.0
+    unigram_reverse: 0.9989
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits per-page running headers and adjacent-section
+    spillover (PDF) / site chrome (HTML) the comparison engine retains; a token diff confirms the residual
+    is non-substantive.'

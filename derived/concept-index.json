@@ -29,6 +29,42 @@
   "index": {
     "customer_due_diligence": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.230 Beneficial ownership requirements for legal entity customers."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.330 Reports relating to currency in excess of $10,000 received in a trade or business."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.331 Reports relating to currency in excess of $10,000 received as bail by court clerks."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.620 Due diligence programs for private banking accounts."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.955 Availability of beneficial ownership information reported under this part."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5318. Compliance, exemptions, and summons"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -1231,6 +1267,48 @@
     ],
     "beneficial_ownership": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.230 Beneficial ownership requirements for legal entity customers."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.380 Reports of beneficial ownership information."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.605 Definitions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.610 Due diligence programs for correspondent accounts for foreign financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.821 Penalty adjustment and table."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.955 Availability of beneficial ownership information reported under this part."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5336. Beneficial ownership information report-"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -1947,6 +2025,54 @@
     ],
     "risk_based_approach": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.610 Due diligence programs for correspondent accounts for foreign financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.653 Special measures against Commercial Bank of Syria."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.658 Special measures against FBME Bank, Ltd."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.659 Special measures against North Korea."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.660 Special measures against Bank of Dandong."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.661 Special measures against Iran."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.663 Special measures regarding Al-Huda Bank."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.664 Special measures regarding Huione Group."
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -2434,6 +2560,60 @@
       }
     ],
     "amlctf_program": [
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "Subpart A—General Definitions"
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "Subpart B—Programs"
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.200 General."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.210 Anti-money laundering programs."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.220 Customer identification program requirements."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.520 Information sharing between government agencies and financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.540 Voluntary information sharing among financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.605 Definitions."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5318. Compliance, exemptions, and summons"
+      },
       {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
@@ -3391,6 +3571,36 @@
     ],
     "suspicious_matter_reporting": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.320 Reports of suspicious transactions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.540 Voluntary information sharing among financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.610 Due diligence programs for correspondent accounts for foreign financial institutions."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5318. Compliance, exemptions, and summons"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5333. Safe harbor with respect to keep open di-"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -3873,6 +4083,24 @@
     ],
     "threshold_transaction_reporting": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.311 Filing obligations for reports of transactions in currency."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5313. Reports on domestic coins and currency"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5331. Reports relating to coins and currency re-"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -4265,6 +4493,18 @@
     ],
     "funds_transfer_reporting": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.821 Penalty adjustment and table."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5330. Registration of money transmitting busi-"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -4584,6 +4824,78 @@
       }
     ],
     "record_keeping": [
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.306 Filing of reports."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.330 Reports relating to currency in excess of $10,000 received in a trade or business."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.370 Reports of certain domestic transactions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.410 Records to be made and retained by financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.415 Purchases of bank checks and drafts, cashier's checks, money orders and traveler's checks."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.420 Records to be made and retained by persons having financial interests in foreign financial accounts."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.430 Nature of records and retention period."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.630 Prohibition on correspondent accounts for foreign shell banks; records concerning owners of foreign banks and agents for service "
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.955 Availability of beneficial ownership information reported under this part."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5314. Records and reports on foreign financial"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5317. Search and forfeiture of monetary instru-"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5323. Whistleblower incentives and protections"
+      },
       {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
@@ -5842,6 +6154,12 @@
       }
     ],
     "designated_services": [
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.821 Penalty adjustment and table."
+      },
       {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
@@ -7866,6 +8184,78 @@
       }
     ],
     "enrolment_registration": [
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.350 Reports of foreign financial accounts."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.360 Reports of transactions with foreign financial agencies."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.605 Definitions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.630 Prohibition on correspondent accounts for foreign shell banks; records concerning owners of foreign banks and agents for service "
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.651 Special measures against Burma."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.653 Special measures against Commercial Bank of Syria."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.821 Penalty adjustment and table."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.914 Service of summons."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.955 Availability of beneficial ownership information reported under this part."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5319. Availability of reports"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5330. Registration of money transmitting busi-"
+      },
+      {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "§ 1709. Imposition of sanctions with respect to"
+      },
       {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",
@@ -11361,6 +11751,102 @@
     ],
     "correspondent_banking": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.600 General."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.605 Definitions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.610 Due diligence programs for correspondent accounts for foreign financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.620 Due diligence programs for private banking accounts."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.630 Prohibition on correspondent accounts for foreign shell banks; records concerning owners of foreign banks and agents for service "
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.651 Special measures against Burma."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.653 Special measures against Commercial Bank of Syria."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.658 Special measures against FBME Bank, Ltd."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.659 Special measures against North Korea."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.660 Special measures against Bank of Dandong."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.661 Special measures against Iran."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.663 Special measures regarding Al-Huda Bank."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.664 Special measures regarding Huione Group."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.670 Summons or subpoena of foreign bank records; termination of correspondent relationship."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.821 Penalty adjustment and table."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5318A. Special measures for jurisdictions, finan-"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -12813,6 +13299,12 @@
     ],
     "sanctions_prohibitions": [
       {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "§ 1702. Presidential authorities"
+      },
+      {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",
         "version_id": "2025-12-05",
@@ -12990,6 +13482,12 @@
       }
     ],
     "asset_freezing": [
+      {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "§ 1702. Presidential authorities"
+      },
       {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",
@@ -13695,6 +14193,18 @@
     ],
     "designation_criteria": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.850 Enforcement authority with respect to transportation of currency or monetary instruments."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5317. Search and forfeiture of monetary instru-"
+      },
+      {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",
         "version_id": "2025-12-05",
@@ -14189,6 +14699,12 @@
     ],
     "un_and_autonomous_sanctions": [
       {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "§ 1701. Unusual and extraordinary threat; dec-"
+      },
+      {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",
         "version_id": "2025-12-05",
@@ -14436,6 +14952,84 @@
       }
     ],
     "enforcement_and_offences": [
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.670 Summons or subpoena of foreign bank records; termination of correspondent relationship."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.821 Penalty adjustment and table."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.930 Rewards for informants."
+      },
+      {
+        "corpus_id": "usa/usc/18-2339b",
+        "short_title": "18 U.S.C. §2339B",
+        "version_id": "2024",
+        "unit": "§ 2339B. Providing material support or resources"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5321. Civil penalties"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5322. Criminal penalties"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5324. Structuring transactions to evade report-"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5330. Registration of money transmitting busi-"
+      },
+      {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "§ 1705. Penalties"
+      },
+      {
+        "corpus_id": "usa/usc/18-2339a",
+        "short_title": "18 U.S.C. §2339A",
+        "version_id": "2024",
+        "unit": "§ 2339A. Providing material support to terrorists"
+      },
+      {
+        "corpus_id": "usa/usc/18-2339c",
+        "short_title": "18 U.S.C. §2339C",
+        "version_id": "2024",
+        "unit": "§ 2339C. Prohibitions against the financing of ter-"
+      },
+      {
+        "corpus_id": "usa/usc/18-1957",
+        "short_title": "18 U.S.C. §1957",
+        "version_id": "2024",
+        "unit": "§ 1957. Engaging in monetary transactions in"
+      },
+      {
+        "corpus_id": "usa/usc/18-1956",
+        "short_title": "18 U.S.C. §1956",
+        "version_id": "2024",
+        "unit": "§ 1956. Laundering of monetary instruments"
+      },
       {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",
@@ -20781,6 +21375,72 @@
     ],
     "supervisory_architecture": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.350 Reports of foreign financial accounts."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.540 Voluntary information sharing among financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.605 Definitions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.610 Due diligence programs for correspondent accounts for foreign financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.713 Oral communications."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.810 Enforcement."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.955 Availability of beneficial ownership information reported under this part."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5319. Availability of reports"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5323. Whistleblower incentives and protections"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5330. Registration of money transmitting busi-"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5333. Safe harbor with respect to keep open di-"
+      },
+      {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",
         "version_id": "2025-12-05",
@@ -23609,6 +24269,18 @@
     ],
     "scope_and_application": [
       {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.350 Reports of foreign financial accounts."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5311. Declaration of purpose"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -23988,6 +24660,174 @@
       }
     ],
     "definitions_and_interpretation": [
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "Subpart A—General Definitions"
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.100 General definitions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.330 Reports relating to currency in excess of $10,000 received in a trade or business."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.331 Reports relating to currency in excess of $10,000 received as bail by court clerks."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.505 Definitions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.520 Information sharing between government agencies and financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.540 Voluntary information sharing among financial institutions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.605 Definitions."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.651 Special measures against Burma."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.653 Special measures against Commercial Bank of Syria."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.658 Special measures against FBME Bank, Ltd."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.659 Special measures against North Korea."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.660 Special measures against Bank of Dandong."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.661 Special measures against Iran."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.663 Special measures regarding Al-Huda Bank."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.664 Special measures regarding Huione Group."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.670 Summons or subpoena of foreign bank records; termination of correspondent relationship."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.711 Submitting requests."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.713 Oral communications."
+      },
+      {
+        "corpus_id": "usa/cfr/31-1010",
+        "short_title": "31 C.F.R. Part 1010",
+        "version_id": "2026-07-07",
+        "unit": "§ 1010.716 Modifying or rescinding rulings."
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5312. Definitions and application"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5323. Whistleblower incentives and protections"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5330. Registration of money transmitting busi-"
+      },
+      {
+        "corpus_id": "usa/usc/bsa-31-53-ii",
+        "short_title": "BSA (31 U.S.C. §§5311–5336)",
+        "version_id": "2024",
+        "unit": "§ 5340. Definitions"
+      },
+      {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "§ 1704. Authority to issue regulations"
+      },
+      {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "§ 1708. Actions to address economic or industrial"
+      },
+      {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "§ 1709. Imposition of sanctions with respect to"
+      },
+      {
+        "corpus_id": "usa/usc/ieepa-50-35",
+        "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
+        "version_id": "2024",
+        "unit": "SUBCHAPTER I—ELECTRONIC SURVEILLANCE"
+      },
       {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",

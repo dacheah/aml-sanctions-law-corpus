@@ -16,6 +16,7 @@
     - *AML/CTF Rules 2025*: Part 5—AML/CTF programs
 - **United Kingdom:**
     - *MLR 2017*: reg.18
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.2 — National cooperation and coordination
 *Note:* Institutional/coordination measure; not a captured instrument in v1.
@@ -39,6 +40,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
+    - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
+    - *18 U.S.C. §1957*: § 1957. Engaging in monetary transactions in
+    - *18 U.S.C. §2339A*: § 2339A. Providing material support to terrorists
+    - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
+    - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 
 ### R.4 — Confiscation and provisional measures
 *Concepts:* `enforcement_and_offences`
@@ -55,6 +64,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
+    - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
+    - *18 U.S.C. §1957*: § 1957. Engaging in monetary transactions in
+    - *18 U.S.C. §2339A*: § 2339A. Providing material support to terrorists
+    - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
+    - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 
 ## C — Terrorist financing and proliferation financing
 
@@ -73,6 +90,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
+    - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
+    - *18 U.S.C. §1957*: § 1957. Engaging in monetary transactions in
+    - *18 U.S.C. §2339A*: § 2339A. Providing material support to terrorists
+    - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
+    - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 
 ### R.6 — Targeted financial sanctions related to terrorism and terrorist financing
 *Concepts:* `asset_freezing`, `designation_criteria`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`, `sanctions_permits`
@@ -83,6 +108,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Autonomous Sanctions Act 2011*: 10A  Proscription of persons or entities relating to past ci; 6  Specifying a provision as a sanction law; 10  Regulations may apply sanctions; 16  Offence—contravening a sanction law; 15  Invalidation of authorisations
 - **United Kingdom:**
     - *SAMLA 2018*: s.3 Financial sanctions; s.11 Designation of a person by name under a designation pow; s.15 Exceptions and licences
+- **United States:**
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities; § 1701. Unusual and extraordinary threat; dec-
 
 ### R.7 — Targeted financial sanctions related to proliferation
 *Concepts:* `asset_freezing`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`
@@ -94,6 +121,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Autonomous Sanctions Act 2011*: 6  Specifying a provision as a sanction law; 10  Regulations may apply sanctions; 16  Offence—contravening a sanction law
 - **United Kingdom:**
     - *SAMLA 2018*: s.3 Financial sanctions
+- **United States:**
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities; § 1701. Unusual and extraordinary threat; dec-
 
 ### R.8 — Non-profit organisations
 *Note:* NPO-specific measures not captured in v1.
@@ -117,6 +146,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 8  Use of applicable customer identification procedures by r
 - **United Kingdom:**
     - *MLR 2017*: reg.27; reg.28; reg.33
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
+    - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
 
 ### R.11 — Record-keeping
 *Concepts:* `record_keeping`
@@ -128,6 +160,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Charter of the United Nations Act 1945*: 37  Retention of records and documents
 - **United Kingdom:**
     - *MLR 2017*: reg.40
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5314. Records and reports on foreign financial
+    - *31 C.F.R. Part 1010*: § 1010.410 Records to be made and retained by financial inst
 
 ### R.12 — Politically exposed persons
 *Concepts:* `politically_exposed_persons`
@@ -136,6 +171,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Rules 2025*: Part 6—Customer due diligence
 - **United Kingdom:**
     - *MLR 2017*: reg.35
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.13 — Correspondent banking
 *Concepts:* `correspondent_banking`
@@ -144,6 +180,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Act 2006*: 95  Prohibitions on correspondent banking relationships invo; 96  Due diligence assessments and records of correspondent b; 117  Retention of records about correspondent banking relati
     - *AML/CTF Rules 2025*: Part 7—Correspondent banking
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5318A. Special measures for jurisdictions, finan-
+    - *31 C.F.R. Part 1010*: § 1010.620 Due diligence programs for private banking accoun
 
 ### R.14 — Money or value transfer services
 *Concepts:* `enrolment_registration`
@@ -154,6 +193,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Rules 2025*: Part 3—Enrolment; Part 4—Registration
     - *AML/CTF Transitional Rules 2026*: 5  Remittance Sector Register; 6  Virtual Asset Service Provider Register; 13  Timing of enrolment; 14  Registration to provide registrable virtual asset servic; 19  Notifying AML/CTF compliance officer—certain persons wit
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.15 — New technologies (incl. virtual assets)
 *Concepts:* `virtual_assets`
@@ -163,6 +203,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Amendment Act 2024*: Schedule 6—
     - *AML/CTF Transitional Rules 2026*: 6  Virtual Asset Service Provider Register; 11  Delayed application of requirement to report transfers o; 12  Delayed application of certain Principal Act provisions; 14  Registration to provide registrable virtual asset servic
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.16 — Wire transfers
 *Concepts:* `funds_transfer_reporting`
@@ -173,6 +214,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Rules 2025*: Part 8—Transfers of value
     - *AML/CTF Transitional Rules 2026*: 9  IVTS reporting transition date; 10  Modification of reporting obligations before IVTS report; 11  Delayed application of requirement to report transfers o
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.17 — Reliance on third parties
 *Concepts:* `customer_due_diligence`
@@ -185,6 +227,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 8  Use of applicable customer identification procedures by r
 - **United Kingdom:**
     - *MLR 2017*: reg.27; reg.28; reg.33
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
+    - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
 
 ### R.18 — Internal controls and foreign branches and subsidiaries
 *Concepts:* `amlctf_program`
@@ -196,6 +241,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 16  Timing of first independent evaluation for previously re; 17  Timing of first independent evaluation for reporting ent; 18  Notifying AML/CTF compliance officer—general; 19  Notifying AML/CTF compliance officer—certain persons wit
 - **United Kingdom:**
     - *MLR 2017*: reg.18; reg.19
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
 
 ### R.19 — Higher-risk countries
 *Concepts:* `risk_based_approach`, `customer_due_diligence`
@@ -208,6 +255,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 8  Use of applicable customer identification procedures by r
 - **United Kingdom:**
     - *MLR 2017*: reg.18; reg.27; reg.28; reg.33
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
+    - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
 
 ### R.20 — Reporting of suspicious transactions
 *Concepts:* `suspicious_matter_reporting`
@@ -218,6 +268,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:**
     - *POCA 2002*: s.330 Failure to disclose: regulated sector; s.331 Failure to disclose: nominated officers in the regulat; s.337 Protected disclosures; s.338 Authorised disclosures
     - *Terrorism Act 2000*: s.19 Disclosure of information: duty.
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
+    - *31 C.F.R. Part 1010*: § 1010.320 Reports of suspicious transactions.
 
 ### R.21 — Tipping-off and confidentiality
 *Concepts:* `tipping_off`
@@ -228,6 +281,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Rules 2025*: Part 10—Secrecy and access
 - **United Kingdom:**
     - *Terrorism Act 2000*: s.21D Tipping off: regulated sector
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.22 — DNFBPs: customer due diligence
 *Concepts:* `designated_services`, `customer_due_diligence`
@@ -240,6 +294,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 8  Use of applicable customer identification procedures by r
 - **United Kingdom:**
     - *MLR 2017*: reg.27; reg.28; reg.33
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
+    - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
 
 ### R.23 — DNFBPs: other measures
 *Concepts:* `designated_services`
@@ -248,6 +305,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Act 2006*: 6  Designated services; 139  Providing a designated service using a false customer n; 140  Receiving a designated service using a false customer n
     - *AML/CTF Amendment Act 2024*: Schedule 3—; Part 1—Real estate; Part 2—Dealers in precious metals and stones; Part 3—Professional services
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ## E — Transparency and beneficial ownership of legal persons and arrangements
 
@@ -258,6 +316,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Rules 2025*: Part 6—Customer due diligence
 - **United Kingdom:**
     - *MLR 2017*: reg.28
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5336. Beneficial ownership information report-
+    - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.380 Reports of beneficial ownership information.
 
 ### R.25 — Transparency and beneficial ownership of legal arrangements
 *Concepts:* `beneficial_ownership`
@@ -266,6 +327,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Rules 2025*: Part 6—Customer due diligence
 - **United Kingdom:**
     - *MLR 2017*: reg.28
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5336. Beneficial ownership information report-
+    - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.380 Reports of beneficial ownership information.
 
 ## F — Powers and responsibilities of competent authorities
 
@@ -277,6 +341,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Amendment Act 2024*: Schedule 9—
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.27 — Powers of supervisors
 *Concepts:* `supervisory_architecture`
@@ -286,6 +351,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Amendment Act 2024*: Schedule 9—
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.28 — Regulation and supervision of DNFBPs
 *Concepts:* `supervisory_architecture`, `designated_services`
@@ -295,6 +361,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Amendment Act 2024*: Schedule 9—; Schedule 3—; Part 1—Real estate; Part 2—Dealers in precious metals and stones; Part 3—Professional services
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.29 — Financial intelligence units
 *Note:* The FIU (AUSTRAC / NCA-UKFIU) is an institution, not a captured instrument in v1.
@@ -316,6 +383,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
+    - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
+    - *18 U.S.C. §1957*: § 1957. Engaging in monetary transactions in
+    - *18 U.S.C. §2339A*: § 2339A. Providing material support to terrorists
+    - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
+    - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 
 ### R.31 — Powers of law enforcement and investigative authorities
 *Concepts:* `enforcement_and_offences`
@@ -332,6 +407,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
+    - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
+    - *18 U.S.C. §1957*: § 1957. Engaging in monetary transactions in
+    - *18 U.S.C. §2339A*: § 2339A. Providing material support to terrorists
+    - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
+    - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 
 ### R.32 — Cash couriers
 *Note:* Cross-border cash declaration regimes not separately captured in v1.
@@ -363,6 +446,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+- **United States:**
+    - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
+    - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
+    - *18 U.S.C. §1957*: § 1957. Engaging in monetary transactions in
+    - *18 U.S.C. §2339A*: § 2339A. Providing material support to terrorists
+    - *18 U.S.C. §2339B*: § 2339B. Providing material support or resources
+    - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 
 ## G — International cooperation
 

@@ -1,11 +1,11 @@
-# AML/CTF & Financial-Sanctions Legal Corpus (Australia & United Kingdom, v1)
+# AML/CTF & Financial-Sanctions Legal Corpus (Australia, United Kingdom & United States, v1)
 
 [![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml)
 
 A neutral, provenance-tracked, machine-readable record of the **law** of anti-money-laundering /
 counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone. Version 1
-covers **Australia** and the **United Kingdom** as separate, cross-referenced jurisdiction branches —
-never merged; each instrument is recorded from its own official source.
+covers **Australia**, the **United Kingdom** and the **United States** as separate, cross-referenced
+jurisdiction branches — never merged; each instrument is recorded from its own official source.
 
 > **An independent, non-commercial reference project. Not affiliated with or endorsed by any employer or
 > government body. Not legal or compliance advice.** This corpus records what each instrument says, as at
@@ -51,6 +51,10 @@ sha256sum authoritative/<id>/<version>/text.txt      # compare to text_sha256 in
 | Proceeds of Crime Act 2002 (c. 29); Terrorism Act 2000 (c. 11); Sanctions and Anti-Money Laundering Act 2018 (c. 13) | GBR | ingested — official revised (in-force) consolidations from legislation.gov.uk |
 | Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692) | GBR | ingested — revised, in force to 3 Jul 2026 (incl. SI 2026/621) |
 | Economic Crime (Transparency and Enforcement) Act 2022 (c. 10); Economic Crime and Corporate Transparency Act 2023 (c. 56) | GBR | ingested — as enacted (amendment lineage) |
+| Bank Secrecy Act — 31 U.S.C. §§5311–5336 (incl. Corporate Transparency Act §5336) | USA | ingested — U.S. Code 2024 edition (govinfo) |
+| Money-laundering offences 18 U.S.C. §§1956–1957; terrorist-financing offences 18 U.S.C. §§2339A–2339C | USA | ingested — U.S. Code 2024 edition (govinfo) |
+| International Emergency Economic Powers Act — 50 U.S.C. ch. 35 (§§1701–1708) | USA | ingested — U.S. Code 2024 edition (govinfo) |
+| 31 C.F.R. Part 1010 — FinCEN general provisions (CDD, beneficial ownership) | USA | ingested — eCFR, current as of 7 Jul 2026 |
 
 The 1 July 2026 compilation of the AML/CTF Act will be added when the Federal Register publishes it;
 official sources (AU and UK) are monitored for change (`docs/monitoring.md`). UK legislation is Crown

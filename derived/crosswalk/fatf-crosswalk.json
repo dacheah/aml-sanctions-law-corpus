@@ -44,6 +44,10 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -61,6 +65,10 @@
      "instruments": {}
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -166,6 +174,54 @@
        "count": 1,
        "provisions": [
         "s.17 Enforcement"
+       ]
+      }
+     }
+    },
+    "USA": {
+     "provision_count": 8,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 2,
+       "provisions": [
+        "§ 5322. Criminal penalties",
+        "§ 5324. Structuring transactions to evade report-"
+       ]
+      },
+      "18 U.S.C. §1956": {
+       "count": 1,
+       "provisions": [
+        "§ 1956. Laundering of monetary instruments"
+       ]
+      },
+      "18 U.S.C. §1957": {
+       "count": 1,
+       "provisions": [
+        "§ 1957. Engaging in monetary transactions in"
+       ]
+      },
+      "18 U.S.C. §2339A": {
+       "count": 1,
+       "provisions": [
+        "§ 2339A. Providing material support to terrorists"
+       ]
+      },
+      "18 U.S.C. §2339B": {
+       "count": 1,
+       "provisions": [
+        "§ 2339B. Providing material support or resources"
+       ]
+      },
+      "18 U.S.C. §2339C": {
+       "count": 1,
+       "provisions": [
+        "§ 2339C. Prohibitions against the financing of ter-"
+       ]
+      },
+      "IEEPA (50 U.S.C. §§1701–1708)": {
+       "count": 1,
+       "provisions": [
+        "§ 1705. Penalties"
        ]
       }
      }
@@ -275,6 +331,54 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 8,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 2,
+       "provisions": [
+        "§ 5322. Criminal penalties",
+        "§ 5324. Structuring transactions to evade report-"
+       ]
+      },
+      "18 U.S.C. §1956": {
+       "count": 1,
+       "provisions": [
+        "§ 1956. Laundering of monetary instruments"
+       ]
+      },
+      "18 U.S.C. §1957": {
+       "count": 1,
+       "provisions": [
+        "§ 1957. Engaging in monetary transactions in"
+       ]
+      },
+      "18 U.S.C. §2339A": {
+       "count": 1,
+       "provisions": [
+        "§ 2339A. Providing material support to terrorists"
+       ]
+      },
+      "18 U.S.C. §2339B": {
+       "count": 1,
+       "provisions": [
+        "§ 2339B. Providing material support or resources"
+       ]
+      },
+      "18 U.S.C. §2339C": {
+       "count": 1,
+       "provisions": [
+        "§ 2339C. Prohibitions against the financing of ter-"
+       ]
+      },
+      "IEEPA (50 U.S.C. §§1701–1708)": {
+       "count": 1,
+       "provisions": [
+        "§ 1705. Penalties"
+       ]
+      }
+     }
     }
    }
   },
@@ -381,6 +485,54 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 8,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 2,
+       "provisions": [
+        "§ 5322. Criminal penalties",
+        "§ 5324. Structuring transactions to evade report-"
+       ]
+      },
+      "18 U.S.C. §1956": {
+       "count": 1,
+       "provisions": [
+        "§ 1956. Laundering of monetary instruments"
+       ]
+      },
+      "18 U.S.C. §1957": {
+       "count": 1,
+       "provisions": [
+        "§ 1957. Engaging in monetary transactions in"
+       ]
+      },
+      "18 U.S.C. §2339A": {
+       "count": 1,
+       "provisions": [
+        "§ 2339A. Providing material support to terrorists"
+       ]
+      },
+      "18 U.S.C. §2339B": {
+       "count": 1,
+       "provisions": [
+        "§ 2339B. Providing material support or resources"
+       ]
+      },
+      "18 U.S.C. §2339C": {
+       "count": 1,
+       "provisions": [
+        "§ 2339C. Prohibitions against the financing of ter-"
+       ]
+      },
+      "IEEPA (50 U.S.C. §§1701–1708)": {
+       "count": 1,
+       "provisions": [
+        "§ 1705. Penalties"
+       ]
+      }
+     }
     }
    }
   },
@@ -474,6 +626,18 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 2,
+     "instruments": {
+      "IEEPA (50 U.S.C. §§1701–1708)": {
+       "count": 2,
+       "provisions": [
+        "§ 1702. Presidential authorities",
+        "§ 1701. Unusual and extraordinary threat; dec-"
+       ]
+      }
+     }
     }
    }
   },
@@ -545,6 +709,18 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 2,
+     "instruments": {
+      "IEEPA (50 U.S.C. §§1701–1708)": {
+       "count": 2,
+       "provisions": [
+        "§ 1702. Presidential authorities",
+        "§ 1701. Unusual and extraordinary threat; dec-"
+       ]
+      }
+     }
     }
    }
   },
@@ -564,6 +740,10 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -581,6 +761,10 @@
      "instruments": {}
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -650,6 +834,24 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 3,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5318. Compliance, exemptions, and summons"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 2,
+       "provisions": [
+        "§ 1010.230 Beneficial ownership requirements for legal entity customers.",
+        "§ 1010.620 Due diligence programs for private banking accounts."
+       ]
+      }
+     }
     }
    }
   },
@@ -714,6 +916,23 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 2,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5314. Records and reports on foreign financial"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 1,
+       "provisions": [
+        "§ 1010.410 Records to be made and retained by financial institutions."
+       ]
+      }
+     }
     }
    }
   },
@@ -749,6 +968,10 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -785,6 +1008,23 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 2,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5318A. Special measures for jurisdictions, finan-"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 1,
+       "provisions": [
+        "§ 1010.620 Due diligence programs for private banking accounts."
+       ]
+      }
+     }
     }
    }
   },
@@ -843,6 +1083,10 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -890,6 +1134,10 @@
      }
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -940,6 +1188,10 @@
      }
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1006,6 +1258,24 @@
         "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
         "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
         "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      }
+     }
+    },
+    "USA": {
+     "provision_count": 3,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5318. Compliance, exemptions, and summons"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 2,
+       "provisions": [
+        "§ 1010.230 Beneficial ownership requirements for legal entity customers.",
+        "§ 1010.620 Due diligence programs for private banking accounts."
        ]
       }
      }
@@ -1077,6 +1347,17 @@
        "provisions": [
         "reg.18 —(1)  A relevant person must take appropriate steps to identify and assess the risks of money",
         "reg.19 —(1)  A relevant person must—"
+       ]
+      }
+     }
+    },
+    "USA": {
+     "provision_count": 1,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5318. Compliance, exemptions, and summons"
        ]
       }
      }
@@ -1154,6 +1435,24 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 3,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5318. Compliance, exemptions, and summons"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 2,
+       "provisions": [
+        "§ 1010.230 Beneficial ownership requirements for legal entity customers.",
+        "§ 1010.620 Due diligence programs for private banking accounts."
+       ]
+      }
+     }
     }
    }
   },
@@ -1205,6 +1504,23 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 2,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5318. Compliance, exemptions, and summons"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 1,
+       "provisions": [
+        "§ 1010.320 Reports of suspicious transactions."
+       ]
+      }
+     }
     }
    }
   },
@@ -1253,6 +1569,10 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1328,6 +1648,24 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 3,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5318. Compliance, exemptions, and summons"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 2,
+       "provisions": [
+        "§ 1010.230 Beneficial ownership requirements for legal entity customers.",
+        "§ 1010.620 Due diligence programs for private banking accounts."
+       ]
+      }
+     }
     }
    }
   },
@@ -1367,6 +1705,10 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1402,6 +1744,24 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 3,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5336. Beneficial ownership information report-"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 2,
+       "provisions": [
+        "§ 1010.230 Beneficial ownership requirements for legal entity customers.",
+        "§ 1010.380 Reports of beneficial ownership information."
+       ]
+      }
+     }
     }
    }
   },
@@ -1434,6 +1794,24 @@
        "count": 1,
        "provisions": [
         "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply"
+       ]
+      }
+     }
+    },
+    "USA": {
+     "provision_count": 3,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 1,
+       "provisions": [
+        "§ 5336. Beneficial ownership information report-"
+       ]
+      },
+      "31 C.F.R. Part 1010": {
+       "count": 2,
+       "provisions": [
+        "§ 1010.230 Beneficial ownership requirements for legal entity customers.",
+        "§ 1010.380 Reports of beneficial ownership information."
        ]
       }
      }
@@ -1482,6 +1860,10 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1525,6 +1907,10 @@
      }
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1580,6 +1966,10 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1597,6 +1987,10 @@
      "instruments": {}
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1702,6 +2096,54 @@
        "count": 1,
        "provisions": [
         "s.17 Enforcement"
+       ]
+      }
+     }
+    },
+    "USA": {
+     "provision_count": 8,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 2,
+       "provisions": [
+        "§ 5322. Criminal penalties",
+        "§ 5324. Structuring transactions to evade report-"
+       ]
+      },
+      "18 U.S.C. §1956": {
+       "count": 1,
+       "provisions": [
+        "§ 1956. Laundering of monetary instruments"
+       ]
+      },
+      "18 U.S.C. §1957": {
+       "count": 1,
+       "provisions": [
+        "§ 1957. Engaging in monetary transactions in"
+       ]
+      },
+      "18 U.S.C. §2339A": {
+       "count": 1,
+       "provisions": [
+        "§ 2339A. Providing material support to terrorists"
+       ]
+      },
+      "18 U.S.C. §2339B": {
+       "count": 1,
+       "provisions": [
+        "§ 2339B. Providing material support or resources"
+       ]
+      },
+      "18 U.S.C. §2339C": {
+       "count": 1,
+       "provisions": [
+        "§ 2339C. Prohibitions against the financing of ter-"
+       ]
+      },
+      "IEEPA (50 U.S.C. §§1701–1708)": {
+       "count": 1,
+       "provisions": [
+        "§ 1705. Penalties"
        ]
       }
      }
@@ -1811,6 +2253,54 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 8,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 2,
+       "provisions": [
+        "§ 5322. Criminal penalties",
+        "§ 5324. Structuring transactions to evade report-"
+       ]
+      },
+      "18 U.S.C. §1956": {
+       "count": 1,
+       "provisions": [
+        "§ 1956. Laundering of monetary instruments"
+       ]
+      },
+      "18 U.S.C. §1957": {
+       "count": 1,
+       "provisions": [
+        "§ 1957. Engaging in monetary transactions in"
+       ]
+      },
+      "18 U.S.C. §2339A": {
+       "count": 1,
+       "provisions": [
+        "§ 2339A. Providing material support to terrorists"
+       ]
+      },
+      "18 U.S.C. §2339B": {
+       "count": 1,
+       "provisions": [
+        "§ 2339B. Providing material support or resources"
+       ]
+      },
+      "18 U.S.C. §2339C": {
+       "count": 1,
+       "provisions": [
+        "§ 2339C. Prohibitions against the financing of ter-"
+       ]
+      },
+      "IEEPA (50 U.S.C. §§1701–1708)": {
+       "count": 1,
+       "provisions": [
+        "§ 1705. Penalties"
+       ]
+      }
+     }
     }
    }
   },
@@ -1828,6 +2318,10 @@
      "instruments": {}
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1849,6 +2343,10 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1866,6 +2364,10 @@
      "instruments": {}
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1974,6 +2476,54 @@
        ]
       }
      }
+    },
+    "USA": {
+     "provision_count": 8,
+     "instruments": {
+      "BSA (31 U.S.C. §§5311–5336)": {
+       "count": 2,
+       "provisions": [
+        "§ 5322. Criminal penalties",
+        "§ 5324. Structuring transactions to evade report-"
+       ]
+      },
+      "18 U.S.C. §1956": {
+       "count": 1,
+       "provisions": [
+        "§ 1956. Laundering of monetary instruments"
+       ]
+      },
+      "18 U.S.C. §1957": {
+       "count": 1,
+       "provisions": [
+        "§ 1957. Engaging in monetary transactions in"
+       ]
+      },
+      "18 U.S.C. §2339A": {
+       "count": 1,
+       "provisions": [
+        "§ 2339A. Providing material support to terrorists"
+       ]
+      },
+      "18 U.S.C. §2339B": {
+       "count": 1,
+       "provisions": [
+        "§ 2339B. Providing material support or resources"
+       ]
+      },
+      "18 U.S.C. §2339C": {
+       "count": 1,
+       "provisions": [
+        "§ 2339C. Prohibitions against the financing of ter-"
+       ]
+      },
+      "IEEPA (50 U.S.C. §§1701–1708)": {
+       "count": 1,
+       "provisions": [
+        "§ 1705. Penalties"
+       ]
+      }
+     }
     }
    }
   },
@@ -1991,6 +2541,10 @@
      "instruments": {}
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2012,6 +2566,10 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2029,6 +2587,10 @@
      "instruments": {}
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2050,6 +2612,10 @@
     "GBR": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "USA": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2067,6 +2633,10 @@
      "instruments": {}
     },
     "GBR": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "USA": {
      "provision_count": 0,
      "instruments": {}
     }
