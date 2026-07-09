@@ -1,0 +1,58 @@
+corpus_id: aus/rules/aml-ctf-transitional-2026
+version_id: '2026-05-14'
+title: Anti-Money Laundering and Counter-Terrorism Financing Transitional Rules 2026
+short_title: AML/CTF Transitional Rules 2026
+jurisdiction: AUS
+document_type: Legislative instrument (transitional rules)
+legal_status: binding
+redistribution: open
+official_citation: Anti-Money Laundering and Counter-Terrorism Financing Transitional Rules 2026 (Cth),
+  Compilation No. 1 (registration F2026C00452), compilation date 14 May 2026 (incorporating F2026L00556)
+authentic_languages:
+- en
+effective_date: '2026-05-14'
+source_url: https://www.legislation.gov.au/F2026L00393/latest/downloads
+source_publisher: Federal Register of Legislation (Office of Parliamentary Counsel), Australian Government
+source_is_official: true
+retrieval_date: '2026-07-08'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: docx
+original_filename: original.docx
+content_hash: sha256:c2acf8f506e37422bb253fc2e45ed1e49a32633cc719d206531f51f68753713c
+original_sha256: sha256:aa2ca68ce5b32546f8ecde63ba9a34b62b86609f0dc99f47b2b1a36761ec07af
+text_sha256: sha256:c2acf8f506e37422bb253fc2e45ed1e49a32633cc719d206531f51f68753713c
+text_fidelity: extracted_unverified
+language: en
+authoritative_status: official_consolidation
+license: CC-BY-4.0
+rights_note: '© Commonwealth of Australia. Licensed under CC BY 4.0 via the Federal Register of Legislation;
+  excludes the Commonwealth Coat of Arms and any third-party material. Attribution: Federal Register of
+  Legislation (https://www.legislation.gov.au).'
+capture_history:
+- date: '2026-07-08'
+  source_url: https://www.legislation.gov.au/F2026L00393/latest/downloads
+  original_sha256: sha256:aa2ca68ce5b32546f8ecde63ba9a34b62b86609f0dc99f47b2b1a36761ec07af
+  note: Initial capture — official Word download of Compilation No. 1 (F2026C00452) of the Transitional
+    Rules 2026; PDF also retrieved (sha256:e373ee0e5e95f1fc25a10d1e1a7afbc1d6dcb6d389b127b39af5571d5b805950).
+supersedes: null
+superseded_by: null
+related_documents:
+- aus/act/aml-ctf-amendment-2024
+- aus/act/aml-ctf-2006
+provenance_note: Official point-in-time compilation (Compilation No. 1, registration F2026C00452, compilation
+  date 14 May 2026, incorporating amendment F2026L00556) of the Anti-Money Laundering and Counter-Terrorism
+  Financing Transitional Rules 2026 — a legislative instrument made under Schedule 12 of the AML/CTF Amendment
+  Act 2024 (first made as F2026L00393). Byte-exact original captured as the official Word (DOCX) download
+  from the Federal Register; text.txt extracted from that DOCX. The Register PDF of the same compilation
+  is anchored by hash sha256:e373ee0e5e95f1fc25a10d1e1a7afbc1d6dcb6d389b127b39af5571d5b805950. Human download
+  from the official source; fidelity extracted_unverified pending verification.
+verification:
+  status: cross_checked_against_official_pdf
+  method: Automated cross-check of DOCX-derived text vs the official Register PDF of the same compilation
+    (automated fidelity gate).
+  reference: Official Register PDF (Compilation No. 1), sha256:e373ee0e5e95f1fc25a10d1e1a7afbc1d6dcb6d389b127b39af5571d5b805950
+  verified_by: corpus maintainer
+  verified_date: '2026-07-08'
+  note: Operative text corroborated against the official PDF (DOCX->PDF window coverage 87%). DOCX-derived
+    text excludes per-page running headers/footers and page numbers and normalises tables/TOC. No substantive
+    provision found missing in sampling. Line-by-line certification deferred; text_fidelity stays 'extracted_unverified'.

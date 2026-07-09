@@ -1,0 +1,55 @@
+corpus_id: fatf/rec/40-recommendations
+version_id: 2026-06
+title: The FATF Recommendations (International Standards on Combating Money Laundering and the Financing
+  of Terrorism and Proliferation)
+short_title: FATF Recommendations
+jurisdiction: international
+document_type: International standard (Recommendations, Interpretive Notes, Glossary)
+legal_status: soft-law
+redistribution: restricted
+official_citation: FATF (2012), International Standards on Combating Money Laundering and the Financing
+  of Terrorism & Proliferation — The FATF Recommendations, updated June 2026, FATF, Paris
+authentic_languages:
+- en
+- fr
+source_url: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
+source_publisher: Financial Action Task Force (FATF/OECD), Paris
+source_is_official: true
+retrieval_date: '2026-07-08'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:3c2553430fdff2c181c1e4c590373c1ad36c5adba36eda50c82a2bbb219f5919
+original_sha256: sha256:3c2553430fdff2c181c1e4c590373c1ad36c5adba36eda50c82a2bbb219f5919
+language: en
+authoritative_status: restricted_withheld
+license: FATF-OECD-copyright
+rights_note: '© FATF/OECD. FATF material is copyright; reproduction or translation for commercial purposes
+  requires prior written permission from the FATF Secretariat, Paris. redistribution = restricted: the
+  full text is withheld from the open layer; only hash + citation + a short attributed excerpt are published,
+  and the full authentic PDFs are held privately by the maintainer.'
+capture_history:
+- date: '2026-07-08'
+  source_url: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
+  original_sha256: sha256:3c2553430fdff2c181c1e4c590373c1ad36c5adba36eda50c82a2bbb219f5919
+  note: English authentic version ('The FATF Recommendations', updated June 2026, 151 pp). Full PDF held
+    privately; not redistributed.
+- date: '2026-07-08'
+  source_url: https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html
+  original_sha256: sha256:e7068a817f96246146b3a31b71baa733171d71486513a8e9d89f31357bf45c86
+  note: French authentic version ('Recommandations du GAFI'). Full PDF held privately; not redistributed.
+supersedes: null
+superseded_by: null
+related_documents:
+- aus/act/aml-ctf-2006
+- aus/rules/aml-ctf-2025
+provenance_note: 'FATF 40 Recommendations — the international AML/CTF/CPF standard (consolidated ''The
+  FATF Recommendations'', updated June 2026). RESTRICTED-LICENCE SOURCE (design-lock JC-07): FATF material
+  is FATF/OECD copyright, so the full text is NOT stored or redistributed in this corpus. The authentic
+  English and French PDFs were obtained from the official FATF site and are held privately by the maintainer;
+  their SHA-256 hashes are published here (capture_history) so anyone who independently downloads the
+  same official PDF can verify integrity. Short attributed title excerpt (identification only): "International
+  Standards on Combating Money Laundering and the Financing of Terrorism & Proliferation" (FATF). Prior
+  written permission from the FATF Secretariat is required before any commercial reproduction, translation,
+  or modification. legal_status = soft-law (an internationally agreed standard, not of itself domestically
+  binding).'

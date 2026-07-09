@@ -1,0 +1,58 @@
+corpus_id: aus/act/autonomous-sanctions-2011
+version_id: '2024-04-09'
+title: Autonomous Sanctions Act 2011
+short_title: Autonomous Sanctions Act 2011
+jurisdiction: AUS
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Autonomous Sanctions Act 2011 (Cth), No. 38, 2011, Compilation No. 4 (registration
+  C2024C00138), compilation date 9 April 2024 (incorporating Act No. 19, 2024)
+authentic_languages:
+- en
+effective_date: '2024-04-09'
+source_url: https://www.legislation.gov.au/C2011A00038/latest/downloads
+source_publisher: Federal Register of Legislation (Office of Parliamentary Counsel), Australian Government
+source_is_official: true
+retrieval_date: '2026-07-08'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: docx
+original_filename: original.docx
+content_hash: sha256:3abcab1b9e67905c0d92e5b31059ac412c55d19e9038518662cce2368ef3e6ed
+original_sha256: sha256:cad9820364d6a9116039d73c746b665855b7157ee9fe43d3fa2d3d0bfb104d2f
+text_sha256: sha256:3abcab1b9e67905c0d92e5b31059ac412c55d19e9038518662cce2368ef3e6ed
+text_fidelity: extracted_unverified
+language: en
+authoritative_status: official_consolidation
+license: CC-BY-4.0
+rights_note: '© Commonwealth of Australia. Licensed under CC BY 4.0 via the Federal Register of Legislation;
+  excludes the Commonwealth Coat of Arms and any third-party material. Attribution: Federal Register of
+  Legislation (https://www.legislation.gov.au).'
+capture_history:
+- date: '2026-07-08'
+  source_url: https://www.legislation.gov.au/C2011A00038/latest/downloads
+  original_sha256: sha256:cad9820364d6a9116039d73c746b665855b7157ee9fe43d3fa2d3d0bfb104d2f
+  note: Initial capture — official Word download of Compilation No. 4 (C2024C00138); PDF also retrieved
+    (sha256:0c2eb2df0f93ab2dc96ae24bb8ba37a6e96ff9edda7ec9db82499e4be46bf785).
+supersedes: null
+superseded_by: null
+related_documents:
+- aus/reg/autonomous-sanctions-2011
+- aus/act/charter-un-1945
+provenance_note: Official point-in-time compilation (Compilation No. 4, registration C2024C00138, compilation
+  date 9 April 2024, incorporating Act No. 19, 2024) of the Autonomous Sanctions Act 2011 (Cth) — the
+  Australian autonomous sanctions primary Act. Byte-exact original captured as the official Word (DOCX)
+  download from the Federal Register; text.txt extracted from that DOCX. The Register PDF of the same
+  compilation is anchored by hash sha256:0c2eb2df0f93ab2dc96ae24bb8ba37a6e96ff9edda7ec9db82499e4be46bf785.
+  Human download from the official source; fidelity extracted_unverified pending verification. Sanctions
+  branch — cross-referenced to the AML/CTF core, not merged.
+verification:
+  status: cross_checked_against_official_pdf
+  method: Automated cross-check of DOCX-derived text vs the official Register PDF of the same compilation
+    (automated fidelity gate).
+  reference: Official Register PDF (Compilation No. 4), sha256:0c2eb2df0f93ab2dc96ae24bb8ba37a6e96ff9edda7ec9db82499e4be46bf785
+  verified_by: corpus maintainer
+  verified_date: '2026-07-08'
+  note: Operative text corroborated against the official PDF (DOCX->PDF window coverage 83%). DOCX-derived
+    text excludes per-page running headers/footers and page numbers and normalises tables/TOC. No substantive
+    provision found missing in sampling. Line-by-line certification deferred; text_fidelity stays 'extracted_unverified'.

@@ -1,0 +1,19 @@
+- derived_id: aus/act/aml-ctf-amendment-2024/2024-12-10/commencement-timeline
+  derived_type: summary
+  artifact_file: aml-ctf-commencement-timeline.md
+  source_corpus_id: aus/act/aml-ctf-amendment-2024
+  source_version_id: '2024-12-10'
+  source_text_sha256: sha256:47f35e31724e44594c41c6db4ca341a7be4ebf3a5e5958765a282967c170940e
+  generation_method: hybrid
+  generator: corpus maintainer — deterministic extraction of the s.2 commencement table + curated
+    schedule mapping
+  generation_date: '2026-07-08'
+  review_status: human_reviewed
+  reviewed_by: corpus maintainer
+  license: CC-BY-4.0
+  confidence_note: Dates and provision references taken verbatim from the Amendment Act 2024 s.2 table;
+    schedule-topic labels summarise each schedule's heading.
+  disclaimer: DERIVED / UNOFFICIAL. A neutral synthesis of the commencement schedule taken from the Anti-Money
+    Laundering and Counter-Terrorism Financing Amendment Act 2024 (Cth) section 2 commencement table,
+    cross-referenced to captured point-in-time compilations. It records what the law provides and when;
+    it takes no position and is not legal or compliance advice. Verify against the official instruments.

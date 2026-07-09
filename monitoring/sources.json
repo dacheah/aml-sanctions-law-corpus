@@ -1,0 +1,32 @@
+{
+  "_note": "Official source pages watched for change (new compilation, remake, new amending instrument, or revised standard). Monitoring only detects and queues; a maintainer reviews every flag and decides what to ingest. Nothing is ingested automatically. last_sha256 is set on the first successful baseline run.",
+  "sources": [
+    {
+      "name": "AML/CTF Act 2006 — compilations (C2006A00169)",
+      "url": "https://www.legislation.gov.au/C2006A00169/latest/versions",
+      "last_sha256": null
+    },
+    {
+      "name": "AML/CTF Amendment Act 2024 (C2024A00110)",
+      "url": "https://www.legislation.gov.au/C2024A00110/latest/versions",
+      "last_sha256": null
+    },
+    {
+      "name": "AML/CTF Transitional Rules 2026 (F2026L00393)",
+      "url": "https://www.legislation.gov.au/F2026L00393/latest/versions",
+      "last_sha256": null
+    },
+    {
+      "name": "FATF 40 Recommendations (standard)",
+      "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html",
+      "last_sha256": null
+    }
+  ],
+  "_pending_once_ids_confirmed": [
+    "AML/CTF Rules 2025 (Federal Register F-instrument)",
+    "Charter of the United Nations Act 1945",
+    "Autonomous Sanctions Act 2011",
+    "Autonomous Sanctions Regulations 2011",
+    "AUSTRAC sector/regulatory guidance pages"
+  ]
+}

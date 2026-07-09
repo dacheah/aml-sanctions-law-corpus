@@ -1,0 +1,96 @@
+{
+  "_derived": true,
+  "_disclaimer": "DERIVED / UNOFFICIAL. A neutral synthesis of the commencement schedule taken from the Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024 (Cth) section 2 commencement table, cross-referenced to captured point-in-time compilations. It records what the law provides and when; it takes no position and is not legal or compliance advice. Verify against the official instruments.",
+  "title": "AML/CTF reform — commencement & point-in-time timeline",
+  "source": {
+    "corpus_id": "aus/act/aml-ctf-amendment-2024",
+    "version_id": "2024-12-10",
+    "basis": "section 2 commencement table",
+    "source_text_sha256": "sha256:47f35e31724e44594c41c6db4ca341a7be4ebf3a5e5958765a282967c170940e"
+  },
+  "events": [
+    {
+      "date": "2024-12-10",
+      "label": "Royal Assent",
+      "items": "Sections 1–3 and formal provisions",
+      "detail": "The Amendment Act 2024 (No. 110, 2024) receives assent."
+    },
+    {
+      "date": "2025-01-07",
+      "label": "28th day after assent",
+      "items": "Schedules 9 (Pts 1–3), 11, 12",
+      "detail": "Examination and information-gathering powers and definitions (Sch 9); REPEAL of the Financial Transaction Reports Act 1988 (Sch 11); transitional provisions enabling the Transitional Rules 2026 (Sch 12)."
+    },
+    {
+      "date": "2025-03-31",
+      "label": "Fixed date",
+      "items": "Schedule 5, item 2",
+      "detail": "A tipping-off-related consequential amendment."
+    },
+    {
+      "date": "2026-03-31",
+      "label": "Fixed date — main reform tranche",
+      "items": "Schedules 1, 2, 3, 5 (item 1 & Pt 1 Div 2), 6 (Pt 1), 8, 10",
+      "detail": "AML/CTF programs and business/reporting groups (Sch 1); customer due diligence reform (Sch 2); regulating additional high-risk services — real estate, dealers in precious metals & stones, and professional services, i.e. the Tranche 2 sectors, with enrolment opening (Sch 3); tipping-off offence and disclosure of AUSTRAC information to foreign countries/agencies (Sch 5); services relating to virtual assets (Sch 6 Pt 1); transfers of value and international value transfer services (Sch 8); exemptions (Sch 10)."
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Fixed date — Tranche 2 obligations",
+      "items": "Schedules 4, 7 (plus Tranche 2 obligations)",
+      "detail": "Legal professional privilege (Sch 4); definition of bearer negotiable instrument (Sch 7). Tranche 2 obligations for the newly-covered sectors take effect (the Transitional Rules 2026 frame designated-service timing by reference to the start of 1 July 2026)."
+    }
+  ],
+  "captured_states": [
+    {
+      "instrument": "AML/CTF Act 2006",
+      "corpus_id": "aus/act/aml-ctf-2006",
+      "states": [
+        {
+          "version": "2025-03-31",
+          "ref": "Compilation No. 59 (C2025C00235) — pre-reform baseline"
+        },
+        {
+          "version": "2026-03-31",
+          "ref": "Compilation No. 60 (C2026C00119)"
+        },
+        {
+          "version": "2026-06-04",
+          "ref": "Compilation No. 61 (C2026C00220)"
+        }
+      ]
+    },
+    {
+      "instrument": "AML/CTF Amendment Act 2024",
+      "corpus_id": "aus/act/aml-ctf-amendment-2024",
+      "states": [
+        {
+          "version": "2024-12-10",
+          "ref": "as made (No. 110, 2024) — source of this schedule"
+        }
+      ]
+    },
+    {
+      "instrument": "AML/CTF Rules 2025",
+      "corpus_id": "aus/rules/aml-ctf-2025",
+      "states": [
+        {
+          "version": "2026-03-31",
+          "ref": "Compilation No. 1 (F2026C00274)"
+        }
+      ]
+    },
+    {
+      "instrument": "AML/CTF Transitional Rules 2026",
+      "corpus_id": "aus/rules/aml-ctf-transitional-2026",
+      "states": [
+        {
+          "version": "2026-05-14",
+          "ref": "Compilation No. 1 (F2026C00452)"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "1 July 2026 compilation of the AML/CTF Act 2006 — not yet published on the Federal Register as at 2026-07-09; the weekly source monitor will flag it when it appears."
+  ]
+}

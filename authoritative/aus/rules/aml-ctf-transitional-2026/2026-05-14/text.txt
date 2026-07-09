@@ -1,0 +1,294 @@
+
+
+Anti-Money Laundering and Counter-Terrorism Financing Transitional Rules 2026
+made under Schedule 12 of the Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024.
+Compilation No. 1	
+Compilation date:	14 May 2026
+Includes amendments:	F2026L00556
+About this compilation
+This compilation
+This is a compilation of the Anti-Money Laundering and Counter-Terrorism Financing Transitional Rules 2026 that shows the text of the law as amended and in force on 14 May 2026 (the compilation date).
+The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
+Uncommenced amendments
+The effect of uncommenced amendments is not shown in the text of the compiled law. The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au).
+Application, saving and transitional provisions
+If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+Modifications
+If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. Any modifications affecting the law are accessible on the Register.
+Self-repealing provisions
+If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+  
+  
+  
+
+Contents
+Part 1—Preliminary	1
+1  Name	1
+2  Commencement	1
+3  Authority	1
+4  Definitions	1
+Part 2—Registration	3
+5  Remittance Sector Register	3
+6  Virtual Asset Service Provider Register	3
+Part 3—Continued use of applicable customer identification procedures for initial customer due diligence	4
+7  Requirement for AML/CTF policies to deal with carrying out initial customer due diligence	4
+8  Use of applicable customer identification procedures by reporting entity	5
+Part 4—Reporting obligations	6
+9  IVTS reporting transition date	6
+10  Modification of reporting obligations before IVTS reporting transition date	7
+11  Delayed application of requirement to report transfers of value involving unverified self-hosted virtual asset wallets	8
+Part 5—Virtual asset service providers	9
+12  Delayed application of certain Principal Act provisions	9
+13  Timing of enrolment	9
+14  Registration to provide registrable virtual asset services	9
+Part 6—Financial advisers	11
+15  Modified application of section 26T of Principal Act	11
+Part 7—Independent evaluations	12
+16  Timing of first independent evaluation for previously regulated reporting entities	12
+17  Timing of first independent evaluation for reporting entities that did not previously require independent reviews	12
+Part 8—AML/CTF compliance officers	14
+18  Notifying AML/CTF compliance officer—general	14
+19  Notifying AML/CTF compliance officer—certain persons with delayed enrolment	14
+Part 9—Defence of law of foreign country preventing compliance	15
+20  Notice may be provided after conduct occurs	15
+Part 10—Application, saving and transitional provisions	16
+21  Amendment made by Anti-Money Laundering and Counter-Terrorism Financing Transitional Amendment (Reporting Obligations) Rules 2026	16
+Endnotes	17
+Endnote 1—About the endnotes	17
+Endnote 2—Abbreviation key	18
+Endnote 3—Legislation history	19
+Endnote 4—Amendment history	20
+
+Part 1—Preliminary
+  
+1  Name
+		This instrument is the Anti-Money Laundering and Counter-Terrorism Financing Transitional Rules 2026.
+2  Commencement
+	(1)	Each provision of this instrument specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+Commencement information | Commencement information | Commencement information
+Column 1 | Column 2 | Column 3
+Provisions | Commencement | Date/Details
+1.  The whole of this instrument | 31 March 2026. | 31 March 2026
+Note:	This table relates only to the provisions of this instrument as originally made. It will not be amended to deal with any later amendments of this instrument.
+	(2)	Any information in column 3 of the table is not part of this instrument. Information may be inserted in this column, or information in it may be edited, in any published version of this instrument.
+3  Authority
+		This instrument is made under the Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024.
+4  Definitions
+		In this instrument:
+Amending Act means the Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2024.
+AML/CTF Rules has the same meaning as in the Principal Act.
+designated service has the same meaning as in the Principal Act.
+enrolment identifier, for a reporting entity, means the numeric identifier assigned to the entity at the time of submitting an application for enrolment under subsection 51E(1) of the Principal Act.
+IVTS reporting transition date, for a reporting entity, has the meaning given by section 9.
+Principal Act means the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
+registrable virtual asset service has the same meaning as in the Principal Act.
+reporting entity has the same meaning as in the Principal Act.
+Part 2—Registration
+  
+5  Remittance Sector Register
+		Nothing in the Amending Act is taken to have affected a person’s status as:
+	(a)	a registered remittance network provider; or
+	(b)	a registered independent remittance dealer; or
+	(c)	a registered remittance affiliate of a registered remittance network provider.
+6  Virtual Asset Service Provider Register
+		A person who, immediately before 31 March 2026, was a registered digital currency exchange provider within the meaning of the Principal Act is taken on and from that day to have been registered under section 76E of the Principal Act as a virtual asset service provider.
+Part 3—Continued use of applicable customer identification procedures for initial customer due diligence
+  
+7  Requirement for AML/CTF policies to deal with carrying out initial customer due diligence
+	(1)	A reporting entity is taken to comply with paragraph 26F(3)(b) of the Principal Act, with respect to policies relating to meeting the obligations imposed on the reporting entity under subsection 28(1) of the Principal Act, if:
+	(a)	the reporting entity maintains AML/CTF policies that:
+	(i)	provide for the reporting entity to carry out customer due diligence using customer identification procedures that comply with the requirements of the AML/CTF Rules as in force on 30 March 2026 for applicable customer identification procedures; and
+	(ii)	identify the classes of customer such a customer identification procedure is to be applied to, in relation to commencing to provide a designated service at or through a permanent establishment in Australia; and
+	(iii)	for each such class of customer, identify the date from which a customer identification procedure will no longer be applied; and
+	(b)	the AML/CTF policies relating to the use of customer identification procedures for classes of customers:
+	(i)	are appropriate for managing and mitigating the risks of money laundering, financing of terrorism and proliferation financing that the reporting entity may reasonably face in providing its designated services; and
+	(ii)	are appropriate to the nature, size and complexity of the reporting entity’s business.
+	(2)	The requirements in subparagraphs (1)(a)(ii) and (iii) apply on and after 1 July 2026.
+	(3)	To avoid doubt, subsection (1) of this section does not deem compliance with paragraph 26F(3)(b) of the Principal Act with respect to policies in relation to meeting the obligations imposed on the reporting entity by subsection 30(1) of the Principal Act.
+Note: 	Section 30 of the Principal Act deals with ongoing due diligence by a reporting entity in relation to customers.
+	(4)	If a reporting entity meets the requirements of paragraphs (1)(a) and (b) of this section, AML/CTF Rules made for the purposes of paragraph 28(6)(a) or (b) or section 29 of the Principal Act (as in force on or after 31 March 2026) do not apply to the reporting entity in relation to providing a designated service at or through a permanent establishment in Australia to a customer who, under the AML/CTF policies referred to in paragraph (1)(a), a customer identification procedure is to be applied to.
+	(5)	This section ceases to have effect on 31 March 2029.
+8  Use of applicable customer identification procedures by reporting entity
+	(1)	A reporting entity is taken to have established on reasonable grounds each of the matters mentioned in subsection 28(2) of the Principal Act in relation to a customer if:
+	(a)	the reporting entity carries out a customer identification procedure in respect of the customer that would be the applicable customer identification procedure in respect of the customer within the meaning of the Principal Act as in force on 30 March 2026; and
+	(b)	at the time of carrying out the customer identification procedure, the reporting entity meets the requirements of paragraphs 7(1)(a) and (b) of this instrument; and
+	(c)	carrying out the customer identification procedure in respect of the customer is permitted by the AML/CTF policies of the reporting entity in relation to customer identification procedures.
+	(2)	Despite subsection 28(1) of the Principal Act, the reporting entity may commence to provide a designated service to the customer before carrying out the customer identification procedure if section 33 of the Principal Act as in force on 30 March 2026, and AML/CTF Rules made for the purposes of that section, would permit carrying out the applicable customer identification procedure in respect of the customer after the commencement of the provision of the service.
+	(3)	Subsection (1) of this section does not apply if the reporting entity:
+	(a)	commences to provide the designated service to the customer before carrying out a customer identification procedure; and
+	(b)	does not subsequently carry out the customer identification procedure in accordance with the requirements of section 34 of the Principal Act as in force on 30 March 2026, and AML/CTF Rules made for the purposes of that section, that would apply to carrying out the applicable customer identification procedure in respect of the customer.
+Part 4—Reporting obligations
+  
+9  IVTS reporting transition date
+	(1)	Subject to subsection (4), the IVTS reporting transition date for a reporting entity is:
+	(a)	31 March 2029; or
+	(b)	a substitute date notified by the reporting entity in accordance with this section.
+Note:	This is the date from which the reporting entity must submit reports about the provision of international value transfer services in accordance with section 46 of the Principal Act. Before that date, the reporting entity must instead report on international funds transfer instructions—see section 10.
+	(2)	A reporting entity may give the AUSTRAC CEO notice in writing of a substitute IVTS reporting transition date for the reporting entity that is:
+	(a)	no earlier than 31 March 2029; and
+	(b)	no later than 30 September 2029.
+	(3)	A reporting entity may only give a notice under subsection (2) if the reporting entity has been required to give the AUSTRAC CEO a report about an international funds transfer instruction in accordance with section 10.
+Certain transfers of value involving virtual assets
+	(4)	A reporting entity is not eligible to have an IVTS reporting transition date other than 31 March 2029 (and any notice given under subsection (2) no longer has effect) if:
+	(a)	before that date, the reporting entity provides a designated service covered by item 29 or 30 of table 1 in section 6 of the Principal Act; and
+	(b)	the transfer of value involves the transfer of a virtual asset (whether or not it also involves the transfer of money or property).
+	(5)	If:
+	(a)	subsection (4) does not apply to a reporting entity; and
+	(b)	on or after 31 March 2029, the reporting entity commences to provide a designated service of a kind mentioned in paragraphs (4)(a) and (b); and
+	(c)	the substitute IVTS reporting transition date notified by the reporting entity under subsection (2) has not yet occurred;
+then, despite that notification, the IVTS reporting transition date for the reporting entity is the day the reporting entity commences to provide the service.
+Notices substituting IVTS reporting transition date
+	(6)	More than one notice can be given by a reporting entity under subsection (2).
+	(7)	A notice under subsection (2) must be given:
+	(a)	at least 10 business days before the previous IVTS reporting transition date for the reporting entity; and
+	(b)	at least 10 business days before the substitute IVTS reporting transition date in the notice.
+10  Modification of reporting obligations before IVTS reporting transition date
+	(1)	Subsection 46(2) of the Principal Act does not apply to a reporting entity in relation to an international value transfer service if the reporting entity commences to provide the service before the IVTS reporting transition date for the reporting entity.
+	(2) 	Despite the amendments made by the Amending Act, section 45 of the Principal Act as in force on 30 March 2026 (the IFTI reporting obligation) continues to apply in relation to an international funds transfer instruction (within the meaning of the Principal Act as in force on that date) that is sent or received by a person until:
+	(a)	if the person is a reporting entity—the IVTS reporting transition date for the reporting entity; or
+	(b)	for any other person—31 March 2029.
+	(3)	The following also continue to apply in relation to the IFTI reporting obligation:
+	(a)	the Principal Act, as in force on 30 March 2026, to the extent it relates to compliance with, or enforcement of, the IFTI reporting obligation;
+	(b)	AML/CTF Rules that were in force on 30 March 2026;
+	(c)	any exemption from or modification of the IFTI reporting obligation that was in force on 30 March 2026.
+	(4)	Despite subsection (2) of this section, a reporting entity is not required to give the AUSTRAC CEO a report about an international funds transfer instruction if, within the period of 10 business days after the day on which the instruction was sent or received by the reporting entity, the reporting entity:
+	(a)	reasonably determines that the transfer of money or property to which the instruction relates will not occur; and
+	(b)	takes reasonable steps to ensure that the transfer of money or property will not occur.
+	(5)	Division 3A of Part 9 of the Anti‑Money Laundering and Counter‑Terrorism Financing Rules 2025 is taken to apply to reports given to the AUSTRAC CEO in accordance with this section.
+	(6)	Section 49 of the Principal Act is taken to apply to information communicated to the AUSTRAC CEO in accordance with this section.
+	(7)	Section 51 of the Principal Act is taken to apply to communications made, or information given, in accordance with this section.
+11  Delayed application of requirement to report transfers of value involving unverified self-hosted virtual asset wallets
+		Section 46A of the Principal Act does not apply to a reporting entity in relation to a designated service if the reporting entity commences to provide the designated service before 31 March 2029.
+Part 5—Virtual asset service providers
+  
+12  Delayed application of certain Principal Act provisions
+		The following provisions of the Principal Act do not apply, until 1 July 2026, to a reporting entity in its capacity as an entity that provides a registrable virtual asset service that is not covered by item 50A of table 1 in section 6 of the Principal Act:
+	(a)	Part 1A (which deals with AML/CTF programs);
+	(b)	Part 2 (which deals with customer due diligence);
+	(c)	Part 3 (which deals with reporting obligations);
+	(d)	Part 5 (which deals with obligations relating to transfers of value);
+	(e)	Divisions 2 to 6 of Part 10 (which deal with record keeping).
+13  Timing of enrolment
+	(1)	This section applies to a person if:
+	(a)	at any time before 1 July 2026, the person provides, or commences to provide, a designated service that:
+	(i)	is a registrable virtual asset service; and
+	(ii)	is not covered by item 50A of table 1 in section 6 of the Principal Act; and
+	(b)	the person does not, as at that time, provide, or commence to provide, any other kind of designated services.
+	(2)	Subsection 51B(1) of the Principal Act applies to the person, in relation to the designated service referred to in paragraph (1)(a) of this section, as if the reference in that subsection to 28 days after the day on which the person commences to provide the designated service were a reference to 29 July 2026.
+14  Registration to provide registrable virtual asset services
+	(1)	Section 76A of the Principal Act does not apply to the provision by a person of a registrable virtual asset service if:
+	(a)	the service is not covered by item 50A of table 1 in section 6 of the Principal Act; and
+	(b)	the service is provided on or before 30 June 2026; and
+	(c)	the person submits an application for registration under section 76D of the Principal Act no later than 29 July 2026.
+	(2)	Section 76A of the Principal Act does not apply to the provision by a person of a registrable virtual asset service if:
+	(a)	the service is not covered by item 50A of table 1 in section 6 of the Principal Act; and
+	(b)	the person has submitted an application for registration under section 76D of the Principal Act before providing the service; and
+	(c)	the application was submitted no later than 29 July 2026; and
+	(d)	at the time of providing the service, the AUSTRAC CEO has not given the person written notice of a decision to register the person or to refuse to register the person.
+	(3)	Subsection 76D(4) of the Principal Act does not apply in relation to an application for registration made between 31 March 2026 and 29 July 2026.
+Part 6—Financial advisers
+  
+15  Modified application of section 26T of Principal Act
+	(1)	This section applies if all of the designated services provided by a reporting entity are covered by the following items:
+	(a)	item 54 of table 1 in section 6 of the Principal Act;
+	(b)	any item of table 6 in section 6 of the Principal Act.
+	(2)	For the purposes of section 26T of the Principal Act, before 1 July 2026 all of the designated services provided by the reporting entity are taken to be covered by item 54 of table 1 in section 6 of the Principal Act.
+Part 7—Independent evaluations
+  
+16  Timing of first independent evaluation for previously regulated reporting entities
+		For the purposes of section 26G of the Principal Act, the first independent evaluation of a reporting entity’s AML/CTF program is taken to comply with the requirements of the reporting entity’s AML/CTF policies as to the frequency of independent evaluations if:
+	(a)	the reporting entity was enrolled as a reporting entity on 30 March 2026; and
+	(b)	at least one independent review of Part A of the reporting entity’s AML/CTF program was carried out on or before 30 March 2026, in accordance with the Anti-Money Laundering and Counter-Terrorism Financing Rules Instrument 2007 (No. 1); and
+	(c)	the first independent evaluation is conducted before the later of the following dates:
+	(i)	4 years after the date that the last independent review of Part A of the reporting entity’s AML/CTF program was carried out in accordance with the Anti-Money Laundering and Counter-Terrorism Financing Rules Instrument 2007 (No. 1);
+	(ii)	31 March 2027.
+17  Timing of first independent evaluation for reporting entities that did not previously require independent reviews
+	(1)	Subsection (2) of this section applies to a reporting entity if:
+	(a)	the reporting entity is a person to whom item 12 of Schedule 3 to the Amending Act applies; or
+	(b)	the reporting entity is a person to whom section 13 of this instrument applies; or
+	(c)	the reporting entity was a reporting entity before 31 March 2026, and all designated services provided by the reporting entity before that date were covered by item 54 of table 1 in section 6 of the Principal Act.
+	(2)	The first independent evaluation of the reporting entity’s AML/CTF program is taken to comply with the requirements of the reporting entity’s AML/CTF policies as to the frequency of independent evaluations if that evaluation is conducted before whichever of the following dates is applicable:
+	(a)	if the last 2 digits of the reporting entity’s enrolment identifier are both odd numbers—30 June 2029;
+	(b)	if the second-last digit of the reporting entity’s enrolment identifier is an odd number, and the last digit is an even number—31 December 2029;
+	(c)	if the last 2 digits of the reporting entity’s enrolment identifier are both even numbers—30 June 2030;
+	(d)	if the second-last digit of the reporting entity’s enrolment identifier is an even number, and the last digit is an odd number—31 December 2030.
+Part 8—AML/CTF compliance officers
+  
+18  Notifying AML/CTF compliance officer—general
+		A reporting entity is taken to comply with subsection 26M(1) of the Principal Act if:
+	(a)	the reporting entity was enrolled as a reporting entity on 30 March 2026; and
+	(b)	the reporting entity gives AUSTRAC the notification required by subsection 26M(1) on or before 30 May 2026.
+19  Notifying AML/CTF compliance officer—certain persons with delayed enrolment
+		A reporting entity is taken to comply with subsection 26M(1) of the Principal Act if:
+	(a)	the reporting entity is a person to whom item 12 of Schedule 3 to the Amending Act or section 13 of this instrument applies; and
+	(b)	the reporting entity gives AUSTRAC the notification required by subsection 26M(1) of the Principal Act by the later of:
+	(i)	14 days after the day the reporting entity’s name is entered on the Reporting Entities Roll; and
+	(ii)	29 July 2026.
+Part 9—Defence of law of foreign country preventing compliance
+  
+20  Notice may be provided after conduct occurs
+		A reporting entity is taken to have complied with paragraph 236A(1)(c) of the Principal Act in relation to the provision of a designated service if:
+	(a)	the conduct alleged to constitute contravention of a civil penalty provision occurs on or before 30 June 2026; and
+	(b)	the reporting entity gives the written notice required by paragraph 236A(1)(c) on or before 30 June 2026 (including after the conduct occurs).
+Part 10—Application, saving and transitional provisions
+21  Amendment made by Anti-Money Laundering and Counter-Terrorism Financing Transitional Amendment (Reporting Obligations) Rules 2026
+		Subsection 10(5) of this instrument, as amended by the Anti-Money Laundering and Counter-Terrorism Financing Transitional Amendment (Reporting Obligations) Rules 2026, applies in relation to a report given to the AUSTRAC CEO whether the report was given before or after the amendment commenced.
+
+Endnotes
+Endnote 1—About the endnotes
+The endnotes provide information about this compilation and the compiled law.
+The following endnotes are included in every compilation:
+Endnote 1—About the endnotes
+Endnote 2—Abbreviation key
+Endnote 3—Legislation history
+Endnote 4—Amendment history
+Abbreviation key—Endnote 2
+The abbreviation key sets out abbreviations that may be used in the endnotes.
+Legislation history and amendment history—Endnotes 3 and 4
+Amending laws are annotated in the legislation history and amendment history.
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+Misdescribed amendments
+A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section 15V of the Legislation Act 2003.
+If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and “(md not incorp)” is added to the amendment history.
+
+Endnote 2—Abbreviation key
+
+ad = added or inserted | orig = original
+am = amended | p = page(s)
+amdt = amendment | para = paragraph(s)/subparagraph(s)
+C[x] = Compilation No. x | /sub-subparagraph(s)
+ch = Chapter(s) | pres = present
+cl = clause(s) | prev = previous
+cont. = continued | (prev…) = previously
+def = definition(s) | pt = Part(s)
+Dict = Dictionary | r = regulation(s)/Court rule(s)
+disallowed = disallowed by Parliament | reloc = relocated
+div = Division(s) | renum = renumbered
+exp = expires/expired or ceases/ceased to have | rep = repealed
+effect | rs = repealed and substituted
+gaz = gazette | s = section(s)/subsection(s)
+LA = Legislation Act 2003 | /rule(s)/subrule(s)/order(s)/suborder(s)
+LIA = Legislative Instruments Act 2003 | sch = Schedule(s)
+(md not incorp) = misdescribed amendment | SLI = Select Legislative Instrument
+cannot be given effect | SR = Statutory Rules
+mod = modified/modification | sub ch = Sub-Chapter(s)
+No. = Number(s) | sub div = Subdivision(s)
+Ord = Ordinance | sub pt = Subpart(s)
+ | underlining = whole or part not
+ | commenced or to be commenced
+
+Endnote 3—Legislation history
+
+Name | Registration | Commencement | Application, saving and transitional provisions
+Anti‑Money Laundering and Counter‑Terrorism Financing Transitional Rules 2026 | 30 Mar 2026 (F2026L00393) | 31 Mar 2026 (s 2(1) item 1) | 
+Anti-Money Laundering and Counter-Terrorism Financing Transitional Amendment (Reporting Obligations) Rules 2026 | 13 May 2026 (F2026L00556) | 14 May 2026 (s 2(1) item 1) | 
+
+Endnote 4—Amendment history
+
+Provision affected | How affected
+Part 4 | 
+s 10 | am F2026L00556
+Part 10	
+s 21 | ad F2026L00556

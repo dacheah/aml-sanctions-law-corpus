@@ -1,0 +1,60 @@
+corpus_id: aus/act/aml-ctf-2006
+version_id: '2025-03-31'
+title: Anti-Money Laundering and Counter-Terrorism Financing Act 2006
+short_title: AML/CTF Act 2006
+jurisdiction: AUS
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth), No. 169, 2006,
+  Compilation No. 59 (registration C2025C00235), compilation date 31 March 2025 (incorporating amendments
+  up to Act No. 110, 2024)
+authentic_languages:
+- en
+effective_date: '2025-03-31'
+source_url: https://www.legislation.gov.au/C2006A00169/2026-03-30/2026-03-30/text/original/word
+source_publisher: Federal Register of Legislation (Office of Parliamentary Counsel), Australian Government
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: docx
+original_filename: original.docx
+content_hash: sha256:bac23f2f8fa47d83d2f29d44e2aeca07e8f9fa9a785e9bba817456595e1c4432
+original_sha256: sha256:0175822ea6926abb8699fbc5a9f9ec5e9a4698fc4d79cdd6302996ef81ac5542
+text_sha256: sha256:bac23f2f8fa47d83d2f29d44e2aeca07e8f9fa9a785e9bba817456595e1c4432
+text_fidelity: extracted_unverified
+language: en
+authoritative_status: official_consolidation
+license: CC-BY-4.0
+rights_note: '© Commonwealth of Australia. Licensed under CC BY 4.0 via the Federal Register of Legislation;
+  excludes the Commonwealth Coat of Arms and any third-party material. Attribution: Federal Register of
+  Legislation (https://www.legislation.gov.au).'
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.legislation.gov.au/C2006A00169/2026-03-30/2026-03-30/text/original/word
+  original_sha256: sha256:0175822ea6926abb8699fbc5a9f9ec5e9a4698fc4d79cdd6302996ef81ac5542
+  note: Initial capture — official Word download of Compilation No. 59 (C2025C00235), the pre-reform baseline;
+    PDF also retrieved (sha256:254ca2d92d19618094122188265a9d31f91b5ef8e052c8f187e0c6995db8fbda).
+supersedes: null
+superseded_by: '2026-03-31'
+related_documents:
+- aus/act/aml-ctf-amendment-2024
+provenance_note: Official point-in-time compilation (Compilation No. 59, registration C2025C00235, compilation
+  date 31 March 2025, in force 31 March 2025 – 30 March 2026) of the AML/CTF Act 2006 (Cth) — the PRE-REFORM
+  BASELINE ('old regime'), the law as it stood immediately before the main Tranche 2 reforms commenced
+  on 31 March 2026. It predates the virtual-asset definitions, the VASP Register, and the CDD/enrolment
+  reforms (confirmed absent on capture). Captured to show the law as it was vs as it is. Byte-exact original
+  captured as the official Word (DOCX) download from the Federal Register; text.txt extracted from that
+  DOCX. The Register PDF of the same compilation is anchored by hash sha256:254ca2d92d19618094122188265a9d31f91b5ef8e052c8f187e0c6995db8fbda.
+  Human download from the official source; fidelity extracted_unverified pending verification. An earlier
+  compilation (No. 58, C2025C00044) precedes this and is not yet captured.
+verification:
+  status: cross_checked_against_official_pdf
+  method: Automated cross-check of DOCX-derived text vs the official Register PDF of the same compilation
+    (automated fidelity gate).
+  reference: Official Register PDF (Compilation No. 59), sha256:254ca2d92d19618094122188265a9d31f91b5ef8e052c8f187e0c6995db8fbda
+  verified_by: corpus maintainer
+  verified_date: '2026-07-09'
+  note: Operative text corroborated against the official PDF (DOCX->PDF window coverage 88%); per-page
+    furniture excluded; tables/TOC normalised. No substantive provision found missing. Line-by-line certification
+    deferred; text_fidelity stays 'extracted_unverified'.

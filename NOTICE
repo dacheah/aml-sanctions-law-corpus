@@ -1,0 +1,29 @@
+NOTICE — source-text terms
+===========================
+
+This project's own contributions are licensed CC BY 4.0 (see LICENSE). The
+underlying SOURCE TEXTS are NOT relicensed; each keeps its own terms, recorded in
+the relevant authoritative/<id>/<version>/metadata.yaml (`license` / `rights_note`).
+
+Commonwealth legislation (Australian Acts, Regulations, and legislative Rules)
+-----------------------------------------------------------------------------
+© Commonwealth of Australia. Licensed under Creative Commons Attribution 4.0
+International (CC BY 4.0) via the Federal Register of Legislation
+(https://www.legislation.gov.au), excluding the Commonwealth Coat of Arms and any
+third-party material. Redistributable with attribution:
+
+    "Federal Register of Legislation (https://www.legislation.gov.au),
+     © Commonwealth of Australia, licensed CC BY 4.0."
+
+FATF material (The FATF Recommendations)
+----------------------------------------
+© FATF/OECD, Paris. FATF material is copyright and is NOT redistributed in this
+repository. The open layer carries only the official citation, source URL, content
+hash(es), and a short attributed excerpt; the full authentic text is held
+privately. Prior written permission from the FATF Secretariat is required for
+commercial reproduction, translation, or modification. See docs/restricted-sources.md.
+
+Verification
+------------
+Integrity of every stored text and captured original can be checked independently
+against the SHA-256 hashes recorded in each metadata.yaml, using any standard tool.

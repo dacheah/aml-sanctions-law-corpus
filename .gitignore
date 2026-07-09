@@ -1,0 +1,9 @@
+# Private construction toolkit — never published. The corpus stays independently
+# verifiable without it: originals + text + hashes + open schemas are all published.
+scripts/
+__pycache__/
+*.pyc
+.DS_Store
+_capture/
+# Internal design-lock kept private; not part of the public corpus.
+docs/design-lock.md
