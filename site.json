@@ -6,7 +6,7 @@
     "description": "A neutral, **provenance-first**, machine-readable record of the law of anti-money-laundering / counter-terrorism-financing (AML/CTF) and financial sanctions, anchored on Australia with the FATF 40 Recommendations as backbone. Every record carries its official source, retrieval date, citation, jurisdiction, legal status, language, an authoritative-status flag, and a SHA-256 content hash; every change is a new dated version.",
     "repo_id": "dacheah/aml-sanctions-law-corpus",
     "github": "https://github.com/dacheah/aml-sanctions-law-corpus",
-    "pages_url": "",
+    "pages_url": "https://dacheah.github.io/aml-sanctions-law-corpus/",
     "license_link": "https://github.com/dacheah/aml-sanctions-law-corpus/blob/main/NOTICE",
     "license_terms_examples": "Commonwealth of Australia legislation under CC BY 4.0; FATF/OECD material under copyright, restricted",
     "author": "Dan Cheah",
