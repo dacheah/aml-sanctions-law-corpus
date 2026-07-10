@@ -16,6 +16,23 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.3.2] — 2026-07-10
+
+Implements the UAE **authentic-Arabic OCR pass** scoped in 1.3.0. No authoritative texts change.
+
+### Added
+
+- A **derived OCR Arabic text layer** for the three UAE records that preserve an authentic Arabic source
+  (`derived/<id>/<version>/authentic-text-ar.txt`, registered as an `ocr_authentic_text` artifact with a
+  sidecar of metrics). Produced with Tesseract (`ara`) from the preserved `authentic-source-ar.pdf` — the
+  route the 1.3.0 deep-dive identified, since glyph extraction corrupts Arabic. It is readable and correctly
+  ordered but **unofficial and unverified**; in place of a cross-engine gate (unavailable for Arabic) each
+  record records an OCR **self-consistency** metric (300-dpi vs 400-dpi character agreement, ≈ 0.995–0.998).
+- The authentic Arabic is now rendered on the UAE site pages (right-to-left, under an "OCR · unofficial ·
+  unverified" label) and included in the Hugging Face export as an `authentic_text_ar` field.
+- New toolkit module `scripts/ocr_arabic.py`; the derived-metadata schema gains the `ocr_authentic_text`
+  type, an `ocr` generation method, and a `source_authentic_sha256` field.
+
 ## [1.3.1] — 2026-07-10
 
 Derived-layer refresh: the concept vocabulary and FATF crosswalk now reflect the corpus's broadened scope.
@@ -259,7 +276,8 @@ covering four fidelity-verified jurisdictions as separate, cross-referenced bran
 - This is a reference record of the law — **not legal or compliance advice** — and takes no position on any
   matter, institution, or investigation.
 
-[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.3.1...HEAD
+[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.3.2...HEAD
+[1.3.2]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.3.2
 [1.3.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.3.1
 [1.3.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.3.0
 [1.2.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.2.1

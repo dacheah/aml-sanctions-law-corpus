@@ -1,0 +1,10 @@
+{
+ "engine": "tesseract 5.3.4",
+ "language": "ara",
+ "dpi": 300,
+ "psm": 6,
+ "source_arabic_sha256": "sha256:81e26e7de8702045c1c461b2c07de8e65b70f98d3fae6632d6cdc295d7a4db9d",
+ "chars": 30646,
+ "article_headings_detected": 76,
+ "self_consistency_char_300_vs_400_sample": 0.9976
+}

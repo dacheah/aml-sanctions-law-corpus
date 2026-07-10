@@ -221,8 +221,15 @@ record stores the **official English translation** (a new `authoritative_status:
 `language: en`, `authentic_languages: [ar]`), which extracts cleanly and passes cross-engine verification —
 here run as poppler-vs-PyMuPDF, both of which read the Latin-script English faithfully. The **authentic
 Arabic PDF is preserved byte-exact inside each record** (`authentic-source-ar.pdf`, recorded in an
-`authentic_source` metadata block with its own SHA-256), so the prevailing legal text is retained for the
-future OCR-based extraction. UAE material is `redistribution: restricted` (government source, all rights
+`authentic_source` metadata block with its own SHA-256), so the prevailing legal text is retained. A
+**derived OCR Arabic text layer** has since been produced from those preserved PDFs with Tesseract (`ara`)
+and sits on the derived side of the wall (`derived/<id>/<version>/authentic-text-ar.txt`, registered as an
+`ocr_authentic_text` artifact): it is readable and correctly ordered, but UNOFFICIAL and unverified — OCR
+carries minor character-level noise and there is no independent second engine for Arabic, so instead of a
+cross-engine gate each record records an OCR *self-consistency* metric (character agreement between a
+300-dpi and a 400-dpi pass, ≈ 0.995–0.998). The verified stored text remains the official English
+translation; the OCR Arabic is a reading aid, surfaced on the site under an "OCR · unofficial · unverified"
+label. UAE material is `redistribution: restricted` (government source, all rights
 reserved): the source link, citation and hash are always publishable, and the translation is captured for a
 neutral reference corpus. Federal Decree-Law 20/2018 is retained as a `superseded` record (replaced by
 10/2025).
