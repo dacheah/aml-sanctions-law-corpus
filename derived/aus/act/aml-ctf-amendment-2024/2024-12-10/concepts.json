@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -32,6 +34,7 @@
   "document_concepts": [
     "amlctf_program",
     "beneficial_ownership",
+    "cash_couriers",
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
@@ -41,6 +44,7 @@
     "enrolment_registration",
     "funds_transfer_reporting",
     "politically_exposed_persons",
+    "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
     "scope_and_application",
@@ -114,6 +118,7 @@
       "unit": "12  Section 5",
       "concepts": [
         "un_and_autonomous_sanctions",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -176,7 +181,8 @@
       "concepts": [
         "risk_based_approach",
         "amlctf_program",
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
@@ -197,14 +203,16 @@
       "unit": "26C  Reporting entities must undertake an ML/TF risk assessment",
       "concepts": [
         "risk_based_approach",
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
       "unit": "26D  Reporting entities must review and update ML/TF risk assessment",
       "concepts": [
         "risk_based_approach",
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
@@ -222,6 +230,7 @@
         "risk_based_approach",
         "amlctf_program",
         "designated_services",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -237,6 +246,7 @@
       "concepts": [
         "risk_based_approach",
         "designated_services",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -306,6 +316,7 @@
         "risk_based_approach",
         "amlctf_program",
         "designated_services",
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -324,7 +335,8 @@
       "unit": "26T  Application of Part to holders of Australian financial services licences",
       "concepts": [
         "customer_due_diligence",
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
@@ -338,6 +350,12 @@
       "unit": "26V  General exemptions",
       "concepts": [
         "designated_services"
+      ]
+    },
+    {
+      "unit": "26  Paragraph 38(d)",
+      "concepts": [
+        "proliferation_financing"
       ]
     },
     {
@@ -386,19 +404,22 @@
       "concepts": [
         "suspicious_matter_reporting",
         "designated_services",
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
     {
       "unit": "39  Paragraph 161(2)(b)",
       "concepts": [
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
       "unit": "40  Subsection 161(4)",
       "concepts": [
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
@@ -426,6 +447,7 @@
       "unit": "236A  Defence of law of foreign country preventing compliance",
       "concepts": [
         "designated_services",
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -482,6 +504,7 @@
         "virtual_assets",
         "designation_criteria",
         "un_and_autonomous_sanctions",
+        "proliferation_financing",
         "definitions_and_interpretation"
       ]
     },
@@ -520,7 +543,8 @@
       "unit": "29  Exemptions from initial customer due diligence",
       "concepts": [
         "customer_due_diligence",
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
@@ -537,6 +561,7 @@
         "suspicious_matter_reporting",
         "designated_services",
         "enrolment_registration",
+        "proliferation_financing",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
@@ -998,6 +1023,7 @@
       "concepts": [
         "tipping_off",
         "designated_services",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -1381,6 +1407,12 @@
       "curated": true
     },
     {
+      "unit": "17  Bearer negotiable instruments",
+      "concepts": [
+        "cash_couriers"
+      ]
+    },
+    {
       "unit": "Schedule 8—Transfers of value and international value transfer services",
       "concepts": [
         "funds_transfer_reporting"
@@ -1505,6 +1537,7 @@
         "designated_services",
         "enrolment_registration",
         "virtual_assets",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -1660,6 +1693,7 @@
     {
       "unit": "49B  Notice to obtain information or documents in certain circumstances",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -1667,6 +1701,7 @@
     {
       "unit": "49C  Authorisation to obtain information or documents in certain circumstances",
       "concepts": [
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -1704,6 +1739,7 @@
     {
       "unit": "17  At the end of paragraph 169(2)(d)",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },

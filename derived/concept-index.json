@@ -9,6 +9,7 @@
     "suspicious_matter_reporting": "Reporting suspicions to the financial intelligence unit (SMR/SAR).",
     "threshold_transaction_reporting": "Reporting cash or other transactions at or above a set value.",
     "funds_transfer_reporting": "Reporting international/cross-border funds transfer instructions (IFTI).",
+    "cash_couriers": "Cross-border movement of physical currency and bearer-negotiable instruments — declaration/disclosure at the border (FATF R.32).",
     "record_keeping": "Retaining prescribed records for prescribed periods.",
     "tipping_off": "Restrictions on disclosing that a report has been or may be made (disclosure offences).",
     "designated_services": "Activities that bring an entity into the regime, including the Tranche 2 sectors.",
@@ -21,6 +22,7 @@
     "asset_freezing": "Freezing of, and the prohibition on dealing with, controlled assets.",
     "designation_criteria": "The legal criteria for designating or listing a person or entity.",
     "un_and_autonomous_sanctions": "The UN and autonomous sanctions regimes and their relationship.",
+    "proliferation_financing": "Countering the financing of proliferation of weapons of mass destruction (FATF R.7; UNSCR 1540).",
     "enforcement_and_offences": "Consequences of contravention; civil penalties and offences.",
     "supervisory_architecture": "FATF mutual evaluation; national regulators (AUSTRAC; DFAT) and their functions.",
     "scope_and_application": "Who and what conduct the instrument reaches; extraterritorial application.",
@@ -7707,6 +7709,284 @@
         "short_title": "MLR 2017",
         "version_id": "2026-07-03",
         "unit": "Sch. para 35 In Part 1 of the Schedule to the Economic Growth (Regulatory Functions) Order 2017 M263,"
+      }
+    ],
+    "cash_couriers": [
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "57.—(1) Any person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "59.—(1) In this Part —"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "3 The object of this Act is"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (10)"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "17  Bearer negotiable instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "4  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "5  Definitions"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "17  Bearer negotiable instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "Part 4—Reports about cross-border movements of monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "52  Simplified outline of this Part"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "53  Reports about movements of monetary instruments into or out of Australia"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "55  Movements of monetary instruments into Australia"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "56  Movements of monetary instruments out of Australia"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "173  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "Division 8—Powers of questioning, search and arrest for cross-border movements of monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "199  Questioning and search powers in relation to monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "1  Alternative constitutional basis"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "4  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "5  Definitions"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "17  Bearer negotiable instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "Part 4—Reports about cross-border movements of monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "52  Simplified outline of this Part"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "53  Reports about movements of monetary instruments into or out of"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "55  Movements of monetary instruments into"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "56  Movements of monetary instruments out of"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "173  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "Division 8—Powers of questioning, search and arrest for cross-border movements of monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "199  Questioning and search powers in relation to monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "1  Alternative constitutional basis"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "4  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "5  Definitions"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "17  Bearer negotiable instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "Part 4—Reports about cross-border movements of monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "52  Simplified outline of this Part"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "53  Reports about movements of monetary instruments into or out of Australia"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "55  Movements of monetary instruments into Australia"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "56  Movements of monetary instruments out of Australia"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "173  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "Division 8—Powers of questioning, search and arrest for cross-border movements of monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "199  Questioning and search powers in relation to monetary instruments"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "1  Alternative constitutional basis"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 5—Cross-border movement reports"
+      },
+      {
+        "corpus_id": "hk/ord/cbmcbni",
+        "short_title": "CBMCBNI Ordinance",
+        "version_id": "2026-01-01",
+        "unit": "29. Powers to appoint authorized officers and delegate functions"
+      },
+      {
+        "corpus_id": "hk/ord/cbmcbni",
+        "short_title": "CBMCBNI Ordinance",
+        "version_id": "2026-01-01",
+        "unit": "4. Declaration for CBNIs in possession of persons arriving at specified control points"
+      },
+      {
+        "corpus_id": "hk/ord/cbmcbni",
+        "short_title": "CBMCBNI Ordinance",
+        "version_id": "2026-01-01",
+        "unit": "9. Declaration by importers or exporters of CBNIs"
+      },
+      {
+        "corpus_id": "hk/ord/cbmcbni",
+        "short_title": "CBMCBNI Ordinance",
+        "version_id": "2026-01-01",
+        "unit": "11. Declaration requirement"
       }
     ],
     "record_keeping": [
@@ -18843,6 +19123,12 @@
         "unit": "第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
       },
       {
+        "corpus_id": "jp/act/fefta",
+        "short_title": "FEFTA (外為法)",
+        "version_id": "2026-06-05",
+        "unit": "第四十八条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
+      },
+      {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
         "short_title": "Autonomous Sanctions Regulations 2011",
         "version_id": "2025-12-05",
@@ -21207,6 +21493,728 @@
         "short_title": "SAMLA 2018",
         "version_id": "2026-07-02",
         "unit": "Sch. para 26 (1) This paragraph applies where regulations include provision for a purpose mentioned"
+      }
+    ],
+    "proliferation_financing": [
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "5.—(1) There is to be an office of the Government called the Suspicious Transaction Reporting Office which is responsibl"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "85.—(1) The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "8.—(1) The Registrar may refuse to grant or renew registration on any of the following grounds:"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "10.—(1) The Registrar may cancel the registration of a registered dealer, or suspend the registration for a period not e"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "16.—(1) Subject to subsections (3) and (4), a regulated dealer must perform the prescribed customer due diligence measur"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "18.—(1) A regulated dealer must keep the following documents and information for the prescribed period:"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "19.—(1) A regulated dealer must, in relation to the regulated dealer’s business of regulated dealing or business as an i"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "22.—(1) The Registrar may give a written direction mentioned in subsection (2) to a regulated dealer in respect of that "
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "29.—(1) The Registrar may disclose any information or document obtained in the exercise of his or her functions under th"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "35.—(1) The Registrar may issue, approve, amend or revoke one or more codes of practice, guidelines or standards of perf"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "39.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act."
+      },
+      {
+        "corpus_id": "un/unscr/1373-2001",
+        "short_title": "UNSCR 1373 (2001)",
+        "version_id": "2001-09-28",
+        "unit": "para 3 Calls upon all States to:"
+      },
+      {
+        "corpus_id": "un/unscr/1540-2004",
+        "short_title": "UNSCR 1540 (2004)",
+        "version_id": "2004-04-28",
+        "unit": "preamble"
+      },
+      {
+        "corpus_id": "un/unscr/1540-2004",
+        "short_title": "UNSCR 1540 (2004)",
+        "version_id": "2004-04-28",
+        "unit": "para 2 Decides also that all States, in accordance with their national procedures, shall adopt and enforce appropriate e"
+      },
+      {
+        "corpus_id": "un/unscr/1540-2004",
+        "short_title": "UNSCR 1540 (2004)",
+        "version_id": "2004-04-28",
+        "unit": "para 3 Decides also that all States shall take and enforce effective measures to establish domestic controls to prevent "
+      },
+      {
+        "corpus_id": "un/unscr/1540-2004",
+        "short_title": "UNSCR 1540 (2004)",
+        "version_id": "2004-04-28",
+        "unit": "para 8 Calls upon all States:"
+      },
+      {
+        "corpus_id": "un/unscr/1540-2004",
+        "short_title": "UNSCR 1540 (2004)",
+        "version_id": "2004-04-28",
+        "unit": "para 9 Calls upon all States to promote dialogue and cooperation on nonproliferation so as to address the threat posed b"
+      },
+      {
+        "corpus_id": "jp/act/fefta",
+        "short_title": "FEFTA (外為法)",
+        "version_id": "2026-06-05",
+        "unit": "第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
+      },
+      {
+        "corpus_id": "jp/act/fefta",
+        "short_title": "FEFTA (外為法)",
+        "version_id": "2026-06-05",
+        "unit": "第四十八条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
+      },
+      {
+        "corpus_id": "ae/reg/impl-2019",
+        "short_title": "AML/CFT Implementing Regulation 2019",
+        "version_id": "2019-02-28",
+        "unit": "Article (44)"
+      },
+      {
+        "corpus_id": "ae/reg/tfs-2020",
+        "short_title": "TFS / UN-sanctions mechanism 2020",
+        "version_id": "2020-11-15",
+        "unit": "Article (1)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (1)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (3)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (4)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (6)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (8)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (9)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (10)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (11)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (12)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (13)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (14)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (15)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (17)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (19)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (21)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (22)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (25)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (27)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (31)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (35)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (37)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (39)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2025",
+        "short_title": "Federal AML/CFT Law 2025",
+        "version_id": "2025-10-14",
+        "unit": "Article (42)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2018",
+        "short_title": "Federal AML/CFT Law 2018 (superseded)",
+        "version_id": "2018-09-23",
+        "unit": "Article (16)"
+      },
+      {
+        "corpus_id": "ae/law/aml-2018",
+        "short_title": "Federal AML/CFT Law 2018 (superseded)",
+        "version_id": "2018-09-23",
+        "unit": "Article (28)"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "12  Section 5"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "26A  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "26C  Reporting entities must undertake an ML/TF risk assessment"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "26D  Reporting entities must review and update ML/TF risk assessment"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "26F  Reporting entities must develop and maintain AML/CTF policies"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "26H  AML/CTF responsibilities of governing bodies"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "26R  AUSTRAC CEO may require reporting entity to undertake ML/TF risk assessment etc."
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "26T  Application of Part to holders of Australian financial services licences"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "26  Paragraph 38(d)"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "38  Subsection 161(1)"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "39  Paragraph 161(2)(b)"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "40  Subsection 161(4)"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "236A  Defence of law of foreign country preventing compliance"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "5  Section 5"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "29  Exemptions from initial customer due diligence"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "30  Undertaking ongoing customer due diligence"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "123  Offence of tipping off"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "66A  Obligations of ordering and beneficiary institutions relating to virtual asset transfers"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "49B  Notice to obtain information or documents in certain circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "49C  Authorisation to obtain information or documents in certain circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-amendment-2024",
+        "short_title": "AML/CTF Amendment Act 2024",
+        "version_id": "2024-12-10",
+        "unit": "17  At the end of paragraph 169(2)(d)"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "5  Definitions"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "26A  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "26H  AML/CTF responsibilities of governing bodies"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "26T  Application of Part to holders of Australian financial services licences"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "38  Reliance on collection and verification of KYC information or other procedures—other circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "49B  Notice to obtain information or documents in certain circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "49C  Authorisation to obtain information or documents in certain circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "169  Self-incrimination"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-06-04",
+        "unit": "236A  Defence of law of foreign country preventing compliance"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "49B  Notice to obtain information or documents in certain circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "49C  Authorisation to obtain information or documents in certain circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2025-03-31",
+        "unit": "169  Self-incrimination"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "5  Definitions"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "26A  Simplified outline"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "26H  AML/CTF responsibilities of governing bodies"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "26T  Application of Part to holders of Australian financial services licences"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "38  Reliance on collection and verification of KYC information or other procedures—other circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "49B  Notice to obtain information or documents in certain circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "49C  Authorisation to obtain information or documents in certain circumstances"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "169  Self-incrimination"
+      },
+      {
+        "corpus_id": "aus/act/aml-ctf-2006",
+        "short_title": "AML/CTF Act 2006",
+        "version_id": "2026-03-31",
+        "unit": "236A  Defence of law of foreign country preventing compliance"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 2—Information requirements for registration applications"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 3—Registration decisions"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 4—Suspension of registration"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 5—Cancellation of registration"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 3—AML/CTF policies related to governance and compliance management"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 1—Initial customer due diligence"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 2—Providing services before completion of initial customer due diligence"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 3—Simplified customer due diligence"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 8—Reliance on collection and verification of KYC information"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 11—Ongoing customer due diligence"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 1—Due diligence assessment for entry into correspondent banking relationship"
+      },
+      {
+        "corpus_id": "aus/rules/aml-ctf-2025",
+        "short_title": "AML/CTF Rules 2025",
+        "version_id": "2026-03-31",
+        "unit": "Division 2—Requirements for ongoing due diligence assessments"
+      },
+      {
+        "corpus_id": "hk/ord/wmd-cps",
+        "short_title": "WMD(CPS)O",
+        "version_id": "2021-12-30",
+        "unit": "1. Short title"
+      },
+      {
+        "corpus_id": "hk/ord/wmd-cps",
+        "short_title": "WMD(CPS)O",
+        "version_id": "2021-12-30",
+        "unit": "2. Interpretation"
+      },
+      {
+        "corpus_id": "hk/ord/wmd-cps",
+        "short_title": "WMD(CPS)O",
+        "version_id": "2021-12-30",
+        "unit": "4. Prohibition on providing services in relation to weapons of mass destruction"
+      },
+      {
+        "corpus_id": "eu/reg/2024-1624",
+        "short_title": "AMLR (Reg (EU) 2024/1624)",
+        "version_id": "2024-05-31",
+        "unit": "Article 2 Definitions"
+      },
+      {
+        "corpus_id": "eu/reg/2024-1624",
+        "short_title": "AMLR (Reg (EU) 2024/1624)",
+        "version_id": "2024-05-31",
+        "unit": "Article 29 Identification of third countries with significant strategic deficiencies in their nationa"
+      },
+      {
+        "corpus_id": "eu/reg/2024-1624",
+        "short_title": "AMLR (Reg (EU) 2024/1624)",
+        "version_id": "2024-05-31",
+        "unit": "Article 30 Identification of third countries with compliance weaknesses in their national AML/CFT reg"
+      },
+      {
+        "corpus_id": "eu/dir/2015-849",
+        "short_title": "4AMLD (Dir (EU) 2015/849)",
+        "version_id": "2024-12-30",
+        "unit": "Article 19a 1. Member States shall require crypto-asset service providers to identify and assess the r"
+      },
+      {
+        "corpus_id": "gbr/act/poca-2002",
+        "short_title": "POCA 2002",
+        "version_id": "2026-07-06",
+        "unit": "s.378 Officers"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.3 —(1)  In these Regulations—"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.16A —(1)  The Treasury must make arrangements for a risk assessment to be undertaken to"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.18A —(1)  A relevant person must take appropriate steps to identify and assess the risks of"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.19A —(1)  A relevant person must—"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.20 —(1)  A relevant parent undertaking must—"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.21 —(1)  Where appropriate with regard to the size and nature of its business, a relevant person"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.24 —(1)  A relevant person must—"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.41 —(1)  Any personal data obtained by relevant persons for the purposes of these Regulations"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.45 —(1)  The Commissioners must maintain a register (“the register”) of—"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.52A —(1)  No person working for a relevant supervisory authority, or acting on behalf of a"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.64D —(1)  When a cryptoasset business of a beneficiary receives a cryptoasset as part of an inter-"
+      },
+      {
+        "corpus_id": "gbr/regs/mlr-2017",
+        "short_title": "MLR 2017",
+        "version_id": "2026-07-03",
+        "unit": "reg.74C —(1)  The FCA may [F414exercise its powers of direction under paragraph (5) or (6) in writing"
       }
     ],
     "enforcement_and_offences": [
@@ -23674,12 +24682,6 @@
         "corpus_id": "aus/act/aml-ctf-2006",
         "short_title": "AML/CTF Act 2006",
         "version_id": "2026-06-04",
-        "unit": "53  Reports about movements of monetary instruments into or out of Australia"
-      },
-      {
-        "corpus_id": "aus/act/aml-ctf-2006",
-        "short_title": "AML/CTF Act 2006",
-        "version_id": "2026-06-04",
         "unit": "54  Reports about receipts of monetary instruments moved into Australia"
       },
       {
@@ -24263,12 +25265,6 @@
         "short_title": "AML/CTF Act 2006",
         "version_id": "2025-03-31",
         "unit": "50A  Secrecy—information obtained under section 49, 49B or 49C"
-      },
-      {
-        "corpus_id": "aus/act/aml-ctf-2006",
-        "short_title": "AML/CTF Act 2006",
-        "version_id": "2025-03-31",
-        "unit": "53  Reports about movements of monetary instruments into or out of"
       },
       {
         "corpus_id": "aus/act/aml-ctf-2006",
@@ -24899,12 +25895,6 @@
         "short_title": "AML/CTF Act 2006",
         "version_id": "2026-03-31",
         "unit": "50A  Secrecy—information obtained under section 49, 49B or 49C"
-      },
-      {
-        "corpus_id": "aus/act/aml-ctf-2006",
-        "short_title": "AML/CTF Act 2006",
-        "version_id": "2026-03-31",
-        "unit": "53  Reports about movements of monetary instruments into or out of Australia"
       },
       {
         "corpus_id": "aus/act/aml-ctf-2006",
@@ -25552,12 +26542,6 @@
         "corpus_id": "hk/ord/cbmcbni",
         "short_title": "CBMCBNI Ordinance",
         "version_id": "2026-01-01",
-        "unit": "4. Declaration for CBNIs in possession of persons arriving at specified control points"
-      },
-      {
-        "corpus_id": "hk/ord/cbmcbni",
-        "short_title": "CBMCBNI Ordinance",
-        "version_id": "2026-01-01",
         "unit": "5. Disclosure by persons arriving in Hong Kong other than at specified control points and persons about to leave Hong Ko"
       },
       {
@@ -25565,12 +26549,6 @@
         "short_title": "CBMCBNI Ordinance",
         "version_id": "2026-01-01",
         "unit": "6. Declaration by persons making disclosure under section 5"
-      },
-      {
-        "corpus_id": "hk/ord/cbmcbni",
-        "short_title": "CBMCBNI Ordinance",
-        "version_id": "2026-01-01",
-        "unit": "9. Declaration by importers or exporters of CBNIs"
       },
       {
         "corpus_id": "hk/ord/cbmcbni",
@@ -31416,12 +32394,6 @@
         "corpus_id": "aus/act/aml-ctf-2006",
         "short_title": "AML/CTF Act 2006",
         "version_id": "2026-06-04",
-        "unit": "53  Reports about movements of monetary instruments into or out of Australia"
-      },
-      {
-        "corpus_id": "aus/act/aml-ctf-2006",
-        "short_title": "AML/CTF Act 2006",
-        "version_id": "2026-06-04",
         "unit": "54  Reports about receipts of monetary instruments moved into Australia"
       },
       {
@@ -32011,12 +32983,6 @@
         "short_title": "AML/CTF Act 2006",
         "version_id": "2025-03-31",
         "unit": "52  Simplified outline of this Part"
-      },
-      {
-        "corpus_id": "aus/act/aml-ctf-2006",
-        "short_title": "AML/CTF Act 2006",
-        "version_id": "2025-03-31",
-        "unit": "53  Reports about movements of monetary instruments into or out of"
       },
       {
         "corpus_id": "aus/act/aml-ctf-2006",
@@ -32659,12 +33625,6 @@
         "short_title": "AML/CTF Act 2006",
         "version_id": "2026-03-31",
         "unit": "52  Simplified outline of this Part"
-      },
-      {
-        "corpus_id": "aus/act/aml-ctf-2006",
-        "short_title": "AML/CTF Act 2006",
-        "version_id": "2026-03-31",
-        "unit": "53  Reports about movements of monetary instruments into or out of Australia"
       },
       {
         "corpus_id": "aus/act/aml-ctf-2006",
@@ -36803,12 +37763,6 @@
         "short_title": "CBMCBNI Ordinance",
         "version_id": "2026-01-01",
         "unit": "8. CBNIs to which this Division applies"
-      },
-      {
-        "corpus_id": "hk/ord/cbmcbni",
-        "short_title": "CBMCBNI Ordinance",
-        "version_id": "2026-01-01",
-        "unit": "9. Declaration by importers or exporters of CBNIs"
       },
       {
         "corpus_id": "hk/ord/cbmcbni",

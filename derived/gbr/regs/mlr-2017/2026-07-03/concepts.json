@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -40,6 +42,7 @@
     "enrolment_registration",
     "funds_transfer_reporting",
     "politically_exposed_persons",
+    "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
     "scope_and_application",
@@ -65,6 +68,7 @@
         "enrolment_registration",
         "politically_exposed_persons",
         "asset_freezing",
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture",
         "definitions_and_interpretation"
@@ -164,6 +168,7 @@
       "unit": "reg.16A —(1)  The Treasury must make arrangements for a risk assessment to be undertaken to",
       "concepts": [
         "risk_based_approach",
+        "proliferation_financing",
         "supervisory_architecture",
         "definitions_and_interpretation"
       ]
@@ -187,6 +192,7 @@
       "unit": "reg.18A —(1)  A relevant person must take appropriate steps to identify and assess the risks of",
       "concepts": [
         "risk_based_approach",
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -200,12 +206,14 @@
     {
       "unit": "reg.19A —(1)  A relevant person must—",
       "concepts": [
-        "risk_based_approach"
+        "risk_based_approach",
+        "proliferation_financing"
       ]
     },
     {
       "unit": "reg.20 —(1)  A relevant parent undertaking must—",
       "concepts": [
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -213,6 +221,7 @@
       "unit": "reg.21 —(1)  Where appropriate with regard to the size and nature of its business, a relevant person",
       "concepts": [
         "risk_based_approach",
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -225,6 +234,7 @@
     {
       "unit": "reg.24 —(1)  A relevant person must—",
       "concepts": [
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -395,6 +405,7 @@
     {
       "unit": "reg.41 —(1)  Any personal data obtained by relevant persons for the purposes of these Regulations",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -435,6 +446,7 @@
         "customer_due_diligence",
         "beneficial_ownership",
         "enrolment_registration",
+        "proliferation_financing",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
@@ -522,6 +534,7 @@
     {
       "unit": "reg.52A —(1)  No person working for a relevant supervisory authority, or acting on behalf of a",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -683,7 +696,8 @@
       "unit": "reg.64D —(1)  When a cryptoasset business of a beneficiary receives a cryptoasset as part of an inter-",
       "concepts": [
         "customer_due_diligence",
-        "risk_based_approach"
+        "risk_based_approach",
+        "proliferation_financing"
       ]
     },
     {
@@ -777,7 +791,8 @@
     {
       "unit": "reg.74C —(1)  The FCA may [F414exercise its powers of direction under paragraph (5) or (6) in writing",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "proliferation_financing"
       ]
     },
     {

@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -32,10 +34,12 @@
   "document_concepts": [
     "amlctf_program",
     "asset_freezing",
+    "cash_couriers",
     "customer_due_diligence",
     "definitions_and_interpretation",
     "enforcement_and_offences",
     "enrolment_registration",
+    "proliferation_financing",
     "record_keeping",
     "supervisory_architecture",
     "suspicious_matter_reporting",
@@ -67,7 +71,8 @@
     {
       "unit": "5.—(1) There is to be an office of the Government called the Suspicious Transaction Reporting Office which is responsibl",
       "concepts": [
-        "suspicious_matter_reporting"
+        "suspicious_matter_reporting",
+        "proliferation_financing"
       ]
     },
     {
@@ -324,6 +329,7 @@
       "concepts": [
         "suspicious_matter_reporting",
         "threshold_transaction_reporting",
+        "cash_couriers",
         "enforcement_and_offences",
         "supervisory_architecture",
         "definitions_and_interpretation"
@@ -332,7 +338,8 @@
     {
       "unit": "59.—(1) In this Part —",
       "concepts": [
-        "threshold_transaction_reporting"
+        "threshold_transaction_reporting",
+        "cash_couriers"
       ]
     },
     {
@@ -456,6 +463,7 @@
         "record_keeping",
         "enrolment_registration",
         "asset_freezing",
+        "proliferation_financing",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]

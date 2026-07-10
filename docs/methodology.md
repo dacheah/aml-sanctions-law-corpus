@@ -230,9 +230,12 @@ neutral reference corpus. Federal Decree-Law 20/2018 is retained as a `supersede
 ## 7. Neutral concept vocabulary
 
 The derived layer tags provisions with a neutral, construct-based vocabulary describing what a provision
-is *about*, taking no position — kept jurisdiction-agnostic so later branches reuse it. Marquee provisions
-are curated (human-reviewed); the remainder use a keyword fallback. See `concept-vocabulary.md` and
-`derived/concept-index.md`. Tags are unofficial and never legally operative.
+is *about*, taking no position — kept jurisdiction-agnostic so later branches reuse it. The vocabulary grows
+as scope grows: it now carries 25 concepts, including **`proliferation_financing`** (FATF R.7 / UNSCR 1540)
+and **`cash_couriers`** (FATF R.32 — cross-border movement of currency and bearer-negotiable instruments),
+added once instruments addressing them were in the corpus. Marquee provisions are curated (human-reviewed);
+the remainder use a keyword fallback. See `concept-vocabulary.md` and `derived/concept-index.md`. Tags are
+unofficial and never legally operative.
 
 ## 8. FATF cross-jurisdiction crosswalk
 

@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -33,10 +35,12 @@
     "amlctf_program",
     "asset_freezing",
     "beneficial_ownership",
+    "cash_couriers",
     "customer_due_diligence",
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
+    "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
     "supervisory_architecture",
@@ -54,6 +58,7 @@
         "enrolment_registration",
         "virtual_assets",
         "asset_freezing",
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -69,7 +74,14 @@
       "unit": "Article (3)",
       "concepts": [
         "virtual_assets",
-        "un_and_autonomous_sanctions"
+        "un_and_autonomous_sanctions",
+        "proliferation_financing"
+      ]
+    },
+    {
+      "unit": "Article (4)",
+      "concepts": [
+        "proliferation_financing"
       ]
     },
     {
@@ -84,7 +96,8 @@
     {
       "unit": "Article (6)",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "proliferation_financing"
       ]
     },
     {
@@ -94,34 +107,58 @@
       ]
     },
     {
+      "unit": "Article (8)",
+      "concepts": [
+        "proliferation_financing"
+      ]
+    },
+    {
       "unit": "Article (9)",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "proliferation_financing"
+      ]
+    },
+    {
+      "unit": "Article (10)",
+      "concepts": [
+        "proliferation_financing",
+        "cash_couriers"
       ]
     },
     {
       "unit": "Article (11)",
       "concepts": [
         "suspicious_matter_reporting",
-        "virtual_assets"
+        "virtual_assets",
+        "proliferation_financing"
       ]
     },
     {
       "unit": "Article (12)",
       "concepts": [
+        "proliferation_financing",
         "supervisory_architecture"
+      ]
+    },
+    {
+      "unit": "Article (13)",
+      "concepts": [
+        "proliferation_financing"
       ]
     },
     {
       "unit": "Article (14)",
       "concepts": [
         "virtual_assets",
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
     {
       "unit": "Article (15)",
       "concepts": [
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -137,6 +174,7 @@
       "unit": "Article (17)",
       "concepts": [
         "beneficial_ownership",
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -154,6 +192,7 @@
         "beneficial_ownership",
         "risk_based_approach",
         "record_keeping",
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -171,13 +210,15 @@
         "amlctf_program",
         "virtual_assets",
         "asset_freezing",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
     {
       "unit": "Article (22)",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "proliferation_financing"
       ]
     },
     {
@@ -195,6 +236,12 @@
       "curated": true
     },
     {
+      "unit": "Article (25)",
+      "concepts": [
+        "proliferation_financing"
+      ]
+    },
+    {
       "unit": "Article (26)",
       "concepts": [
         "enforcement_and_offences"
@@ -204,6 +251,7 @@
     {
       "unit": "Article (27)",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -222,6 +270,12 @@
       ]
     },
     {
+      "unit": "Article (31)",
+      "concepts": [
+        "proliferation_financing"
+      ]
+    },
+    {
       "unit": "Article (33)",
       "concepts": [
         "supervisory_architecture"
@@ -232,6 +286,7 @@
       "concepts": [
         "beneficial_ownership",
         "virtual_assets",
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -239,6 +294,7 @@
       "unit": "Article (37)",
       "concepts": [
         "virtual_assets",
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -246,7 +302,14 @@
     {
       "unit": "Article (39)",
       "concepts": [
+        "proliferation_financing",
         "supervisory_architecture"
+      ]
+    },
+    {
+      "unit": "Article (42)",
+      "concepts": [
+        "proliferation_financing"
       ]
     }
   ]

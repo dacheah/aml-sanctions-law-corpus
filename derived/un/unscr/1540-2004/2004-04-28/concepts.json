@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -33,6 +35,7 @@
     "asset_freezing",
     "definitions_and_interpretation",
     "enforcement_and_offences",
+    "proliferation_financing",
     "sanctions_prohibitions",
     "un_and_autonomous_sanctions"
   ],
@@ -41,13 +44,15 @@
       "unit": "preamble",
       "concepts": [
         "un_and_autonomous_sanctions",
+        "proliferation_financing",
         "definitions_and_interpretation"
       ]
     },
     {
       "unit": "para 2 Decides also that all States, in accordance with their national procedures, shall adopt and enforce appropriate e",
       "concepts": [
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "proliferation_financing"
       ],
       "curated": true
     },
@@ -55,9 +60,22 @@
       "unit": "para 3 Decides also that all States shall take and enforce effective measures to establish domestic controls to prevent ",
       "concepts": [
         "asset_freezing",
-        "sanctions_prohibitions"
+        "sanctions_prohibitions",
+        "proliferation_financing"
       ],
       "curated": true
+    },
+    {
+      "unit": "para 8 Calls upon all States:",
+      "concepts": [
+        "proliferation_financing"
+      ]
+    },
+    {
+      "unit": "para 9 Calls upon all States to promote dialogue and cooperation on nonproliferation so as to address the threat posed b",
+      "concepts": [
+        "proliferation_financing"
+      ]
     }
   ]
 }

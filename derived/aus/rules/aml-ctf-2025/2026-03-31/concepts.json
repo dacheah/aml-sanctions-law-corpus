@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -32,6 +34,7 @@
   "document_concepts": [
     "amlctf_program",
     "beneficial_ownership",
+    "cash_couriers",
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
@@ -40,6 +43,7 @@
     "enrolment_registration",
     "funds_transfer_reporting",
     "politically_exposed_persons",
+    "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
     "scope_and_application",
@@ -124,6 +128,7 @@
         "enrolment_registration",
         "politically_exposed_persons",
         "virtual_assets",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -132,6 +137,7 @@
       "concepts": [
         "beneficial_ownership",
         "enrolment_registration",
+        "proliferation_financing",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
@@ -142,6 +148,7 @@
         "risk_based_approach",
         "enrolment_registration",
         "virtual_assets",
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -152,6 +159,7 @@
         "risk_based_approach",
         "enrolment_registration",
         "virtual_assets",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -210,7 +218,8 @@
         "amlctf_program",
         "suspicious_matter_reporting",
         "tipping_off",
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
@@ -270,7 +279,8 @@
         "record_keeping",
         "designated_services",
         "enrolment_registration",
-        "politically_exposed_persons"
+        "politically_exposed_persons",
+        "proliferation_financing"
       ]
     },
     {
@@ -281,6 +291,7 @@
         "threshold_transaction_reporting",
         "designated_services",
         "virtual_assets",
+        "proliferation_financing",
         "definitions_and_interpretation"
       ]
     },
@@ -292,7 +303,8 @@
         "risk_based_approach",
         "designated_services",
         "enrolment_registration",
-        "politically_exposed_persons"
+        "politically_exposed_persons",
+        "proliferation_financing"
       ]
     },
     {
@@ -340,7 +352,8 @@
       "concepts": [
         "customer_due_diligence",
         "record_keeping",
-        "designated_services"
+        "designated_services",
+        "proliferation_financing"
       ]
     },
     {
@@ -367,6 +380,7 @@
         "amlctf_program",
         "suspicious_matter_reporting",
         "designated_services",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -402,13 +416,15 @@
         "amlctf_program",
         "correspondent_banking",
         "virtual_assets",
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
     {
       "unit": "Division 2—Requirements for ongoing due diligence assessments",
       "concepts": [
-        "correspondent_banking"
+        "correspondent_banking",
+        "proliferation_financing"
       ]
     },
     {
@@ -502,6 +518,7 @@
     {
       "unit": "Division 5—Cross-border movement reports",
       "concepts": [
+        "cash_couriers",
         "scope_and_application"
       ]
     },

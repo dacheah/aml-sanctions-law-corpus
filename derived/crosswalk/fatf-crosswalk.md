@@ -216,25 +216,25 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *UNSO*: 3. Regulations shall give effect to relevant instructions
     - *WMD(CPS)O*: 4. Prohibition on providing services in relation to weapons 
 - **Japan:**
-    - *FEFTA (外為法)*: 第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要; 第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取; 第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令
+    - *FEFTA (外為法)*: 第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要; 第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取; 第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令; 第四十八条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令
     - *International Terrorist Asset-Freezing Act*: 第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ; 第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ; 第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.7 — Targeted financial sanctions related to proliferation
-*Concepts:* `asset_freezing`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`
-*Note:* Corpus captures the general sanctions framework; proliferation-specific regimes are not separately branched in v1.
+*Concepts:* `proliferation_financing`, `asset_freezing`, `sanctions_prohibitions`
+*Note:* Curated to the proliferation-financing / WMD instruments (UNSCR 1540; HK WMD(CPS)O; Japan FEFTA export controls) plus the general sanctions framework.
 
 - **UN treaty basis:**
     - *UNSCR 1540 (2004)*: obligations against the financing of proliferation of weapons of mass destruction
 
 - **Australia:**
     - *Autonomous Sanctions Regulations 2011*: 7  Designating controlled assets; 15  Prohibition of dealing with controlled assets; 20  Permit for assets and controlled assets; 4	Money orders.; 4A  Sanctioned imports; 5	Bankers’ drafts.; 5A  Sanctioned commercial activity—Syria; 5B  Sanctioned commercial activity—Russia; 5C  Sanctioned commercial activity—specified Ukraine regions; 5CA  Sanctioned commercial activity—DPRK; 12  Prohibitions relating to a sanctioned supply; 12A  Prohibitions relating to sanctioned import; 13  Prohibitions relating to the provision of sanctioned ser; 13A  Prohibitions relating to engaging in sanctioned commerc; 14  Prohibition of dealing with designated persons or entiti; 16  Prohibitions relating to sanctioned vessels
-    - *Charter of the United Nations Act 1945*: 20  Offence—dealing with freezable assets; 21  Offence—giving an asset to a proscribed person or entity; 22A  Regulations on procedures relating to freezable assets; 6  Regulations may apply sanctions; 8  Regulations expire when sanctions resolution ceases to bi; 11  Other instruments giving effect to Security Council deci
-    - *Autonomous Sanctions Act 2011*: 6  Specifying a provision as a sanction law; 10  Regulations may apply sanctions; 16  Offence—contravening a sanction law
+    - *Charter of the United Nations Act 1945*: 20  Offence—dealing with freezable assets; 21  Offence—giving an asset to a proscribed person or entity; 22A  Regulations on procedures relating to freezable assets; 6  Regulations may apply sanctions
+    - *Autonomous Sanctions Act 2011*: 10  Regulations may apply sanctions; 16  Offence—contravening a sanction law
 - **United Kingdom:**
     - *SAMLA 2018*: s.3 Financial sanctions
 - **United States:**
-    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities; § 1701. Unusual and extraordinary threat; dec-
+    - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Canada:**
     - *JVCFOA (Magnitsky)*: 4 (1) The Governor in Council may, if the Governor in
@@ -244,16 +244,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:**
     - *TSOFA*: 6.
     - *UN (Anti-Terrorism Measures) Regs*: 3.; 4.
-    - *United Nations Act (SG)*: 2.
 - **Switzerland:**
     - *AMLA / GwG*: Art. 10 Vermögenssperre
-    - *Embargo Act / EmbG*: Art. 1 Gegenstand; Art. 2 Zuständigkeit
+    - *Embargo Act / EmbG*: Art. 2 Zuständigkeit
 - **Hong Kong:**
-    - *UNATMO*: 6. Freezing of property
-    - *UNSO*: 3. Regulations shall give effect to relevant instructions
     - *WMD(CPS)O*: 4. Prohibition on providing services in relation to weapons 
+    - *UNATMO*: 6. Freezing of property
 - **Japan:**
-    - *FEFTA (外為法)*: 第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要; 第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取; 第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令
+    - *FEFTA (外為法)*: 第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令; 第四十八条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令; 第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要; 第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取
     - *International Terrorist Asset-Freezing Act*: 第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ; 第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ; 第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
@@ -812,9 +810,21 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Federal AML/CFT Law 2018 (superseded)*: Article (2)
 
 ### R.32 — Cash couriers
-*Note:* Cross-border cash declaration regimes not separately captured in v1.
+*Concepts:* `cash_couriers`
+*Note:* Cross-border movement of physical currency / bearer-negotiable instruments (AU AML/CTF Act Part; HK Cross-boundary Currency Ordinance, Cap. 629).
 
-_Outside the corpus's v1 scope — no captured implementing instrument._
+- **Australia:**
+    - *AML/CTF Act 2006*: 53  Reports about movements of monetary instruments into or ; 55  Movements of monetary instruments into Australia; 56  Movements of monetary instruments out of Australia
+- **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:**
+    - *CBMCBNI Ordinance*: 4. Declaration for CBNIs in possession of persons arriving a; 9. Declaration by importers or exporters of CBNIs; 11. Declaration requirement
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.33 — Statistics
 *Note:* Institutional/procedural; not a captured instrument.

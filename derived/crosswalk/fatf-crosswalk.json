@@ -1224,14 +1224,15 @@
      }
     },
     "JPN": {
-     "provision_count": 6,
+     "provision_count": 7,
      "instruments": {
       "FEFTA (外為法)": {
-       "count": 3,
+       "count": 4,
        "provisions": [
         "第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要",
         "第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取",
-        "第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
+        "第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令",
+        "第四十八条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
        ]
       },
       "International Terrorist Asset-Freezing Act": {
@@ -1256,12 +1257,12 @@
    "group": "C",
    "group_title": "Terrorist financing and proliferation financing",
    "concepts": [
+    "proliferation_financing",
     "asset_freezing",
-    "un_and_autonomous_sanctions",
     "sanctions_prohibitions"
    ],
    "in_v1_scope": true,
-   "note": "Corpus captures the general sanctions framework; proliferation-specific regimes are not separately branched in v1.",
+   "note": "Curated to the proliferation-financing / WMD instruments (UNSCR 1540; HK WMD(CPS)O; Japan FEFTA export controls) plus the general sanctions framework.",
    "un_basis": [
     {
      "corpus_id": "un/unscr/1540-2004",
@@ -1271,7 +1272,7 @@
    ],
    "jurisdictions": {
     "AUS": {
-     "provision_count": 25,
+     "provision_count": 22,
      "instruments": {
       "Autonomous Sanctions Regulations 2011": {
        "count": 16,
@@ -1295,20 +1296,17 @@
        ]
       },
       "Charter of the United Nations Act 1945": {
-       "count": 6,
+       "count": 4,
        "provisions": [
         "20  Offence—dealing with freezable assets",
         "21  Offence—giving an asset to a proscribed person or entity",
         "22A  Regulations on procedures relating to freezable assets",
-        "6  Regulations may apply sanctions",
-        "8  Regulations expire when sanctions resolution ceases to bind",
-        "11  Other instruments giving effect to Security Council decisions"
+        "6  Regulations may apply sanctions"
        ]
       },
       "Autonomous Sanctions Act 2011": {
-       "count": 3,
+       "count": 2,
        "provisions": [
-        "6  Specifying a provision as a sanction law",
         "10  Regulations may apply sanctions",
         "16  Offence—contravening a sanction law"
        ]
@@ -1327,13 +1325,12 @@
      }
     },
     "USA": {
-     "provision_count": 2,
+     "provision_count": 1,
      "instruments": {
       "IEEPA (50 U.S.C. §§1701–1708)": {
-       "count": 2,
+       "count": 1,
        "provisions": [
-        "§ 1702. Presidential authorities",
-        "§ 1701. Unusual and extraordinary threat; dec-"
+        "§ 1702. Presidential authorities"
        ]
       }
      }
@@ -1373,7 +1370,7 @@
      }
     },
     "SGP": {
-     "provision_count": 4,
+     "provision_count": 3,
      "instruments": {
       "TSOFA": {
        "count": 1,
@@ -1387,17 +1384,11 @@
         "3.—(1) These Regulations do not apply to —",
         "4.—(1) In these Regulations —"
        ]
-      },
-      "United Nations Act (SG)": {
-       "count": 1,
-       "provisions": [
-        "2.—(1) Subject to subsection (2), if, under Article 41 of the Charter of the United Nations signed at San Francisco on 2"
-       ]
       }
      }
     },
     "CHE": {
-     "provision_count": 3,
+     "provision_count": 2,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
@@ -1406,46 +1397,40 @@
        ]
       },
       "Embargo Act / EmbG": {
-       "count": 2,
+       "count": 1,
        "provisions": [
-        "Art. 1 Gegenstand",
         "Art. 2 Zuständigkeit"
        ]
       }
      }
     },
     "HKG": {
-     "provision_count": 3,
+     "provision_count": 2,
      "instruments": {
-      "UNATMO": {
-       "count": 1,
-       "provisions": [
-        "6. Freezing of property"
-       ]
-      },
-      "UNSO": {
-       "count": 1,
-       "provisions": [
-        "3. Regulations shall give effect to relevant instructions"
-       ]
-      },
       "WMD(CPS)O": {
        "count": 1,
        "provisions": [
         "4. Prohibition on providing services in relation to weapons of mass destruction"
        ]
+      },
+      "UNATMO": {
+       "count": 1,
+       "provisions": [
+        "6. Freezing of property"
+       ]
       }
      }
     },
     "JPN": {
-     "provision_count": 6,
+     "provision_count": 7,
      "instruments": {
       "FEFTA (外為法)": {
-       "count": 3,
+       "count": 4,
        "provisions": [
+        "第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令",
+        "第四十八条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令",
         "第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要",
-        "第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取",
-        "第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
+        "第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取"
        ]
       },
       "International Terrorist Asset-Freezing Act": {
@@ -4595,14 +4580,25 @@
    "title": "Cash couriers",
    "group": "F",
    "group_title": "Powers and responsibilities of competent authorities",
-   "concepts": [],
-   "in_v1_scope": false,
-   "note": "Cross-border cash declaration regimes not separately captured in v1.",
+   "concepts": [
+    "cash_couriers"
+   ],
+   "in_v1_scope": true,
+   "note": "Cross-border movement of physical currency / bearer-negotiable instruments (AU AML/CTF Act Part; HK Cross-boundary Currency Ordinance, Cap. 629).",
    "un_basis": [],
    "jurisdictions": {
     "AUS": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 3,
+     "instruments": {
+      "AML/CTF Act 2006": {
+       "count": 3,
+       "provisions": [
+        "53  Reports about movements of monetary instruments into or out of Australia",
+        "55  Movements of monetary instruments into Australia",
+        "56  Movements of monetary instruments out of Australia"
+       ]
+      }
+     }
     },
     "GBR": {
      "provision_count": 0,
@@ -4629,8 +4625,17 @@
      "instruments": {}
     },
     "HKG": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 3,
+     "instruments": {
+      "CBMCBNI Ordinance": {
+       "count": 3,
+       "provisions": [
+        "4. Declaration for CBNIs in possession of persons arriving at specified control points",
+        "9. Declaration by importers or exporters of CBNIs",
+        "11. Declaration requirement"
+       ]
+      }
+     }
     },
     "JPN": {
      "provision_count": 0,

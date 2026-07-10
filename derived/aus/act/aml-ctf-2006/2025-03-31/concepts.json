@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -32,6 +34,7 @@
   "document_concepts": [
     "amlctf_program",
     "beneficial_ownership",
+    "cash_couriers",
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
@@ -39,6 +42,7 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
+    "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
     "scope_and_application",
@@ -69,6 +73,7 @@
         "enrolment_registration",
         "correspondent_banking",
         "virtual_assets",
+        "cash_couriers",
         "supervisory_architecture"
       ]
     },
@@ -86,6 +91,7 @@
         "enrolment_registration",
         "correspondent_banking",
         "virtual_assets",
+        "cash_couriers",
         "enforcement_and_offences",
         "supervisory_architecture",
         "scope_and_application",
@@ -148,6 +154,12 @@
       "unit": "15  Shell banks",
       "concepts": [
         "correspondent_banking"
+      ]
+    },
+    {
+      "unit": "17  Bearer negotiable instruments",
+      "concepts": [
+        "cash_couriers"
       ]
     },
     {
@@ -455,6 +467,7 @@
     {
       "unit": "49B  Notice to obtain information or documents in certain circumstances",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -462,6 +475,7 @@
     {
       "unit": "49C  Authorisation to obtain information or documents in certain circumstances",
       "concepts": [
+        "proliferation_financing",
         "supervisory_architecture"
       ]
     },
@@ -527,17 +541,24 @@
       "curated": true
     },
     {
+      "unit": "Part 4—Reports about cross-border movements of monetary instruments",
+      "concepts": [
+        "cash_couriers"
+      ]
+    },
+    {
       "unit": "52  Simplified outline of this Part",
       "concepts": [
+        "cash_couriers",
         "supervisory_architecture"
       ]
     },
     {
       "unit": "53  Reports about movements of monetary instruments into or out of",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "54  Reports about receipts of monetary instruments moved into",
@@ -545,6 +566,20 @@
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
+    },
+    {
+      "unit": "55  Movements of monetary instruments into",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "56  Movements of monetary instruments out of",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "57  Obligations of customs officers and police officers",
@@ -1557,6 +1592,7 @@
     {
       "unit": "169  Self-incrimination",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -1621,6 +1657,7 @@
       "unit": "173  Simplified outline",
       "concepts": [
         "designated_services",
+        "cash_couriers",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -1780,9 +1817,16 @@
       ]
     },
     {
+      "unit": "Division 8—Powers of questioning, search and arrest for cross-border movements of monetary instruments",
+      "concepts": [
+        "cash_couriers"
+      ]
+    },
+    {
       "unit": "199  Questioning and search powers in relation to monetary instruments",
       "concepts": [
         "suspicious_matter_reporting",
+        "cash_couriers",
         "enforcement_and_offences"
       ]
     },
@@ -2112,6 +2156,7 @@
         "designated_services",
         "enrolment_registration",
         "correspondent_banking",
+        "cash_couriers",
         "enforcement_and_offences",
         "supervisory_architecture",
         "scope_and_application",

@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -32,19 +34,28 @@
   "document_concepts": [
     "definitions_and_interpretation",
     "enforcement_and_offences",
+    "proliferation_financing",
     "sanctions_prohibitions"
   ],
   "tags": [
     {
+      "unit": "1. Short title",
+      "concepts": [
+        "proliferation_financing"
+      ]
+    },
+    {
       "unit": "2. Interpretation",
       "concepts": [
+        "proliferation_financing",
         "definitions_and_interpretation"
       ]
     },
     {
       "unit": "4. Prohibition on providing services in relation to weapons of mass destruction",
       "concepts": [
-        "sanctions_prohibitions"
+        "sanctions_prohibitions",
+        "proliferation_financing"
       ],
       "curated": true
     },

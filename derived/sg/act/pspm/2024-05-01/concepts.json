@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,6 +24,7 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
@@ -36,6 +38,7 @@
     "designated_services",
     "enforcement_and_offences",
     "enrolment_registration",
+    "proliferation_financing",
     "record_keeping",
     "supervisory_architecture",
     "suspicious_matter_reporting"
@@ -64,6 +67,7 @@
       "unit": "8.—(1) The Registrar may refuse to grant or renew registration on any of the following grounds:",
       "concepts": [
         "enrolment_registration",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -79,6 +83,7 @@
       "unit": "10.—(1) The Registrar may cancel the registration of a registered dealer, or suspend the registration for a period not e",
       "concepts": [
         "enrolment_registration",
+        "proliferation_financing",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
@@ -109,6 +114,7 @@
       "unit": "16.—(1) Subject to subsections (3) and (4), a regulated dealer must perform the prescribed customer due diligence measur",
       "concepts": [
         "customer_due_diligence",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -123,12 +129,14 @@
       "unit": "18.—(1) A regulated dealer must keep the following documents and information for the prescribed period:",
       "concepts": [
         "customer_due_diligence",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
     {
       "unit": "19.—(1) A regulated dealer must, in relation to the regulated dealer’s business of regulated dealing or business as an i",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -148,6 +156,7 @@
     {
       "unit": "22.—(1) The Registrar may give a written direction mentioned in subsection (2) to a regulated dealer in respect of that ",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -175,6 +184,7 @@
     {
       "unit": "29.—(1) The Registrar may disclose any information or document obtained in the exercise of his or her functions under th",
       "concepts": [
+        "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -202,6 +212,7 @@
       "unit": "35.—(1) The Registrar may issue, approve, amend or revoke one or more codes of practice, guidelines or standards of perf",
       "concepts": [
         "enrolment_registration",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     },
@@ -216,6 +227,7 @@
       "concepts": [
         "customer_due_diligence",
         "enrolment_registration",
+        "proliferation_financing",
         "enforcement_and_offences"
       ]
     }

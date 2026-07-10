@@ -11,6 +11,7 @@
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "funds_transfer_reporting",
+    "cash_couriers",
     "record_keeping",
     "tipping_off",
     "designated_services",
@@ -23,13 +24,15 @@
     "asset_freezing",
     "designation_criteria",
     "un_and_autonomous_sanctions",
+    "proliferation_financing",
     "enforcement_and_offences",
     "supervisory_architecture",
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
+    "cash_couriers",
     "definitions_and_interpretation",
     "enforcement_and_offences",
     "enrolment_registration",
@@ -40,6 +43,7 @@
       "unit": "29. Powers to appoint authorized officers and delegate functions",
       "concepts": [
         "threshold_transaction_reporting",
+        "cash_couriers",
         "enforcement_and_offences"
       ]
     },
@@ -53,8 +57,9 @@
     {
       "unit": "4. Declaration for CBNIs in possession of persons arriving at specified control points",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "5. Disclosure by persons arriving in Hong Kong other than at specified control points and persons about to leave Hong Ko",
@@ -77,15 +82,22 @@
     {
       "unit": "9. Declaration by importers or exporters of CBNIs",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "10. Meaning of in one batch",
       "concepts": [
         "definitions_and_interpretation"
       ]
+    },
+    {
+      "unit": "11. Declaration requirement",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "12. Determining value of CBNIs not denominated in Hong Kong dollars",

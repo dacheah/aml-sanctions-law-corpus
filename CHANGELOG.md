@@ -16,6 +16,26 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.3.1] — 2026-07-10
+
+Derived-layer refresh: the concept vocabulary and FATF crosswalk now reflect the corpus's broadened scope.
+No authoritative texts change.
+
+### Added
+
+- Two neutral concepts — **`proliferation_financing`** (FATF R.7 / UNSCR 1540) and **`cash_couriers`**
+  (FATF R.32) — with curated tags on the relevant provisions (UNSCR 1540, Hong Kong WMD(CPS)O and Japan
+  FEFTA export controls for proliferation; the Australian AML/CTF Act cross-border-movement Part and Hong
+  Kong's Cross-boundary Currency Ordinance (Cap. 629) for cash couriers).
+
+### Changed
+
+- The FATF crosswalk now shows **R.7 (proliferation-related TFS)** against the actual WMD/proliferation
+  instruments and **R.32 (cash couriers)** as *in scope* — previously R.32 read as "outside v1 scope"
+  despite the instruments being present. Out-of-scope Recommendations drop from 12 to 11 (the remainder —
+  institutional bodies, NPOs, secrecy laws, and the R.36–40 cooperation set already shown via their UN
+  treaty basis — are correctly not captured as national instruments).
+
 ## [1.3.0] — 2026-07-10
 
 Adds three more national branches — **Hong Kong, Japan and the United Arab Emirates** — taking the corpus to
@@ -239,7 +259,8 @@ covering four fidelity-verified jurisdictions as separate, cross-referenced bran
 - This is a reference record of the law — **not legal or compliance advice** — and takes no position on any
   matter, institution, or investigation.
 
-[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.3.0...HEAD
+[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.3.1...HEAD
+[1.3.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.3.1
 [1.3.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.3.0
 [1.2.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.2.1
 [1.2.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.2.0
