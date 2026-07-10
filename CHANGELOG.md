@@ -16,6 +16,34 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.3.3] — 2026-07-10
+
+Source-monitor reliability fix. No authoritative texts or derived records change; this is a
+tooling-integrity patch to `scripts/watch_sources.py` and `monitoring/sources.json`.
+
+### Fixed
+
+- The weekly monitor was **silently blind to 22 of 56 sources**. Several official portals are
+  JavaScript single-page apps (Hong Kong e-Legislation, the UAE portal, Swiss Fedlex, Japan e-Gov):
+  a standard-library fetch sees only a shell or an "enable JavaScript" page, which hashes to a
+  *stable* value — so the monitor would report those instruments "unchanged" forever even if amended.
+  A false green is the worst failure mode for an integrity tool.
+
+### Added
+
+- **Japan (5 sources) restored to real monitoring** by repointing them at the e-Gov **XML API**
+  (`laws.e-gov.go.jp/api/1/lawdata/<id>`, added as each source's `monitor_url`), which returns the
+  full statute server-side.
+- **`render: "spa"` declaration** and a `monitor_url` override in `sources.json`. SPA sources with no
+  server-rendered artifact (Hong Kong ×7, UAE ×5, Switzerland ×5) are now reported **MANUAL** — a
+  standing "check by hand each cycle" list — instead of a misleading "unchanged", and are never given
+  a meaningless baseline.
+- A **SUSPECT guard**: any fetch returning implausibly little text (< 1000 chars) is flagged and not
+  baselined, catching a formerly-static site that silently migrates to a SPA.
+- The monitor report now groups sources by state (CHANGED / SUSPECT / MANUAL / error / baseline /
+  unchanged) so the manual-review set is visible on every run; `docs/monitoring.md` gains a
+  "Fetch reliability" section. Self-test extended to cover the new states.
+
 ## [1.3.2] — 2026-07-10
 
 Implements the UAE **authentic-Arabic OCR pass** scoped in 1.3.0. No authoritative texts change.
