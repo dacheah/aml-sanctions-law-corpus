@@ -2,9 +2,11 @@
   "upload_type": "dataset",
   "title": "AML/CTF & Financial-Sanctions Legal Corpus (Australia, United Kingdom, United States & European Union)",
   "creators": [
-    { "name": "Cheah, Dan" }
+    {
+      "name": "Cheah, Dan"
+    }
   ],
-  "description": "A neutral, provenance-first, machine-readable record of the law of anti-money-laundering / counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone and rooted in the UN treaty and Security Council layer beneath it. It covers seven fidelity-verified jurisdictions as separate, cross-referenced branches (never merged) — Australia, the United Kingdom, the United States, the European Union, Canada, Singapore, and Switzerland — over a shared international backbone: the UN conventions and Security Council resolutions (Vienna 1988, Palermo 2000, the Terrorist Financing Convention 1999, UNCAC 2003, and UNSCR 1267/1373/1540) and the FATF 40 Recommendations. Every authoritative text carries its official source, retrieval date, citation, jurisdiction, and SHA-256 of both the byte-exact original and the stored text; a strict wall separates authoritative source texts from the derived layer (structure, neutral concept tags, a version timeline, and a FATF crosswalk that maps each Recommendation from its UN treaty basis down to the national provisions that implement it); every change is a new dated version. This project's own contributions are CC BY 4.0; the underlying source texts are not relicensed and each keeps its own terms (Commonwealth CC BY 4.0; UK Open Government Licence v3.0; US public domain; EU reuse under Commission Decision 2011/833/EU; UN official documents free to reproduce with attribution; FATF material is copyright and withheld). A reference record of the law — not legal or compliance advice.",
+  "description": "A neutral, provenance-first, machine-readable record of the law of anti-money-laundering / counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone and rooted in the UN treaty and Security Council layer beneath it. It covers ten fidelity-verified jurisdictions as separate, cross-referenced branches (never merged) — Australia, the United Kingdom, the United States, the European Union, Canada, Singapore, Switzerland, Hong Kong, Japan, and the United Arab Emirates — over a shared international backbone: the UN conventions and Security Council resolutions (Vienna 1988, Palermo 2000, the Terrorist Financing Convention 1999, UNCAC 2003, and UNSCR 1267/1373/1540) and the FATF 40 Recommendations. Every authoritative text carries its official source, retrieval date, citation, jurisdiction, and SHA-256 of both the byte-exact original and the stored text; a strict wall separates authoritative source texts from the derived layer (structure, neutral concept tags, a version timeline, and a FATF crosswalk that maps each Recommendation from its UN treaty basis down to the national provisions that implement it); every change is a new dated version. This project's own contributions are CC BY 4.0; the underlying source texts are not relicensed and each keeps its own terms (Commonwealth CC BY 4.0; UK Open Government Licence v3.0; US public domain; EU reuse under Commission Decision 2011/833/EU; UN official documents free to reproduce with attribution; FATF material is copyright and withheld). A reference record of the law — not legal or compliance advice.",
   "access_right": "open",
   "license": "CC-BY-4.0",
   "keywords": [
@@ -22,6 +24,9 @@
     "Canada",
     "Singapore",
     "Switzerland",
+    "United Arab Emirates",
+    "Japan",
+    "Hong Kong",
     "legal corpus",
     "provenance",
     "legal-nlp",

@@ -1,0 +1,55 @@
+corpus_id: hk/ord/amlo
+version_id: '2026-05-15'
+title: Anti-Money Laundering and Counter-Terrorist Financing Ordinance
+short_title: AMLO
+jurisdiction: HKG
+document_type: Ordinance
+legal_status: binding
+redistribution: open
+official_citation: Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap. 615), Laws of
+  Hong Kong
+authentic_languages:
+- en
+- zh
+source_url: https://www.elegislation.gov.hk/hk/cap615
+source_publisher: Hong Kong e-Legislation (Department of Justice)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:b6c7dec90bcaf3db4783ac42b514b658795cf9ea6573cd11555639c46a293729
+original_sha256: sha256:4b6b1e9a33b3d060b7ec2d3db0992d5a66366663f6423dd2541adcc2fc4dcaeb
+text_sha256: sha256:b6c7dec90bcaf3db4783ac42b514b658795cf9ea6573cd11555639c46a293729
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: HKSAR Government copyright — reproduction of legislation permitted if accurate and not misleading
+rights_note: Reproduced from Hong Kong e-Legislation (elegislation.gov.hk), Department of Justice. Under
+  the Legislation Publication Ordinance (Cap. 614) the 'Verified Copy' is the authoritative version. ©
+  Government of the Hong Kong SAR; the e-Legislation copyright policy permits reproduction of legislation
+  provided it is accurate and not misleading. English and Chinese are both authentic (Official Languages
+  Ordinance, Cap. 5); the English authentic version is captured.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://www.elegislation.gov.hk/hk/cap615
+  original_sha256: sha256:4b6b1e9a33b3d060b7ec2d3db0992d5a66366663f6423dd2541adcc2fc4dcaeb
+  note: Official e-Legislation Verified Copy (English) PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: Hong Kong's CDD, record-keeping and licensing regime (incl. the virtual-asset service
+  provider regime); Schedule 2 carries the operative CDD/record-keeping requirements.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.985
+    unigram_reverse: 0.826
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers,
+    ''Verified Copy''/''Last updated'' footer) the comparison engine retains; a token diff confirms the
+    residual is non-substantive.'

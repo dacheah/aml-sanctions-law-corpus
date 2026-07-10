@@ -1,0 +1,64 @@
+corpus_id: ae/law/ct-2014
+version_id: '2014-08-20'
+title: Federal Law No. 7 of 2014 on Combating Terrorism Crimes
+short_title: Combating Terrorism Crimes Law 2014
+jurisdiction: ARE
+document_type: Federal Law
+legal_status: binding
+redistribution: restricted
+official_citation: Federal Law No. 7 of 2014 on Combating Terrorism Crimes (UAE Official Gazette)
+authentic_languages:
+- ar
+adoption_date: '2014-08-20'
+source_url: https://uaelegislation.gov.ae/en/legislations/1018
+source_publisher: UAE Legislation portal (Ministry of Cabinet Affairs)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:467af35d9530089281dec2e5521a13ccb3b587db6049214e92ac8616166c4a88
+original_sha256: sha256:dd3a6da958b3de8631e611820457d293ee368542a16c98a04ba537b94cce8167
+text_sha256: sha256:467af35d9530089281dec2e5521a13ccb3b587db6049214e92ac8616166c4a88
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_translation
+license: UAE Government source — all rights reserved; captured with attribution for a neutral reference
+  corpus
+rights_note: Captured from the UAE Legislation portal (uaelegislation.gov.ae), Ministry of Cabinet Affairs.
+  Only the Arabic text is authentic; every English page states that for interpretation reference must
+  be made to the original Arabic, which prevails. The stored text is therefore the official ENGLISH TRANSLATION
+  (captured because the Arabic PDF does not extract to faithful text with available tools — see methodology);
+  the authentic Arabic PDF is preserved in this record (authentic_source) for future faithful extraction.
+  Government source, all rights reserved.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://uaelegislation.gov.ae/en/legislations/1018
+  original_sha256: sha256:dd3a6da958b3de8631e611820457d293ee368542a16c98a04ba537b94cce8167
+  note: Official portal English-translation PDF; authentic Arabic preserved as authentic_source.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: The UAE's counter-terrorism statute, including the terrorist-financing predicate offences.
+  Stored as the official English translation; authentic Arabic preserved.
+authentic_source:
+  language: ar
+  filename: authentic-source-ar.pdf
+  source_url: https://uaelegislation.gov.ae/ar/legislations/1018
+  original_sha256: sha256:81e26e7de8702045c1c461b2c07de8e65b70f98d3fae6632d6cdc295d7a4db9d
+  note: Authentic Arabic PDF (the legally prevailing text). Preserved byte-exact; faithful text extraction
+    requires OCR (Tesseract 'ara') — see methodology.
+verification:
+  status: verified_by_independent_extraction
+  method: 'Cross-engine token coverage: poppler pdftotext (stored) vs PyMuPDF (independent) — both read
+    the Latin-script English translation faithfully.'
+  independent_engine: PyMuPDF vs poppler pdftotext (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9996
+    bigram_forward: 0.9907
+    unigram_reverse: null
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: Verification is of the stored English translation. The authentic Arabic (authentic_source) is
+    preserved but not text-verified; only poppler reads Arabic at all and its output has RTL ordering
+    artifacts, so cross-engine verification is not available for the Arabic.

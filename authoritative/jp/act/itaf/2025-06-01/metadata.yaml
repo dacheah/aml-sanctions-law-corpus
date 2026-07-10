@@ -1,0 +1,56 @@
+corpus_id: jp/act/itaf
+version_id: '2025-06-01'
+title: Act on Special Measures Concerning Freezing of Assets… (UNSCR 1267) (国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する財産の凍結等に関する特別措置法)
+short_title: International Terrorist Asset-Freezing Act
+jurisdiction: JPN
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Act on Special Measures Concerning Freezing of Assets…, Act No. 124 of 2014 (e-Gov
+  consolidated Japanese text)
+authentic_languages:
+- ja
+source_url: https://laws.e-gov.go.jp/law/426AC0000000124
+source_publisher: e-Gov Law Search (Digital Agency, Government of Japan)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:6360b076ea26f6c26b7dbafffacf5ef077605598571c86b1dd3cedd036d58729
+original_sha256: sha256:ce60fda3d364959bbc0c5eeeff5aaa9789c582fd6119efc2f4304eb56fd4775c
+text_sha256: sha256:6360b076ea26f6c26b7dbafffacf5ef077605598571c86b1dd3cedd036d58729
+text_fidelity: extracted_verified
+language: ja
+authoritative_status: official_consolidation
+license: Government of Japan Standard Terms of Use v2.0 (CC BY 4.0 compatible)
+rights_note: 'Captured from e-Gov Law Search (laws.e-gov.go.jp), Digital Agency, Government of Japan —
+  the authoritative consolidated Japanese text, published under the Government of Japan Standard Terms
+  of Use v2.0 (compatible with CC BY 4.0: free reuse with attribution). Only the Japanese text is authentic;
+  the Ministry of Justice''s Japanese Law Translation database publishes unofficial English translations
+  ''for reference only'' which lag the enacted Japanese — a JLT English URL is recorded in provenance
+  where one exists.'
+capture_history:
+- date: '2026-07-10'
+  source_url: https://laws.e-gov.go.jp/
+  original_sha256: sha256:ce60fda3d364959bbc0c5eeeff5aaa9789c582fd6119efc2f4304eb56fd4775c
+  note: Official e-Gov consolidated Japanese PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: 'Closes the domestic-transfer gap in Japan''s terrorist-asset-freezing regime (FEFTA
+  reaches cross-border transactions; this Act reaches purely domestic transfers to UN-listed persons).
+  Authentic Japanese; JLT English unofficial (up to Act 97/2022). JLT English: https://www.japaneselawtranslation.go.jp/en/laws/view/4876/en'
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 1.0
+    unigram_reverse: 1.0
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: CJK text (no inter-word spaces); token coverage is computed over whitespace-delimited runs and
+    here both engines agree exactly. Reverse below 1.0 reflects only extraction-order/segment differences,
+    not missing text.

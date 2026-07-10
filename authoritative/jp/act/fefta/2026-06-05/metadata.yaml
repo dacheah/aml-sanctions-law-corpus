@@ -1,0 +1,56 @@
+corpus_id: jp/act/fefta
+version_id: '2026-06-05'
+title: Foreign Exchange and Foreign Trade Act (外国為替及び外国貿易法)
+short_title: FEFTA (外為法)
+jurisdiction: JPN
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Foreign Exchange and Foreign Trade Act, Act No. 228 of 1949 (e-Gov consolidated Japanese
+  text)
+authentic_languages:
+- ja
+source_url: https://laws.e-gov.go.jp/law/324AC0000000228
+source_publisher: e-Gov Law Search (Digital Agency, Government of Japan)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:9708e421145030a74137b635e44461f98337bbe57f72a8c660bb49899c6e83ca
+original_sha256: sha256:1a2f2275711159c91d75bbaac389a7b6fb55b6ca85941b4b7aa04deff85e3acc
+text_sha256: sha256:9708e421145030a74137b635e44461f98337bbe57f72a8c660bb49899c6e83ca
+text_fidelity: extracted_verified
+language: ja
+authoritative_status: official_consolidation
+license: Government of Japan Standard Terms of Use v2.0 (CC BY 4.0 compatible)
+rights_note: 'Captured from e-Gov Law Search (laws.e-gov.go.jp), Digital Agency, Government of Japan —
+  the authoritative consolidated Japanese text, published under the Government of Japan Standard Terms
+  of Use v2.0 (compatible with CC BY 4.0: free reuse with attribution). Only the Japanese text is authentic;
+  the Ministry of Justice''s Japanese Law Translation database publishes unofficial English translations
+  ''for reference only'' which lag the enacted Japanese — a JLT English URL is recorded in provenance
+  where one exists.'
+capture_history:
+- date: '2026-07-10'
+  source_url: https://laws.e-gov.go.jp/
+  original_sha256: sha256:1a2f2275711159c91d75bbaac389a7b6fb55b6ca85941b4b7aa04deff85e3acc
+  note: Official e-Gov consolidated Japanese PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: 'The legal basis for Japan''s financial sanctions: payment restrictions, asset-freezing
+  of designated persons and capital-transaction licensing (administered by MOF/METI). Authentic Japanese;
+  JLT English unofficial (as of 2021, up to Act 60/2019). JLT English: https://www.japaneselawtranslation.go.jp/en/laws/view/4412/en'
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 1.0
+    unigram_reverse: 1.0
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: CJK text (no inter-word spaces); token coverage is computed over whitespace-delimited runs and
+    here both engines agree exactly. Reverse below 1.0 reflects only extraction-order/segment differences,
+    not missing text.

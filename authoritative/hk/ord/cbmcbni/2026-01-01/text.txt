@@ -1,0 +1,557 @@
+Cross-boundary Movement of Physical Currency and
+Bearer Negotiable Instruments Ordinance
+(Cap. 629)
+Contents
+Section Page
+Part 1 Preliminary
+1. Short title 1-2
+2. Interpretation 1-2
+Part 2 Declaration and Disclosure
+Division 1—Import or Export of CBNIs in
+Possession of Individuals
+3. Non-application to persons in transit at Hong Kong International Airport
+2-2
+4. Declaration for CBNIs in possession of persons arriving at specified control points
+2-2
+5. Disclosure by persons arriving in Hong Kong other than at specified control points and persons about to leave Hong Kong
+2-6
+6. Declaration by persons making disclosure under section 5
+2-8
+7. Determining value of CBNIs not denominated in Hong Kong dollars
+2-10
+Section Page
+Division 2—Other Import or Export of
+CBNIs
+8. CBNIs to which this Division applies 2-12
+9. Declaration by importers or exporters of CBNIs
+2-14
+10. Meaning of in one batch 2-16
+11. Declaration requirement 2-18
+12. Determining value of CBNIs not denominated in Hong Kong dollars
+2-20
+Division 3—Procedure for Handling Certain Offences and Related Matters
+13. Written notice about not instituting criminal proceedings on payment
+2-22
+14. Register of records of persons paying specified amount
+2-26
+15. Suspected offence handled under section 13 may be taken into account
+2-28
+Part 3 Powers to Detect and Restrain Movement
+of CBNIs
+16. Powers to stop and search etc. 3-2
+17. Seizure and detention of CBNIs suspected to be crime proceeds or terrorist property
+3-4
+Section Page
+18. Continued detention of CBNIs suspected to be crime proceeds by court order
+3-4
+19. Further provisions on detention of CBNIs suspected to be crime proceeds
+3-8
+20. Power to obtain particulars of persons on cross-boundary conveyance
+3-10
+21. Powers of entry and search etc. 3-10
+22. Restrictions on entry and search of premises and place
+3-12
+23. Further powers in relation to CBNIs etc. 3-14
+24. Offences in relation to non-compliance with requirements of authorized officers etc.
+3-14
+25. Arrest and detention 3-16
+26. Disposal of things seized and detained 3-18
+27. Compensation 3-18
+Part 4 Miscellaneous
+28. Power to exempt 4-2
+29. Powers to appoint authorized officers and delegate functions
+4-2
+30. Liability of directors, partners, etc. 4-2
+31. Burden of proof 4-4
+32. Protection of authorized officer 4-4
+Section Page
+33. Amendment of Schedules 4-6
+Schedule 1 Specified Control Points S1-2
+Schedule 2 Information to be Provided in Declaration for Import or Export of CBNIs in Possession of Individuals
+S2-2
+Schedule 3 Information to be Provided in Declaration for Other Import or Export of CBNIs
+S3-2
+Schedule 4 Large Quantity of CBNIs S4-2
+Schedule 5 Offences for which Written Notice under Section 13(1) may be Given
+S5-2
+Schedule 6 Particulars of Persons on Crossboundary Conveyance that may be Required under Section 20(1)
+S6-2
+An Ordinance to establish a declaration and disclosure system to detect the
+cross-boundary movement of a large quantity of physical currency and bearer negotiable instruments into or out of Hong Kong; to provide for the powers to restrain the movement of physical currency and bearer negotiable instruments suspected to be related to money laundering and terrorist financing; and to provide for related matters.
+[16 July 2018] L.N. 54 of 2018
+(Enacting provision omitted—E.R. 4 of 2018)
+Part 1
+Preliminary
+1. Short title
+(Amended E.R. 4 of 2018)
+(1) This Ordinance may be cited as the Cross-boundary Movement of Physical Currency and Bearer Negotiable Instruments Ordinance.
+(2) (Omitted as spent—E.R. 4 of 2018)
+2. Interpretation
+(1) In this Ordinance—
+authorized officer (獲授權人員) means—
+(a) a person holding an office specified in Schedule 1 to the Customs and Excise Service Ordinance (Cap. 342); or
+(b) a public officer appointed under section 29(1);
+CBNI (現金類物品) means—
+(a) a note, or coin, that is legal tender in Hong Kong or a place outside Hong Kong; or
+(b) a negotiable instrument that is—
+(i) in bearer form;
+(ii) endorsed without any restriction;
+(iii) made out to a fictitious payee;
+(iv) in a form under which the title of it passes on delivery; or
+(v) signed but does not state a payee’s name;
+Examples— Bearer cheque, promissory note, bearer bond, traveller’s cheque, money order and postal order.
+Commissioner (關長) means the Commissioner of Customs and
+Excise;
+conveyance (運輸工具) includes an aircraft, vehicle, vessel and
+any other means of travel or transport;
+cross-boundary conveyance (跨境運輸工具) means a conveyance
+engaged, or to be engaged, on a journey entering or leaving Hong Kong;
+export (輸出) means to take out of Hong Kong;
+identity card (身分證) has the meaning given by section 1A(1) of
+the Registration of Persons Ordinance (Cap. 177);
+import (輸入) means to bring into Hong Kong;
+rate publication day (報價日) means a day on which the reference
+exchange rate for any currency is published;
+rate publication time (報價時間), in relation to a rate publication
+day, means the time of the day at which the reference exchange rate for any currency is published;
+reference exchange rate (參考匯價) means the opening indicative
+counter exchange selling rate published by The Hong Kong Association of Banks incorporated by section 3 of The Hong Kong Association of Banks Ordinance (Cap. 364);
+specified control point (指明管制站) means a place specified in
+Schedule 1;
+travel document (旅行證件) has the meaning given by section 2 of
+the Customs and Excise Service Ordinance (Cap. 342);
+young person (幼年人) means a person under the age of 16 years.
+(2) For the purposes of this Ordinance, a person is in possession of a thing if—
+(a) it is on the person;
+(b) it is in the baggage accompanying the person; or
+(c) for a person arriving in or about to leave Hong Kong on a cross-boundary conveyance—
+(i) it is part of the personal belongings of the person carried on the conveyance; or
+(ii) it is in the checked baggage of the person (whether or not carried, or to be carried, on the same conveyance).
+(3) For the purposes of this Ordinance, a reference to a large quantity of CBNIs is a reference to CBNIs of a total value that is more than the amount specified in Schedule 4.
+(4) For the purposes of this Ordinance, a reference to the value of a CBNI is a reference to the nominal value of the CBNI.
+Part 2
+Declaration and Disclosure
+Division 1—Import or Export of CBNIs in Possession of
+Individuals
+3. Non-application to persons in transit at Hong Kong International Airport
+This Division does not apply to a person who—
+(a) arrives at the Hong Kong International Airport from a place outside Hong Kong solely for the purpose of leaving Hong Kong; and
+(b) while in Hong Kong, does not pass through immigration control at any specified control point.
+4. Declaration for CBNIs in possession of persons arriving at specified control points
+(1) Subject to section 3, this section applies in relation to a person who arrives at a specified control point from a place outside Hong Kong (traveller) and who is in possession of a large quantity of CBNIs.
+(2) The traveller must make a declaration for the CBNIs in accordance with subsection (4).
+(3) However, if the traveller is a young person accompanied by an adult who knows the traveller is a young person in possession of a large quantity of CBNIs, the adult must make the declaration for the traveller.
+(4) The declaration must—
+(a) be in a form specified by the Commissioner containing the information set out in Part 2 of Schedule 2; and
+(b) be made—
+(i) by giving the form to an authorized officer when the traveller is passing through an area set aside for the purposes of the Customs and Excise Service at the specified control point; or
+(ii) if the traveller does not have to pass through such an area—by giving the form to an authorized officer at the specified control point.
+(5) If—
+(a) the traveller is—
+(i) not a young person; or
+(ii) a young person who is not accompanied by any adult who knows the traveller is a young person in possession of a large quantity of CBNIs; and
+(b) the traveller fails to comply with subsection (2),
+the traveller commits an offence.
+(6) If—
+(a) the traveller is a young person accompanied by one or more adult who knows the traveller is a young person in possession of a large quantity of CBNIs; and
+(b) no declaration is made under subsection (3),
+each accompanying adult who knows the traveller is a young person in possession of a large quantity of CBNIs commits an offence.
+(7) If a declaration made for the purposes of this section contains any information that is false in a material particular, the person who makes the declaration commits an offence.
+(8) A person who commits an offence under subsection (5), (6) or (7) is liable on conviction to a fine of $500,000 and to imprisonment for 2 years.
+(9) It is a defence for a person charged under subsection (5) if the person establishes that at the time of the alleged offence the person did not know, had no reason to suspect, and could not with reasonable diligence have ascertained, that the person was in possession of a large quantity of CBNIs.
+(10) It is a defence for a person charged under subsection (7) if the person establishes that at the time of the alleged offence the person did not know, had no reason to suspect, and could not with reasonable diligence have ascertained, that the information concerned was false in a material particular.
+5. Disclosure by persons arriving in Hong Kong other than at specified control points and persons about to leave Hong Kong
+(1) Subject to section 3, this section applies in relation to—
+(a) a person who arrives in Hong Kong (other than at a specified control point) from a place outside Hong Kong; and
+(b) a person who is about to leave Hong Kong.
+(2) An authorized officer—
+(a) may require the person to disclose whether the person is in possession of a large quantity of CBNIs; and
+(b) if the person is a young person—may require an adult accompanying the person to disclose whether the person is in possession of a large quantity of CBNIs.
+(3) A person who fails to comply with a requirement under subsection (2)(a) commits an offence.
+(4) An adult accompanying a person who knows the person is a young person in possession of a large quantity of CBNIs commits an offence if the adult fails to comply with a requirement under subsection (2)(b).
+(5) A person who, in purported compliance with a requirement under subsection (2), falsely discloses that the person or the young person is not in possession of a large quantity of CBNIs commits an offence.
+(6) A person who commits an offence under subsection (3), (4) or (5) is liable on conviction to a fine of $500,000 and to imprisonment for 2 years.
+(7) It is a defence for a person charged under subsection (5) if the person establishes that at the time of the alleged offence the person did not know, had no reason to suspect, and could not with reasonable diligence have ascertained, that the person or the young person was in possession of a large quantity of CBNIs.
+6. Declaration by persons making disclosure under section 5
+(1) This section applies in relation to a person who makes a disclosure in compliance with a requirement made by an authorized officer under section 5(2) if—
+(a) the person or the young person concerned is in possession of a large quantity of CBNIs; and
+(b) the person discloses that fact.
+(2) The person must make a declaration for the CBNIs in accordance with subsection (3).
+(3) The declaration must—
+(a) be in a form specified by the Commissioner containing the information set out in Part 2 of Schedule 2; and
+(b) be made by giving the form to the authorized officer.
+(4) A person who fails to comply with subsection (2) commits an offence.
+(5) If a declaration made for the purposes of this section contains any information that is false in a material particular, the person who makes the declaration commits an offence.
+(6) A person who commits an offence under subsection (4) or (5) is liable on conviction to a fine of $500,000 and to imprisonment for 2 years.
+(7) It is a defence for a person charged under subsection (5) if the person establishes that at the time of the alleged offence the person did not know, had no reason to suspect, and could not with reasonable diligence have ascertained, that the information concerned was false in a material particular.
+7. Determining value of CBNIs not denominated in Hong Kong dollars
+(1) For the purposes of this Division, if a CBNI in the possession of a person at the time of a relevant event is denominated in a currency other than Hong Kong dollars, its equivalent value in Hong Kong dollars must be calculated in accordance with this section.
+(2) Subject to subsection (3), the equivalent value in Hong Kong dollars must be calculated at the reference exchange rate for the currency published on the day of the relevant event.
+(3) If the day of the relevant event is not a rate publication day, or the relevant event occurs before the rate publication time of a rate publication day, the equivalent value in Hong Kong dollars must be calculated at the reference exchange rate for the currency published on the immediately preceding rate publication day.
+(4) However, if the equivalent value in Hong Kong dollars is not capable of being calculated under subsection (2) or (3), the equivalent value in Hong Kong dollars must be calculated—
+(a) by reference to an exchange rate for the currency published by an internationally recognized institution specified by the Commissioner by notice published in the Gazette and in the way specified in the notice; or
+(b) if no such exchange rate for the currency is available— at an exchange rate that the person in possession of the CBNI would ordinarily use for the currency at the time when the relevant event occurs.
+(5) A notice under subsection (4)(a) is not subsidiary legislation.
+(6) In this section—
+relevant event (有關事件)—
+(a) for a calculation made for the purposes of section 4— means the person arrives at the specified control point concerned; or
+(b) for a calculation made for the purposes of section 5 or 6—means the person, or an adult accompanying the person, is required by an authorized officer to make a disclosure under section 5(2).
+Division 2—Other Import or Export of CBNIs
+8. CBNIs to which this Division applies
+This Division applies in relation to CBNIs imported or exported on or after the commencement date of this Ordinance on a crossboundary conveyance except—
+(a) CBNIs in the possession of a person arriving in or about to leave Hong Kong on the conveyance;
+(b) CBNIs—
+(i) that are imported on an aircraft or vessel solely for the purpose of exporting them on the aircraft or vessel; and
+(ii) that, while in Hong Kong, remain at all times on the aircraft or vessel;
+(c) CBNIs that are air transhipment cargo within the meaning of section 2 of the Import and Export Ordinance (Cap. 60); and
+(d) CBNIs contained in a postal packet within the meaning of section 2 of the Post Office Ordinance (Cap. 98).
+9. Declaration by importers or exporters of CBNIs
+(1) A person commits an offence if the person imports or exports, or causes to be imported or exported, in one batch a large quantity of CBNIs for which no declaration has been made in accordance with section 11.
+Note—
+See section 10 for the meaning of in one batch.
+(2) Subsection (1) does not apply to a person who is in charge of a cross-boundary conveyance on which CBNIs are imported or exported if the person is not otherwise responsible for importing or exporting the CBNIs.
+(3) A person who makes, or causes to be made, a declaration in accordance with section 11 for the import or export of CBNIs for the purposes of this section commits an offence if the declaration contains any information that is false in a material particular.
+(4) A person who commits an offence under subsection (1) or (3) is liable on conviction to a fine of $500,000 and to imprisonment for 2 years.
+(5) It is a defence for a person charged under subsection (1) if the person establishes that at the time of the alleged offence the person did not know, had no reason to suspect, and could not with reasonable diligence have ascertained, that—
+(a) the CBNIs concerned were of a large quantity; or
+(b) no declaration for the CBNIs had been made in accordance with section 11.
+(6) It is a defence for a person charged under subsection (3) if the person establishes that at the time of the alleged offence the person did not know, had no reason to suspect, and could not with reasonable diligence have ascertained, that the information concerned was false in a material particular.
+10. Meaning of in one batch
+(1) For the purposes of this Division, all CBNIs imported, or exported, on a cross-boundary conveyance by a particular person (other than a carrier) are taken to be imported, or exported, in one batch.
+(2) For the purposes of this Division, all CBNIs imported, or exported, on a cross-boundary conveyance by the same carrier for the same customer are taken to be imported, or exported, in one batch.
+(3) For subsection (2)—
+(a) a CBNI is imported, or exported, by a carrier for a customer only if—
+(i) the customer directly engages the carrier to import, or export, the CBNI; or
+(ii) the customer directly engages another person (forwarder) who, in the course of the forwarder’s logistics service business, transports, or arranges for the transportation of, the CBNI to the carrier for the carrier to import, or export, the CBNI; and
+(b) if the customer directly engages more than one forwarder as mentioned in paragraph (a)(ii), only CBNIs transported to the same carrier, or the transport of which to the same carrier is arranged, by the same forwarder are taken to be imported, or exported, by the same carrier for the same customer.
+(4) In this section—
+carrier (承運人) means a person acting in the course of carrying
+on a logistics service business;
+customer (客户) means a person who is not a carrier;
+logistics service business (物流服務業務) means a business of
+transporting, or arranging for the transportation of, goods for other persons.
+11. Declaration requirement
+(1) A declaration required by section 9(1) must be made—
+(a) by sending the information set out in Part 2 of Schedule 3 in the form of an electronic record to an information system designated by the Commissioner; or
+(b) by giving the information in the way specified under subsection (2).
+(2) The Commissioner may specify the way in which the information set out in Part 2 of Schedule 3 is to be given if the Commissioner considers that sending the information in accordance with subsection (1)(a) is not practicable.
+(3) The Commissioner must, as soon as practicable after making a designation or specification, publish the details of the designation or specification in a way that the Commissioner considers appropriate.
+(4) If information is sent to a designated information system, the declaration is taken to have been made at the time when a reference number is generated by the system indicating acceptance of the information by the system.
+12. Determining value of CBNIs not denominated in Hong Kong dollars
+(1) For the purposes of this Division, if a CBNI imported or exported is denominated in a currency other than Hong Kong dollars, its equivalent value in Hong Kong dollars must be calculated in accordance with this section.
+(2) Subject to subsection (3), the equivalent value in Hong Kong dollars must be calculated at the reference exchange rate for the currency published on the 15th day of the month preceding the month in which the CBNI is imported or exported (reference day).
+(3) If the reference day is not a rate publication day, the equivalent value in Hong Kong dollars must be calculated at the reference exchange rate for the currency published on the immediately preceding rate publication day.
+(4) However, if the equivalent value in Hong Kong dollars is not capable of being calculated under subsection (2) or (3), the equivalent value in Hong Kong dollars must be calculated—
+(a) by reference to an exchange rate for the currency published by an internationally recognized institution specified by the Commissioner by notice published in the Gazette and in the way specified in the notice; or
+(b) if no such exchange rate for the currency is available— at an exchange rate that the person responsible for the import or export of the CBNI would ordinarily use for the currency on the reference day.
+(5) A notice under subsection (4)(a) is not subsidiary legislation.
+(6) For the purposes of subsection (4), a person responsible for the import or export of a CBNI is—
+(a) if the CBNI is imported or exported by a person who is not a carrier within the meaning of section 10—the person; or
+(b) if the CBNI is imported or exported by a carrier, for a customer, within the meaning of section 10—the customer.
+Division 3—Procedure for Handling Certain Offences and
+Related Matters
+13. Written notice about not instituting criminal proceedings on payment
+(1) If the Commissioner has reason to believe that a person has committed an offence specified in column 2 of Schedule 5 (specified offence), the Commissioner may give the person a written notice stating—
+(a) the full name of the person;
+(b) the number of the identity card or, if the person does not have an identity card, the number of any travel document, of the person;
+(c) the particulars of the offence that the Commissioner believes the person has committed (suspected offence);
+(d) the type of the CBNIs concerned and their value;
+(e) the maximum penalty for the specified offence;
+(f) that—
+(i) if the person pays to the Commissioner the amount specified in column 3 of Schedule 5 opposite the specified offence (specified amount) within a reasonable time specified by the Commissioner (specified time), no criminal proceedings for the suspected offence will be instituted against the person; or
+(ii) if the person does not pay the specified amount within the specified time, criminal proceedings for the suspected offence may be instituted against the person and the person will, if convicted, be liable to the penalty for the offence;
+(g) that, if the person pays the specified amount within the specified time, a record that the suspected offence has been handled under this section may be brought to the attention of a court or magistrate in the event of future offences under this Ordinance committed by the person; and
+(h) any other information that the Commissioner considers appropriate.
+(2) Subsection (1) does not apply if—
+(a) the person has previously been convicted of an offence under section 4, 5, 6 or 9;
+(b) the register maintained under section 14 contains a record of the person;
+(c) the person has previously been convicted of an offence against—
+(i) section 25 or 25A of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405);
+(ii) section 25 or 25A of the Organized and Serious Crimes Ordinance (Cap. 455); or
+(iii) section 14(1), (2), (4), (5) or (6) of the United Nations (Anti-Terrorism Measures) Ordinance (Cap. 575); or
+(d) the CBNIs concerned have been seized under section 17.
+(3) If the person pays to the Commissioner the specified amount within the specified time—
+(a) no criminal proceedings for the suspected offence may be instituted against the person; and
+(b) without affecting the powers of the Commissioner under Part 3, any CBNIs seized in connection with the suspected offence must be returned to the person.
+14. Register of records of persons paying specified amount
+(1) The Commissioner must maintain a register of records of persons who have made a payment mentioned in section 13(1)(f)(i).
+(2) The Commissioner must, for each person, arrange to be entered in the register—
+(a) the full name of the person;
+(b) the number of the identity card or, if the person does not have an identity card, the number of any travel document, of the person;
+(c) the date on which the notice under section 13(1) was given;
+(d) the date on which the payment was made; and
+(e) any other information that the Commissioner considers appropriate.
+15. Suspected offence handled under section 13 may be taken into account
+(1) If—
+(a) a person is convicted of an offence under section 4, 5, 6 or 9; and
+(b) the register maintained under section 14 contains a record of the person,
+the court or magistrate may, in determining the sentence to be passed on the person, take the record into account.
+(2) For the purposes of subsection (1), the Commissioner may issue a certificate stating that, according to the register maintained under section 14—
+(a) a person of the name, and holding the identity card or travel document, specified in the certificate was given a notice under section 13(1) on the date set out in the certificate; and
+(b) the person made a payment mentioned in section 13(1)(f)(i) on the date set out in the certificate.
+(3) A certificate purporting to be issued under subsection (2) is sufficient evidence of the matters stated in the certificate.
+Part 3
+Powers to Detect and Restrain Movement of CBNIs
+16. Powers to stop and search etc.
+(1) An authorized officer may exercise any or all of the following powers for the purpose of performing the officer’s functions under this Ordinance—
+(a) stop and search a person arriving in or about to leave Hong Kong and examine anything in the person’s possession;
+(b) stop, board and search a cross-boundary conveyance and examine anything on the conveyance;
+(c) require a person arriving in or about to leave Hong Kong or a person on board a cross-boundary conveyance—
+(i) to produce the person’s identity card or travel document for inspection; and
+(ii) to answer any question the officer considers necessary to ascertain whether there has been any contravention of Part 2;
+(d) if any cargo is stored at any place before being exported, or after having been imported and before or at the time of its collection by the consignee—examine the cargo at the place.
+(2) An authorized officer may seize and detain anything that—
+(a) is found as a result of the exercise of a power under subsection (1); and
+(b) the officer reasonably suspects to be connected with a contravention of Part 2.
+(3) An authorized officer may use any force reasonably necessary for exercising a power under subsection (1) or (2).
+17. Seizure and detention of CBNIs suspected to be crime proceeds or terrorist property
+(1) In addition to the power conferred under section 16(2), an authorized officer may seize any CBNIs found as a result of the exercise of a power under section 16(1) if the officer reasonably suspects the CBNIs to be—
+(a) property representing the proceeds of an indictable offence mentioned in section 25(1) of the Organized and Serious Crimes Ordinance (Cap. 455); or
+(b) terrorist property within the meaning of section 2(1) of the United Nations (Anti-Terrorism Measures) Ordinance (Cap. 575).
+(2) Subject to sections 18 and 19, an authorized officer may detain the CBNIs for a period of not more than 10 working days after the day of seizure.
+(3) An authorized officer may use any force reasonably necessary for exercising a power under subsection (1) or (2).
+(4) In this section—
+working day (工作日) means a day that is not—
+(a) a general holiday or a Saturday; or
+(b) a black rainstorm warning day or gale warning day as defined by section 71(2) of the Interpretation and General Clauses Ordinance (Cap. 1).
+18. Continued detention of CBNIs suspected to be crime proceeds by court order
+(1) An authorized officer may, within the period mentioned in
+section 17(2), apply to the Court for an order to authorize the continued detention of CBNIs the officer reasonably suspects to be property mentioned in section 17(1)(a).
+(2) The Court may make the order if it is satisfied that—
+(a) there are reasonable grounds for suspecting that the CBNIs are property representing the proceeds of an indictable offence mentioned in section 25(1) of the Organized and Serious Crimes Ordinance (Cap. 455); and
+(b) the detention of the CBNIs is justified while—
+(i) their origin or derivation is further investigated;
+(ii) consideration is given to the institution (whether in Hong Kong or elsewhere) of proceedings against a person for an offence with which the CBNIs are connected; or
+(iii) consideration is given to the institution (whether in Hong Kong or elsewhere) of proceedings which may result in the forfeiture or confiscation of the CBNIs.
+(3) An order made under subsection (2) may authorize the continued detention of the CBNIs for a period specified in the order. The period must not exceed 3 months beginning on the date of the order.
+(4) On an application made by an authorized officer, the Court, if satisfied that the conditions mentioned in subsection (2) continue to exist, may by order (new order)—
+(a) extend the period specified in an order made under subsection (2) for a period specified in the new order; or
+(b) further extend a period extended under this subsection for a period specified in the new order.
+(5) A new order must not—
+(a) specify a period exceeding 3 months beginning on the date of the order; and
+(b) result in the total period of the detention of the CBNIs exceeding 2 years beginning on the date of the order made under subsection (2).
+(6) At any time while CBNIs are being detained under an order made under this section, the Court may direct their return to an interested person in relation to the CBNIs or, if there is more than one such interested person, any one of them, if—
+(a) the Court is satisfied on an application made by an interested person in relation to the CBNIs that the conditions for their detention do not, or no longer, exist; or
+(b) the Court is satisfied on an application made by an authorized officer that their detention is no longer justified.
+(7) In this section—
+Court (法院) means the Court of First Instance or the District
+Court;
+interested person (關係人), in relation to any CBNI, means—
+(a) the person from whom it was seized;
+(b) a person by whom or on whose behalf it was imported or exported; or
+(c) a person who otherwise has an interest in it.
+19. Further provisions on detention of CBNIs suspected to be crime proceeds
+If, at any time while CBNIs are being detained under section 17(2) or an order made under section 18, any of the following
+proceedings are instituted, the CBNIs may be detained until the proceedings have been concluded—
+(a) proceedings instituted (whether in Hong Kong or elsewhere) against a person for an offence with which the CBNIs are connected;
+(b) proceedings instituted (whether in Hong Kong or elsewhere) which may result in the forfeiture or confiscation of the CBNIs.
+20. Power to obtain particulars of persons on cross-boundary conveyance
+(1) An authorized officer may, for the purpose of performing the officer’s functions under this Ordinance, require the operator of a cross-boundary conveyance—
+(a) to give the officer any of the particulars specified in Schedule 6 about any person on board, or to be on board, the conveyance; and
+(b) to give the particulars in the way and within a reasonable time required by the officer.
+(2) In this section—
+operator (營運者), in relation to a cross-boundary conveyance,
+means—
+(a) the owner, charterer or hirer of the conveyance;
+(b) another person in charge of the conveyance; or
+(c) a person who, in relation to the conveyance, is acting as an agent of the owner, charterer, hirer or person in charge of the conveyance.
+21. Powers of entry and search etc.
+(1) An authorized officer may exercise any or all of the powers
+under subsection (2) if the officer reasonably suspects that there is on or in any premises, place or conveyance anything connected with a contravention of Part 2.
+(2) The powers are—
+(a) subject to section 22, to enter the premises or place and search for the thing;
+(b) to break open any outer or inner door of the premises or place that the authorized officer is empowered to enter;
+(c) to stop and board a conveyance and search for the thing;
+(d) to examine, seize and detain anything found as a result of the exercise of a power under paragraph (a) or (c); and
+(e) to use any force reasonably necessary for exercising a power under paragraph (a), (b), (c) or (d).
+22. Restrictions on entry and search of premises and place
+(1) Subject to subsection (3), an authorized officer must not enter and search any premises or place under section 21(2)(a) except under the authority of a warrant issued under subsection (2).
+(2) A magistrate may issue a warrant authorizing an authorized officer to enter and search any premises or place if the magistrate is satisfied by information on oath that there are reasonable grounds for suspecting that there is on the premises or in the place anything connected with a contravention of Part 2.
+(3) If an authorized officer enters any premises or place under the authority of a warrant issued under subsection (2), the officer must, on request, produce the warrant and evidence of identity for inspection by a person found on the premises or in the place.
+23. Further powers in relation to CBNIs etc.
+(1) An authorized officer may exercise any or all of the powers under subsection (2) in relation to CBNIs, or anything the officer reasonably suspects to be connected with a contravention of Part 2, found as a result of the exercise of a power under section 16 or 21 (found item).
+(2) The powers are—
+(a) to require the production of any further thing that the authorized officer reasonably suspects to relate to the found item and, if produced, to examine the thing;
+(b) if it is reasonably practicable to make a copy of the found item in a form in which it can be taken away and in which it is either capable of being retrieved on a computer or visible and legible—
+(i) to make such a copy or require the provision of such a copy; and
+(ii) to take away the copy; and
+(c) to use any force reasonably necessary for exercising a power under paragraph (a) or (b).
+24. Offences in relation to non-compliance with requirements of authorized officers etc.
+(1) A person commits an offence if the person—
+(a) fails to comply with a requirement of an authorized officer in the exercise of the officer’s powers under this Part; or
+(b) wilfully resists or obstructs an authorized officer in the exercise of the officer’s powers under this Part.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine at level 3 and to imprisonment for 6 months.
+(3) It is a defence for a person charged under subsection (1)(a) if the person establishes that at the time of the alleged offence the person had a reasonable excuse for failing to comply with the requirement of the authorized officer.
+(4) An authorized officer may seize and detain anything that the officer reasonably suspects to be connected with a contravention of subsection (1)(b).
+25. Arrest and detention
+(1) An authorized officer may without warrant arrest or detain for further inquiries a person whom the officer reasonably suspects of having contravened this Ordinance.
+(2) An authorized officer who arrests a person under subsection (1) must take the person to a police station to be dealt with in accordance with the Police Force Ordinance (Cap. 232).
+(3) However, if further inquiries are necessary, an authorized officer may first take the person to an office of the Customs and Excise Service for further inquiries and then to a police station to be dealt with in accordance with the Police Force Ordinance (Cap. 232).
+(4) A person must not be detained for more than 48 hours from the time the person is arrested without being charged and brought before a magistrate.
+(5) An authorized officer who arrests a person may require the person to give the person’s name and to produce evidence of identity to the officer.
+(6) If a person forcibly resists or attempts to evade arrest under this section, an authorized officer may use any force reasonably necessary to effect the arrest.
+26. Disposal of things seized and detained
+For the purposes of section 102 of the Criminal Procedure Ordinance (Cap. 221), a thing seized and detained under this Part is property in the possession of the Customs and Excise Service.
+27. Compensation
+(1) This section applies if anything (seized item) is seized and detained under this Part.
+(2) The Court may, on an application made by an interested person in relation to a seized item, order compensation to be paid by the Government to the applicant if, having regard to all the circumstances of the case, it considers it appropriate to make the order.
+(3) However, the Court may make an order under subsection (2) only if—
+(a) since the seizure and detention of a seized item, none of the following events has happened—
+(i) proceedings have been instituted (whether in Hong Kong or elsewhere) against a person for an offence with which the item is connected;
+(ii) proceedings have been instituted (whether in Hong Kong or elsewhere) and may result in the forfeiture or confiscation of the item;
+(iii) the item has been specified in a notice under section 6(1) of the United Nations (Anti-Terrorism Measures) Ordinance (Cap. 575); and
+(b) it is satisfied that—
+(i) there has been serious default on the part of a person concerned with the seizure or detention of the item; and
+(ii) the applicant has, in consequence of the seizure or detention and the default mentioned in subparagraph (i), suffered loss in relation to the item.
+(4) The amount of compensation is the amount that the Court considers just in all the circumstances of the case.
+(5) This section does not affect any remedy available to a person at common law.
+(6) In this section—
+Court (法院) means the Court of First Instance;
+interested person (關係人), in relation to a seized item, means—
+(a) the person from whom it was seized;
+(b) a person by whom or on whose behalf it was imported or exported; or
+(c) a person who otherwise has an interest in it.
+Part 4
+Miscellaneous
+28. Power to exempt
+The Commissioner may, in writing, exempt a person from the requirement of a provision of Part 2 in a particular case if the Commissioner is satisfied that, having regard to all the circumstances of the case—
+(a) it is not reasonably practicable for the person to comply with the requirement; and
+(b) it is reasonable that the person should be exempted from the requirement.
+29. Powers to appoint authorized officers and delegate functions
+(1) The Commissioner may, in writing, appoint a public officer to be an authorized officer for the purposes of this Ordinance.
+(2) The Commissioner may, in writing, delegate any of the Commissioner’s functions under this Ordinance (other than under subsection (1) or section 7(4)(a), 12(4)(a) or 33(1)) to a public officer.
+30. Liability of directors, partners, etc.
+(1) If—
+(a) an offence against this Ordinance is committed by a body corporate or by a person as a member of an unincorporated body; and
+(b) it is proved that the offence has been committed with the consent or connivance of or is attributable to the
+neglect of a person specified in subsection (2) (specified person),
+the specified person also commits the offence and is liable to be proceeded against and punished accordingly.
+(2) A specified person is a person who, at the time of the offence, was—
+(a) for an offence committed by a body corporate—a director, secretary, principal officer or manager of the body corporate;
+(b) for an offence committed by a member of an unincorporated body—a partner or office holder in, or a member or manager of, the body; or
+(c) in either case mentioned in paragraph (a) or (b)— purporting to act in the capacity of a person referred to in that paragraph.
+31. Burden of proof
+A person charged with an offence against this Ordinance is taken to have established a fact that needs to be established for a defence if—
+(a) there is sufficient evidence to raise an issue with respect to the fact; and
+(b) the contrary is not proved by the prosecution beyond reasonable doubt.
+32. Protection of authorized officer
+(1) An authorized officer is not civilly liable for an act done or omitted to be done by the officer in good faith—
+(a) in performing or purportedly performing a function under this Ordinance; or
+(b) in exercising or purportedly exercising a power under this Ordinance.
+(2) Subsection (1) does not affect any liability of the Government for the act or omission.
+33. Amendment of Schedules
+(1) The Commissioner may, by notice published in the Gazette, amend Schedules 1, 2, 3 and 6.
+(2) The Secretary for Security may, by notice published in the Gazette, amend Schedule 4.
+(3) The Legislative Council may, by resolution, vary the amount specified in column 3 of Schedule 5 for an offence.
+Schedule 1
+[ss. 2(1) & 33(1)]
+Specified Control Points
+1. Lo Wu Control Point
+2. (Repealed L.N. 20 of 2025)
+3. Man Kam To Boundary Control Point
+4. Sha Tau Kok Boundary Control Point
+5. Hong Kong-Macao Ferry Terminal (Amended 31 of 2025 s. 201)
+6. China Ferry Terminal
+7. Lok Ma Chau Boundary Control Point
+8. Hong Kong International Airport
+9. (Repealed L.N. 20 of 2025)
+10. Shenzhen Bay Port Hong Kong Port Area
+11. Lok Ma Chau Spur Line Control Point
+12. Kai Tak Cruise Terminal
+13. Ocean Terminal (Added L.N. 53 of 2018)
+14. West Kowloon Station of the Guangzhou-Shenzhen-Hong Kong Express Rail Link (other than the West Kowloon Station Mainland Port Area) (Added L.N. 111 of 2018)
+15. Hong Kong-Zhuhai-Macao Bridge Hong Kong Port (Added L.N. 199 of 2018)
+16. Heung Yuen Wai Boundary Control Point (Added L.N. 156 of 2020)
+Schedule 2
+[ss. 4(4), 6(3) & 33(1)]
+Information to be Provided in Declaration for Import
+or Export of CBNIs in Possession of Individuals
+Part 1
+Interpretation
+1. Interpretation
+In this Schedule—
+personal information (個人資料), in relation to a person, means
+the following particulars of the person—
+(a) full name;
+(b) number of identity card, or number and place of issue of travel document;
+(c) nationality;
+(d) date and place of birth;
+(e) permanent address (whether in Hong Kong or not); and
+(f) if the permanent address is not in Hong Kong—the address while in Hong Kong.
+Part 2
+Information
+1. The personal information of the person who is in possession of the
+CBNIs (traveller).
+2. If the traveller is arriving in or about to leave Hong Kong on a cross-boundary conveyance, the particulars for identifying the conveyance (such as the flight number of an aircraft, the registration number of a vehicle or the name of a vessel).
+3. The type of the CBNIs and their value.
+4. Whether the traveller is arriving in or about to leave Hong Kong.
+5. If the traveller is arriving in Hong Kong—
+(a) the date of arrival in Hong Kong; and
+(b) the place from which the CBNIs were imported.
+6. If the traveller is about to leave Hong Kong—
+(a) the date of departure from Hong Kong; and
+(b) the place to which the CBNIs are to be exported.
+7. If the traveller is not the owner of the CBNIs—the name and address of the owner of the CBNIs.
+8. If the declaration is made by a person who is not the traveller—the personal information of the person.
+Schedule 3
+[ss. 11(1) & (2) & 33(1)]
+Information to be Provided in Declaration for Other
+Import or Export of CBNIs
+Part 1
+Interpretation
+1. Interpretation
+In this Schedule—
+basic information (基本資料)—
+(a) in relation to a natural person, means the following particulars of the person—
+(i) full name;
+(ii) number of identity card, or number and place of issue of travel document;
+(iii) nationality;
+(iv) date and place of birth; and
+(v) permanent address (whether in Hong Kong or not); or
+(b) in relation to an entity that is not a natural person, means the following particulars of the entity—
+(i) name;
+(ii) if it is registered under the Business Registration Ordinance (Cap. 310)—business registration number; and
+(iii) business address.
+Part 2
+Information
+1. The basic information of the following person—
+(a) if the CBNIs are to be imported or exported by a person who is not a carrier within the meaning of section 10— the person; or
+(b) if the CBNIs are to be imported or exported by a carrier, for a customer, within the meaning of section 10—the customer.
+2. The particulars for identifying the cross-boundary conveyance on which the CBNIs are to be imported or exported (such as the flight number of an aircraft, the registration number of a vehicle or the name of a vessel).
+3. The type of the CBNIs and their value.
+4. Whether the CBNIs are to be imported or exported.
+5. If the CBNIs are to be imported—
+(a) the date of import; and
+(b) the place from which they are to be imported.
+6. If the CBNIs are to be exported—
+(a) the date of export; and
+(b) the place to which they are to be exported.
+7. If applicable, the name and address of the recipient of the CBNIs.
+8. If applicable, the particulars for identifying the consignment in which the CBNIs are to be imported or exported (such as the waybill number).
+Schedule 4
+[ss. 2(3) & 33(2)]
+Large Quantity of CBNIs
+$120,000
+Schedule 5
+[ss. 13(1) & 33(3)]
+Offences for which Written Notice under Section 13(1)
+may be Given
+Column 1 Column 2 Column 3
+Item Offence Amount
+1. An offence under section 4(5) $2,000
+2. An offence under section 4(6) $2,000
+3. An offence under section 4(7) $2,000
+4. An offence under section 5(3) $2,000
+5. An offence under section 5(4) $2,000
+6. An offence under section 5(5) $2,000
+7. An offence under section 6(4) $2,000
+8. An offence under section 6(5) $2,000
+Schedule 6
+[ss. 20(1) & 33(1)]
+Particulars of Persons on Cross-boundary Conveyance
+that may be Required under Section 20(1)
+1. Full name
+2. Number of identity card, or number and place of issue of travel document
+3. Nationality
+4. Date and place of birth
+5. Place of original embarkation

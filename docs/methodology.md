@@ -114,7 +114,17 @@ the United Nations Act and its Anti-Terrorism Measures Regulations, and the Prec
 Metals Act; from Singapore Statutes Online, reproduced with AGC permission), and **Switzerland** (the
 Anti-Money Laundering Act and Ordinance, the FINMA AML Ordinance, the Criminal Code money-laundering and
 terrorist-financing articles, and the Embargo Act; from Fedlex, captured as the **authentic German**
-consolidation — see the multilingual note below). All jurisdictions are
+consolidation — see the multilingual note below); and — added by recorded decision (2026-07-10) — three
+further national branches: **Hong Kong** (the Anti-Money Laundering and Counter-Terrorist Financing
+Ordinance, the OSCO and DTROP money-laundering offences, UNATMO, the UN Sanctions Ordinance, the WMD (Control
+of Provision of Services) Ordinance, and the cross-boundary cash Ordinance; from e-Legislation, English is
+an authentic language), **Japan** (the Criminal Proceeds Transfer Prevention Act, the Organized Crime
+Punishment Act, the Terrorist Financing Punishment Act, FEFTA, and the International Terrorist Asset-Freezing
+Act; from e-Gov, captured as the **authentic Japanese** under an open licence), and the **United Arab
+Emirates** (Federal Decree-Law 10/2025 and the superseded 20/2018, the 2019 implementing regulation, the
+2020 targeted-financial-sanctions decision, and the 2014 counter-terrorism law; captured as the **official
+English translation** because the authentic Arabic does not extract to faithful text — see the note below).
+All jurisdictions are
 cross-referenced, never merged; UK texts are Crown copyright under the Open Government Licence v3.0, US
 federal texts are public domain (17 U.S.C. §105), EU texts are © European Union reusable under Commission
 Decision 2011/833/EU with attribution, and UN treaties and Security Council resolutions are UN official
@@ -187,6 +197,35 @@ metrics and reason in their `verification` block. The Swiss Criminal Code articl
 260quinquies, 260ter) are a section extract; note that where a flattened superscript footnote digit attaches
 to a plain Fedlex article number the derived structure layer may carry that footnote in the unit number (a
 best-effort limitation of PDF capture — the authentic text itself is unaffected).
+
+The **Hong Kong** texts are captured from e-Legislation as the "Verified Copy" English PDFs
+(`official_consolidation`; the verified copy is the legally authoritative version under Cap. 614). English
+and Chinese are both authentic (Cap. 5), so the English is an authentic version; each record's `version_id`
+is the "verified copy as at" date. The **Japanese** texts are captured from e-Gov as the **authentic
+Japanese** consolidation (`authentic_text`, `language: ja`) under the Government of Japan Standard Terms of
+Use v2.0 (CC BY-compatible, so the full text is published, `redistribution: open`); this is the corpus's
+first CJK branch, extracted verbatim (no whitespace collapse) and segmented by 第N条 with kanji numerals
+converted to Arabic, and it verifies at full token *and character* coverage. Only the Japanese is authentic;
+the Ministry of Justice's English translations are unofficial and lag, so a JLT English URL is recorded in
+provenance where one exists.
+
+The **United Arab Emirates** posed a script problem that is worth recording. Arabic is the sole authentic
+legal language (the English on the portal is an official but non-binding translation), so the intent was to
+capture the authentic Arabic. But the portal's Arabic PDFs store glyphs in *visual* order, and no available
+PDF text engine recovers faithful logical-order text from them: PyMuPDF badly garbles the Arabic, and even
+poppler `pdftotext` — the best of them — transposes the letters of the article marker (المادة → املادة) and
+reverses parenthesised numbers. A deep-dive established that **Tesseract OCR with the Arabic language pack**
+*does* read the rendered page into correctly-ordered Unicode (with minor OCR-level character noise), and is
+the route to faithful Arabic text in future. For now, to keep the corpus's fidelity standard, each UAE
+record stores the **official English translation** (a new `authoritative_status: official_translation`,
+`language: en`, `authentic_languages: [ar]`), which extracts cleanly and passes cross-engine verification —
+here run as poppler-vs-PyMuPDF, both of which read the Latin-script English faithfully. The **authentic
+Arabic PDF is preserved byte-exact inside each record** (`authentic-source-ar.pdf`, recorded in an
+`authentic_source` metadata block with its own SHA-256), so the prevailing legal text is retained for the
+future OCR-based extraction. UAE material is `redistribution: restricted` (government source, all rights
+reserved): the source link, citation and hash are always publishable, and the translation is captured for a
+neutral reference corpus. Federal Decree-Law 20/2018 is retained as a `superseded` record (replaced by
+10/2025).
 
 ## 7. Neutral concept vocabulary
 

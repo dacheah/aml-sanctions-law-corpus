@@ -1,4 +1,4 @@
-# FATF cross-jurisdiction crosswalk (UN treaty basis → Australia · United Kingdom · United States · European Union · Canada · Singapore · Switzerland)
+# FATF cross-jurisdiction crosswalk (UN treaty basis → Australia · United Kingdom · United States · European Union · Canada · Singapore · Switzerland · Hong Kong · Japan · United Arab Emirates)
 
 > **Unofficial, derived, analytical.** Each FATF Recommendation is shown with its **UN treaty /
 > Security Council basis** (the root international instrument it restates) above the national columns,
@@ -27,6 +27,9 @@
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.2 — National cooperation and coordination
 *Note:* Institutional/coordination measure; not a captured instrument in v1.
@@ -71,6 +74,17 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+- **Hong Kong:**
+    - *OSCO*: 25. Dealing with property known or believed to represent pro
+    - *DTROP*: 25. Dealing with property known or believed to represent pro
+    - *UNATMO*: 7. Prohibition on provision or collection of property to com; 8. Prohibition on making property, etc. available to or coll
+- **Japan:**
+    - *Organized Crime Punishment Act*: 第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する; 第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以
+    - *Terrorist Financing Punishment Act*: 第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」; 第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (2); Article (26)
+    - *Combating Terrorism Crimes Law 2014*: Article (29)
+    - *Federal AML/CFT Law 2018 (superseded)*: Article (2)
 
 ### R.4 — Confiscation and provisional measures
 *Concepts:* `enforcement_and_offences`
@@ -108,6 +122,17 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+- **Hong Kong:**
+    - *OSCO*: 25. Dealing with property known or believed to represent pro
+    - *DTROP*: 25. Dealing with property known or believed to represent pro
+    - *UNATMO*: 7. Prohibition on provision or collection of property to com; 8. Prohibition on making property, etc. available to or coll
+- **Japan:**
+    - *Organized Crime Punishment Act*: 第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する; 第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以
+    - *Terrorist Financing Punishment Act*: 第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」; 第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (2); Article (26)
+    - *Combating Terrorism Crimes Law 2014*: Article (29)
+    - *Federal AML/CFT Law 2018 (superseded)*: Article (2)
 
 ## C — Terrorist financing and proliferation financing
 
@@ -146,6 +171,17 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+- **Hong Kong:**
+    - *OSCO*: 25. Dealing with property known or believed to represent pro
+    - *DTROP*: 25. Dealing with property known or believed to represent pro
+    - *UNATMO*: 7. Prohibition on provision or collection of property to com; 8. Prohibition on making property, etc. available to or coll
+- **Japan:**
+    - *Organized Crime Punishment Act*: 第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する; 第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以
+    - *Terrorist Financing Punishment Act*: 第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」; 第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (2); Article (26)
+    - *Combating Terrorism Crimes Law 2014*: Article (29)
+    - *Federal AML/CFT Law 2018 (superseded)*: Article (2)
 
 ### R.6 — Targeted financial sanctions related to terrorism and terrorist financing
 *Concepts:* `asset_freezing`, `designation_criteria`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`, `sanctions_permits`
@@ -175,6 +211,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Switzerland:**
     - *AMLA / GwG*: Art. 10 Vermögenssperre
     - *Embargo Act / EmbG*: Art. 1 Gegenstand; Art. 2 Zuständigkeit
+- **Hong Kong:**
+    - *UNATMO*: 6. Freezing of property; 4. Specification by Chief Executive of persons and property 
+    - *UNSO*: 3. Regulations shall give effect to relevant instructions
+    - *WMD(CPS)O*: 4. Prohibition on providing services in relation to weapons 
+- **Japan:**
+    - *FEFTA (外為法)*: 第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要; 第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取; 第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令
+    - *International Terrorist Asset-Freezing Act*: 第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ; 第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ; 第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.7 — Targeted financial sanctions related to proliferation
 *Concepts:* `asset_freezing`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`
@@ -204,6 +248,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Switzerland:**
     - *AMLA / GwG*: Art. 10 Vermögenssperre
     - *Embargo Act / EmbG*: Art. 1 Gegenstand; Art. 2 Zuständigkeit
+- **Hong Kong:**
+    - *UNATMO*: 6. Freezing of property
+    - *UNSO*: 3. Regulations shall give effect to relevant instructions
+    - *WMD(CPS)O*: 4. Prohibition on providing services in relation to weapons 
+- **Japan:**
+    - *FEFTA (外為法)*: 第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要; 第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取; 第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令
+    - *International Terrorist Asset-Freezing Act*: 第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ; 第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ; 第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.8 — Non-profit organisations
 *Note:* NPO-specific measures not captured in v1.
@@ -240,6 +292,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
     - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
+- **Hong Kong:**
+    - *AMLO*: 3. When customer due diligence measures must be carried out
+- **Japan:**
+    - *APTCP (犯収法)*: 第四条　特定事業者（第二条第二項第四十五号に掲げる特定事業者（第十二条において「弁
+- **United Arab Emirates:**
+    - *AML/CFT Implementing Regulation 2019*: Article (7); Article (11); Article (15); Article (20) hereof;
 
 ### R.11 — Record-keeping
 *Concepts:* `record_keeping`
@@ -262,6 +320,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 7 Dokumentationspflicht
+- **Hong Kong:**
+    - *AMLO*: 20. Duty to keep records
+- **Japan:**
+    - *APTCP (犯収法)*: 第六条　特定事業者は、取引時確認を行った場合には、直ちに、主務省令で定める方法によ; 第七条　特定事業者（次項に規定する特定事業者を除く。）は、特定業務に係る取引を行った
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (23)
 
 ### R.12 — Politically exposed persons
 *Concepts:* `politically_exposed_persons`
@@ -278,6 +342,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PCMLTFA*: 9.3 (1) Every person or entity that is referred to in sectio
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:**
+    - *AML/CFT Implementing Regulation 2019*: Article (15)
 
 ### R.13 — Correspondent banking
 *Concepts:* `correspondent_banking`
@@ -295,6 +363,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PCMLTFA*: 9.31 (1) No entity referred to in paragraph 5(a), (b), (d),
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.14 — Money or value transfer services
 *Concepts:* `enrolment_registration`
@@ -311,6 +382,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PCMLTFA*: 11.1 Except as otherwise prescribed by regulation, every
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.15 — New technologies (incl. virtual assets)
 *Concepts:* `virtual_assets`
@@ -325,6 +399,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.16 — Wire transfers
 *Concepts:* `funds_transfer_reporting`
@@ -340,6 +417,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.17 — Reliance on third parties
 *Concepts:* `customer_due_diligence`
@@ -365,6 +445,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
     - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
+- **Hong Kong:**
+    - *AMLO*: 3. When customer due diligence measures must be carried out
+- **Japan:**
+    - *APTCP (犯収法)*: 第四条　特定事業者（第二条第二項第四十五号に掲げる特定事業者（第十二条において「弁
+- **United Arab Emirates:**
+    - *AML/CFT Implementing Regulation 2019*: Article (7); Article (11); Article (15); Article (20) hereof;
 
 ### R.18 — Internal controls and foreign branches and subsidiaries
 *Concepts:* `amlctf_program`
@@ -384,6 +470,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 8 Organisatorische Massnahmen
+- **Hong Kong:**
+    - *AMLO*: 19. Financial institutions and DNFBPs to establish procedure
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.19 — Higher-risk countries
 *Concepts:* `risk_based_approach`, `customer_due_diligence`
@@ -410,6 +500,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
     - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
+- **Hong Kong:**
+    - *AMLO*: 3. When customer due diligence measures must be carried out
+- **Japan:**
+    - *APTCP (犯収法)*: 第四条　特定事業者（第二条第二項第四十五号に掲げる特定事業者（第十二条において「弁
+- **United Arab Emirates:**
+    - *AML/CFT Implementing Regulation 2019*: Article (7); Article (11); Article (15); Article (20) hereof;
 
 ### R.20 — Reporting of suspicious transactions
 *Concepts:* `suspicious_matter_reporting`
@@ -432,6 +528,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 8.
 - **Switzerland:**
     - *AMLA / GwG*: Art. 9 Meldepflicht
+- **Hong Kong:**
+    - *OSCO*: 25A. Disclosure of knowledge or suspicion that property repr
+    - *DTROP*: 25A. Disclosure of knowledge or suspicion that property repr
+    - *UNATMO*: 12. Disclosure of knowledge or suspicion that property is te
+- **Japan:**
+    - *APTCP (犯収法)*: 第八条　特定事業者（第二条第二項第四十六号から第四十九号までに掲げる特定事業者を除
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (24)
 
 ### R.21 — Tipping-off and confidentiality
 *Concepts:* `tipping_off`
@@ -448,6 +552,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:**
+    - *OSCO*: 25A. Disclosure of knowledge or suspicion that property repr
+    - *DTROP*: 25A. Disclosure of knowledge or suspicion that property repr
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (29)
 
 ### R.22 — DNFBPs: customer due diligence
 *Concepts:* `designated_services`, `customer_due_diligence`
@@ -473,6 +583,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
     - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
+- **Hong Kong:**
+    - *AMLO*: 3. When customer due diligence measures must be carried out
+- **Japan:**
+    - *APTCP (犯収法)*: 第四条　特定事業者（第二条第二項第四十五号に掲げる特定事業者（第十二条において「弁
+- **United Arab Emirates:**
+    - *AML/CFT Implementing Regulation 2019*: Article (7); Article (11); Article (15); Article (20) hereof;
 
 ### R.23 — DNFBPs: other measures
 *Concepts:* `designated_services`
@@ -487,6 +603,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:**
     - *PSPM Act 2019*: 9.
 - **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ## E — Transparency and beneficial ownership of legal persons and arrangements
 
@@ -508,6 +627,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 4 Feststellung der wirtschaftlich berechtigten Person
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.25 — Transparency and beneficial ownership of legal arrangements
 *Concepts:* `beneficial_ownership`
@@ -527,6 +649,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 4 Feststellung der wirtschaftlich berechtigten Person
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ## F — Powers and responsibilities of competent authorities
 
@@ -550,6 +675,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 12 Zuständigkeit
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.27 — Powers of supervisors
 *Concepts:* `supervisory_architecture`
@@ -567,6 +695,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 12 Zuständigkeit
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.28 — Regulation and supervision of DNFBPs
 *Concepts:* `supervisory_architecture`, `designated_services`
@@ -585,6 +716,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
     - *AMLA / GwG*: Art. 12 Zuständigkeit
+- **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.29 — Financial intelligence units
 *Note:* The FIU (AUSTRAC / NCA-UKFIU) is an institution, not a captured instrument in v1.
@@ -622,6 +756,17 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+- **Hong Kong:**
+    - *OSCO*: 25. Dealing with property known or believed to represent pro
+    - *DTROP*: 25. Dealing with property known or believed to represent pro
+    - *UNATMO*: 7. Prohibition on provision or collection of property to com; 8. Prohibition on making property, etc. available to or coll
+- **Japan:**
+    - *Organized Crime Punishment Act*: 第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する; 第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以
+    - *Terrorist Financing Punishment Act*: 第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」; 第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (2); Article (26)
+    - *Combating Terrorism Crimes Law 2014*: Article (29)
+    - *Federal AML/CFT Law 2018 (superseded)*: Article (2)
 
 ### R.31 — Powers of law enforcement and investigative authorities
 *Concepts:* `enforcement_and_offences`
@@ -654,6 +799,17 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+- **Hong Kong:**
+    - *OSCO*: 25. Dealing with property known or believed to represent pro
+    - *DTROP*: 25. Dealing with property known or believed to represent pro
+    - *UNATMO*: 7. Prohibition on provision or collection of property to com; 8. Prohibition on making property, etc. available to or coll
+- **Japan:**
+    - *Organized Crime Punishment Act*: 第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する; 第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以
+    - *Terrorist Financing Punishment Act*: 第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」; 第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (2); Article (26)
+    - *Combating Terrorism Crimes Law 2014*: Article (29)
+    - *Federal AML/CFT Law 2018 (superseded)*: Article (2)
 
 ### R.32 — Cash couriers
 *Note:* Cross-border cash declaration regimes not separately captured in v1.
@@ -704,6 +860,17 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+- **Hong Kong:**
+    - *OSCO*: 25. Dealing with property known or believed to represent pro
+    - *DTROP*: 25. Dealing with property known or believed to represent pro
+    - *UNATMO*: 7. Prohibition on provision or collection of property to com; 8. Prohibition on making property, etc. available to or coll
+- **Japan:**
+    - *Organized Crime Punishment Act*: 第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する; 第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以
+    - *Terrorist Financing Punishment Act*: 第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」; 第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする
+- **United Arab Emirates:**
+    - *Federal AML/CFT Law 2025*: Article (2); Article (26)
+    - *Combating Terrorism Crimes Law 2014*: Article (29)
+    - *Federal AML/CFT Law 2018 (superseded)*: Article (2)
 
 ## G — International cooperation
 

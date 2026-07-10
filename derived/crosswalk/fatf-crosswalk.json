@@ -85,6 +85,18 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -123,6 +135,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -342,6 +366,73 @@
         "Art. 305bis 423",
         "Art. 260quinquies 349",
         "Art. 260ter 345"
+       ]
+      }
+     }
+    },
+    "HKG": {
+     "provision_count": 4,
+     "instruments": {
+      "OSCO": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of indictable offence"
+       ]
+      },
+      "DTROP": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of drug trafficking"
+       ]
+      },
+      "UNATMO": {
+       "count": 2,
+       "provisions": [
+        "7. Prohibition on provision or collection of property to commit terrorist acts",
+        "8. Prohibition on making property, etc. available to or collecting property, etc. for terrorists and terrorist associate"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 4,
+     "instruments": {
+      "Organized Crime Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する",
+        "第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以"
+       ]
+      },
+      "Terrorist Financing Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」",
+        "第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 2,
+       "provisions": [
+        "Article (2)",
+        "Article (26)"
+       ]
+      },
+      "Combating Terrorism Crimes Law 2014": {
+       "count": 1,
+       "provisions": [
+        "Article (29)"
+       ]
+      },
+      "Federal AML/CFT Law 2018 (superseded)": {
+       "count": 1,
+       "provisions": [
+        "Article (2)"
        ]
       }
      }
@@ -565,6 +656,73 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 4,
+     "instruments": {
+      "OSCO": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of indictable offence"
+       ]
+      },
+      "DTROP": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of drug trafficking"
+       ]
+      },
+      "UNATMO": {
+       "count": 2,
+       "provisions": [
+        "7. Prohibition on provision or collection of property to commit terrorist acts",
+        "8. Prohibition on making property, etc. available to or collecting property, etc. for terrorists and terrorist associate"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 4,
+     "instruments": {
+      "Organized Crime Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する",
+        "第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以"
+       ]
+      },
+      "Terrorist Financing Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」",
+        "第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 2,
+       "provisions": [
+        "Article (2)",
+        "Article (26)"
+       ]
+      },
+      "Combating Terrorism Crimes Law 2014": {
+       "count": 1,
+       "provisions": [
+        "Article (29)"
+       ]
+      },
+      "Federal AML/CFT Law 2018 (superseded)": {
+       "count": 1,
+       "provisions": [
+        "Article (2)"
+       ]
+      }
+     }
     }
    }
   },
@@ -780,6 +938,73 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 4,
+     "instruments": {
+      "OSCO": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of indictable offence"
+       ]
+      },
+      "DTROP": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of drug trafficking"
+       ]
+      },
+      "UNATMO": {
+       "count": 2,
+       "provisions": [
+        "7. Prohibition on provision or collection of property to commit terrorist acts",
+        "8. Prohibition on making property, etc. available to or collecting property, etc. for terrorists and terrorist associate"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 4,
+     "instruments": {
+      "Organized Crime Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する",
+        "第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以"
+       ]
+      },
+      "Terrorist Financing Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」",
+        "第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 2,
+       "provisions": [
+        "Article (2)",
+        "Article (26)"
+       ]
+      },
+      "Combating Terrorism Crimes Law 2014": {
+       "count": 1,
+       "provisions": [
+        "Article (29)"
+       ]
+      },
+      "Federal AML/CFT Law 2018 (superseded)": {
+       "count": 1,
+       "provisions": [
+        "Article (2)"
+       ]
+      }
+     }
     }
    }
   },
@@ -973,6 +1198,55 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 4,
+     "instruments": {
+      "UNATMO": {
+       "count": 2,
+       "provisions": [
+        "6. Freezing of property",
+        "4. Specification by Chief Executive of persons and property as terrorists, terrorist associates or terrorist property"
+       ]
+      },
+      "UNSO": {
+       "count": 1,
+       "provisions": [
+        "3. Regulations shall give effect to relevant instructions"
+       ]
+      },
+      "WMD(CPS)O": {
+       "count": 1,
+       "provisions": [
+        "4. Prohibition on providing services in relation to weapons of mass destruction"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 6,
+     "instruments": {
+      "FEFTA (外為法)": {
+       "count": 3,
+       "provisions": [
+        "第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要",
+        "第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取",
+        "第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
+       ]
+      },
+      "International Terrorist Asset-Freezing Act": {
+       "count": 3,
+       "provisions": [
+        "第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ",
+        "第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ",
+        "第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1139,6 +1413,54 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 3,
+     "instruments": {
+      "UNATMO": {
+       "count": 1,
+       "provisions": [
+        "6. Freezing of property"
+       ]
+      },
+      "UNSO": {
+       "count": 1,
+       "provisions": [
+        "3. Regulations shall give effect to relevant instructions"
+       ]
+      },
+      "WMD(CPS)O": {
+       "count": 1,
+       "provisions": [
+        "4. Prohibition on providing services in relation to weapons of mass destruction"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 6,
+     "instruments": {
+      "FEFTA (外為法)": {
+       "count": 3,
+       "provisions": [
+        "第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要",
+        "第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取",
+        "第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令"
+       ]
+      },
+      "International Terrorist Asset-Freezing Act": {
+       "count": 3,
+       "provisions": [
+        "第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ",
+        "第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ",
+        "第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1179,6 +1501,18 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1217,6 +1551,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1370,6 +1716,42 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 1,
+     "instruments": {
+      "AMLO": {
+       "count": 1,
+       "provisions": [
+        "3. When customer due diligence measures must be carried out"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 1,
+     "instruments": {
+      "APTCP (犯収法)": {
+       "count": 1,
+       "provisions": [
+        "第四条　特定事業者（第二条第二項第四十五号に掲げる特定事業者（第十二条において「弁"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "AML/CFT Implementing Regulation 2019": {
+       "count": 4,
+       "provisions": [
+        "Article (7)",
+        "Article (11)",
+        "Article (15)",
+        "Article (20) hereof;"
+       ]
+      }
+     }
     }
    }
   },
@@ -1495,6 +1877,40 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 1,
+     "instruments": {
+      "AMLO": {
+       "count": 1,
+       "provisions": [
+        "20. Duty to keep records"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 2,
+     "instruments": {
+      "APTCP (犯収法)": {
+       "count": 2,
+       "provisions": [
+        "第六条　特定事業者は、取引時確認を行った場合には、直ちに、主務省令で定める方法によ",
+        "第七条　特定事業者（次項に規定する特定事業者を除く。）は、特定業務に係る取引を行った"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 1,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 1,
+       "provisions": [
+        "Article (23)"
+       ]
+      }
+     }
     }
    }
   },
@@ -1572,6 +1988,25 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 1,
+     "instruments": {
+      "AML/CFT Implementing Regulation 2019": {
+       "count": 1,
+       "provisions": [
+        "Article (15)"
+       ]
+      }
+     }
     }
    }
   },
@@ -1654,6 +2089,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1742,6 +2189,18 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1810,6 +2269,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1881,6 +2352,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2034,6 +2517,42 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 1,
+     "instruments": {
+      "AMLO": {
+       "count": 1,
+       "provisions": [
+        "3. When customer due diligence measures must be carried out"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 1,
+     "instruments": {
+      "APTCP (犯収法)": {
+       "count": 1,
+       "provisions": [
+        "第四条　特定事業者（第二条第二項第四十五号に掲げる特定事業者（第十二条において「弁"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "AML/CFT Implementing Regulation 2019": {
+       "count": 4,
+       "provisions": [
+        "Article (7)",
+        "Article (11)",
+        "Article (15)",
+        "Article (20) hereof;"
+       ]
+      }
+     }
     }
    }
   },
@@ -2147,6 +2666,25 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 1,
+     "instruments": {
+      "AMLO": {
+       "count": 1,
+       "provisions": [
+        "19. Financial institutions and DNFBPs to establish procedures"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2314,6 +2852,42 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 1,
+     "instruments": {
+      "AMLO": {
+       "count": 1,
+       "provisions": [
+        "3. When customer due diligence measures must be carried out"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 1,
+     "instruments": {
+      "APTCP (犯収法)": {
+       "count": 1,
+       "provisions": [
+        "第四条　特定事業者（第二条第二項第四十五号に掲げる特定事業者（第十二条において「弁"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "AML/CFT Implementing Regulation 2019": {
+       "count": 4,
+       "provisions": [
+        "Article (7)",
+        "Article (11)",
+        "Article (15)",
+        "Article (20) hereof;"
+       ]
+      }
+     }
     }
    }
   },
@@ -2434,6 +3008,51 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 3,
+     "instruments": {
+      "OSCO": {
+       "count": 1,
+       "provisions": [
+        "25A. Disclosure of knowledge or suspicion that property represents proceeds, etc. of indictable offence"
+       ]
+      },
+      "DTROP": {
+       "count": 1,
+       "provisions": [
+        "25A. Disclosure of knowledge or suspicion that property represents proceeds, etc. of drug trafficking"
+       ]
+      },
+      "UNATMO": {
+       "count": 1,
+       "provisions": [
+        "12. Disclosure of knowledge or suspicion that property is terrorist property, etc."
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 1,
+     "instruments": {
+      "APTCP (犯収法)": {
+       "count": 1,
+       "provisions": [
+        "第八条　特定事業者（第二条第二項第四十六号から第四十九号までに掲げる特定事業者を除"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 1,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 1,
+       "provisions": [
+        "Article (24)"
+       ]
+      }
+     }
     }
    }
   },
@@ -2510,6 +3129,38 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 2,
+     "instruments": {
+      "OSCO": {
+       "count": 1,
+       "provisions": [
+        "25A. Disclosure of knowledge or suspicion that property represents proceeds, etc. of indictable offence"
+       ]
+      },
+      "DTROP": {
+       "count": 1,
+       "provisions": [
+        "25A. Disclosure of knowledge or suspicion that property represents proceeds, etc. of drug trafficking"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 1,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 1,
+       "provisions": [
+        "Article (29)"
+       ]
+      }
+     }
     }
    }
   },
@@ -2669,6 +3320,42 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 1,
+     "instruments": {
+      "AMLO": {
+       "count": 1,
+       "provisions": [
+        "3. When customer due diligence measures must be carried out"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 1,
+     "instruments": {
+      "APTCP (犯収法)": {
+       "count": 1,
+       "provisions": [
+        "第四条　特定事業者（第二条第二項第四十五号に掲げる特定事業者（第十二条において「弁"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "AML/CFT Implementing Regulation 2019": {
+       "count": 4,
+       "provisions": [
+        "Article (7)",
+        "Article (11)",
+        "Article (15)",
+        "Article (20) hereof;"
+       ]
+      }
+     }
     }
    }
   },
@@ -2734,6 +3421,18 @@
      }
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2837,6 +3536,18 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2938,6 +3649,18 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -3039,6 +3762,18 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -3129,6 +3864,18 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -3234,6 +3981,18 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -3272,6 +4031,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -3475,6 +4246,73 @@
         "Art. 305bis 423",
         "Art. 260quinquies 349",
         "Art. 260ter 345"
+       ]
+      }
+     }
+    },
+    "HKG": {
+     "provision_count": 4,
+     "instruments": {
+      "OSCO": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of indictable offence"
+       ]
+      },
+      "DTROP": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of drug trafficking"
+       ]
+      },
+      "UNATMO": {
+       "count": 2,
+       "provisions": [
+        "7. Prohibition on provision or collection of property to commit terrorist acts",
+        "8. Prohibition on making property, etc. available to or collecting property, etc. for terrorists and terrorist associate"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 4,
+     "instruments": {
+      "Organized Crime Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する",
+        "第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以"
+       ]
+      },
+      "Terrorist Financing Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」",
+        "第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 2,
+       "provisions": [
+        "Article (2)",
+        "Article (26)"
+       ]
+      },
+      "Combating Terrorism Crimes Law 2014": {
+       "count": 1,
+       "provisions": [
+        "Article (29)"
+       ]
+      },
+      "Federal AML/CFT Law 2018 (superseded)": {
+       "count": 1,
+       "provisions": [
+        "Article (2)"
        ]
       }
      }
@@ -3682,6 +4520,73 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 4,
+     "instruments": {
+      "OSCO": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of indictable offence"
+       ]
+      },
+      "DTROP": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of drug trafficking"
+       ]
+      },
+      "UNATMO": {
+       "count": 2,
+       "provisions": [
+        "7. Prohibition on provision or collection of property to commit terrorist acts",
+        "8. Prohibition on making property, etc. available to or collecting property, etc. for terrorists and terrorist associate"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 4,
+     "instruments": {
+      "Organized Crime Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する",
+        "第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以"
+       ]
+      },
+      "Terrorist Financing Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」",
+        "第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 2,
+       "provisions": [
+        "Article (2)",
+        "Article (26)"
+       ]
+      },
+      "Combating Terrorism Crimes Law 2014": {
+       "count": 1,
+       "provisions": [
+        "Article (29)"
+       ]
+      },
+      "Federal AML/CFT Law 2018 (superseded)": {
+       "count": 1,
+       "provisions": [
+        "Article (2)"
+       ]
+      }
+     }
     }
    }
   },
@@ -3720,6 +4625,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -3762,6 +4679,18 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -3800,6 +4729,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -4012,6 +4953,73 @@
        ]
       }
      }
+    },
+    "HKG": {
+     "provision_count": 4,
+     "instruments": {
+      "OSCO": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of indictable offence"
+       ]
+      },
+      "DTROP": {
+       "count": 1,
+       "provisions": [
+        "25. Dealing with property known or believed to represent proceeds of drug trafficking"
+       ]
+      },
+      "UNATMO": {
+       "count": 2,
+       "provisions": [
+        "7. Prohibition on provision or collection of property to commit terrorist acts",
+        "8. Prohibition on making property, etc. available to or collecting property, etc. for terrorists and terrorist associate"
+       ]
+      }
+     }
+    },
+    "JPN": {
+     "provision_count": 4,
+     "instruments": {
+      "Organized Crime Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する",
+        "第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以"
+       ]
+      },
+      "Terrorist Financing Punishment Act": {
+       "count": 2,
+       "provisions": [
+        "第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」",
+        "第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする"
+       ]
+      }
+     }
+    },
+    "ARE": {
+     "provision_count": 4,
+     "instruments": {
+      "Federal AML/CFT Law 2025": {
+       "count": 2,
+       "provisions": [
+        "Article (2)",
+        "Article (26)"
+       ]
+      },
+      "Combating Terrorism Crimes Law 2014": {
+       "count": 1,
+       "provisions": [
+        "Article (29)"
+       ]
+      },
+      "Federal AML/CFT Law 2018 (superseded)": {
+       "count": 1,
+       "provisions": [
+        "Article (2)"
+       ]
+      }
+     }
     }
    }
   },
@@ -4068,6 +5076,18 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -4117,6 +5137,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -4170,6 +5202,18 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -4221,6 +5265,18 @@
     "CHE": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -4265,6 +5321,18 @@
      "instruments": {}
     },
     "CHE": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "HKG": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "JPN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "ARE": {
      "provision_count": 0,
      "instruments": {}
     }

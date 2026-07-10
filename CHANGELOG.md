@@ -16,6 +16,47 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.3.0] — 2026-07-10
+
+Adds three more national branches — **Hong Kong, Japan and the United Arab Emirates** — taking the corpus to
+ten cross-referenced jurisdictions, and extends the FATF crosswalk to ten national columns. Introduces the
+corpus's first CJK branch (Japan) and its first non-Latin-script handling (UAE).
+
+### Added
+
+- **Hong Kong branch** (`HKG`, 7 records) — the Anti-Money Laundering and Counter-Terrorist Financing
+  Ordinance (Cap. 615), OSCO (Cap. 455, incl. the s.25 ML offence and s.25A STR), DTROP (Cap. 405), UNATMO
+  (Cap. 575), the UN Sanctions Ordinance (Cap. 537), the WMD (Control of Provision of Services) Ordinance
+  (Cap. 526) and the Cross-boundary Currency and BNI Ordinance (Cap. 629). English "Verified Copy" texts
+  from e-Legislation; English is authentic.
+- **Japan branch** (`JPN`, 5 records) — the Criminal Proceeds Transfer Prevention Act, the Organized Crime
+  Punishment Act (ML offences), the Terrorist Financing Punishment Act, FEFTA (sanctions) and the
+  International Terrorist Asset-Freezing Act. Captured as the **authentic Japanese** from e-Gov under an open
+  (CC BY-compatible) licence. New CJK extraction profile and a 第N条 segmenter with kanji-numeral conversion;
+  every record verifies at full token and character coverage.
+- **United Arab Emirates branch** (`ARE`, 5 records) — Federal Decree-Law 10/2025 (and the superseded
+  20/2018), the 2019 Implementing Regulation, the 2020 targeted-financial-sanctions Cabinet Decision, and the
+  2014 Combating Terrorism Crimes Law. Captured as the **official English translation** (see below), with the
+  authentic Arabic preserved per record.
+- New extraction profiles in `extract.py` (Hong Kong e-Legislation; Japan CJK; UAE English via poppler) and
+  new segmenters. Reproducibility is now **65 of 68** text-bearing records byte-exact.
+- Curated concept tags on the marquee provisions of all three branches; the **FATF crosswalk extended to ten
+  national columns**.
+- **Schema:** a new `authoritative_status: official_translation`, and an `authentic_source` block that
+  records a preserved authentic-language source file (its bytes and hash) when the stored text is a
+  translation.
+
+### Notes
+
+- **Arabic extraction (UAE).** The UAE's authentic Arabic PDFs store glyphs in visual order and do not
+  extract to faithful logical-order text with any available PDF text engine (PyMuPDF garbles them; even
+  poppler transposes the article marker and reverses numbers). A deep-dive found that **Tesseract OCR with
+  the Arabic pack** does produce correctly-ordered text (with minor OCR noise) — the route to authentic
+  Arabic text in future. For now the corpus stores the official English translation (cleanly verifiable) and
+  **preserves the authentic Arabic PDF byte-exact inside each record** (`authentic_source`) for that future
+  OCR pass. Arabic cannot be cross-engine verified (only one engine reads it at all), so the Arabic is
+  preserved-but-not-text-verified; the stored English is fully verified.
+
 ## [1.2.1] — 2026-07-10
 
 Completes the Canada branch and corrects the Swiss article numbering.
@@ -198,7 +239,8 @@ covering four fidelity-verified jurisdictions as separate, cross-referenced bran
 - This is a reference record of the law — **not legal or compliance advice** — and takes no position on any
   matter, institution, or investigation.
 
-[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.2.1...HEAD
+[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.3.0
 [1.2.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.2.1
 [1.2.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.2.0
 [1.1.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.1.0

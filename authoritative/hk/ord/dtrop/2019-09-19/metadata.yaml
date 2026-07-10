@@ -1,0 +1,54 @@
+corpus_id: hk/ord/dtrop
+version_id: '2019-09-19'
+title: Drug Trafficking (Recovery of Proceeds) Ordinance
+short_title: DTROP
+jurisdiction: HKG
+document_type: Ordinance
+legal_status: binding
+redistribution: open
+official_citation: Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405), Laws of Hong Kong
+authentic_languages:
+- en
+- zh
+source_url: https://www.elegislation.gov.hk/hk/cap405
+source_publisher: Hong Kong e-Legislation (Department of Justice)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:9f928b46741758b09074ef4ffc9e703a97f6abf4a37c55cfae46e166a3ce6272
+original_sha256: sha256:1c876d0f868b185c96d006480a4897dabbcd3e8b96fe520900b20e6c2c46a34b
+text_sha256: sha256:9f928b46741758b09074ef4ffc9e703a97f6abf4a37c55cfae46e166a3ce6272
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: HKSAR Government copyright — reproduction of legislation permitted if accurate and not misleading
+rights_note: Reproduced from Hong Kong e-Legislation (elegislation.gov.hk), Department of Justice. Under
+  the Legislation Publication Ordinance (Cap. 614) the 'Verified Copy' is the authoritative version. ©
+  Government of the Hong Kong SAR; the e-Legislation copyright policy permits reproduction of legislation
+  provided it is accurate and not misleading. English and Chinese are both authentic (Official Languages
+  Ordinance, Cap. 5); the English authentic version is captured.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://www.elegislation.gov.hk/hk/cap405
+  original_sha256: sha256:1c876d0f868b185c96d006480a4897dabbcd3e8b96fe520900b20e6c2c46a34b
+  note: Official e-Legislation Verified Copy (English) PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: The drug-proceeds money-laundering offence (s. 25) and suspicious-transaction reporting
+  (s. 25A) — the drug-specific twin of OSCO.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.9884
+    unigram_reverse: 0.8309
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers,
+    ''Verified Copy''/''Last updated'' footer) the comparison engine retains; a token diff confirms the
+    residual is non-substantive.'

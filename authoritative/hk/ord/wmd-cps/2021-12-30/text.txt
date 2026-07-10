@@ -1,0 +1,168 @@
+Weapons of Mass Destruction (Control of Provision of
+Services) Ordinance
+(Cap. 526)
+Contents
+Section Page
+Preliminary
+1. Short title 2
+2. Interpretation 2
+3. Power of Commissioner to appoint authorized officers
+6
+Control of Provision of Services in relation
+to Weapons of Mass Destruction
+4. Prohibition on providing services in relation to weapons of mass destruction
+6
+Enforcement
+5. General powers of enforcement 8
+6. Entry and search of premises; detention and search of vessels, etc.
+10
+7. Power to seize articles or require production of information
+14
+8. Powers of arrest 16
+9. Ancillary powers of investigation 18
+10. Placing of locks and seals on premises, etc. 22
+Section Page
+11. Obstruction 24
+Miscellaneous
+12. Injunctions 24
+13. Offences by bodies corporate 26
+14. Prosecution of offences 26
+15. (Omitted as spent) 28
+An Ordinance to control the provision of services that will or may assist
+the development, production, acquisition or stockpiling of weapons capable of causing mass destruction or that will or may assist the means of delivery of such weapons.
+[27 June 1997]
+(Format changes—E.R. 6 of 2021)
+(Enacting provision omitted—E.R. 6 of 2021)
+Preliminary
+1. Short title
+This Ordinance may be cited as the Weapons of Mass Destruction (Control of Provision of Services) Ordinance.
+2. Interpretation
+(1) In this Ordinance, unless the context otherwise requires—
+aircraft (航空器) means any machine which can derive support in
+the atmosphere from reactions of the air;
+authorized officer (獲授權人員) means a person authorized by the
+Commissioner under section 3;
+Commissioner (關長) means the Commissioner for Customs
+and Excise and any Deputy or Assistant Commissioner of Customs and Excise; (Amended 65 of 2000 s. 3)
+court (法院) means the Court of First Instance; (Amended 25 of
+1998 s. 2)
+export (輸出) means to take, or cause to be taken, out of Hong
+Kong any article;
+Kong any article;
+member of the Customs and Excise Service (海關人員) means
+any person holding an office specified in Schedule 1 to the Customs and Excise Service Ordinance (Cap. 342);
+vehicle (車輛) means every means of conveyance or of transit or
+other mobile apparatus used or capable of being used on land, whether on roads or rails and, in any way whatever, drawn or propelled or carried;
+vessel (船隻) includes every description of vessel used in
+navigation for the carriage of persons or articles, whether or not the vessel is mechanically propelled and whether or not the vessel is towed or pushed by another vessel;
+weapons of mass destruction (大規模毀滅武器) means any
+biological, chemical or nuclear weapon.
+(2) In subsection (1), biological weapon (生物武器) means—
+(a) any biological agent or toxin of a type and in a quantity that has no justification for prophylactic, protective or other peaceful purposes; or
+(b) any weapon, equipment or means of delivery designed to use biological agents or toxins for hostile purposes or in armed conflict,
+and for the purposes of the foregoing definition—
+(i) biological agent (生物劑) means any microbial or other biological agent;
+(ii) toxin (毒素) means any toxin, whatever its origin or method of production.
+(3) In subsection (1), chemical weapon (化學武器) has the same meaning as in section 2(1) of the Chemical Weapons (Convention) Ordinance (Cap. 578). (Replaced 26 of 2003 s. 44)
+(a) any—
+(i) nuclear explosive device;
+(ii) components or subsystems of such a device; or
+(iii) article, material, equipment or device specifically designed or specially modified for use in the design, development or fabrication of such devices,
+of a type, or of a type and in a quantity, that has no justification for prophylactic, preventive or other peaceful purposes;
+(b) any means of delivery of a nuclear explosive device.
+3. Power of Commissioner to appoint authorized officers
+The Commissioner may authorize in writing any public officer employed in the Customs and Excise Department in the Trade Controls Officer Grade and any police officer of the rank of inspector or above to exercise any of the powers and perform any of the duties conferred or imposed on an authorized officer by this Ordinance.
+Control of Provision of Services in relation to Weapons of Mass
+Destruction
+4. Prohibition on providing services in relation to weapons of mass destruction
+(1) If—
+(a) a person provides any services to another person; and
+(b) the first-mentioned person believes or suspects, on reasonable grounds, that the services will or may assist the development, production, acquisition or stockpiling of weapons of mass destruction,
+(2) For the purposes of subsection (1)(b), it is immaterial whether the development, production, acquisition or stockpiling in question takes place in Hong Kong or elsewhere.
+(3) A reference in subsection (1) to the provision of services includes, without limiting the generality of that expression, a reference to doing anything (other than importing or exporting goods) that confers a benefit on, grants a right or privilege to, provides a facility for, or otherwise assists, someone, including anything done under—
+(a) a contract for or in relation to the performance of work (including work of a professional nature) with or without the import or export of goods; or
+(b) a contract for or in relation to the lending of money or other provision of financial assistance.
+(4) A person who commits an offence under subsection (1) is liable—
+(a) on summary conviction, to a fine of $500,000 and to imprisonment for 2 years;
+(b) on conviction upon indictment, to a fine of an unlimited amount and to imprisonment for 7 years.
+Enforcement
+5. General powers of enforcement
+Without prejudice to the powers conferred by section 6, any member of the Customs and Excise Service and any authorized officer may, for the purposes of this Ordinance—
+(a) stop, board and search any vessel, aircraft or vehicle;
+(c) examine and take copies of any document referred to in paragraph (b);
+(d) require any information relating to any document referred to in paragraph (b) that is—
+(i) contained in a computer in, on or accessible from the premises, place, vessel, aircraft or vehicle entered or boarded under this section; or
+(ii) contained in any device found in or on the premises, place, vessel, aircraft or vehicle entered or boarded under this section and which is capable of being retrieved on a computer,
+to be produced on a computer in or on the premises, place, vessel, aircraft or vehicle in a visible and legible form, and examine the information;
+(e) require any information described in paragraph (d) to be produced in a form in which it can be taken away and in which it is either visible and legible or capable of being retrieved on a computer;
+(f) take away the copy so produced under paragraph (e);
+(g) stop and search any person entering or leaving Hong Kong; but no person shall be searched except by a person of the same sex, or be searched in a public place if he objects to being so searched.
+6. Entry and search of premises; detention and search of vessels, etc.
+(1) A magistrate may, if he is satisfied by information on oath that there is reasonable ground for suspecting that there is
+(2) If the Commissioner reasonably suspects—
+(a) that—
+(i) there is in any premises or place any article which may be seized under section 7(1); or
+(ii) there is in, or accessible from any premises or place a computer containing any information of a kind specified in section 7(2), or there is in any premises or place any device which contains any such information in a form in which it is capable of being retrieved on a computer; and
+(b) that unless the premises or place are entered and searched immediately, the article is likely to be removed from the premises or place or the information is likely to be destroyed or rendered incapable of being retrieved on a computer,
+he may authorize in writing a member of the Customs and Excise Service or an authorized officer to enter and search the premises or place.
+(3) Subject to subsection (4), any member of the Customs and Excise Service and any authorized officer may, if he reasonably suspects that there is in or on any vessel, aircraft or vehicle any article which may be seized under section 7, stop, board, remove, detain and search the vessel, aircraft or vehicle.
+(4) Subsection (3) does not authorize—
+(b) the detention for more than 6 hours without the consent of the Chief Secretary for Administration of any aircraft,
+and the Chief Secretary for Administration may, by order in writing under his hand, detain such a vessel for further periods of not more than 12 hours each or detain an aircraft for further periods of not more than 6 hours each, and any such order made by the Chief Secretary for Administration shall state the times from which and for which the order shall be effective. (Amended L.N. 362 of 1997)
+7. Power to seize articles or require production of information
+(1) Any member of the Customs and Excise Service and any authorized officer may seize any article in respect of which he reasonably suspects that an offence has been committed under this Ordinance, or which he reasonably suspects to be, or to contain, evidence of the commission of such an offence.
+(2) Where any member of the Customs and Excise Service or an authorized officer reasonably suspects, as regards any information that is contained in a computer in, on or accessible from any premises, place, vessel, aircraft or vehicle entered or boarded under section 6, that the information relates to an offence which has been, or may have been, committed under this Ordinance, the member or officer—
+(a) may require the information to be produced on a computer in or on the premises, place, vessel, aircraft or vehicle in a visible and legible form, and may examine the information;
+(b) may require the information to be produced in a form in which it can be taken away and in which it is either
+(3) In subsection (2), a reference to information contained in a computer in or on any premises, place, vessel, aircraft or vehicle entered or boarded under section 6 includes a reference to information which is contained in any device found in or on such premises, place, vessel, aircraft or vehicle and which is capable of being retrieved on a computer.
+(4) The owner of any article or other document seized by a member of the Customs and Excise Service or an authorized officer under this section may, on application to the Commissioner and subject to such conditions as the Commissioner may impose, photograph or make any other form of copy of the seized article or document.
+8. Powers of arrest
+(1) Subject to subsection (2), any member of the Customs and Excise Service or any authorized officer may, without warrant, arrest, or detain for such period as is reasonably necessary for further inquiries to be carried out, any person whom he reasonably suspects of having committed any offence under this Ordinance.
+(2) Any member of the Customs and Excise Service and any authorized officer who arrests any person under subsection (1) shall take the person to a police station or, if further inquiries are necessary, first to the office of the Customs and Excise Service or the office of an authorized officer and then to a police station, there to be dealt with in accordance with the provisions of the Police Force Ordinance (Cap. 232); but in no case shall any person be detained for more than 48 hours without being charged and brought before a magistrate.
+(3) If any person forcibly resists or attempts to evade arrest under this section, the member of the Customs and Excise Service
+(4) If any member of the Customs and Excise Service or any authorized officer has reason to believe that a person whom he intends to arrest (in this section referred to as the suspected offender) has entered into or is in any premises or place, any person residing in or in charge of such premises or place shall, on demand by the member or authorized officer, allow him free entry thereto and afford all reasonable facilities to search for the suspected offender in those premises or that place.
+(5) If entry to such premises or place cannot be obtained under subsection (4), a member of the Customs and Excise Service or an authorized officer, in any case in which a warrant to enter and search such premises or place may issue but cannot be obtained without affording the suspected offender an opportunity to escape, may enter the premises or place and search for the suspected offender and for the purpose of entry or search may break open any outer or inner door or window of the premises or place.
+9. Ancillary powers of investigation
+(1) Any member of the Customs and Excise Service and any authorized officer may—
+(a) use such force as is reasonably necessary to enter any premises or place which he is empowered by this Ordinance to enter and search;
+(b) use such force as is reasonably necessary to stop, board, remove, detain and search any vessel, aircraft or vehicle which he is empowered by this Ordinance to stop, board, remove, detain and search;
+(d) for the purposes of carrying out a search of any premises or place which he is empowered by this Ordinance to search, to detain during such period as is reasonably required to permit the search to be carried out any person who—
+(i) may appear to have in his possession or under his control any document as is mentioned in section 5(b), any article as is mentioned in section 7(1) or any computer or device as is mentioned in section 5(d) or 7(2) and (3); and
+(ii) if not so detained, might prejudice the purpose of the search;
+(e) prevent any person from approaching, boarding or leaving any vessel, aircraft or vehicle which he is empowered by this Ordinance to stop, board and search until it has been searched;
+(f) search the person and property and effects of any person whom he reasonably suspects of being guilty of an offence under this Ordinance; but no person shall be searched except by a person of the same sex, or be searched in a public place if he objects to being so searched.
+(2) A member of the Customs and Excise Service or an authorized officer who is authorized—
+(a) under section 5(a), to search any vessel, aircraft or vehicle;
+(b) under section 5(c) or (d), to examine any document or information;
+(d) under section 7, to examine any information,
+may, if he reasonably considers it necessary or desirable for the proper and effective performance of those duties, call upon any person to assist him in carrying out that entry, search or examination.
+10. Placing of locks and seals on premises, etc.
+(1) Any member of the Customs and Excise Service and any authorized officer may, for the purposes of exercising the powers conferred on him by this Ordinance, place a lock or seal on any premises or place, or on any vessel, aircraft, vehicle or article.
+(2) If a member of the Customs and Excise Service or an authorized officer has placed a lock or seal on any premises, or on any vessel, aircraft, vehicle or article, then except as provided in subsection (3) any person who breaks or interferes with such a lock or seal shall be guilty of an offence and shall be liable on conviction to a fine at level 2 and to imprisonment for 3 months.
+(3) If—
+(a) any person breaks or interferes with any such lock or seal in the bona fide belief that it is necessary immediately to break or interfere with the lock or seal in order to prevent—
+(i) injury being suffered by any person; or
+(ii) damage being incurred to any premises, vessel, aircraft, vehicle or article; or
+(b) any public officer breaks or interferes with any such lock or seal in the exercise of his lawful duties,
+11. Obstruction
+(1) Any person who—
+(a) obstructs a member of the Customs and Excise Service or an authorized officer in the exercise of any power or the performance of any duty conferred or imposed on members of the Customs and Excise Service and authorized officers by this Ordinance;
+(b) fails to comply with any requirement, direction or demand given or made by a member of the Customs and Excise Service or an authorized officer in the exercise or performance of any such power or duty,
+shall be guilty of an offence and shall be liable on conviction to a fine at level 6 and to imprisonment for 6 months.
+(2) Any person who knowingly makes a false report, or furnishes any false or misleading information, to any member of the Customs and Excise Service or any authorized officer in performing his duties under this Ordinance shall be guilty of an offence and shall be liable on conviction to a fine at level 6 and to imprisonment for 6 months.
+Miscellaneous
+12. Injunctions
+(1) If a person has engaged, or is proposing to engage, in any conduct that was or would be an offence under section 4, the court may, on the application of the Commissioner, grant an injunction restraining the person from engaging in the conduct and, if in the court’s opinion it is in the interests of justice to do so, requiring the person to do a particular thing.
+(3) The court may discharge or vary an injunction granted under subsection (1) or (2).
+(4) The power of the court to grant an injunction restraining a person from engaging in conduct may be exercised—
+(a) whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind; and
+(b) whether or not the person has previously engaged in conduct of that kind.
+(5) The power of the court to grant an injunction requiring a person to do a particular thing may be exercised—
+(a) whether or not it appears to the court that the person intends to refuse, or fail again, or to continue to refuse or fail, to do that thing; and
+(b) whether or not the person has previously refused or failed to do that thing.
+13. Offences by bodies corporate
+Where an offence under section 4 which is committed by a body corporate is proved to have been committed with the consent and connivance of any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+14. Prosecution of offences
+(1) Proceedings for an offence under section 4 shall not be
+(2) Subsection (1) shall not prevent the issue or execution of a warrant for the arrest of any person in respect of an offence, or the remanding in custody or on bail of any person charged with an offence.
+15. (Omitted as spent—E.R. 6 of 2021)

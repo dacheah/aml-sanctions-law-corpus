@@ -1,0 +1,55 @@
+corpus_id: hk/ord/wmd-cps
+version_id: '2021-12-30'
+title: Weapons of Mass Destruction (Control of Provision of Services) Ordinance
+short_title: WMD(CPS)O
+jurisdiction: HKG
+document_type: Ordinance
+legal_status: binding
+redistribution: open
+official_citation: Weapons of Mass Destruction (Control of Provision of Services) Ordinance (Cap. 526),
+  Laws of Hong Kong
+authentic_languages:
+- en
+- zh
+source_url: https://www.elegislation.gov.hk/hk/cap526
+source_publisher: Hong Kong e-Legislation (Department of Justice)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:fa8e29ae29585ec41ca9fa29d7cb10ccc5e00f6cd34b0bdc17e3148e3fbcc505
+original_sha256: sha256:65dee4a18b75b0a73efb343963b514a9660e539910ca0c335eb2c98e1de4e866
+text_sha256: sha256:fa8e29ae29585ec41ca9fa29d7cb10ccc5e00f6cd34b0bdc17e3148e3fbcc505
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: HKSAR Government copyright — reproduction of legislation permitted if accurate and not misleading
+rights_note: Reproduced from Hong Kong e-Legislation (elegislation.gov.hk), Department of Justice. Under
+  the Legislation Publication Ordinance (Cap. 614) the 'Verified Copy' is the authoritative version. ©
+  Government of the Hong Kong SAR; the e-Legislation copyright policy permits reproduction of legislation
+  provided it is accurate and not misleading. English and Chinese are both authentic (Official Languages
+  Ordinance, Cap. 5); the English authentic version is captured.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://www.elegislation.gov.hk/hk/cap526
+  original_sha256: sha256:65dee4a18b75b0a73efb343963b514a9660e539910ca0c335eb2c98e1de4e866
+  note: Official e-Legislation Verified Copy (English) PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: Prohibits the provision of services that assist the proliferation of weapons of mass
+  destruction — the proliferation-financing anchor.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 0.9853
+    unigram_reverse: 0.8408
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers,
+    ''Verified Copy''/''Last updated'' footer) the comparison engine retains; a token diff confirms the
+    residual is non-substantive.'

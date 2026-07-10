@@ -167,7 +167,8 @@
         "official_consolidation",
         "certified_copy",
         "authoritative_missing",
-        "restricted_withheld"
+        "restricted_withheld",
+        "official_translation"
       ],
       "description": "authentic_text / official_consolidation / certified_copy store the text; authoritative_missing = authentic text unobtainable; restricted_withheld = authentic text obtained but withheld from the open layer under source licence (design-lock JC-07) — hash + citation + short excerpt are published, the full text is held privately."
     },
@@ -289,6 +290,33 @@
           }
         }
       }
+    },
+    "authentic_source": {
+      "type": "object",
+      "description": "For records captured as an official translation: a pointer to the preserved authentic-language source (its bytes are kept in the record directory but its text is not the stored text).",
+      "properties": {
+        "language": {
+          "type": "string"
+        },
+        "filename": {
+          "type": "string"
+        },
+        "source_url": {
+          "type": "string"
+        },
+        "original_sha256": {
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "language",
+        "filename",
+        "original_sha256"
+      ],
+      "additionalProperties": false
     }
   },
   "allOf": [

@@ -1,0 +1,999 @@
+Drug Trafficking (Recovery of Proceeds) Ordinance
+(Cap. 405)
+Contents
+Section Page
+Part I Preliminary
+1. Short title 1-2
+2. Interpretation 1-2
+Part II Confiscation of Proceeds of Drug
+Trafficking
+3. Confiscation orders 2-2
+4. Assessing the proceeds of drug trafficking 2-18
+5. Statements relating to proceeds of drug trafficking
+2-22
+6. Amount to be recovered under confiscation order
+2-28
+6A. Interest on amounts to be recovered under confiscation orders
+2-30
+7. Definition of principal terms used 2-32
+Part III Enforcement, etc. of Confiscation Orders
+8. Application of procedure for enforcing confiscation orders
+3-2
+Section Page
+9. Cases in which restraint orders and charging orders may be made
+3-8
+10. Restraint orders 3-12
+11. Charging orders in respect of land, securities, etc.
+3-18
+12. Realisation of property 3-26
+13. Application of proceeds of realisation and other sums
+3-28
+14. Exercise of powers by Court of First Instance or receiver
+3-32
+15. Variation of confiscation orders 3-34
+16. Bankruptcy of defendants, etc. 3-38
+17. Winding up of company holding realisable property
+3-42
+18. Insolvency officers dealing with property subject to restraint order
+3-46
+19. Receivers: supplementary provisions 3-50
+Part IV Investigations into Drug Trafficking
+20. Order to make material available 4-2
+21. Authority for search 4-8
+22. Supplementary provisions to sections 20 and 21 4-14
+Section Page
+23. Disclosure of information held by public bodies
+4-16
+24. Offence of prejudicing investigation 4-22
+Part IVA Detention of Certain Seized Property
+24A. Interpretation 4A-2
+24B. Seized property may be detained 4A-2
+24C. Period for which seized property may be detained
+4A-4
+24D. Forfeiture 4A-8
+24E. Interest 4A-8
+24F. Procedure 4A-10
+Part V Prohibited Acts in relation to Proceeds of
+Drug Trafficking
+25. Dealing with property known or believed to represent proceeds of drug trafficking
+5-2
+25A. Disclosure of knowledge or suspicion that property represents proceeds, etc. of drug trafficking
+5-4
+26. Restriction on revealing disclosure under section 25A
+5-8
+Part VI Miscellaneous
+Section Page
+27. Compensation 6-2
+28. Enforcement of external confiscation orders 6-10
+29. Registration of external confiscation orders 6-14
+30. Evidence of corresponding law 6-14
+31. Amendment of Schedules 6-16
+Schedule 1 Drug Trafficking Offences S1-2
+Schedule 2 Assets on which a Charging Order may be Imposed
+S2-2
+Schedule 3 Certificate of Sentence in respect of Term of Imprisonment Fixed under Section 8 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405)
+S3-2
+Schedule 4 Specified Property S4-2
+To provide for the tracing, confiscation and recovery of the proceeds of
+drug trafficking, to create offences relating to those proceeds or property representing those proceeds, and for incidental or related matters.
+(Amended 26 of 2002 s. 2)
+[1 September 1989]
+(Format changes—E.R. 4 of 2019)
+Part I
+Preliminary
+1. Short title
+This Ordinance may be cited as the Drug Trafficking (Recovery of Proceeds) Ordinance.
+2. Interpretation
+(1) In this Ordinance, unless the context otherwise requires—
+absconded (潛逃), in relation to a person, includes absconded
+for any reason whatsoever, and whether or not, before absconding, the person had been—
+(a) taken into custody; or
+(b) released on bail; (Added 89 of 1995 s. 2)
+authorized officer (獲授權人) means—
+(a) any police officer;
+(b) any member of the Customs and Excise Service established by section 3 of the Customs and Excise Service Ordinance (Cap. 342); and
+confiscation order (沒收令) means an order made under section
+3(6);
+corresponding law (相應的法律) has the same meaning as in
+section 2(1) of the Dangerous Drugs Ordinance (Cap. 134);
+dangerous drug (毒品) has the same meaning as in section 2(1) of
+the Dangerous Drugs Ordinance (Cap. 134);
+dealing (處理), in relation to property referred to in the definition
+of drug trafficking, section 10(1) or 25, includes—
+(a) receiving or acquiring the property;
+(b) concealing or disguising the property (whether by concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it or otherwise);
+(c) disposing of or converting the property;
+(d) bringing into or removing from Hong Kong the property;
+(e) using the property to borrow money, or as security (whether by way of charge, mortgage or pledge or otherwise); (Added 89 of 1995 s. 2)
+defendant (被告) means a person against whom proceedings have
+been instituted for a drug trafficking offence (whether or not he has been convicted of that offence);
+drug trafficking (販毒) means doing or being concerned in,
+whether in Hong Kong or elsewhere, any act constituting—
+(a) a drug trafficking offence; or
+(b) an offence punishable under a corresponding law,
+drug trafficking offence (販毒罪行) means—
+(a) any of the offences specified in Schedule 1;
+(b) conspiracy to commit any of those offences;
+(c) inciting another to commit any of those offences;
+(d) attempting to commit any of those offences;
+(e) aiding, abetting, counselling or procuring the commission of any of those offences;
+interest (權益), in relation to property, includes right;
+material (物料) includes any book, document or other record in
+any form whatsoever, and any article or substance; (Replaced 87 of 1997 s. 36)
+property (財產) includes both movable and immovable property
+within the meaning of section 3 of the Interpretation and General Clauses Ordinance (Cap. 1);
+Registrar (司法常務官) means the Registrar of the High Court.
+(Amended 89 of 1995 s.2; 25 of 1998 s. 2)
+(2) The expressions listed in the left hand column below are respectively defined or (as the case may be) fall to be construed in accordance with the provisions of this Ordinance listed in the right hand column in relation to those expressions.
+Benefited from drug trafficking (從販毒 獲利) ....................................................... Section 3(4)
+Charging order (抵押令) ........................ Section 11(2)
+Gift caught by this Ordinance (受本條 例囿制的饋贈) ....................................... Section 7(9)
+Making a gift (作出饋贈) ...................... Section 7(10)
+Proceeds of drug trafficking (販毒得 益) ........................................................... Section 4(1)(a)
+Realisable property (可變現財產) ......... Section 7(1)
+Restraint order (限制令) ........................ Section 10(1)
+Value of gift, payment or reward (饋 贈、付款或酬賞的價值) ....................... Section 7
+Value of proceeds of drug trafficking (販 毒得益的價值) ....................................... Section 4(1)(b)
+Value of property (財產的價值) ............ Section 7(4)
+(Amended 89 of 1995 s. 2)
+(3) This Ordinance applies to property whether it is situated in Hong Kong or elsewhere.
+(4) References in this Ordinance to offences include a reference to offences committed before the commencement of this Ordinance; but nothing in this Ordinance imposes any duty or confers any power on any court in or in connection with proceedings against a person for a drug trafficking offence instituted before the commencement of this Ordinance.
+(5) References in this Ordinance to property received in connection with drug trafficking include a reference to property received both in that connection and in some other connection.
+(7) Property is held by any person if he holds any interest in it.
+(8) References to property held by a person include a reference to property vested in his trustee in bankruptcy or in a liquidator.
+(9) References to an interest held by a person beneficially in property include, where the property is vested in his trustee in bankruptcy or in a liquidator, a reference to an interest which would be held by him beneficially if the property were not so vested.
+(10) Property is transferred by one person to another if the first person transfers or grants to the other any interest in the property.
+(11) Proceedings for an offence are instituted in Hong Kong—
+(a) when a magistrate issues a warrant or summons under section 72 of the Magistrates Ordinance (Cap. 227) in respect of the offence;
+(aa) when a person has been arrested for the offence and released on bail or has refused bail; (Added 26 of 2002 s. 2)
+(b) when a person is charged with the offence after being taken into custody without a warrant; or
+(c) when an indictment is preferred by the direction or with the consent of a judge under section 24A(1)(b) of the Criminal Procedure Ordinance (Cap. 221),
+and where the application of this subsection would result in there being more than one time for the institution of proceedings, they shall be taken to have been instituted at the earliest of those times.
+(a) the discontinuance of the proceedings whether by entry of a nolle prosequi or otherwise;
+(b) an order or verdict acquitting the defendant, not being an order or verdict which is subject to appeal or review within the meaning of subsection (13);
+(c) the quashing of his conviction for the offence except where, under section 83E of the Criminal Procedure Ordinance (Cap. 221), an order is made that he be retried;
+(d) the grant of the Chief Executive’s pardon in respect of his conviction for the offence; (Amended 15 of 1999 s. 3)
+(e) the court sentencing or otherwise dealing with him in respect of his conviction for the offence where the Secretary for Justice either does not apply for a confiscation order, or applies for a confiscation order and the order is not made; or (Amended 89 of 1995 s. 2; L.N. 362 of 1997)
+(f) the satisfaction of a confiscation order made in the proceedings (whether by payment of the amount due under the order or by the defendant serving imprisonment in default).
+(12A) An application for a confiscation order made in respect of a defendant where section 3(1)(a)(ii) or (7) is applicable is concluded—
+(a) if the Court of First Instance or the District Court decides not to make such an order, when it makes that decision; or (Amended 25 of 1998 s. 2)
+(b) if such an order is made as a result of that application, when the order is satisfied. (Added 89 of 1995 s. 2)
+(a) if the Court of First Instance decides not to vary that order, when it makes that decision; or
+(b) if the Court of First Instance varies that order as a result of that application, when the order is satisfied. (Added 89 of 1995 s. 2. Amended 25 of 1998 s. 2)
+(13) An order or verdict (including an order or verdict of acquittal) is subject to appeal or review so long as an appeal, further appeal or review is pending against the order or verdict; and for this purpose an appeal, further appeal or review shall be treated as pending (where one is competent but has not been instituted) until—
+(a) (Repealed 79 of 1995 s. 50)
+(b) the expiration of the time prescribed for instituting the appeal, further appeal or review. (Amended 79 of 1995 s. 50)
+(14) Subject to subsection (15), nothing in this Ordinance shall require the disclosure of any items subject to legal privilege within the meaning of section 22. (Added 26 of 2002 s. 2)
+(15) Subsection (14) shall not prejudice the operation of sections 20, 21 and 22. (Added 26 of 2002 s. 2)
+[cf. 1986 c. 32 s. 38 U.K.]
+Part II
+Confiscation of Proceeds of Drug Trafficking
+3. Confiscation orders
+(1) Where—
+(a) either—
+(i) in proceedings before the Court of First Instance or the District Court a person is to be sentenced in respect of one or more drug trafficking offences and has not previously been sentenced in respect of his conviction for the offence, or as the case may be, any of the offences concerned; or
+(ii) proceedings for one or more drug trafficking offences have been instituted against a person but have not been concluded because the person—
+(A) has died; or
+(B) has absconded; and
+(b) an application is made by or on behalf of the Secretary for Justice for a confiscation order, (Amended L.N. 362 of 1997)
+the Court of First Instance or the District Court, as the case may be, shall act as follows. (Replaced 89 of 1995 s. 3. Amended 25 of 1998 s. 2)
+(a) where subsection (1)(a)(i) is applicable—
+(i) impose on the person such period of imprisonment or detention (if any) as is appropriate in respect of the offence, or as the case may be, the offences concerned;
+(ii) make such order or orders (other than a confiscation order) in relation to sentence as is appropriate in respect of the offence, or as the case may be, the offences concerned, and such order or orders may be or include any order—
+(A) imposing any fine on the person;
+(B) involving any payment by the person; or
+(C) under section 38F or 56 of the Dangerous Drugs Ordinance (Cap. 134), or under section 72, 84A, 102 or 103 of the Criminal Procedure Ordinance (Cap. 221);
+(b) where subsection (1)(a)(ii)(A) is applicable, be satisfied that—
+(i) the person has died; and
+(ii) having regard to all relevant matters before it, the person could have been convicted in respect of the offence, or as the case may be, the offences concerned;
+(c) where subsection (1)(a)(ii)(B) is applicable, be satisfied that—
+(ii) in the case of—
+(A) a person who is known to be outside Hong Kong and whose exact whereabouts are known—
+(I) reasonable steps have been taken, but have been unsuccessful, to obtain the return of that person to Hong Kong for the purposes of the proceedings concerned;
+(II) if that person is in custody outside Hong Kong for purposes other than the purposes referred to in sub-subparagraph (I), he is in such custody by virtue of conduct which would constitute an indictable offence if it had occurred in Hong Kong; and
+(III) notice of those proceedings was given to that person in sufficient time to enable him to defend them;
+(B) subject to subsection (2A), a person whose exact whereabouts are not known—
+(II) notice of those proceedings, addressed to that person, has been published in a Chinese language newspaper, and an English language newspaper, circulating generally in Hong Kong; and (Replaced 26 of 2002 s. 2)
+(iii) having regard to all relevant matters before it, the person could have been convicted in respect of the offence, or as the case may be, the offences concerned. (Replaced 89 of 1995 s. 3)
+(2A) Where subsection (2)(c)(ii)(B) is applicable, and notwithstanding that the court is satisfied as mentioned in that subsection that actions have been taken, the court may, if it is satisfied that it is in the interests of justice to do so, require that notice of the proceedings mentioned in that subsection be given to the person mentioned in that subsection in such additional manner as the court may direct. (Added 26 of 2002 s. 2)
+(3) The court shall then determine whether the person has benefited from drug trafficking.
+(4) For the purposes of this Ordinance, a person who has at any time (whether before or after the commencement of this Ordinance) received any payment or other reward in connection with drug trafficking carried on by him or another has benefited from drug trafficking.
+(6) The court shall then, in respect of the offence or offences concerned, order the person to pay—
+(a) that amount; or
+(b) without prejudice to the generality of paragraph (a), such proportion of that amount as it thinks fit after taking into account any order or orders provided for or referred to in subsection (2)(a)(ii)(A), (B) or (C) which has or have been made in respect of the person. (Replaced 89 of 1995 s. 3)
+(7) Where—
+(a) a person has been convicted of one or more drug trafficking offences;
+(b) an application for a confiscation order has been made in respect of the person; and
+(c) the person has died or absconded before that application has been concluded,
+then that application may still be concluded notwithstanding that death or abscondment, as the case may be. (Replaced 89 of 1995 s. 3)
+(8) Where subsection (7) is applicable in relation to a person who has died—
+(a) subsection (2)(a)(i) shall not apply in relation to the person;
+(b) the court shall not make a confiscation order against the person unless it is satisfied that the person has died. (Added 89 of 1995 s. 3)
+(a) the person has absconded; and
+(b) in the case of—
+(i) a person who is known to be outside Hong Kong and whose exact whereabouts are known—
+(A) reasonable steps have been taken, but have been unsuccessful, to obtain the return of that person to Hong Kong for the purposes of the proceedings concerned; and
+(B) notice of those proceedings was given to that person in sufficient time to enable him to defend them;
+(ii) subject to subsection (9A), a person whose exact whereabouts are not known—
+(A) reasonable steps have been taken to ascertain the person’s whereabouts (including, if appropriate, a step mentioned in paragraph (a), (b) or (c) of rule 5(1) of Order 65 of the Rules of the High Court (Cap. 4 sub. leg. A)); and
+(B) notice of those proceedings, addressed to that person, has been published in a Chinese language newspaper, and an English language newspaper, circulating generally in Hong Kong. (Replaced 26 of 2002 s. 2)
+(Added 89 of 1995 s. 3)
+(9A) Where subsection (9)(b)(ii) is applicable, and notwithstanding that the court is satisfied as mentioned in that subsection that actions have been taken, the court may, if it is satisfied that
+(10) For the purposes of subsection (2)(b)(ii) or (c)(iii), information may be furnished to the court after the person has died or absconded, as the case may be. (Added 89 of 1995 s. 3)
+(11) For the purposes of any Ordinance conferring rights of appeal in criminal cases, a confiscation order made against a person shall be deemed to be a sentence passed on that person in respect of the offence or offences concerned and, in the case of any such person who has died (whether before or after the making of such order), his personal representative may act on his behalf for those purposes. (Added 89 of 1995 s. 3)
+(12) It is hereby declared that the standard of proof required to determine any question arising under this Ordinance as to—
+(a) whether a person has benefited from drug trafficking; or
+(b) the amount to be recovered in his case in pursuance of a confiscation order,
+shall be on the balance of probabilities. (Added 89 of 1995 s. 3)
+(13) The fact that under subsection (2)(b)(ii) or (c)(iii) the court is satisfied that a person could have been convicted in respect of the offence, or as the case may be, the offences concerned shall not be admissible in evidence in any proceedings for an offence. (Added 89 of 1995 s. 3)
+(14) For the avoidance of doubt, it is hereby declared that where an application is made for a confiscation order in any case where subsection (1)(a)(ii)(A) is applicable, the personal representatives of the deceased person concerned shall, for the purposes of opposing the application, be entitled to be heard
+(15) Where—
+(a) before the commencement of the Drug Trafficking (Recovery of Proceeds) (Amendment) Ordinance 1995 (89 of 1995), proceedings for one or more drug trafficking offences have been instituted against a person but have not been concluded because that person has absconded; and
+(b) immediately before that commencement, any realisable property of that person is the subject of a charging order or restraint order,
+then the provisions of this Ordinance as amended by that Ordinance shall apply in relation to that person as they would apply in relation to a person against whom, on or after that commencement, proceedings for one or more drug trafficking offences have been instituted but have not been concluded because that last-mentioned person has absconded. (Added 89 of 1995 s.3)
+(16) Where—
+(a) before the commencement of the Drug Trafficking (Recovery of Proceeds) (Amendment) Ordinance 1995 (89 of 1995)—
+(i) a person has been convicted of one or more drug trafficking offences;
+(ii) an application for a confiscation order has been made in respect of the person; and
+(iii) the person has absconded before that application has been concluded; and
+then the provisions of this Ordinance as amended by that Ordinance shall apply in relation to that person as they would apply in relation to a person to whom subsection (7) is applicable because he has absconded. (Added 89 of 1995 s. 3)
+(17) Where subsection (1)(a)(ii)(A) or (B) is applicable, the reference in that subsection to one or more drug trafficking offences includes any offence previously specified in Schedule 1, and the other provisions of this section and this Ordinance (including paragraphs (b) to (e) of the definition of drug trafficking offence in section 2(1) and any subsidiary legislation) shall be construed accordingly. (Added 26 of 2002 s. 2)
+[cf. 1986 c. 32 s. 1 U.K.]
+4. Assessing the proceeds of drug trafficking
+(1) For the purposes of this Ordinance—
+(a) a person’s proceeds of drug trafficking are—
+(i) any payments or other rewards received by him at any time (whether before or after 1 December 1989) in connection with drug trafficking carried on by him or another;
+(ii) any property derived or realised, directly or indirectly, by him from any of the payments or other rewards; and
+(iii) any pecuniary advantage obtained in connection with drug trafficking carried on by him or another; and
+(i) the payments or other rewards;
+(ii) that property; and
+(iii) that pecuniary advantage. (Replaced 87 of 1997 s. 36)
+(2) The Court of First Instance or the District Court, as the case may be, may, for the purpose of determining whether the defendant has benefited from drug trafficking and, if he has, of assessing the value of his proceeds of drug trafficking, make the following assumptions, except to the extent that the defendant (or, in the case of a defendant who has died, his personal representative on his behalf) shows that any of the assumptions are incorrect in his case. (Amended 89 of 1995 s. 4; 25 of 1998 s. 2)
+(3) Those assumptions are—
+(a) that any property appearing to the court—
+(i) to have been held by him at any time—
+(A) since his conviction; or
+(B) where section 3(1)(a)(ii) is applicable, since the application was made for a confiscation order in his case,
+as the case may be; or (Replaced 89 of 1995 s. 4)
+(ii) to have been transferred to him at any time since the beginning of the period of 6 years ending when the proceedings were instituted against him,
+was received by him, at the earliest time at which he appears to the court to have held it, as his proceeds of drug trafficking;
+(c) that, for the purpose of valuing any property received or assumed to have been received by him at any time as his proceeds of drug trafficking, he received the property free of any other interests in it. (Amended 89 of 1995 s. 4)
+(4) (Repealed 26 of 2002 s. 2)
+(5) For the purpose of assessing the value of the defendant’s proceeds of drug trafficking in a case where a confiscation order, or an order under section 8(7) of the Organized and Serious Crimes Ordinance (Cap. 455), has previously been made against him, the court shall leave out of account any of his proceeds of drug trafficking that are shown to the court to have been taken into account in determining the amount to be recovered under that order. (Amended 82 of 1994 s. 36)
+[cf. 1986 c. 32 s. 2 U.K.]
+5. Statements relating to proceeds of drug trafficking
+(1) Where an application is made for a confiscation order, the prosecutor may tender to the Court of First Instance or the District Court, as the case may be, a statement of matters relevant to any of the following— (Amended 25 of 1998 s. 2)
+(a) where section 3(1)(a)(ii) is applicable, determining whether the defendant could have been convicted in respect of the offence, or as the case may be, the offences concerned;
+(b) determining whether the defendant has benefited from drug trafficking;
+(c) assessing the value of the defendant’s proceeds of drug trafficking. (Replaced 89 of 1995 s. 5)
+(a) the prosecutor may at any time tender to the court a further such statement; and
+(b) the court may at any time require the prosecutor to tender to it a further such statement within such period as it may direct. (Added 89 of 1995 s. 5)
+(1B) Where any statement has been tendered under subsection (1) and the court is satisfied that a copy of the statement has been served on the defendant, it may require the defendant—
+(a) to indicate to it, within such period as it may direct, the extent to which he accepts each allegation in the statement; and
+(b) so far as he does not accept any such allegation, to give particulars of any matters on which he proposes to rely. (Added 89 of 1995 s. 5)
+(1C) Where the court has given a direction under this section, it may at any time vary it by giving a further direction. (Added 89 of 1995 s. 5)
+(2) Where the defendant accepts to any extent any allegation in any statement tendered under subsection (1), the court may, for the purposes of—
+(a) where section 3(1)(a)(ii) is applicable, determining whether the defendant could have been convicted in respect of the offence, or as the case may be, the offences concerned;
+(b) determining whether the defendant has benefited from drug trafficking; or
+(c) assessing the value of his proceeds of drug trafficking,
+treat his acceptance as conclusive of the matters to which the allegation relates. (Replaced 89 of 1995 s. 5)
+(a) any allegation in respect of which he has complied with the requirement; (Replaced 89 of 1995 s. 5)
+(b) where section 3(1)(a)(ii) is applicable, any allegation that he could have been convicted in respect of the offence, or as the case may be, the offences concerned; (Replaced 89 of 1995 s. 5)
+(c) any allegation that he has benefited from drug trafficking; and (Added 89 of 1995 s. 5)
+(d) any allegation that any payment or other reward was received by him in connection with drug trafficking carried on by him or another. (Added 89 of 1995 s. 5)
+(4) Where—
+(a) the defendant tenders to the court a statement as to any matters relevant to determining the amount that might be realised at the time the confiscation order is made; and
+(b) the prosecutor accepts to any extent any allegation in the statement,
+the court may, for the purposes of that determination, treat the acceptance by the prosecutor as conclusive of the matters to which the acceptance relates.
+(5) An allegation may be accepted, or particulars of any matter may be given, for the purposes of this section in writing in a form acceptable to the court. (Replaced 89 of 1995 s. 5)
+(6) No acceptance by the defendant under this section that—
+(b) any payment or other reward was received by him in connection with drug trafficking carried on by him or another,
+shall be admissible in evidence in any proceedings for an offence. (Replaced 89 of 1995 s. 5)
+(7) In any proceedings on an application made for a confiscation order where section 3(1)(a)(ii) or (7) is applicable—
+(a) if the defendant has died, subsection (1B) shall have effect as if it required a copy of the statement tendered under subsection (1) to be served on the defendant’s personal representative;
+(b) if the defendant has absconded and section 3(2)(c)(ii)(A) or (9)(b)(i) is not applicable to him, this section shall have effect as if a copy of the statement tendered under subsection (1) had been served on the defendant. (Added 89 of 1995 s. 5)
+(8) For the avoidance of doubt, it is hereby declared that, where section 3(1)(a)(ii) is applicable, this section shall not prejudice the generality of section 3(10). (Added 89 of 1995 s. 5)
+(9) For the avoidance of doubt, it is hereby declared that an allegation may be accepted under this section, and may always have been so accepted, whether or not subsection (7)(a) or (b) is applicable to the defendant, and subsection (3) shall be construed accordingly. (Added 26 of 2002 s. 2)
+[cf. 1986 c. 32 s. 3 U.K.]
+6. Amount to be recovered under confiscation order
+(1) Subject to subsection (3), the amount to be recovered in the
+(2) If the court is satisfied as to any matter relevant for determining the amount that might be realised at the time the confiscation order is made (whether by an acceptance under section 5 or otherwise), the court may issue a certificate giving the court’s opinion as to the matters concerned and shall do so if satisfied as mentioned in subsection (3).
+(3) If the court is satisfied that the amount that might be realised at the time the confiscation order is made is less than the amount the court assesses to be the value of his proceeds of drug trafficking, the amount to be recovered in the defendant’s case under the confiscation order shall be—
+(a) the amount appearing to the court to be so realised; or
+(b) a nominal amount, where it appears to the court (on the information available to it at the time) that the amount that might be so realised is nil. (Amended 89 of 1995 s. 6)
+[cf. 1986 c. 32 s. 4 U.K.]
+6A. Interest on amounts to be recovered under confiscation orders
+(1) The amount to be recovered under a confiscation order shall be treated as a judgment debt for the purposes of—
+(a) where the order was made by the Court of First Instance, section 49 of the High Court Ordinance (Cap. 4); (Amended 25 of 1998 s. 2)
+(b) where the order was made by the District Court, section 50 of the District Court Ordinance (Cap. 336),
+and, for those purposes, the date of the confiscation order shall be treated as the date of the judgment debt.
+(Added 89 of 1995 s. 7)
+7. Definition of principal terms used
+(1) In this Ordinance, realisable property (可變現財產) means, subject to subsection (2)—
+(a) any property held by the defendant; (Amended 89 of 1995 s. 8)
+(b) any property held by a person to whom the defendant has directly or indirectly made a gift caught by this Ordinance; and (Amended 89 of 1995 s. 8)
+(c) any property that is subject to the effective control of the defendant. (Added 89 of 1995 s. 8)
+(2) Property is not realisable property if—
+(a) an order under section 102 or 103 of the Criminal Procedure Ordinance (Cap. 221); or
+(b) an order under section 38F or 56 of the Dangerous Drugs Ordinance (Cap. 134),
+is in force in respect of the property.
+(3) For the purposes of this Ordinance the amount that might be realised at the time a confiscation order is made against the defendant is— (Amended 89 of 1995 s. 8)
+(a) the total of the values at that time of all the realisable property held by the defendant, less
+together with the total of the values at that time of all gifts caught by this Ordinance.
+(4) Subject to the following subsections, for the purposes of this Ordinance the value of property (other than cash) in relation to any person holding the property—
+(a) where any other person holds an interest in the property, is—
+(i) the market value of the first mentioned person’s beneficial interest in the property, less
+(ii) the amount required to discharge any incumbrance (other than a charging order) on that interest; and
+(b) in any other case, is its market value.
+(5) Subject to subsection (10), references in this Ordinance to the value at any time (referred to in subsection (6) as the material time (關鍵時間)) of a gift caught by this Ordinance or of any payment or reward are references to—
+(a) the value of the gift, payment or reward to the recipient when he received it adjusted to take account of subsequent changes in the value of money; or
+(b) where subsection (6) applies, the value there mentioned,
+whichever is the greater.
+(6) Subject to subsection (10), if at the material time the recipient holds—
+(a) the property which he received (not being cash); or
+(b) property which, in whole or in part, directly or indirectly represents in his hands the property which he received,
+(7) For the purposes of subsection (3), an obligation has priority at any time if it is an obligation of the defendant to—
+(a) pay an amount due in respect of a fine, or other order of a court, imposed or made on conviction of an offence, where the fine was imposed or order made before the confiscation order; or
+(b) pay any sum which, if the defendant had been adjudged bankrupt or was being wound up, would be among the preferential debts.
+(8) In subsection (7)(b) the preferential debts (優先債項)—
+(a) in relation to bankruptcy, means the debts to be paid in priority under section 38 of the Bankruptcy Ordinance (Cap. 6) (assuming the date of the confiscation order to be the date of filing of the petition and of the bankruptcy order made under that Ordinance); and (Amended 37 of 1998 s. 8)
+(b) in relation to winding up, means the debts to be paid under section 265 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) (assuming the date of the confiscation order to be the date of commencement of the winding up and the relevant date for the purpose of that section). (Amended 28 of 2012 ss. 912 & 920)
+(9) A gift (including a gift made before the commencement of this Ordinance) is caught by this Ordinance if—
+(b) it was made by the defendant at any time and was a gift of property—
+(i) received by the defendant in connection with drug trafficking carried on by him or another; or
+(ii) which in whole or in part directly or indirectly represented in the defendant’s hands property received by him in that connection.
+(10) For the purposes of this Ordinance—
+(a) the circumstances in which the defendant is to be treated as making a gift include those where he transfers property to another person directly or indirectly for a consideration the value of which is significantly less than the value of the consideration provided by the defendant; and
+(b) in those circumstances, the preceding provisions of this section shall apply as if the defendant had made a gift of such share in the property as bears to the whole property the same proportion as the difference between the values referred to in paragraph (a) bears to the value of the consideration provided by the defendant.
+(11) For the purposes of subsection (1)—
+(a) property, or an interest in property, may be subject to the effective control of the defendant whether or not the defendant has—
+(i) a legal or equitable estate or interest in the property; or
+(ii) a right, power or privilege in connection with the property;
+(i) whether or not property, or an interest in property, is subject to the effective control of the defendant; or
+(ii) whether or not there are reasonable grounds to believe that property, or an interest in property, is subject to the effective control of the defendant,
+regard may be had to—
+(A) shareholdings in, debentures over or directorships of a company that has an interest (whether direct or indirect) in the property;
+(B) a trust that has a relationship to the property; and
+(C) family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in subparagraph (A) or trusts of the kind referred to in subparagraph (B), and other persons. (Added 89 of 1995 s. 8)
+(12) Where a person obtains a pecuniary advantage in connection with drug trafficking carried on by him or another, he is to be treated for the purposes of this Ordinance as if he had obtained in connection with that drug trafficking a sum of money equal to the value of the advantage, and the other provisions of this Ordinance shall be construed accordingly. (Added 87 of 1997 s.36)
+[cf. 1986 c. 32 s. 5 U.K.]
+Part III
+Enforcement, etc. of Confiscation Orders
+8. Application of procedure for enforcing confiscation orders
+(1) Subject to this section, where the Court of First Instance or the District Court, as the case may be, makes a confiscation order— (Amended 89 of 1995 s. 9; 25 of 1998 s. 2)
+(a) the court shall also make an order—
+(i) subject to subsection (1A), fixing the period within which the amount he is liable to pay under the confiscation order shall be duly paid; and
+(ii) fixing a term of imprisonment which the defendant is to serve if any of that amount is not duly paid within that period (including paid by way of being recovered); and (Replaced 26 of 2002 s. 2)
+(b) section 114(1), (3), (4), (5), (6) and (7) of the Criminal Procedure Ordinance (Cap. 221) shall apply as if—
+(i) that amount were a fine imposed upon him by the court; and
+(ii) the term of imprisonment fixed under this section were a term fixed under section 114(1)(c) of that Ordinance.
+(1A) The court shall not under subsection (1)(a)(i) fix a period longer than 6 months unless it is satisfied that there are special circumstances which justify it doing so. (Added 26 of 2002 s. 2)
+Table
+An amount not exceeding $200,000 ..................... 12 months An amount exceeding $200,000 but not exceeding $500,000 .............................................. 18 months An amount exceeding $500,000 but not exceeding $1 million ............................................. 2 years An amount exceeding $1 million but not exceeding $2.5 million .......................................... 3 years An amount exceeding $2.5 million but not exceeding $10 million ........................................... 5 years An amount exceeding $10 million ....................... 10 years (3) Subsections (1) and (2) shall apply in relation to the District Court. (Replaced 89 of 1995 s. 9)
+(3A) For the avoidance of doubt, it is hereby declared that no limitation on the jurisdiction of the District Court as to the imposition of penalties set out in section 82 of the District Court Ordinance (Cap. 336) shall be construed so as to prejudice the operation of subsection (3). (Added 89 of 1995 s. 9)
+(4) Where the defendant—
+(a) becomes liable to serve a term of imprisonment fixed under this section in respect of a confiscation order; and
+(b) is also liable to serve a term of imprisonment or detention in respect of the offence or offences concerned,
+(5) For the purposes of subsection (4)—
+(a) consecutive terms and terms which are wholly or partly concurrent shall be treated as a single term; and
+(b) there shall be disregarded—
+(i) any sentence suspended under section 109B of the Criminal Procedure Ordinance (Cap. 221) which has not taken effect at the time the defendant becomes liable to a term of imprisonment under this section; and
+(ii) any term of imprisonment fixed under section 114(1) of the Criminal Procedure Ordinance (Cap. 221) for which the defendant has not at that time been committed.
+(6) Sections 86 and 109A of the Criminal Procedure Ordinance (Cap. 221) shall not apply in relation to fixing a term of imprisonment under this section. (Amended 89 of 1995 s. 9)
+(7) This section shall not apply in relation to a confiscation order where section 3(1)(a)(ii) or (7) is applicable. (Added 89 of 1995 s. 9)
+(8) At the end of each day’s sitting of the Court of First Instance or the District Court, the Registrar of the High Court or District Court, as the case may be, shall deliver (or cause to be delivered) to the Commissioner of Correctional Services a certificate, in the form specified in Schedule 3, in respect of each term of imprisonment fixed under this section. (Added 89 of 1995 s. 9. Amended 25 of 1998 s. 2)
+(9) A certificate referred to in subsection (8) shall be a sufficient warrant to the Commissioner of Correctional
+[cf. 1986 c. 32 s. 6 U.K.]
+9. Cases in which restraint orders and charging orders may be made
+(1) The powers conferred on the Court of First Instance by sections 10(1) and 11(1) are exercisable where—
+(a) proceedings have been instituted in Hong Kong against the defendant for a drug trafficking offence or—
+(i) an application for a confiscation order has been made in respect of the defendant where section 3(1)(a)(ii) or (7) is applicable; or
+(ii) an application has been made under section 15(1A) in respect of a confiscation order made against the defendant; (Replaced 89 of 1995 s. 10)
+(b) the proceedings have not, or the application has not, as the case may be, been concluded; (Replaced 89 of 1995 s. 10. Amended 26 of 2002 s. 2)
+(ba) subject to subsection (1A), if section 2(11)(aa) is applicable to an offence, the Court of First Instance is satisfied that, in all the circumstances of the case, there is reasonable cause to believe that the defendant may be charged with the offence after further investigation is carried out; and (Added 26 of 2002 s. 2)
+(c) the Court of First Instance is satisfied that there is reasonable cause to believe—
+(ii) in any other case, that the defendant has benefited from drug trafficking. (Replaced 89 of 1995 s. 10)
+(1A) Subject to subsection (1B), where a power conferred on the Court of First Instance by section 10(1) or 11(1) is exercisable only on the ground mentioned in subsection (1)(ba), then the Court of First Instance shall specify a date on which any restraint order or charging order arising from that ground shall expire, being a date—
+(a) subject to paragraph (b), not later than is reasonably necessary for the purposes of the investigation concerned mentioned in subsection (1)(ba); and
+(b) in any case, not later than 6 months after the date on which that order is made. (Added 26 of 2002 s. 2)
+(1B) The Court of First Instance may extend a restraint order or charging order mentioned in subsection (1A)—
+(a) on the ground only that the Court of First Instance is satisfied that the defendant will be charged with the offence concerned after further investigation is carried out;
+(b) subject to paragraph (c), not longer than is reasonably necessary for the purposes of that investigation; and
+(c) in any case, for not more than 6 months. (Added 26 of 2002 s. 2)
+(2) Those powers are also exercisable where the Court of First Instance is satisfied—
+(a) that whether by the laying of an information or otherwise, a person is to be charged in Hong Kong with a drug trafficking offence; and
+(3) For the purposes of sections 10 and 11, in relation to the exercise of those powers at any time before proceedings have been instituted—
+(a) references in this Ordinance to the defendant shall be construed as references to the person referred to in subsection (2)(a);
+(b) references in this Ordinance to the prosecutor shall be construed as references to the person who the Court of First Instance is satisfied is to have the conduct of the case for the prosecution in the proposed proceedings; and
+(c) references in this Ordinance to realisable property shall be construed as if, immediately before that time, proceedings had been instituted against the person referred to in subsection (2)(a) for a drug trafficking offence.
+(4) Where the Court of First Instance has made an order under section 10(1) or 11(1) by virtue of subsection (2), the Court of First Instance shall discharge the order if proceedings in respect of the offence are not instituted within such time as the Court of First Instance considers reasonable.
+(Amended 25 of 1998 s. 2)
+[cf. 1986 c. 32 s. 7 U.K.]
+10. Restraint orders
+(1) The Court of First Instance may by order (in this Ordinance referred to as a restraint order (限制令)) prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order. (Amended 25 of 1998 s. 2)
+(a) to all realisable property held by a specified person, whether the property is described in the order or not; and
+(b) to realisable property held by a specified person, being property transferred to him after the making of the order.
+(3) This section shall not have effect in relation to any property for the time being subject to a charge under section 11.
+(4) A restraint order—
+(a) may be made only on an application by the prosecutor;
+(b) may be made on an ex parte application to a judge in chambers; and
+(c) shall provide for notice to be given to persons affected by the order.
+(5) A restraint order—
+(a) may be discharged or varied in relation to any property; and
+(b) shall be discharged on the conclusion of the proceedings or application concerned. (Replaced 89 of 1995 s. 11)
+(6) An application for the discharge or variation of a restraint order may be made by any person affected by it.
+(7) Where the Court of First Instance has made a restraint order, the Court of First Instance may at any time appoint a receiver—
+(a) to take possession of any realisable property; and
+(b) in accordance with the directions of the Court of First Instance, to manage or otherwise deal with any property in respect of which he is appointed,
+(8) (Repealed 89 of 1995 s. 11)
+(9) Where the Court of First Instance has made a restraint order, an authorized officer may, for the purpose of preventing any realisable property being removed from Hong Kong, seize the property. (Amended 25 of 1998 s. 2)
+(10) Property seized under subsection (9) shall be dealt with in accordance with the directions of the Court of First Instance. (Amended 25 of 1998 s. 2)
+(11) Where any property specified in a restraint order is immovable property the order shall, for the purposes of the Land Registration Ordinance (Cap. 128)—
+(a) be deemed to be an instrument affecting land; and
+(b) be registrable as such in the Land Registry under that Ordinance in such manner as the Land Registrar thinks fit. (Amended 8 of 1993 ss. 2 & 3)
+(12) An authorized officer may, by notice in writing served on a person who holds any realisable property the subject of a restraint order, require the person to deliver to the authorized officer, to the extent that it is practicable to do so, documents, or copies of documents, or any other information (in whatever form), in his possession or control which may assist the authorized officer to determine the value of the property. (Added 26 of 2002 s. 2)
+(13) A person who receives a notice under subsection (12) shall, as soon as is practicable after receipt of the notice, comply with the notice to the extent that it is practicable to do so taking
+(14) A disclosure made in order to comply with a requirement under subsection (12)—
+(a) shall not be treated as a breach of any restriction upon the disclosure of information imposed by contract or by any enactment, rule of conduct or other provision;
+(b) shall not render the person who made it liable in damages for any loss arising out of—
+(i) the disclosure;
+(ii) any act done or omitted to be done in relation to the property concerned in consequence of the disclosure. (Added 26 of 2002 s. 2)
+(15) Any person who contravenes subsection (13) commits an offence and is liable on conviction to a fine at level 5 and to imprisonment for 1 year. (Added 26 of 2002 s. 2)
+(16) A person who knowingly deals in any realisable property in contravention of a restraint order commits an offence. (Added 26 of 2002 s. 2)
+(17) A person who commits an offence under subsection (16) is liable—
+(a) on conviction upon indictment to a fine of $500,000 or to the value of the realisable property the subject of the restraint order concerned which has been dealt with in contravention of that order, whichever is the greater, and to imprisonment for 5 years; or
+(b) on summary conviction to a fine of $250,000 and to imprisonment for 2 years. (Added 26 of 2002 s. 2)
+[cf. 1986 c. 32 s. 8 U.K.]
+11. Charging orders in respect of land, securities, etc.
+(a) where a confiscation order has not been made, of an amount equal to the value from time to time of the property charged; and
+(b) in any other case, of an amount not exceeding the amount payable under the confiscation order.
+(2) For the purposes of this Ordinance, a charging order is an order made under this section imposing on any such realisable property as may be specified in the order a charge for securing the payment of money to the Government.
+(3) A charging order—
+(a) may be made only on an application by the prosecutor;
+(b) may be made on an ex parte application to a judge in chambers;
+(c) shall provide for notice to be given to persons affected by the order; and
+(d) may be made subject to such conditions as the Court of First Instance thinks fit and, without prejudice to the generality of this paragraph, such conditions as it thinks fit as to the time when the charge is to become effective.
+(4) Subject to subsection (6), a charge may be imposed by a charging order only on—
+(a) any interest in realisable property, being an interest held beneficially by the defendant or by a person to whom the defendant has directly or indirectly made a gift caught by this Ordinance—
+(i) in any asset of a kind specified in Schedule 2; or
+(ii) under any trust; or
+(5) In any case where a charge is imposed by a charging order on any interest in an asset of a kind specified in Schedule 2, the Court of First Instance may provide for the charge to extend to any interest, dividend or other distribution payable and any bonus issue in respect of the asset.
+(6) In relation to a charging order, the Court of First Instance—
+(a) may make an order discharging or varying it; and
+(b) shall make an order discharging the charging order—
+(i) on the conclusion of the proceedings or application concerned; or
+(ii) on payment into the Court of First Instance of the amount payment of which is secured by the charge. (Replaced 89 of 1995 s. 12)
+(7) An application for the discharge or variation of a charging order may be made by any person affected by it.
+(8) Subject to the provisions of this Ordinance, a charge imposed by a charging order shall have the like effect and shall be enforceable in the same manner as an equitable charge created by the person holding the beneficial interest or, as the case may be, the trustee, by writing under his hand.
+(9) An authorized officer may, by notice in writing served on a person who holds any realisable property the subject of a charging order, require the person to deliver to the authorized officer, to the extent that it is practicable to do so, documents, or copies of documents, or any other information (in whatever
+(10) A person who receives a notice under subsection (9) shall, as soon as is practicable after receipt of the notice, comply with the notice to the extent that it is practicable to do so taking into account the nature of the realisable property the subject of the charging order concerned. (Added 26 of 2002 s. 2)
+(11) A disclosure made in order to comply with a requirement under subsection (9)—
+(a) shall not be treated as a breach of any restriction upon the disclosure of information imposed by contract or by any enactment, rule of conduct or other provision;
+(b) shall not render the person who made it liable in damages for any loss arising out of—
+(i) the disclosure;
+(ii) any act done or omitted to be done in relation to the property concerned in consequence of the disclosure. (Added 26 of 2002 s. 2)
+(12) Any person who contravenes subsection (10) commits an offence and is liable on conviction to a fine at level 5 and to imprisonment for 1 year. (Added 26 of 2002 s. 2)
+(13) A person who knowingly deals in any realisable property in contravention of a charging order commits an offence. (Added 26 of 2002 s. 2)
+(14) A person who commits an offence under subsection (13) is liable—
+(a) on conviction upon indictment to a fine of $500,000 or to the value of the realisable property the subject of the charging order concerned which has been dealt with in
+(b) on summary conviction to a fine of $250,000 and to imprisonment for 2 years. (Added 26 of 2002 s. 2)
+(Amended 25 of 1998 s. 2)
+[cf. 1986 c. 32 s. 9 U.K.]
+12. Realisation of property
+(1) Where—
+(a) in proceedings instituted for a drug trafficking offence, a confiscation order is made (including any case where section 3(1)(a)(ii) or (7) is applicable); (Amended 89 of 1995 s. 13)
+(b) the order is not subject to appeal or review within the meaning of section 2(13); and
+(c) the proceedings have not been concluded,
+the Court of First Instance may, on an application by the prosecutor, exercise the powers conferred by subsections (2) to (6).
+(2) The Court of First Instance may appoint a receiver in respect of realisable property.
+(3) The Court of First Instance may empower a receiver appointed under subsection (2), under section 10 or in pursuance of a charging order—
+(a) to enforce any charge imposed under section 11 on realisable property or on any interest, dividend or other distribution payable and any bonus issue in respect of such property; and
+(b) in relation to any realisable property other than property for the time being subject to a charge under section
+(4) The Court of First Instance may order any person having possession of realisable property to give possession of it to any such receiver.
+(5) The Court of First Instance may empower any such receiver to realise any realisable property in such manner as the Court of First Instance may direct.
+(6) The Court of First Instance may order any person holding an interest in realisable property to make such payment to the receiver in respect of any beneficial interest held by the defendant or, as the case may be, the recipient of a gift caught by this Ordinance as the Court of First Instance may direct and the Court of First Instance may, on the payment being made, by order transfer, grant or extinguish any interest in the property.
+(7) Subsections (4) to (6) do not apply to property for the time being subject to a charge under section 11.
+(8) The Court of First Instance shall not in respect of any property exercise the powers conferred by subsection (3)(a), (5) or (6) unless a reasonable opportunity has been given for persons holding any interest in the property to make representations to the Court of First Instance.
+(Amended 25 of 1998 s. 2)
+[cf. 1986 c. 32 s. 11 U.K.]
+13. Application of proceeds of realisation and other sums
+(1) Subject to subsection (2), the following sums in the hands of a receiver appointed under section 10 or 12 or in pursuance of a charging order, that is—
+(b) the proceeds of the realisation, other than by the enforcement of such a charge, of any property under section 10 or 12; and
+(c) any other sums, being property held by the defendant,
+shall first be applied in payment of such expenses incurred by a person acting as an insolvency officer as are payable under section 18(2) and then shall, after such payments (if any) as the Court of First Instance may direct have been made out of those sums— (Amended 25 of 1998 s. 2)
+(i) be payable to the Registrar; and
+(ii) be applied on the defendant’s behalf towards the satisfaction of the confiscation order in the manner provided by subsection (3).
+(2) If, after the amount payable under the confiscation order has been fully paid, any such sums remain in the hands of such a receiver, the receiver shall distribute those sums—
+(a) among such of those who held property which has been realised under this Ordinance; and
+(b) in such proportions,
+as the Court of First Instance may direct after giving a reasonable opportunity for such persons to make representations to the Court of First Instance. (Amended 25 of 1998 s. 2)
+(3) The receipt of any sum by the Registrar on account of an amount payable under a confiscation order shall reduce the amount so payable, but the Registrar shall apply the sum received for the purposes specified in this section and in the order so specified.
+(5) If the sum was paid to the Registrar by a receiver appointed under section 10 or 12 or in pursuance of a charging order the Registrar shall next pay the receiver’s remuneration and expenses.
+(6) After making—
+(a) any payment required by subsection (4); and
+(b) in a case to which subsection (5) applies, any payment required by that subsection,
+the Registrar shall reimburse any amount paid under section 19(2).
+(7) Any balance in the hands of the Registrar after he has made all payments required by the foregoing subsections shall be paid into the general revenue. (Amended 89 of 1995 s. 14)
+[cf. 1986 c. 32 s. 12 U.K.]
+14. Exercise of powers by Court of First Instance or receiver
+(1) The following subsections apply to the powers conferred on the Court of First Instance by sections 10 to 13, or on a receiver appointed under section 10 or 12 or in pursuance of a charging order. (Amended 25 of 1998 s. 2)
+(2) Subject to subsections (3), (4), (5) and (6), the powers shall be exercised with a view to making available for satisfying the confiscation order or, as the case may be, any confiscation order that may be made in the defendant’s case the value for the time being of realisable property held by any person by the realisation of such property.
+(3) In the case of realisable property held by a person to whom the defendant has directly or indirectly made a gift caught by
+(4) The powers shall be exercised with a view to allowing any person other than the defendant or the recipient of any such gift to retain or recover the value of any property held by him.
+(5) An order may be made or other action taken in respect of a debt owed by the Government.
+(6) In exercising those powers, no account shall be taken of any obligations of the defendant or of the recipient of any such gift which conflict with the obligation to satisfy the confiscation order.
+[cf. 1986 c. 32 s. 13 U.K.]
+15. Variation of confiscation orders
+(1) If, on an application by the prosecutor or the defendant (or, in the case of a defendant who has died, his personal representative on his behalf) in respect of a confiscation order, the Court of First Instance is satisfied that the realisable property is inadequate for the payment of any amount remaining to be recovered under the confiscation order, the Court of First Instance shall make an order— (Amended 89 of 1995 s. 15)
+(a) substituting for the amount to be recovered under the confiscation order such lesser amount as the Court of First Instance thinks just in all the circumstances of the case; and
+(b) substituting for the term of imprisonment fixed under section 8 in respect of the amount to be recovered under the confiscation order a shorter term determined in accordance with that section in respect of the lesser amount.
+(a) substituting for the amount to be recovered under the confiscation order such greater amount as the Court of First Instance thinks just in all the circumstances of the case; and
+(b) substituting for the term of imprisonment fixed under section 8 in respect of the amount to be recovered under the confiscation order a greater term determined in accordance with that section in respect of the greater amount. (Added 89 of 1995 s. 15)
+(1B) The conditions referred to in subsection (1A) are—
+(a) the value of the defendant’s proceeds of drug trafficking was greater than the value of the defendant’s proceeds of drug trafficking assessed by the Court of First Instance or the District Court, as the case may be, at the time of the making of the confiscation order;
+(b) the prosecutor becomes aware of realisable property, the existence of which was not known to him at the time of the making of the confiscation order;
+(c) the amount realised from the defendant’s proceeds of drug trafficking is greater than the amount the Court of First Instance or the District Court, as the case may be, assessed to be the amount to be recovered under the confiscation order. (Added 89 of 1995 s. 15)
+(2) For the purposes of this section— (Amended 89 of 1995 s. 15)
+(a) in the case of realisable property held by a person who has been adjudged bankrupt or whose estate has been sequestrated the Court of First Instance shall take into
+(b) the Court of First Instance may disregard any inadequacy in the realisable property which appears to the Court of First Instance to be attributable wholly or partly to anything done by the defendant for the purpose of preserving any property held by a person to whom the defendant had directly or indirectly made a gift caught by this Ordinance from any risk of realisation under this Ordinance.
+(3) No application shall be entertained by the Court of First Instance under subsection (1A) if it is made after the end of the period of 6 years beginning with the date on which the confiscation order concerned was made. (Added 89 of 1995 s. 15)
+(Amended 25 of 1998 s. 2)
+[cf. 1986 c. 32 s. 14 U.K.]
+16. Bankruptcy of defendants, etc.
+(1) Where a person who holds realisable property is adjudged bankrupt—
+(a) property for the time being subject to a restraint order made before the order adjudging him bankrupt; and
+(b) any proceeds of property realised by virtue of section 10(7) or 12(5) or (6) for the time being in the hands of a receiver appointed under section 10 or 12,
+are excluded from the property of the bankrupt for the purposes of the Bankruptcy Ordinance (Cap. 6).
+(2) Where a person has been adjudged bankrupt, the powers conferred on the Court of First Instance by sections 10 to 13
+(a) property for the time being comprised in the property of the bankrupt for the purposes of the Bankruptcy Ordinance (Cap. 6); and
+(b) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under section 30A(9) of the Bankruptcy Ordinance (Cap. 6). (Amended 76 of 1996 s. 87)
+(3) Nothing in the Bankruptcy Ordinance (Cap. 6) shall be taken as restricting, or enabling the restriction of, the exercise of the powers conferred on the Court of First Instance by sections 10 to 13. (Amended 25 of 1998 s. 2)
+(4) Subsection (2) does not affect the enforcement of a charging order—
+(a) made before the order adjudging the person bankrupt; or
+(b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
+(5) Where, in the case of a debtor, an interim trustee stands appointed under section 13 of the Bankruptcy Ordinance (Cap. 6) and any property of the debtor is subject to a restraint order, the powers conferred on the interim trustee by virtue of that Ordinance do not apply to property for the time being subject to the restraint order. (Amended 18 of 2005 s. 48)
+(6) Where a person is adjudged bankrupt and has directly or indirectly made a gift caught by this Ordinance—
+(a) a court shall not make an order under—
+(i) section 49 or 50 of the Bankruptcy Ordinance (Cap. 6); or (Amended 76 of 1996 s. 87)
+in respect of the making of a gift at any time when—
+(A) proceedings for a drug trafficking offence have been instituted against him but have not been concluded;
+(B) an application—
+(I) for a confiscation order has been made in respect of the person where section 3(1)(a)(ii) or (7) is applicable; or
+(II) has been made under section 15(1A) in respect of a confiscation order made against the person,
+and the application has not been concluded; or
+(C) property of the person to whom the gift was made is subject to a restraint order or charging order; and (Replaced 89 of 1995 s. 16)
+(b) any order made under any of the sections referred to in paragraph (a)(i) or (ii) after the conclusion of the proceedings or application shall take into account any realisation under this Ordinance of property held by the person to whom the gift was made. (Replaced 89 of 1995 s. 16)
+[cf. 1986 c. 32 s. 15 U.K.]
+17. Winding up of company holding realisable property
+(1) Where realisable property is held by a company and an order for the winding up of the company has been made or a resolution has been passed by the company for voluntary winding up, the functions of the liquidator (or any provisional liquidator) shall not be exercisable in relation to—
+(b) any proceeds of property realised by virtue of section 10(7) or 12(5) or (6) for the time being in the hands of a receiver appointed under section 10 or 12.
+(2) Where, in the case of a company, such an order has been made or such a resolution has been passed, the powers conferred on the Court of First Instance by sections 10 to 13 shall not be exercised in relation to any realisable property held by the company in relation to which the functions of the liquidator are exercisable—
+(a) so as to inhibit him from exercising those functions for the purpose of distributing any property held by the company to the company’s creditors; or
+(b) so as to prevent the payment out of any property of expenses (including the remuneration of the liquidator or any provisional liquidator) properly incurred in the winding up in respect of the property.
+(3) Nothing in the Companies Ordinance (Cap. 622) or the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) shall be taken as restricting, or enabling the restriction of, the exercise of the powers conferred on the Court of First Instance by sections 10 to 13. (Amended 28 of 2012 ss. 912 & 920)
+(3A) Subsection (3) shall apply to any proceedings relating to an appeal, further appeal or review against any exercise of the powers referred to in that subsection as if the court hearing the appeal, further appeal or review, as the case may be, were the Court of First Instance. (Added 89 of 1995 s. 17)
+(4) Subsection (2) does not affect the enforcement of a charging order made before the relevant time or on property which was subject to a restraint order at the relevant time.
+company (公司) means any company which may be wound
+up under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32); (Amended 28 of 2012 ss. 912 & 920)
+the relevant time (有關時間) means—
+(a) where no order for the winding up of the company has been made, the time of the passing of the resolution for voluntary winding up;
+(b) where such an order has been made and, before the presentation of the petition for the winding up of the company by the Court of First Instance, such a resolution had been passed by the company, the time of the passing of the resolution; and
+(c) in any other case where such an order has been made, the time of the making of the order.
+(Amended 25 of 1998 s. 2; E.R. 2 of 2014)
+[cf. 1986 c . 32 s. 17 U.K.]
+18. Insolvency officers dealing with property subject to restraint order
+(1) Without prejudice to the generality of any provision contained in the Bankruptcy Ordinance (Cap. 6), the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) or any other Ordinance, where— (Amended 28 of 2012 ss. 912 & 920)
+(a) any insolvency officer seizes or disposes of any property in relation to which his functions are not exercisable because it is for the time being subject to a restraint order; and
+he shall not be liable to any other person in respect of any loss or damage resulting from the seizure or disposal except in so far as the loss or damage is caused by his negligence; and the insolvency officer shall have a lien on the property, or the proceeds of its sale, for such of his expenses as were incurred in connection with the liquidation, bankruptcy or other proceedings in relation to which the seizure or disposal purported to take place and for so much of his remuneration as may reasonably be assigned for his acting in connection with those proceedings.
+(2) Any insolvency officer who incurs expenses—
+(a) in respect of such property as is mentioned in subsection (1)(a) and in so doing does not know and has no reasonable grounds to believe that the property is for the time being subject to a restraint order; or
+(b) other than in respect of such property as is so mentioned, being expenses which, but for the effect of a restraint order, might have been met by taking possession of and realising the property,
+shall be entitled (whether or not he has seized or disposed of that property so as to have a lien under that subsection) to payment of those expenses under section 13(1) or (3).
+(3) In this section insolvency officer (債務處理人) means—
+(a) the Official Receiver; or
+(b) any person acting as—
+(i) a trustee (including provisional trustee), interim trustee or special manager appointed under the
+(ii) a liquidator, provisional liquidator or special manager appointed under the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32). (Amended 28 of 2012 ss. 912 & 920)
+[cf. 1986 c. 32 s. 17A U.K.]
+19. Receivers: supplementary provisions
+(1) Where a receiver appointed under section 10 or 12 or in pursuance of a charging order takes any action—
+(a) in relation to property which is not realisable property, being action which he would be entitled to take if it were such property;
+(b) believing, and having reasonable grounds for believing, that he is entitled to take that action in relation to that property,
+he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
+(2) Any amount due in respect of the remuneration and expenses of a receiver so appointed shall, if no sum is available to be applied in payment of it under section 13(3), be paid by the prosecutor or, in a case where proceedings for a drug trafficking offence are not instituted, by the person on whose application the receiver was appointed.
+[cf. 1986 c. 32 s. 18 U.K.]
+Part IV
+Investigations into Drug Trafficking
+20. Order to make material available
+(1) An authorized officer may, for the purpose of an investigation into drug trafficking, apply to a court for an order under subsection (2) in relation to particular material or material of a particular description.
+(2) Subject to section 23(10), the court may, if on such an application it is satisfied that the conditions in subsection (4) are fulfilled, make an order—
+(a) that the person who appears to the court to be in possession or control of the material to which the application relates shall—
+(i) produce the material to an authorized officer for him to take away; or
+(ii) give an authorized officer access to it,
+within such period as the order may specify;
+(b) that the person who appears to the court likely to come into possession or control of the material to which the application relates shall, when the person comes into possession or control of any such material—
+(i) produce the material to an authorized officer for him to take away; or
+(ii) give an authorized officer access to it,
+within such period as the order may specify; or
+(c) in terms both of paragraphs (a) and (b). (Replaced 89 of 1995 s. 18)
+(a) affect any obligation incurred under that order prior to its expiration;
+(b) prevent, in relation to the person required to comply with that order, any further order being made under that subsection in respect of that person (including before the expiration of that first-mentioned order). (Added 89 of 1995 s. 18)
+(3) The period to be specified in an order under subsection (2) shall be 7 days unless it appears to the court that a longer or shorter period would be appropriate in the particular circumstances of the application.
+(4) The conditions referred to in subsection (2) are—
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking;
+(b) that there are reasonable grounds for believing that the material to which the application relates—
+(i) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made; and
+(ii) does not consist of or include items subject to legal privilege; and
+(c) that there are reasonable grounds for believing that it is in the public interest, having regard—
+(ii) to the circumstances under which the person—
+(A) in possession or control of the material holds or controls it, as the case may be; or
+(B) likely to come into possession or control of the material will hold or control it, as the case may be, if he comes into such possession or control,
+as the case may be, (Replaced 89 of 1995 s. 18)
+that the material should be produced or that access to it should be given.
+(5) Where a court makes an order under subsection (2)(a)(ii) or (b)(ii) in relation to material on any premises it may, on the same or a subsequent application of an authorized officer, order any person who appears to him to be entitled to grant entry to the premises to allow an authorized officer to enter the premises to obtain access to the material. (Amended 89 of 1995 s. 18)
+(6) Rules of court may provide for—
+(a) the discharge and variation of orders under this section; and
+(b) proceedings relating to such orders.
+(7) Where the material to which an application under this section relates consists of information contained in or accessible by means of any data equipment—
+(a) an order under subsection (2)(a)(i) or (b)(i) shall have effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible; and (Amended 89 of 1995 s. 18)
+(8) In subsection (7), data equipment (數據設備) means any equipment which—
+(a) automatically processes information;
+(b) automatically records or stores information;
+(c) can be used to cause information to be automatically recorded, stored or otherwise processed on other equipment (wherever situated);
+(d) can be used to retrieve information, whether the information is recorded or stored in the equipment itself or in other equipment (wherever situated).
+(9) An order under subsection (2)—
+(a) shall not confer any right to production of, or access to, items subject to legal privilege;
+(b) shall have effect notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by statute or otherwise; and
+(c) may be made in relation to material in the possession of a public body as defined in section 23.
+[cf. 1986 c. 32 s. 27 U.K.]
+21. Authority for search
+(1) An authorized officer may, for the purpose of an investigation into drug trafficking, apply to a court for a warrant under this section in relation to specified premises.
+(a) that an order made under section 20 in relation to material on the premises has not been complied with; or
+(b) that the conditions in subsection (3) are fulfilled; or
+(c) that the conditions in subsection (4) are fulfilled.
+(3) The conditions referred to in subsection (2)(b) are—
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking; and
+(b) that the conditions in section 20(4)(b) and (c) are fulfilled in relation to any material on the premises; and
+(c) that it would not be appropriate to make an order under that section in relation to the material because—
+(i) it is not practicable to communicate with any person entitled to produce the material; or
+(ii) it is not practicable to communicate with any person entitled to grant access to the material or entitled to grant entry to the premises on which the material is situated; or
+(iii) the investigation for the purposes of which the application is made might be seriously prejudiced unless an authorized officer could secure immediate access to the material.
+(4) The conditions referred to in subsection (2)(c) are—
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking; and
+(c) that—
+(i) it is not practicable to communicate with any person entitled to grant entry to the premises; or
+(ii) entry to the premises will not be granted unless a warrant is produced; or
+(iii) the investigation for the purposes of which the application is made might be seriously prejudiced unless an authorized officer arriving at the premises could secure immediate entry to them.
+(5) Where an authorized officer has entered premises in the execution of a warrant issued under this section, he may seize and retain any material, other than items subject to legal privilege, which is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the warrant was issued.
+(6) Any person who hinders or obstructs an authorized officer in the execution of a warrant issued under this section commits an offence and is liable—
+(a) on conviction upon indictment to a fine of $250,000 and to imprisonment for 2 years; or
+(b) on summary conviction to a fine at level 5 and to imprisonment for 6 months. (Amended E.R. 4 of 2019)
+[cf. 1986 c. 32 s. 28 U.K.]
+22. Supplementary provisions to sections 20 and 21
+(1) An authorized officer may photograph or make copies of any material—
+(a) produced or to which access is given under section 20; or
+(b) seized under section 21.
+(2) In sections 20 and 21—
+court (法庭) means the Court of First Instance and the District
+Court; (Amended 25 of 1998 s. 2)
+items subject to legal privilege (享有法律特權的品目) means—
+(a) communications between a professional legal adviser and his client or any person representing his client made in connection with the giving of legal advice to the client;
+(b) communications between a professional legal adviser and his client or any person representing his client or between such an adviser or his client or any such representative and any other person made in connection with or in contemplation of legal proceedings and for the purposes of such proceedings; and
+(c) items enclosed with or referred to in such communications and made—
+(i) in connection with the giving of legal advice; or
+when they are in the possession of a person who is entitled to possession of them, but excluding, in any case, any communications or item held with the intention of furthering a criminal purpose;
+premises (房產) includes any place and, in particular, includes—
+(a) any vehicle, vessel, aircraft, hovercraft or offshore structure; and
+(b) any tent or movable structure.
+[cf. 1986 c. 32 s. 29 U.K.]
+23. Disclosure of information held by public bodies
+(1) Subject to subsection (4), the Court of First Instance may, on an application by the prosecutor, order any material mentioned in subsection (3) which is in the possession of a public body to be produced to the Court of First Instance within such period as the Court of First Instance may specify.
+(2) The power to make an order under subsection (1) is exercisable if—
+(a) the powers conferred on the Court of First Instance by sections 10(1) and 11(1) are exercisable by virtue of section 9(1); or
+(b) those powers are exercisable by virtue of section 9(2) and the Court of First Instance has made a restraint or charging order which has not been discharged,
+but where the power to make an order under subsection (1) is exercisable by virtue only of paragraph (b), section 9(3) shall apply for the purposes of this section as it applies for the purposes of sections 10 and 11.
+(a) has been submitted to an officer of a public body by the defendant or by a person who has at any time held property which was realisable property;
+(b) has been made by an officer of a public body in relation to the defendant or such a person; or
+(c) is correspondence which passed between an officer of a public body and the defendant or such a person,
+and an order under that subsection may require the production of all such material or of a particular description of such material, being material in the possession of the body concerned.
+(4) An order under subsection (1) shall not require the production of any material unless it appears to the Court of First Instance that the material is likely to contain information that would facilitate the exercise of the powers conferred on the Court of First Instance by sections 10 to 12 or on a receiver appointed under section 10 or 12 or in pursuance of a charging order.
+(5) The Court of First Instance may by order authorize the disclosure to such a receiver of any material produced under subsection (1) or any part of such material; but the Court of First Instance shall not make an order under this subsection unless a reasonable opportunity has been given for an officer of the public body to make representations to the Court of First Instance.
+(6) Material disclosed in pursuance of an order under subsection (5) may, subject to any conditions contained in the order, be further disclosed for the purposes of the functions under this Ordinance of the receiver or the Court of First Instance.
+(7) The Court of First Instance may by order authorize the disclosure to an authorized officer of any material produced
+(a) a reasonable opportunity has been given for an officer of the public body to make representations to the Court of First Instance; and
+(b) it appears to the Court of First Instance that the material is likely to be of substantial value in exercising functions relating to drug trafficking.
+(8) Material disclosed in pursuance of an order under subsection (7) may, subject to any conditions contained in the order, be further disclosed for the purposes of functions relating to drug trafficking.
+(9) Material may be produced or disclosed in pursuance of this section notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by statute or otherwise.
+(10) An order under subsection (1) and, in the case of material in the possession of a public body, an order under section 20(2) may require any officer of the public body (whether named in the order or not) who may for the time being be in possession of the material concerned to comply with it, and such an order shall be served as if the proceedings were civil proceedings against the Government. (Amended 15 of 1999 s. 3)
+(11) In this section public body (公共機構) means—
+(a) any Government department; and
+(b) any body specified by the Chief Executive under subsection (12). (Amended 15 of 1999 s. 3)
+(Amended 25 of 1998 s. 2)
+[cf. 1986 c. 32 s. 30 U.K.]
+24. Offence of prejudicing investigation
+(1) Where, in relation to an investigation into drug trafficking, an order under section 20 has been made or has been applied for and has not been refused or a warrant under section 21 has been issued, a person who, knowing or suspecting that the investigation is taking place, makes any disclosure which is likely to prejudice the investigation commits an offence.
+(2) In proceedings against a person for an offence under this section, it is a defence to prove—
+(a) that he did not know or suspect that the disclosure was likely to prejudice the investigation; or
+(b) that he had lawful authority or reasonable excuse for making the disclosure.
+(3) A person who commits an offence under this section is liable—
+(a) on conviction upon indictment to a fine of $500,000 and to imprisonment for 3 years; or
+[cf. 1986 c. 32 s. 31 U.K]
+Part IVA
+Detention of Certain Seized Property
+(Part IVA added 89 of 1995 s. 19)
+24A. Interpretation
+In this Part, unless the context otherwise requires—
+court (法院) means the Court of First Instance and the District
+Court; (Amended 25 of 1998 s. 2)
+exported (輸出), in relation to any property, includes the property
+being brought to any place in Hong Kong for the purpose of being exported;
+seized property (經扣押的財產) means any property seized under
+section 52 of the Dangerous Drugs Ordinance (Cap. 134) on the ground that it is suspected to be specified property;
+specified property (指明財產) means any property specified in
+Schedule 4—
+(a) being imported into or exported from Hong Kong; and
+(b) which—
+(i) in whole or in part directly or indirectly represents any person’s proceeds of drug trafficking;
+(ii) has been used in drug trafficking; or
+(iii) is intended for use in drug trafficking;
+working day (工作日) means any day other than a public holiday
+or a gale warning day within the meaning of the Judicial Proceedings (Adjournment During Gale Warnings) Ordinance (Cap. 62).
+24B. Seized property may be detained
+24C. Period for which seized property may be detained
+(1) Seized property shall not be detained for a period of more than 10 working days in the case of such property being imported into Hong Kong, or 7 working days in the case of such property being exported from Hong Kong, unless, before the expiration of that period, the continued detention of such property is authorized by an order under subsection (2).
+(2) A court may, upon application made to it by an authorized officer, by order authorize the continued detention of seized property where it is satisfied that—
+(a) there are reasonable grounds for suspecting that such property is specified property; and
+(b) such detention of such property is justified while its origin or derivation is further investigated or consideration is given to the institution (whether in Hong Kong or elsewhere) of proceedings—
+(i) against any person in relation to an offence with which such property is connected; or
+(ii) which may result in the forfeiture or other confiscation of such property.
+(3) An order under subsection (2) shall authorize the continued detention of the seized property to which it relates for such period, not exceeding 3 months beginning with the date of the order, as is specified in the order and a court, upon application made to it by an authorized officer and if satisfied as to the matters referred to in subsection (2)(a) and (b), may thereafter from time to time by order authorize the further detention of such property but so that—
+(b) the total period of detention shall not exceed 2 years from the date of the order under subsection (2).
+(4) At any time while seized property is being detained by an order under subsection (2) or (3) a court may direct its release if satisfied—
+(a) on an application made by—
+(i) the person from whom it was seized;
+(ii) a person by or on whose behalf it was being imported or exported; or
+(iii) a person who otherwise has an interest in it,
+that there are no, or are no longer, any such grounds for its detention as are referred to in subsection (2); or
+(b) on an application made by an authorized officer, that its detention is no longer justified.
+(5) If, at any time when any seized property is being detained by virtue of an order under subsection (2) or (3), proceedings are instituted (whether in Hong Kong or elsewhere)—
+(a) against any person in relation to an offence with which such property is connected; or
+(b) which may result in the forfeiture or other confiscation of such property,
+such property shall not be released until such proceedings have been concluded.
+(6) The Legislative Council may, by resolution, amend subsection (1) by substituting another period for any period specified therein.
+24D. Forfeiture
+(1) While any seized property is detained under section 24C(2) or (3), a court may, if satisfied on an application made by or on behalf of the Secretary for Justice that such property— (Amended L.N. 362 of 1997)
+(a) in whole or in part directly or indirectly represents any person’s proceeds of drug trafficking;
+(b) has been used in drug trafficking; or
+(c) is intended for use in drug trafficking,
+order, subject to subsection (2), the forfeiture of such property.
+(2) Where a court proposes to make an order under subsection (1) in respect of any seized property where paragraph (a) of that subsection is applicable, the court shall specify in the order so much, if any, of such property in respect of which the court is not satisfied that it directly or indirectly represents any person’s proceeds of drug trafficking.
+(3) An order may be made under this section whether or not proceedings are brought against any person for an offence with which the seized property concerned is connected.
+(4) The standard of proof on an application under this section shall be on the balance of probabilities.
+24E. Interest
+Seized property which is money and which is detained in pursuance of an order under section 24C(2) or (3) shall, unless required as evidence of an offence, be held in an interest-bearing account and the interest accruing thereon shall be added to such property on its forfeiture or release.
+24F. Procedure
+(1) An order under section 24C(2) shall provide for notice to be given to persons affected by the order.
+(2) Provision may be made by rules of court—
+(a) with respect to applications to any court under this Part;
+(b) with respect to the division, conversion or disposal of seized property for the purposes of satisfying an order under section 24D(1) to which it is subject where—
+(i) section 24D(2) is applicable; and
+(ii) such property is not readily divisible for those purposes;
+(c) generally with respect to the procedure under this Part before any court.
+(3) Subsection (2) is without prejudice to the generality of any existing power to make rules.
+Part V
+Prohibited Acts in relation to Proceeds of Drug
+Trafficking
+(Replaced 89 of 1995 s. 20)
+25. Dealing with property known or believed to represent proceeds of drug trafficking
+(1) Subject to section 25A, a person commits an offence if, knowing or having reasonable grounds to believe that any property in whole or in part directly or indirectly represents any person’s proceeds of drug trafficking, he deals with that property.
+(2) In proceedings against a person for an offence under subsection (1), it is a defence to prove that—
+(a) he intended to disclose to an authorized officer such knowledge, suspicion or matter as is mentioned in section 25A(1) in relation to the act in contravention of subsection (1) concerned; and
+(b) there is reasonable excuse for his failure to make disclosure in accordance with section 25A(2).
+(3) A person who commits an offence under subsection (1) is liable—
+(a) on conviction upon indictment to a fine of $5,000,000 and to imprisonment for 14 years; or
+(b) on summary conviction to a fine of $500,000 and to imprisonment for 3 years.
+(Replaced 89 of 1995 s. 21)
+25A. Disclosure of knowledge or suspicion that property represents proceeds, etc. of drug trafficking
+(1) Where a person knows or suspects that any property—
+(a) in whole or in part directly or indirectly represents any person’s proceeds of;
+(b) was used in connection with; or
+(c) is intended to be used in connection with,
+drug trafficking, he shall as soon as it is reasonable for him to do so disclose that knowledge or suspicion, together with any matter on which that knowledge or suspicion is based, to an authorized officer.
+(2) If a person who has made a disclosure referred to in subsection (1) does any act in contravention of section 25(1) (whether before or after such disclosure), and the disclosure relates to that act, he does not commit an offence under that section if—
+(a) that disclosure is made before he does that act and he does that act with the consent of an authorized officer; or
+(b) that disclosure is made—
+(i) after he does that act;
+(ii) on his initiative; and
+(iii) as soon as it is reasonable for him to make it.
+(3) A disclosure referred to in subsection (1)—
+(a) shall not be treated as a breach of any restriction upon the disclosure of information imposed by contract or by any enactment, rule of conduct or other provision;
+(i) the disclosure;
+(ii) any act done or omitted to be done in relation to the property concerned in consequence of the disclosure.
+(4) In the case of a person who was in employment at the relevant time, this section shall have effect in relation to disclosures to the appropriate person in accordance with the procedure established by his employer for the making of such disclosures as it has effect in relation to disclosures to an authorized officer.
+(5) A person commits an offence if, knowing or suspecting that a disclosure has been made under subsection (1) or (4), he discloses to any other person any matter which is likely to prejudice any investigation which might be conducted following that first-mentioned disclosure.
+(6) In proceedings against a person for an offence under subsection (5), it is a defence to prove—
+(a) that he did not know or suspect that the disclosure concerned was likely to be prejudicial in the way referred to in that subsection; or
+(b) that he had lawful authority or reasonable excuse for making that disclosure.
+(7) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine at level 5 and to imprisonment for 3 months.
+(8) A person who commits an offence under subsection (5) is liable—
+(a) on conviction upon indictment to a fine of $500,000 and to imprisonment for 3 years; or
+(9) Information obtained under or by virtue of a disclosure referred to in subsection (1) may be disclosed—
+(a) by any authorized officer to the Department of Justice, the Hong Kong Police Force, the Customs and Excise Department, the Immigration Department, and the Independent Commission Against Corruption, for the purpose of combating drug trafficking; and
+(b) by any authorized officer to the authorities or persons responsible for investigating or preventing drug trafficking, or handling the disclosure of knowledge or suspicion on property relating to drug trafficking, of any place outside Hong Kong which the authorized officer thinks fit, for the purpose of combating drug trafficking. (Added 21 of 2004 s. 24)
+(10) Subsection (9) is without prejudice to any other right to disclose information obtained under or by virtue of a disclosure referred to in subsection (1) that may exist apart from subsection (9). (Added 21 of 2004 s. 24)
+(Added 89 of 1995 s. 21)
+26. Restriction on revealing disclosure under section 25A
+(1) Subject to subsection (2), no witness in any civil or criminal proceedings shall be obliged—
+(a) to reveal that a disclosure was made under section 25A(1) or (4); (Amended 89 of 1995 s. 22)
+(b) to reveal the identity of any person as the person making the disclosure; or
+(2) Subsection (1) shall not apply in any proceedings—
+(a) for an offence under section 25 or 25A or this section; or (Amended 89 of 1995 s. 22)
+(b) where the court is of the opinion that justice cannot fully be done between the parties without revealing the disclosure or the identity of any person as the person making the disclosure.
+(3) Subject to subsections (4), (5) and (6), no person shall publish or broadcast any information so as to reveal or suggest—
+(a) that a disclosure was made under section 25A(1) or (4); or (Amended 89 of 1995 s. 22)
+(b) the identity of any person as the person making the disclosure.
+(4) In subsection (3) information (資料)—
+(a) includes a report of any civil or criminal proceedings;
+(b) does not include information published for statistical purposes by, or under the authority of, the Government.
+(5) Subsection (3) shall not apply in respect of proceedings—
+(a) against the person making the disclosure for an offence under section 25 or 25A; or (Amended 89 of 1995 s. 22)
+(b) for an offence under this section.
+(6) The court or a magistrate may, if satisfied that it is in the interests of justice to do so, by order dispense with the requirements of subsection (3) to such extent as may be specified in the order.
+(7) If information is published or broadcast in contravention of subsection (3), each of the following persons—
+(b) in the case of a publication otherwise than as part of a newspaper or periodical publication, any person who publishes it and any person who distributes it;
+(c) in the case of a broadcast, any person who broadcasts the information and, if the information is contained in a programme, any person who transmits or provides the programme and any person having functions in relation to the programme corresponding to those of the editor of a newspaper or periodical publication,
+commits an offence and is liable on conviction to a fine at level 5 and to imprisonment for 6 months. (Amended E.R. 4 of 2019)
+(8) Proceedings for an offence under this section shall not be instituted except with the consent of the Secretary for Justice. (Amended L.N. 362 of 1997)
+(9) In this section—
+broadcast (廣播) includes broadcast by radio, film, videotape or
+television;
+publish (出版) means publish in writing.
+Part VI
+Miscellaneous
+(Added 89 of 1995 s. 23)
+27. Compensation
+(1) If an investigation is begun against a person for a drug trafficking offence or offences and any of the following circumstances occur, namely—
+(a) no proceedings are instituted against that person;
+(b) proceedings are instituted against that person but do not result in his conviction for any drug trafficking offence (including any proceedings referred to in section 3(1)(a)(ii) where no confiscation order is made against that person); (Amended 89 of 1995 s. 24)
+(ba) that person absconds after proceedings are instituted against him and subsequently—
+(i) he ceases to be an absconder; and
+(ii) either—
+(A) those proceedings are continued or reinstituted but do not result in his conviction for any drug trafficking offence; or
+(B) those proceedings are not continued or reinstituted within a reasonable period after it is known to the Secretary for Justice that he has ceased to be an absconder; or (Added 89 of 1995 s. 24. Amended L.N. 362 of 1997)
+(i) the conviction or convictions concerned are quashed; or
+(ii) he is granted a pardon in respect of the conviction or convictions concerned,
+the Court of First Instance may, on application by a person who held property which was realisable property (or, in the case of such a person who has died, his personal representative on his behalf), order compensation to be paid by the Government to the applicant if, having regard to all the circumstances, it considers it appropriate to make such an order. (Amended 89 of 1995 s. 24)
+(2) The Court of First Instance shall not order compensation to be paid under subsection (1) unless it is satisfied—
+(a) subject to subsection (3A), that there has been some serious default on the part of any person concerned in the investigation or prosecution of the offence or offences concerned; and (Amended 89 of 1995 s. 24)
+(b) that the applicant has suffered loss in consequence of anything done in relation to the property by or in pursuance of an order of the Court of First Instance under sections 10 to 12.
+(3) Subject to subsection (3A), the Court of First Instance shall not order compensation to be paid under subsection (1) in any case where it appears to the Court of First Instance that the investigation would have been continued, or the proceedings would have been instituted or continued, as the case may be, if the serious default had not occurred. (Amended 89 of 1995 s. 24)
+(4) Without prejudice to subsection (1), where—
+(a) a disclosure is made by any person in accordance with section 25A(2) in relation to any property; (Amended 89 of 1995 s. 24)
+(b) in consequence of the disclosure and for the purposes of an investigation or prosecution in respect of a drug trafficking offence or offences any act is done or omitted to be done in relation to that property; and
+(c) no proceedings are instituted against any person in respect of that offence or offences or no order is made by the Court of First Instance under section 10 or 11 in relation to that property,
+the Court of First Instance may, on application by a person who held the property, order compensation to be paid by the Government to the applicant if, having regard to all the circumstances, it considers it appropriate to make such an order.
+(5) The Court of First Instance shall not order compensation to be paid under section (4) unless it is satisfied—
+(a) that there has been some serious default on the part of any person concerned in the investigation or prosecution of the offence or offences concerned and that, but for that default, the act or omission referred to in subsection (4)(b) would not have occurred; and
+(b) the applicant has, in consequence of the act or omission referred to in subsection (4)(b), suffered loss in relation to the property.
+(a) any property is seized under section 52 of the Dangerous Drugs Ordinance (Cap. 134) on the ground that it is suspected to be specified property within the meaning of Part IVA; and
+(b) subsequently, none of the following events occurs—
+(i) the property is forfeited under section 24D;
+(ii) proceedings are instituted (whether in Hong Kong or elsewhere)—
+(A) against any person in relation to an offence with which the property is connected; or
+(B) which may result in the forfeiture or other confiscation of the property,
+the Court of First Instance may, on application by a person who held the property, order compensation to be paid by the Government to the applicant if, having regard to all the circumstances, it considers it appropriate to make such an order. (Added 89 of 1995 s. 24)
+(5B) The Court of First Instance shall not order compensation to be paid under subsection (5A) unless it is satisfied that—
+(a) there has been some serious default on the part of any person concerned with the seizure or detention of the property concerned; and
+(b) the applicant has, in consequence of such seizure or detention, suffered loss in relation to the property. (Added 89 of 1995 s. 24)
+(6) The amount of compensation to be paid under this section shall be such as the Court of First Instance thinks just in all the circumstances of the case.
+(Amended 25 of 1998 s. 2)
+28. Enforcement of external confiscation orders
+(1) The Chief Executive in Council may, with the approval of the Legislative Council, by order— (Amended 15 of 1999 s. 3)
+(a) direct in relation to a country, territory or place outside Hong Kong designated by the order (a designated country) that this Ordinance as modified in the order shall apply to external confiscation orders and to proceedings which have been or are to be instituted in the designated country and may result in an external confiscation order being made there; (Amended 15 of 1999 s. 3, 26 of 2002 s. 2)
+(b) make—
+(i) such provision in connection with the taking of action in the designated country with a view to satisfying a confiscation order; and
+(ii) such provision as to evidence or proof of any matter for the purposes of this section and section 29; and
+(iii) such incidental, consequential and transitional provision,
+as appears to him to be expedient; and
+(c) without prejudice to the generality of this subsection, direct that in such circumstances as may be specified proceeds arising out of action taken in the designated country with a view to satisfying a confiscation order and which are retained there shall nevertheless be treated as reducing the amount payable under the order to such extent as may be specified.
+(3) The power to make an order under this section includes power to modify this Ordinance in such a way as to confer power on a person to exercise a discretion.
+(3A) An order under this section shall not operate, or be construed, to prevent a designated country from making a request under the Mutual Legal Assistance in Criminal Matters Ordinance (Cap. 525), including a request under section 27 of that Ordinance. (Added 87 of 1997 s. 36)
+(4) In this section and section 29—
+external confiscation order (外地沒收令) means an order made by
+a court in a designated country for the purpose of—
+(a) recovering (including forfeiting and confiscating)—
+(i) payments or other rewards received in connection with drug trafficking or their value;
+(ii) property derived or realised, directly or indirectly, from payments or other rewards received in connection with drug trafficking or the value of such property; or
+(iii) property used or intended to be used in connection with drug trafficking or the value of such property; or
+(b) depriving a person of a pecuniary advantage obtained in connection with drug trafficking,
+and whether the proceedings which gave rise to that order are criminal or civil in nature, and whether those proceedings are in the form of proceedings against a person or property; (Replaced 87 of 1997 s. 36)
+modifications (修改) includes additions, alterations and omissions.
+29. Registration of external confiscation orders
+(1) On an application made by or on behalf of the government of a designated country, the Court of First Instance may register an external confiscation order made there if—
+(a) it is satisfied that at the time of registration the order is in force and not subject to appeal;
+(b) it is satisfied, where any person against whom, or in relation to whose property, the order is made does not appear in the proceedings, that he received notice of the proceedings, in accordance with the law of the designated country, in sufficient time to enable him to defend them; and (Replaced 89 of 1995 s. 26)
+(c) it is of the opinion that enforcing the order in Hong Kong would not be contrary to the interests of justice.
+(2) In subsection (1) appeal (上訴) includes—
+(a) any proceedings by way of discharging or setting aside a judgment; and
+(b) an application for a new trial or a stay of execution.
+(3) The Court of First Instance shall cancel the registration of an external confiscation order if it appears to the Court of First Instance that the order has been satisfied by payment of the amount due under it or by the person against whom it was made serving imprisonment in default of payment or by any other means.
+(Amended 25 of 1998 s. 2)
+[cf. 1986 c. 32 s. 26A U.K.]
+30. Evidence of corresponding law
+Section 43 of the Dangerous Drugs Ordinance (Cap. 134) shall
+31. Amendment of Schedules
+(1) The Chief Executive in Council may, by order, amend Schedule 1, 2 or 3. (Amended 15 of 1999 s. 3)
+(2) The Legislative Council may, by resolution, amend Schedule 4.
+(Replaced 89 of 1995 s. 27)
+Schedule 1
+[ss. 2 & 3] (Replaced 26 of 2002 s. 2)
+Drug Trafficking Offences
+Offence Description*
+section 4(1), Dangerous Drugs
+Ordinance (Cap. 134)
+trafficking in a dangerous drug
+section 4A, Dangerous Drugs
+Ordinance (Cap. 134)
+trafficking in purported dangerous
+drug
+section 5(1), Dangerous Drugs
+Ordinance (Cap. 134)
+supplying or procuring a dangerous
+drug to or for unauthorized persons
+section 6(1), Dangerous Drugs
+Ordinance (Cap. 134)
+manufacturing a dangerous drug
+section 9(1), (2) and (3),
+Dangerous Drugs Ordinance (Cap. 134)
+cultivating, supplying, procuring,
+dealing in, importing, exporting, or possessing cannabis plant or opium poppy
+section 35, Dangerous Drugs
+Ordinance (Cap. 134)
+keeping or managing a divan for
+the taking of dangerous drugs
+section 37, Dangerous Drugs
+Ordinance (Cap. 134)
+permitting premises to be used for unlawful trafficking, manufacturing or storage of dangerous drugs
+section 40(1)(c), Dangerous Drugs Ordinance (Cap. 134)
+aiding, etc. offence under a corresponding law
+section 25, Drug Trafficking
+(Recovery of Proceeds) Ordinance (Cap. 405)
+dealing with property known or
+believed to represent the proceeds of drug trafficking
+*Note: The short description of offences in this Schedule is for ease of reference only.
+(Amended 52 of 1992 s. 12; 89 of 1995 s. 28)
+Schedule 2
+[s. 11]
+Assets on which a Charging Order may be Imposed
+1. Land in Hong Kong.
+2. Securities of any of the following kinds—
+(a) Government stock;
+(b) stock of any body incorporated in Hong Kong;
+(c) stock of any body incorporated outside Hong Kong or of any state or territory outside Hong Kong, being stock registered in a register kept at any place within Hong Kong;
+(d) units of any unit trust in respect of which a register of the unit holders is kept at any place within Hong Kong.
+3. In this Schedule—
+(a) the terms Government stock (政府證券) and land (土地) have the same meaning as in section 2 of the High Court Ordinance (Cap. 4); (Amended 25 of 1998 s. 2)
+(b) the terms stock (股份) and unit trust (單位信託基金) have the same meaning as in section 20A of that Ordinance.
+Schedule 3
+[ss. 8(8) & 31]
+Certificate of Sentence in respect of Term of Imprisonment Fixed under Section 8 of the Drug
+Trafficking (Recovery of Proceeds) Ordinance
+(Cap. 405)
+(Schedule 3 added 89 of 1995 s. 29)
+To the Commissioner of Correctional Services.
+Whereas the Court of First Instance/District Court*—
+(a) on the ........... day of .................... 19 ....... —
+(i) sentenced ..........................(name of defendant) in respect of the drug trafficking offence/offences*, within the meaning of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405), of ................................................... ............................................................................................. ............................................................................................. (particulars of offence/offences*); and *(ii) imposed a period of imprisonment/detention* of .................. months/years* in respect of that offence/those offences*; and (b) on the ....... day of ................. 19 ..... made a confiscation order under section 3(6)(a) of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) that that defendant pay the amount of $ .................... :
+This is to certify that on the ........ day of ................. 19 ....... the Court of First Instance/District Court* made an order under section 8 of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap. 405) fixing a term of imprisonment of ......... months/years* which that person is to serve if any of the amount to be paid under that confiscation order is not paid or recovered on or before the ............. day of ................. 19 .....
+Dated this ....... day of ................. 19 ......
+...........................................................
+Registrar of the High Court/District Court*.
+* Delete where inapplicable.
+Note: Section 8(4) of the Drug Trafficking (Recovery of Proceeds)
+Ordinance (Cap. 405) provides that where a person becomes liable to serve a term of imprisonment fixed under section 8 of that Ordinance in respect of a confiscation order and is also liable to serve a term of imprisonment (or detention) in respect of the drug trafficking offence or offences concerned, that first-mentioned term of imprisonment shall not begin to run until after the end of that second-mentioned term of imprisonment (or detention).
+(Amended 25 of 1998 s. 2)
+Schedule 4
+[ss. 24A & 31]
+Specified Property
+(Schedule 4 added 89 of 1995 s. 29)
+1. Money (which term shall include coins and notes in any currency) amounting to not less than $125,000.

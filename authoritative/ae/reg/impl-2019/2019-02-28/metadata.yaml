@@ -1,0 +1,61 @@
+corpus_id: ae/reg/impl-2019
+version_id: '2019-02-28'
+title: Cabinet Decision No. 10 of 2019 Concerning the Implementing Regulation of Federal Decree-Law No.
+  20 of 2018 on Anti-Money Laundering, Combating the Financing of Terrorism and Financing of Illegal Organizations
+short_title: AML/CFT Implementing Regulation 2019
+jurisdiction: ARE
+document_type: Cabinet Decision
+legal_status: binding
+redistribution: restricted
+official_citation: Cabinet Decision No. 10 of 2019 Concerning the Implementing Regulation of Federal Decree-Law
+  No. 20 of 2018 on Anti-Money Laundering, Combating the Financing of Terrorism and Financing of Illegal
+  Organizations (UAE Official Gazette)
+authentic_languages:
+- ar
+adoption_date: '2019-02-28'
+source_url: https://uaelegislation.gov.ae/en/legislations/1015
+source_publisher: UAE Legislation portal (Ministry of Cabinet Affairs)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:8fb3ab7cc647b7b7b0d7f84fa547384fcb670a3a4123edc4e65e60d49ebb6c51
+original_sha256: sha256:1ecc957944c1d7edb0a4f79cffad627df59fab0c75eed6fd9c76cf1455be8b6b
+text_sha256: sha256:8fb3ab7cc647b7b7b0d7f84fa547384fcb670a3a4123edc4e65e60d49ebb6c51
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_translation
+license: UAE Government source — all rights reserved; captured with attribution for a neutral reference
+  corpus
+rights_note: Captured from the UAE Legislation portal (uaelegislation.gov.ae), Ministry of Cabinet Affairs.
+  Only the Arabic text is authentic; every English page states that for interpretation reference must
+  be made to the original Arabic, which prevails. The stored text is therefore the official ENGLISH TRANSLATION
+  (captured because the Arabic PDF does not extract to faithful text with available tools — see methodology);
+  the authentic Arabic PDF is preserved in this record (authentic_source) for future faithful extraction.
+  Government source, all rights reserved.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://uaelegislation.gov.ae/en/legislations/1015
+  original_sha256: sha256:1ecc957944c1d7edb0a4f79cffad627df59fab0c75eed6fd9c76cf1455be8b6b
+  note: Official portal English-translation PDF; authentic Arabic preserved as authentic_source.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: The UAE's executive/implementing regulation carrying the operative CDD, record-keeping
+  and reporting detail; remains operative transitionally under the 2025 law until new executive regulations
+  issue. Stored as the official English translation.
+verification:
+  status: verified_by_independent_extraction
+  method: 'Cross-engine token coverage: poppler pdftotext (stored) vs PyMuPDF (independent) — both read
+    the Latin-script English translation faithfully.'
+  independent_engine: PyMuPDF vs poppler pdftotext (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9995
+    bigram_forward: 0.9914
+    unigram_reverse: null
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: Verification is of the stored English translation. The authentic Arabic (authentic_source) is
+    preserved but not text-verified; only poppler reads Arabic at all and its output has RTL ordering
+    artifacts, so cross-engine verification is not available for the Arabic.

@@ -1,0 +1,56 @@
+corpus_id: jp/act/aptcp
+version_id: '2026-07-10'
+title: Act on Prevention of Transfer of Criminal Proceeds (犯罪による収益の移転防止に関する法律)
+short_title: APTCP (犯収法)
+jurisdiction: JPN
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Act on Prevention of Transfer of Criminal Proceeds, Act No. 22 of 2007 (e-Gov consolidated
+  Japanese text)
+authentic_languages:
+- ja
+source_url: https://laws.e-gov.go.jp/law/419AC0000000022
+source_publisher: e-Gov Law Search (Digital Agency, Government of Japan)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:ba9ab012d5bee1a93778dc4ab41a4d5e79b353dba1113491f00931422d1adee5
+original_sha256: sha256:c88d9d4f6642f340d8b9874941adf301d3d6c8feb975931024b2cd4beee6470c
+text_sha256: sha256:ba9ab012d5bee1a93778dc4ab41a4d5e79b353dba1113491f00931422d1adee5
+text_fidelity: extracted_verified
+language: ja
+authoritative_status: official_consolidation
+license: Government of Japan Standard Terms of Use v2.0 (CC BY 4.0 compatible)
+rights_note: 'Captured from e-Gov Law Search (laws.e-gov.go.jp), Digital Agency, Government of Japan —
+  the authoritative consolidated Japanese text, published under the Government of Japan Standard Terms
+  of Use v2.0 (compatible with CC BY 4.0: free reuse with attribution). Only the Japanese text is authentic;
+  the Ministry of Justice''s Japanese Law Translation database publishes unofficial English translations
+  ''for reference only'' which lag the enacted Japanese — a JLT English URL is recorded in provenance
+  where one exists.'
+capture_history:
+- date: '2026-07-10'
+  source_url: https://laws.e-gov.go.jp/
+  original_sha256: sha256:c88d9d4f6642f340d8b9874941adf301d3d6c8feb975931024b2cd4beee6470c
+  note: Official e-Gov consolidated Japanese PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: 'Japan''s administrative AML regime: customer due diligence, suspicious-transaction reporting
+  and record-keeping (administered by JAFIC/NPA). Authentic Japanese; no official English translation
+  exists for this Act.'
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 1.0
+    bigram_forward: 1.0
+    unigram_reverse: 1.0
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: CJK text (no inter-word spaces); token coverage is computed over whitespace-delimited runs and
+    here both engines agree exactly. Reverse below 1.0 reflects only extraction-order/segment differences,
+    not missing text.
