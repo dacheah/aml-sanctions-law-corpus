@@ -45,11 +45,13 @@
     "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
-    "tipping_off"
+    "tipping_off",
+    "virtual_assets"
   ],
   "tags": [
     {
@@ -67,6 +69,7 @@
         "funds_transfer_reporting",
         "enrolment_registration",
         "politically_exposed_persons",
+        "virtual_assets",
         "asset_freezing",
         "proliferation_financing",
         "enforcement_and_offences",
@@ -100,6 +103,7 @@
       "unit": "reg.7 —(1)  Subject to paragraph (2), the following bodies are supervisory authorities in relation to",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
         "supervisory_architecture",
         "definitions_and_interpretation"
       ]
@@ -139,7 +143,14 @@
     {
       "unit": "reg.14 —(1)  In these Regulations—",
       "concepts": [
-        "threshold_transaction_reporting"
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ]
+    },
+    {
+      "unit": "reg.14A —(1)  In these Regulations, “cryptoasset exchange provider” means a firm or sole",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
@@ -168,6 +179,7 @@
       "unit": "reg.16A —(1)  The Treasury must make arrangements for a risk assessment to be undertaken to",
       "concepts": [
         "risk_based_approach",
+        "sanctions_prohibitions",
         "proliferation_financing",
         "supervisory_architecture",
         "definitions_and_interpretation"
@@ -534,6 +546,7 @@
     {
       "unit": "reg.52A —(1)  No person working for a relevant supervisory authority, or acting on behalf of a",
       "concepts": [
+        "virtual_assets",
         "proliferation_financing",
         "enforcement_and_offences",
         "supervisory_architecture"
@@ -562,6 +575,7 @@
       "unit": "reg.54 —(1)  The FCA must maintain a register of those relevant persons who—",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
@@ -575,19 +589,22 @@
     {
       "unit": "reg.56 —(1)  Unless a person in respect of whom the registering authorities are required to maintain",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
       "unit": "reg.56A —(1)  Regulation 56 does not apply to an existing cryptoasset exchange provider or existing",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
       "unit": "reg.56B —(1)  An authorised cryptoasset firm or specified investment cryptoasset firm must, before",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
@@ -606,6 +623,7 @@
       "concepts": [
         "beneficial_ownership",
         "enrolment_registration",
+        "virtual_assets",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -615,6 +633,7 @@
       "concepts": [
         "beneficial_ownership",
         "enrolment_registration",
+        "virtual_assets",
         "enforcement_and_offences"
       ]
     },
@@ -622,6 +641,7 @@
       "unit": "reg.59 —(1)  Subject to regulation 58 [F380and regulation 58A], the registering authority may refuse",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
@@ -629,19 +649,22 @@
       "unit": "reg.60 —(1)  If paragraph (2) applies, the registering authority may suspend (for such period as it",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
     {
       "unit": "reg.60A —(1)  Paragraph (2) applies where—",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
       "unit": "reg.60B Schedule 6B applies to an acquisition of or increase in control over a registered cryptoasset",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
@@ -675,6 +698,7 @@
       "unit": "reg.64 —F398(1)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
       "concepts": [
         "funds_transfer_reporting",
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
@@ -683,13 +707,22 @@
       "concepts": [
         "amlctf_program",
         "funds_transfer_reporting",
+        "virtual_assets",
         "definitions_and_interpretation"
+      ]
+    },
+    {
+      "unit": "reg.64B In this Part—",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
       "unit": "reg.64C —(1)  In respect of an inter-cryptoasset business transfer, the cryptoasset business of the",
       "concepts": [
-        "enrolment_registration"
+        "customer_due_diligence",
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
@@ -697,6 +730,7 @@
       "concepts": [
         "customer_due_diligence",
         "risk_based_approach",
+        "virtual_assets",
         "proliferation_financing"
       ]
     },
@@ -704,18 +738,27 @@
       "unit": "reg.64E —(1)  When an intermediary cryptoasset business receives a cryptoasset as part of an inter-",
       "concepts": [
         "risk_based_approach",
-        "record_keeping"
+        "record_keeping",
+        "virtual_assets"
+      ]
+    },
+    {
+      "unit": "reg.64F An intermediary cryptoasset business must—",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
       "unit": "reg.64G —(1)  A cryptoasset business involved in an unhosted wallet transfer may request from its",
       "concepts": [
-        "risk_based_approach"
+        "risk_based_approach",
+        "virtual_assets"
       ]
     },
     {
       "unit": "reg.64H A cryptoasset business must respond fully and without delay to a request in writing from",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
@@ -779,19 +822,28 @@
     {
       "unit": "reg.74 —(1)  A relevant officer (“R”) may only exercise powers under this Part pursuant to",
       "concepts": [
-        "tipping_off"
+        "tipping_off",
+        "virtual_assets"
       ]
     },
     {
       "unit": "reg.74A —(1)  Each cryptoasset exchange provider and custodian wallet provider (“cryptoasset",
       "concepts": [
+        "virtual_assets",
         "supervisory_architecture"
+      ]
+    },
+    {
+      "unit": "reg.74B —(1)  This regulation applies where the FCA reasonably considers that a report by a skilled",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
       "unit": "reg.74C —(1)  The FCA may [F414exercise its powers of direction under paragraph (5) or (6) in writing",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
         "proliferation_financing"
       ]
     },
@@ -814,7 +866,8 @@
         "risk_based_approach",
         "funds_transfer_reporting",
         "record_keeping",
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
@@ -1416,13 +1469,21 @@
     {
       "unit": "Sch. para 10 The requirements specified in this paragraph are those imposed in—",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
       "unit": "Sch. para 11 The requirements specified in this paragraph are those imposed in regulation 64(2)",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "virtual_assets"
+      ]
+    },
+    {
+      "unit": "Sch. para 12 The requirements specified in this paragraph are those imposed under—",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
@@ -1445,9 +1506,21 @@
       ]
     },
     {
+      "unit": "Sch. para 5 Where an external request is received and the NCA does not possess information which the",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "Sch. para 7 Where the NCA has provided relevant information to a foreign FIU, and that foreign FIU",
       "concepts": [
         "supervisory_architecture"
+      ]
+    },
+    {
+      "unit": "Sch. para 8 Where the NCA provides relevant information in response to an external request in accordance",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
@@ -1459,13 +1532,15 @@
     {
       "unit": "Sch. para 16 Where the NCA receives information from a foreign FIU, the NCA must—",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
       "unit": "Sch. para 1 Part 12 of FSMA (control over authorised persons) applies, with the modifications specified in",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
@@ -1473,6 +1548,7 @@
       "concepts": [
         "beneficial_ownership",
         "enrolment_registration",
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
@@ -1481,6 +1557,7 @@
       "concepts": [
         "beneficial_ownership",
         "enrolment_registration",
+        "virtual_assets",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
@@ -1488,13 +1565,15 @@
     {
       "unit": "Sch. para 3 Part 12 of FSMA (control over authorised persons) applies, with the modifications specified",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {
       "unit": "Sch. para 4 The modifications specified in this paragraph are—",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
@@ -1502,7 +1581,8 @@
     {
       "unit": "Sch. para 5 In this Schedule—",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ]
     },
     {

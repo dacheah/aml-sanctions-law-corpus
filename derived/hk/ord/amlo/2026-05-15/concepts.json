@@ -1055,12 +1055,14 @@
     {
       "unit": "12. Special requirements for wire transfers",
       "concepts": [
+        "customer_due_diligence",
         "funds_transfer_reporting"
       ]
     },
     {
       "unit": "13A. Special requirements for virtual asset transfer",
       "concepts": [
+        "customer_due_diligence",
         "virtual_assets"
       ]
     },

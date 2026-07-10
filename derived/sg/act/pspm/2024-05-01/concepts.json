@@ -40,6 +40,7 @@
     "enrolment_registration",
     "proliferation_financing",
     "record_keeping",
+    "sanctions_prohibitions",
     "supervisory_architecture",
     "suspicious_matter_reporting"
   ],
@@ -98,7 +99,8 @@
       "unit": "12.—(1) Any registered dealer or former registered dealer who fails to pay any financial penalty imposed on the person b",
       "concepts": [
         "amlctf_program",
-        "enrolment_registration"
+        "enrolment_registration",
+        "enforcement_and_offences"
       ]
     },
     {
@@ -136,6 +138,7 @@
     {
       "unit": "19.—(1) A regulated dealer must, in relation to the regulated dealer’s business of regulated dealing or business as an i",
       "concepts": [
+        "sanctions_prohibitions",
         "proliferation_financing",
         "enforcement_and_offences"
       ]

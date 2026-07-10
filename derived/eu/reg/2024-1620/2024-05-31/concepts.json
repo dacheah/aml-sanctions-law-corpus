@@ -42,7 +42,8 @@
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
-    "threshold_transaction_reporting"
+    "threshold_transaction_reporting",
+    "virtual_assets"
   ],
   "tags": [
     {
@@ -134,6 +135,7 @@
     {
       "unit": "Article 12 Assessment of credit institutions and financial institutions for the purposes of selection",
       "concepts": [
+        "virtual_assets",
         "supervisory_architecture",
         "scope_and_application"
       ]
@@ -144,6 +146,7 @@
         "risk_based_approach",
         "correspondent_banking",
         "politically_exposed_persons",
+        "virtual_assets",
         "scope_and_application"
       ]
     },

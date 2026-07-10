@@ -112,6 +112,12 @@
       ]
     },
     {
+      "unit": "11A. Interest on amounts to be recovered under confiscation orders",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "12. Definition of principal terms used",
       "concepts": [
         "enforcement_and_offences"
@@ -145,13 +151,21 @@
     {
       "unit": "17. Realisation of property",
       "concepts": [
+        "enforcement_and_offences",
         "definitions_and_interpretation"
+      ]
+    },
+    {
+      "unit": "18. Application of proceeds of realisation and other sums",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "19. Exercise of powers by Court of First Instance or receiver",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "enforcement_and_offences"
       ]
     },
     {
@@ -163,6 +177,18 @@
     },
     {
       "unit": "21. Bankruptcy of defendant, etc.",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "22. Winding up of company holding realisable property",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "23. Insolvency officers dealing with property subject to restraint order",
       "concepts": [
         "enforcement_and_offences"
       ]

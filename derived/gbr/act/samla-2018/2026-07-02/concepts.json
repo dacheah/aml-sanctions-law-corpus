@@ -50,6 +50,7 @@
     {
       "unit": "s.1 Power to make sanctions regulations",
       "concepts": [
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions",
         "definitions_and_interpretation"
       ]
@@ -565,6 +566,7 @@
     {
       "unit": "Sch. para 8 (1) Part 8 of the Policing and Crime Act 2017 (financial sanctions) is amended as",
       "concepts": [
+        "sanctions_prohibitions",
         "definitions_and_interpretation"
       ]
     },

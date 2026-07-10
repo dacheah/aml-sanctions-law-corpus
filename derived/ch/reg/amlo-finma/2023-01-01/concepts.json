@@ -30,17 +30,379 @@
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
-    "enrolment_registration",
-    "threshold_transaction_reporting"
+    "amlctf_program",
+    "beneficial_ownership",
+    "correspondent_banking",
+    "customer_due_diligence",
+    "definitions_and_interpretation",
+    "enforcement_and_offences",
+    "funds_transfer_reporting",
+    "record_keeping",
+    "risk_based_approach",
+    "sanctions_prohibitions",
+    "scope_and_application",
+    "supervisory_architecture",
+    "suspicious_matter_reporting",
+    "threshold_transaction_reporting",
+    "virtual_assets"
   ],
   "tags": [
     {
+      "unit": "Art. 1 Gegenstand",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 2 Begriffe",
+      "concepts": [
+        "definitions_and_interpretation"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 3 Geltungsbereich",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 5 Zweigniederlassungen und Gruppengesellschaften im Ausland",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 6 Globale Überwachung der Rechts- und Reputationsrisiken",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 7 Verbotene Vermögenswerte",
+      "concepts": [
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 8 Verbotene Geschäftsbeziehung",
+      "concepts": [
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 9a Abklärungen bei Sitzgesellschaften",
+      "concepts": [
+        "customer_due_diligence",
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 10 Angaben bei Zahlungsaufträgen",
+      "concepts": [
+        "funds_transfer_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12 Vereinfachte Sorgfaltspflichten17",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 13 Geschäftsbeziehungen mit erhöhten Risiken",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 14 Transaktionen mit erhöhten Risiken",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken",
+      "concepts": [
+        "customer_due_diligence",
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 16 Mittel der Abklärungen",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 17 Zeitpunkt der zusätzlichen Abklärungen",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 18 Aufnahme von Geschäftsbeziehungen mit erhöhten Risiken",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 19 Verantwortung des obersten Geschäftsführungsorgans bei erhöhten Risiken",
+      "concepts": [
+        "risk_based_approach",
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 20 Überwachung der Geschäftsbeziehungen und der Transaktionen",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 21 Qualifiziertes Steuervergehen",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 22 Dokumentationspflicht und Aufbewahrung der Belege32",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 22a Information von Behörden und Dokumentation",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 23 Neue Produkte, Geschäftspraktiken und Technologien",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 24 Geldwäschereifachstelle",
+      "concepts": [
+        "amlctf_program",
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 25 Weitere Aufgaben der Geldwäschereifachstelle",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 25a Entscheidungskompetenz bei Meldungen",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 26 Interne Weisungen",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 27 Integrität und Ausbildung",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
+      "concepts": [
+        "customer_due_diligence",
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 36 Professioneller Notenhandel",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 37 Korrespondenzbankbeziehungen mit ausländischen Banken",
+      "concepts": [
+        "correspondent_banking"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 38 Kriterien für Transaktionen mit erhöhten Risiken",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 39 Dokumentationspflicht",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 44 Erforderliche Angaben",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber von Einzelunternehmen",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 46 Einfache Gesellschaften",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 47 Juristische Personen, Personengesellschaften und Behörden",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 48 Form und Behandlung der Dokumente",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 49 Echtheitsbestätigung",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 51a Geschäfte mit virtuellen Währungen",
+      "concepts": [
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 52 Geld- und Wertübertragungen",
+      "concepts": [
+        "funds_transfer_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 56 Grundsatz",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 57 Erforderliche Angaben",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 58 Ausnahmen von der Feststellungspflicht",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 59 Grundsatz",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 60 Erforderliche Angaben",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 63 Sitzgesellschaften",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 64 Personenverbindungen, Trusts und andere Vermögenseinheiten",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär oder steuerbefreite Einrichtung der beruflichen Vorsorge als",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 66 Kollektive Anlageform oder Beteiligungsgesellschaft als Vertragspartei",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 78b Übergangsbestimmung zur Änderung vom 27. Oktober 2022",

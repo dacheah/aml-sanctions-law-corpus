@@ -56,7 +56,25 @@
       ]
     },
     {
+      "unit": "4. Assessing the proceeds of drug trafficking",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "5. Statements relating to proceeds of drug trafficking",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "6. Amount to be recovered under confiscation order",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "6A. Interest on amounts to be recovered under confiscation orders",
       "concepts": [
         "enforcement_and_offences"
       ]
@@ -100,19 +118,39 @@
       ]
     },
     {
+      "unit": "13. Application of proceeds of realisation and other sums",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "14. Exercise of powers by Court of First Instance or receiver",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "15. Variation of confiscation orders",
       "concepts": [
-        "threshold_transaction_reporting"
+        "threshold_transaction_reporting",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "16. Bankruptcy of defendants, etc.",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "17. Winding up of company holding realisable property",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "18. Insolvency officers dealing with property subject to restraint order",
       "concepts": [
         "enforcement_and_offences"
       ]
@@ -197,13 +235,15 @@
     {
       "unit": "28. Enforcement of external confiscation orders",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "29. Registration of external confiscation orders",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "enforcement_and_offences"
       ]
     },
     {

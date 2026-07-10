@@ -72,7 +72,8 @@
       "unit": "5.—(1) There is to be an office of the Government called the Suspicious Transaction Reporting Office which is responsibl",
       "concepts": [
         "suspicious_matter_reporting",
-        "proliferation_financing"
+        "proliferation_financing",
+        "enforcement_and_offences"
       ]
     },
     {
@@ -94,13 +95,43 @@
       ]
     },
     {
+      "unit": "10.—(1) Subject to section 31, for the purposes of this Act —",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "11.—(1) Without affecting section 31, for the purposes of this Act —",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "12.—(1) Where —",
       "concepts": [
         "enforcement_and_offences"
       ]
     },
     {
+      "unit": "13.—(1) Subject to subsection (3), the amount to be recovered from the defendant under the confiscation order is the amo",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "14.—(1) If any sum required to be paid by a person under a confiscation order is not paid when it is required to be paid",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "15.—(1) For the purposes of sections 12 and 13, the amount that might be realised at the time a confiscation order is ma",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "16.—(1) Where an application is made for a confiscation order under section 6 or 7, a person who asserts an interest in ",
       "concepts": [
         "enforcement_and_offences"
       ]
@@ -142,15 +173,35 @@
       ]
     },
     {
+      "unit": "23.—(1) Subject to subsection (2), the following sums in the hands of the Public Trustee or any receiver under section 1",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "24.—(1) This section applies to the powers conferred on the General Division of the High Court by sections 19 to 23 or o",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "25.—(1) If, on an application by the defendant in respect of a confiscation order, the court is satisfied that the reali",
       "concepts": [
-        "threshold_transaction_reporting"
+        "threshold_transaction_reporting",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "26.—(1) Where a person who holds realisable property is adjudged bankrupt —",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "27.—(1) Where realisable property is held by a company and an order for the winding up of the company has been made or a",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
@@ -222,6 +273,7 @@
     {
       "unit": "42.—(1) In this Division —",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping"
       ]
     },

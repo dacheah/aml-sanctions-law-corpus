@@ -86,6 +86,12 @@
       "curated": true
     },
     {
+      "unit": "5.1 For greater certainty, this Part does not apply to persons or entities referred to in paragraph 5(h.1) in respect",
+      "concepts": [
+        "customer_due_diligence"
+      ]
+    },
+    {
       "unit": "6 Every person or entity referred to in section 5 shall",
       "concepts": [
         "record_keeping"

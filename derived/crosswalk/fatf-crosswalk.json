@@ -36,12 +36,18 @@
      }
     },
     "GBR": {
-     "provision_count": 1,
+     "provision_count": 2,
      "instruments": {
       "MLR 2017": {
        "count": 1,
        "provisions": [
         "reg.18 —(1)  A relevant person must take appropriate steps to identify and assess the risks of money"
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 1,
+       "provisions": [
+        "s.187 "
        ]
       }
      }
@@ -83,8 +89,29 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 10,
+     "instruments": {
+      "AMLO / GwV": {
+       "count": 1,
+       "provisions": [
+        "Art. 19 Zusätzliche Abklärungen"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 9,
+       "provisions": [
+        "Art. 6 Globale Überwachung der Rechts- und Reputationsrisiken",
+        "Art. 13 Geschäftsbeziehungen mit erhöhten Risiken",
+        "Art. 14 Transaktionen mit erhöhten Risiken",
+        "Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken",
+        "Art. 18 Aufnahme von Geschäftsbeziehungen mit erhöhten Risiken",
+        "Art. 19 Verantwortung des obersten Geschäftsführungsorgans bei erhöhten Risiken",
+        "Art. 20 Überwachung der Geschäftsbeziehungen und der Transaktionen",
+        "Art. 23 Neue Produkte, Geschäftspraktiken und Technologien",
+        "Art. 38 Kriterien für Transaktionen mit erhöhten Risiken"
+       ]
+      }
+     }
     },
     "HKG": {
      "provision_count": 0,
@@ -245,7 +272,7 @@
      }
     },
     "GBR": {
-     "provision_count": 9,
+     "provision_count": 22,
      "instruments": {
       "POCA 2002": {
        "count": 4,
@@ -269,6 +296,29 @@
        "count": 1,
        "provisions": [
         "s.17 Enforcement"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 5,
+       "provisions": [
+        "s.35 ",
+        "s.39 ",
+        "s.45 ",
+        "s.46 ",
+        "s.54 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 8,
+       "provisions": [
+        "s.179 ",
+        "s.180 ",
+        "s.181 ",
+        "s.182 ",
+        "s.183 ",
+        "s.184 ",
+        "s.199 ",
+        "s.214 "
        ]
       }
      }
@@ -358,7 +408,7 @@
      }
     },
     "CHE": {
-     "provision_count": 3,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 3,
@@ -366,6 +416,12 @@
         "Art. 305bis 423",
         "Art. 260quinquies 349",
         "Art. 260ter 345"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 21 Qualifiziertes Steuervergehen"
        ]
       }
      }
@@ -532,7 +588,7 @@
      }
     },
     "GBR": {
-     "provision_count": 9,
+     "provision_count": 22,
      "instruments": {
       "POCA 2002": {
        "count": 4,
@@ -556,6 +612,29 @@
        "count": 1,
        "provisions": [
         "s.17 Enforcement"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 5,
+       "provisions": [
+        "s.35 ",
+        "s.39 ",
+        "s.45 ",
+        "s.46 ",
+        "s.54 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 8,
+       "provisions": [
+        "s.179 ",
+        "s.180 ",
+        "s.181 ",
+        "s.182 ",
+        "s.183 ",
+        "s.184 ",
+        "s.199 ",
+        "s.214 "
        ]
       }
      }
@@ -645,7 +724,7 @@
      }
     },
     "CHE": {
-     "provision_count": 3,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 3,
@@ -653,6 +732,12 @@
         "Art. 305bis 423",
         "Art. 260quinquies 349",
         "Art. 260ter 345"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 21 Qualifiziertes Steuervergehen"
        ]
       }
      }
@@ -814,7 +899,7 @@
      }
     },
     "GBR": {
-     "provision_count": 9,
+     "provision_count": 22,
      "instruments": {
       "POCA 2002": {
        "count": 4,
@@ -838,6 +923,29 @@
        "count": 1,
        "provisions": [
         "s.17 Enforcement"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 5,
+       "provisions": [
+        "s.35 ",
+        "s.39 ",
+        "s.45 ",
+        "s.46 ",
+        "s.54 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 8,
+       "provisions": [
+        "s.179 ",
+        "s.180 ",
+        "s.181 ",
+        "s.182 ",
+        "s.183 ",
+        "s.184 ",
+        "s.199 ",
+        "s.214 "
        ]
       }
      }
@@ -927,7 +1035,7 @@
      }
     },
     "CHE": {
-     "provision_count": 3,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 3,
@@ -935,6 +1043,12 @@
         "Art. 305bis 423",
         "Art. 260quinquies 349",
         "Art. 260ter 345"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 21 Qualifiziertes Steuervergehen"
        ]
       }
      }
@@ -1099,7 +1213,7 @@
      }
     },
     "GBR": {
-     "provision_count": 3,
+     "provision_count": 13,
      "instruments": {
       "SAMLA 2018": {
        "count": 3,
@@ -1107,6 +1221,26 @@
         "s.3 Financial sanctions",
         "s.11 Designation of a person by name under a designation power",
         "s.15 Exceptions and licences"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 7,
+       "provisions": [
+        "s.49 ",
+        "s.50 ",
+        "s.58 ",
+        "s.59 ",
+        "s.57 ",
+        "s.54 ",
+        "s.56 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 3,
+       "provisions": [
+        "s.36 ",
+        "s.38 ",
+        "s.214 "
        ]
       }
      }
@@ -1182,7 +1316,7 @@
      }
     },
     "CHE": {
-     "provision_count": 3,
+     "provision_count": 5,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
@@ -1195,6 +1329,13 @@
        "provisions": [
         "Art. 1 Gegenstand",
         "Art. 2 Zuständigkeit"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 2,
+       "provisions": [
+        "Art. 7 Verbotene Vermögenswerte",
+        "Art. 8 Verbotene Geschäftsbeziehung"
        ]
       }
      }
@@ -1246,8 +1387,31 @@
      }
     },
     "ARE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 17,
+     "instruments": {
+      "TFS / UN-sanctions mechanism 2020": {
+       "count": 17,
+       "provisions": [
+        "Article (7)",
+        "Article (8)",
+        "Article (15)",
+        "Article (16)",
+        "Article (18)",
+        "Article (21)",
+        "Article (2)",
+        "Article (3)",
+        "Article (4)",
+        "Article (5)",
+        "Article (9)",
+        "Article (10)",
+        "Article (13)",
+        "Article (14)",
+        "Article (12)",
+        "Article (17)",
+        "Article (19)"
+       ]
+      }
+     }
     }
    }
   },
@@ -1314,12 +1478,29 @@
      }
     },
     "GBR": {
-     "provision_count": 1,
+     "provision_count": 8,
      "instruments": {
       "SAMLA 2018": {
        "count": 1,
        "provisions": [
         "s.3 Financial sanctions"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 4,
+       "provisions": [
+        "s.49 ",
+        "s.50 ",
+        "s.54 ",
+        "s.56 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 3,
+       "provisions": [
+        "s.36 ",
+        "s.38 ",
+        "s.214 "
        ]
       }
      }
@@ -1388,7 +1569,7 @@
      }
     },
     "CHE": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
@@ -1400,6 +1581,13 @@
        "count": 1,
        "provisions": [
         "Art. 2 Zuständigkeit"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 2,
+       "provisions": [
+        "Art. 7 Verbotene Vermögenswerte",
+        "Art. 8 Verbotene Geschäftsbeziehung"
        ]
       }
      }
@@ -1444,8 +1632,20 @@
      }
     },
     "ARE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 6,
+     "instruments": {
+      "TFS / UN-sanctions mechanism 2020": {
+       "count": 6,
+       "provisions": [
+        "Article (7)",
+        "Article (8)",
+        "Article (15)",
+        "Article (16)",
+        "Article (18)",
+        "Article (21)"
+       ]
+      }
+     }
     }
    }
   },
@@ -1607,7 +1807,7 @@
      }
     },
     "GBR": {
-     "provision_count": 3,
+     "provision_count": 6,
      "instruments": {
       "MLR 2017": {
        "count": 3,
@@ -1615,6 +1815,19 @@
         "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
         "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
         "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 1,
+       "provisions": [
+        "s.16 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 2,
+       "provisions": [
+        "s.165 ",
+        "s.187 "
        ]
       }
      }
@@ -1661,13 +1874,20 @@
      }
     },
     "CAN": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "PCMLTFA": {
        "count": 2,
        "provisions": [
         "6.1 Every person or entity referred to in section 5 shall",
         "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+       ]
+      },
+      "PCMLTFR": {
+       "count": 2,
+       "provisions": [
+        "44 (1) Subject to subsection (2), every legal counsel and",
+        "45 Subject to subsection 62(2), every legal counsel and"
        ]
       }
      }
@@ -1684,7 +1904,7 @@
      }
     },
     "CHE": {
-     "provision_count": 4,
+     "provision_count": 22,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 1,
@@ -1698,6 +1918,34 @@
         "Art. 3 Identifizierung der Vertragspartei",
         "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
         "Art. 6 Besondere Sorgfaltspflichten"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 3,
+       "provisions": [
+        "Art. 16 Beizug Dritter",
+        "Art. 17 Identifizierung der Vertragspartei",
+        "Art. 19 Zusätzliche Abklärungen"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 15,
+       "provisions": [
+        "Art. 9a Abklärungen bei Sitzgesellschaften",
+        "Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten",
+        "Art. 12 Vereinfachte Sorgfaltspflichten17",
+        "Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken",
+        "Art. 16 Mittel der Abklärungen",
+        "Art. 17 Zeitpunkt der zusätzlichen Abklärungen",
+        "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
+        "Art. 36 Professioneller Notenhandel",
+        "Art. 44 Erforderliche Angaben",
+        "Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber von Einzelunternehmen",
+        "Art. 46 Einfache Gesellschaften",
+        "Art. 47 Juristische Personen, Personengesellschaften und Behörden",
+        "Art. 48 Form und Behandlung der Dokumente",
+        "Art. 49 Echtheitsbestätigung",
+        "Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär oder steuerbefreite Einrichtung der beruflichen Vorsorge als"
        ]
       }
      }
@@ -1838,12 +2086,24 @@
      }
     },
     "CAN": {
-     "provision_count": 1,
+     "provision_count": 8,
      "instruments": {
       "PCMLTFA": {
        "count": 1,
        "provisions": [
         "6 Every person or entity referred to in section 5 shall"
+       ]
+      },
+      "PCMLTFR": {
+       "count": 7,
+       "provisions": [
+        "9 A financial entity that maintains a list of clients for the",
+        "10 A financial entity shall keep a large cash transaction",
+        "11 A financial entity shall keep a large virtual currency",
+        "12 A financial entity shall keep the following records in",
+        "13 A financial entity shall keep the following records in",
+        "14 (1) A financial entity shall keep the following records",
+        "15 (1) A trust company shall also keep the following"
        ]
       }
      }
@@ -1853,12 +2113,26 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 1,
+     "provision_count": 5,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
        "provisions": [
         "Art. 7 Dokumentationspflicht"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 1,
+       "provisions": [
+        "Art. 21 Dokumentation"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 3,
+       "provisions": [
+        "Art. 22 Dokumentationspflicht und Aufbewahrung der Belege32",
+        "Art. 22a Information von Behörden und Dokumentation",
+        "Art. 39 Dokumentationspflicht"
        ]
       }
      }
@@ -2074,8 +2348,15 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 37 Korrespondenzbankbeziehungen mit ausländischen Banken"
+       ]
+      }
+     }
     },
     "HKG": {
      "provision_count": 0,
@@ -2234,8 +2515,17 @@
      }
     },
     "GBR": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 3,
+     "instruments": {
+      "ECCTA 2023": {
+       "count": 3,
+       "provisions": [
+        "s.179 ",
+        "s.180 ",
+        "s.181 "
+       ]
+      }
+     }
     },
     "USA": {
      "provision_count": 0,
@@ -2246,16 +2536,30 @@
      "instruments": {}
     },
     "CAN": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "PCMLTFR": {
+       "count": 1,
+       "provisions": [
+        "11 A financial entity shall keep a large virtual currency"
+       ]
+      }
+     }
     },
     "SGP": {
      "provision_count": 0,
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 51a Geschäfte mit virtuellen Währungen"
+       ]
+      }
+     }
     },
     "HKG": {
      "provision_count": 0,
@@ -2329,16 +2633,39 @@
      "instruments": {}
     },
     "CAN": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 2,
+     "instruments": {
+      "PCMLTFR": {
+       "count": 2,
+       "provisions": [
+        "7 (1) A financial entity shall report the following transactions and information to the Centre:",
+        "30 (1) A money services business shall report the following transactions and information to the Centre:"
+       ]
+      }
+     }
     },
     "SGP": {
      "provision_count": 0,
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 4,
+     "instruments": {
+      "AMLO / GwV": {
+       "count": 2,
+       "provisions": [
+        "Art. 4 Dienstleistungen für den Zahlungsverkehr",
+        "Art. 9 Geld- oder Wertübertragungsgeschäft"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 2,
+       "provisions": [
+        "Art. 10 Angaben bei Zahlungsaufträgen",
+        "Art. 52 Geld- und Wertübertragungen"
+       ]
+      }
+     }
     },
     "HKG": {
      "provision_count": 0,
@@ -2408,7 +2735,7 @@
      }
     },
     "GBR": {
-     "provision_count": 3,
+     "provision_count": 6,
      "instruments": {
       "MLR 2017": {
        "count": 3,
@@ -2416,6 +2743,19 @@
         "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
         "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
         "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 1,
+       "provisions": [
+        "s.16 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 2,
+       "provisions": [
+        "s.165 ",
+        "s.187 "
        ]
       }
      }
@@ -2462,13 +2802,20 @@
      }
     },
     "CAN": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "PCMLTFA": {
        "count": 2,
        "provisions": [
         "6.1 Every person or entity referred to in section 5 shall",
         "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+       ]
+      },
+      "PCMLTFR": {
+       "count": 2,
+       "provisions": [
+        "44 (1) Subject to subsection (2), every legal counsel and",
+        "45 Subject to subsection 62(2), every legal counsel and"
        ]
       }
      }
@@ -2485,7 +2832,7 @@
      }
     },
     "CHE": {
-     "provision_count": 4,
+     "provision_count": 22,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 1,
@@ -2499,6 +2846,34 @@
         "Art. 3 Identifizierung der Vertragspartei",
         "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
         "Art. 6 Besondere Sorgfaltspflichten"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 3,
+       "provisions": [
+        "Art. 16 Beizug Dritter",
+        "Art. 17 Identifizierung der Vertragspartei",
+        "Art. 19 Zusätzliche Abklärungen"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 15,
+       "provisions": [
+        "Art. 9a Abklärungen bei Sitzgesellschaften",
+        "Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten",
+        "Art. 12 Vereinfachte Sorgfaltspflichten17",
+        "Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken",
+        "Art. 16 Mittel der Abklärungen",
+        "Art. 17 Zeitpunkt der zusätzlichen Abklärungen",
+        "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
+        "Art. 36 Professioneller Notenhandel",
+        "Art. 44 Erforderliche Angaben",
+        "Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber von Einzelunternehmen",
+        "Art. 46 Einfache Gesellschaften",
+        "Art. 47 Juristische Personen, Personengesellschaften und Behörden",
+        "Art. 48 Form und Behandlung der Dokumente",
+        "Art. 49 Echtheitsbestätigung",
+        "Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär oder steuerbefreite Einrichtung der beruflichen Vorsorge als"
        ]
       }
      }
@@ -2642,12 +3017,22 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 1,
+     "provision_count": 6,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
        "provisions": [
         "Art. 8 Organisatorische Massnahmen"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 5,
+       "provisions": [
+        "Art. 19 Verantwortung des obersten Geschäftsführungsorgans bei erhöhten Risiken",
+        "Art. 24 Geldwäschereifachstelle",
+        "Art. 25 Weitere Aufgaben der Geldwäschereifachstelle",
+        "Art. 26 Interne Weisungen",
+        "Art. 27 Integrität und Ausbildung"
        ]
       }
      }
@@ -2733,7 +3118,7 @@
      }
     },
     "GBR": {
-     "provision_count": 4,
+     "provision_count": 7,
      "instruments": {
       "MLR 2017": {
        "count": 4,
@@ -2742,6 +3127,19 @@
         "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
         "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
         "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 2,
+       "provisions": [
+        "s.187 ",
+        "s.165 "
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 1,
+       "provisions": [
+        "s.16 "
        ]
       }
      }
@@ -2797,13 +3195,20 @@
      }
     },
     "CAN": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "PCMLTFA": {
        "count": 2,
        "provisions": [
         "6.1 Every person or entity referred to in section 5 shall",
         "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+       ]
+      },
+      "PCMLTFR": {
+       "count": 2,
+       "provisions": [
+        "44 (1) Subject to subsection (2), every legal counsel and",
+        "45 Subject to subsection 62(2), every legal counsel and"
        ]
       }
      }
@@ -2820,8 +3225,44 @@
      }
     },
     "CHE": {
-     "provision_count": 4,
+     "provision_count": 30,
      "instruments": {
+      "AMLO / GwV": {
+       "count": 3,
+       "provisions": [
+        "Art. 19 Zusätzliche Abklärungen",
+        "Art. 16 Beizug Dritter",
+        "Art. 17 Identifizierung der Vertragspartei"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 23,
+       "provisions": [
+        "Art. 6 Globale Überwachung der Rechts- und Reputationsrisiken",
+        "Art. 13 Geschäftsbeziehungen mit erhöhten Risiken",
+        "Art. 14 Transaktionen mit erhöhten Risiken",
+        "Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken",
+        "Art. 18 Aufnahme von Geschäftsbeziehungen mit erhöhten Risiken",
+        "Art. 19 Verantwortung des obersten Geschäftsführungsorgans bei erhöhten Risiken",
+        "Art. 20 Überwachung der Geschäftsbeziehungen und der Transaktionen",
+        "Art. 23 Neue Produkte, Geschäftspraktiken und Technologien",
+        "Art. 38 Kriterien für Transaktionen mit erhöhten Risiken",
+        "Art. 9a Abklärungen bei Sitzgesellschaften",
+        "Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten",
+        "Art. 12 Vereinfachte Sorgfaltspflichten17",
+        "Art. 16 Mittel der Abklärungen",
+        "Art. 17 Zeitpunkt der zusätzlichen Abklärungen",
+        "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
+        "Art. 36 Professioneller Notenhandel",
+        "Art. 44 Erforderliche Angaben",
+        "Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber von Einzelunternehmen",
+        "Art. 46 Einfache Gesellschaften",
+        "Art. 47 Juristische Personen, Personengesellschaften und Behörden",
+        "Art. 48 Form und Behandlung der Dokumente",
+        "Art. 49 Echtheitsbestätigung",
+        "Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär oder steuerbefreite Einrichtung der beruflichen Vorsorge als"
+       ]
+      },
       "Criminal Code (AML/CTF articles)": {
        "count": 1,
        "provisions": [
@@ -2907,7 +3348,7 @@
      }
     },
     "GBR": {
-     "provision_count": 5,
+     "provision_count": 8,
      "instruments": {
       "POCA 2002": {
        "count": 4,
@@ -2922,6 +3363,14 @@
        "count": 1,
        "provisions": [
         "s.19 Disclosure of information: duty."
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 3,
+       "provisions": [
+        "s.184 ",
+        "s.185 ",
+        "s.186 "
        ]
       }
      }
@@ -2984,12 +3433,24 @@
      }
     },
     "CHE": {
-     "provision_count": 1,
+     "provision_count": 3,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
        "provisions": [
         "Art. 9 Meldepflicht"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 1,
+       "provisions": [
+        "Art. 20 Meldepflicht"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 25a Entscheidungskompetenz bei Meldungen"
        ]
       }
      }
@@ -3137,12 +3598,18 @@
      "instruments": {}
     },
     "ARE": {
-     "provision_count": 1,
+     "provision_count": 2,
      "instruments": {
       "Federal AML/CFT Law 2025": {
        "count": 1,
        "provisions": [
         "Article (29)"
+       ]
+      },
+      "TFS / UN-sanctions mechanism 2020": {
+       "count": 1,
+       "provisions": [
+        "Article (23)"
        ]
       }
      }
@@ -3211,7 +3678,7 @@
      }
     },
     "GBR": {
-     "provision_count": 3,
+     "provision_count": 6,
      "instruments": {
       "MLR 2017": {
        "count": 3,
@@ -3219,6 +3686,19 @@
         "reg.27 —(1)  A relevant person must apply customer due diligence measures if the person—",
         "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
         "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 1,
+       "provisions": [
+        "s.16 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 2,
+       "provisions": [
+        "s.165 ",
+        "s.187 "
        ]
       }
      }
@@ -3265,13 +3745,20 @@
      }
     },
     "CAN": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "PCMLTFA": {
        "count": 2,
        "provisions": [
         "6.1 Every person or entity referred to in section 5 shall",
         "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+       ]
+      },
+      "PCMLTFR": {
+       "count": 2,
+       "provisions": [
+        "44 (1) Subject to subsection (2), every legal counsel and",
+        "45 Subject to subsection 62(2), every legal counsel and"
        ]
       }
      }
@@ -3288,8 +3775,24 @@
      }
     },
     "CHE": {
-     "provision_count": 4,
+     "provision_count": 30,
      "instruments": {
+      "AMLO / GwV": {
+       "count": 11,
+       "provisions": [
+        "Art. 3 Kreditgeschäft",
+        "Art. 4 Dienstleistungen für den Zahlungsverkehr",
+        "Art. 5 Handelstätigkeit",
+        "Art. 6 Weitere Tätigkeiten",
+        "Art. 13 Händlerinnen und Händler",
+        "Art. 14 Gewerblicher Handel",
+        "Art. 15 Güter",
+        "Art. 15a Erfasste Edelmetalle und Edelsteine",
+        "Art. 16 Beizug Dritter",
+        "Art. 17 Identifizierung der Vertragspartei",
+        "Art. 19 Zusätzliche Abklärungen"
+       ]
+      },
       "Criminal Code (AML/CTF articles)": {
        "count": 1,
        "provisions": [
@@ -3302,6 +3805,26 @@
         "Art. 3 Identifizierung der Vertragspartei",
         "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
         "Art. 6 Besondere Sorgfaltspflichten"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 15,
+       "provisions": [
+        "Art. 9a Abklärungen bei Sitzgesellschaften",
+        "Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten",
+        "Art. 12 Vereinfachte Sorgfaltspflichten17",
+        "Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken",
+        "Art. 16 Mittel der Abklärungen",
+        "Art. 17 Zeitpunkt der zusätzlichen Abklärungen",
+        "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
+        "Art. 36 Professioneller Notenhandel",
+        "Art. 44 Erforderliche Angaben",
+        "Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber von Einzelunternehmen",
+        "Art. 46 Einfache Gesellschaften",
+        "Art. 47 Juristische Personen, Personengesellschaften und Behörden",
+        "Art. 48 Form und Behandlung der Dokumente",
+        "Art. 49 Echtheitsbestätigung",
+        "Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär oder steuerbefreite Einrichtung der beruflichen Vorsorge als"
        ]
       }
      }
@@ -3406,8 +3929,22 @@
      }
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 8,
+     "instruments": {
+      "AMLO / GwV": {
+       "count": 8,
+       "provisions": [
+        "Art. 3 Kreditgeschäft",
+        "Art. 4 Dienstleistungen für den Zahlungsverkehr",
+        "Art. 5 Handelstätigkeit",
+        "Art. 6 Weitere Tätigkeiten",
+        "Art. 13 Händlerinnen und Händler",
+        "Art. 14 Gewerblicher Handel",
+        "Art. 15 Güter",
+        "Art. 15a Erfasste Edelmetalle und Edelsteine"
+       ]
+      }
+     }
     },
     "HKG": {
      "provision_count": 0,
@@ -3447,12 +3984,36 @@
      }
     },
     "GBR": {
-     "provision_count": 1,
+     "provision_count": 15,
      "instruments": {
       "MLR 2017": {
        "count": 1,
        "provisions": [
         "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 5,
+       "provisions": [
+        "s.3 Register of overseas entities",
+        "s.4 Application for registration",
+        "s.7 Updating duty",
+        "s.12 ",
+        "s.16 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 9,
+       "provisions": [
+        "s.4 Proposed officers",
+        "s.7 Persons with initial",
+        "s.64 ",
+        "s.65 ",
+        "s.156 ",
+        "s.159 ",
+        "s.161 ",
+        "s.162 ",
+        "s.165 "
        ]
       }
      }
@@ -3504,20 +4065,48 @@
      }
     },
     "CAN": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "PCMLTFR": {
+       "count": 1,
+       "provisions": [
+        "16 (1) For the purposes of subsections 9.4(1) and (3) of"
+       ]
+      }
+     }
     },
     "SGP": {
      "provision_count": 0,
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 1,
+     "provision_count": 12,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
        "provisions": [
         "Art. 4 Feststellung der wirtschaftlich berechtigten Person"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 1,
+       "provisions": [
+        "Art. 18 Feststellung der wirtschaftlich berechtigten Person"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 10,
+       "provisions": [
+        "Art. 9a Abklärungen bei Sitzgesellschaften",
+        "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
+        "Art. 56 Grundsatz",
+        "Art. 57 Erforderliche Angaben",
+        "Art. 58 Ausnahmen von der Feststellungspflicht",
+        "Art. 59 Grundsatz",
+        "Art. 60 Erforderliche Angaben",
+        "Art. 63 Sitzgesellschaften",
+        "Art. 64 Personenverbindungen, Trusts und andere Vermögenseinheiten",
+        "Art. 66 Kollektive Anlageform oder Beteiligungsgesellschaft als Vertragspartei"
        ]
       }
      }
@@ -3560,12 +4149,36 @@
      }
     },
     "GBR": {
-     "provision_count": 1,
+     "provision_count": 15,
      "instruments": {
       "MLR 2017": {
        "count": 1,
        "provisions": [
         "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 5,
+       "provisions": [
+        "s.3 Register of overseas entities",
+        "s.4 Application for registration",
+        "s.7 Updating duty",
+        "s.12 ",
+        "s.16 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 9,
+       "provisions": [
+        "s.4 Proposed officers",
+        "s.7 Persons with initial",
+        "s.64 ",
+        "s.65 ",
+        "s.156 ",
+        "s.159 ",
+        "s.161 ",
+        "s.162 ",
+        "s.165 "
        ]
       }
      }
@@ -3617,20 +4230,48 @@
      }
     },
     "CAN": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "PCMLTFR": {
+       "count": 1,
+       "provisions": [
+        "16 (1) For the purposes of subsections 9.4(1) and (3) of"
+       ]
+      }
+     }
     },
     "SGP": {
      "provision_count": 0,
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 1,
+     "provision_count": 12,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
        "provisions": [
         "Art. 4 Feststellung der wirtschaftlich berechtigten Person"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 1,
+       "provisions": [
+        "Art. 18 Feststellung der wirtschaftlich berechtigten Person"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 10,
+       "provisions": [
+        "Art. 9a Abklärungen bei Sitzgesellschaften",
+        "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
+        "Art. 56 Grundsatz",
+        "Art. 57 Erforderliche Angaben",
+        "Art. 58 Ausnahmen von der Feststellungspflicht",
+        "Art. 59 Grundsatz",
+        "Art. 60 Erforderliche Angaben",
+        "Art. 63 Sitzgesellschaften",
+        "Art. 64 Personenverbindungen, Trusts und andere Vermögenseinheiten",
+        "Art. 66 Kollektive Anlageform oder Beteiligungsgesellschaft als Vertragspartei"
        ]
       }
      }
@@ -3701,8 +4342,15 @@
      }
     },
     "GBR": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "ECCTA 2023": {
+       "count": 1,
+       "provisions": [
+        "s.66 "
+       ]
+      }
+     }
     },
     "USA": {
      "provision_count": 0,
@@ -3738,12 +4386,26 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 1,
+     "provision_count": 5,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
        "provisions": [
         "Art. 12 Zuständigkeit"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 3,
+       "provisions": [
+        "Art. 22a Zulassung von Prüfgesellschaften",
+        "Art. 22b Zulassung von leitenden Prüferinnen und Prüfern",
+        "Art. 22c Zulassung zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren im GwG-Bereich"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 24 Geldwäschereifachstelle"
        ]
       }
      }
@@ -3757,8 +4419,18 @@
      "instruments": {}
     },
     "ARE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 4,
+     "instruments": {
+      "TFS / UN-sanctions mechanism 2020": {
+       "count": 4,
+       "provisions": [
+        "Article (2)",
+        "Article (11)",
+        "Article (22)",
+        "Article (24)"
+       ]
+      }
+     }
     }
    }
   },
@@ -3803,8 +4475,15 @@
      }
     },
     "GBR": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "ECCTA 2023": {
+       "count": 1,
+       "provisions": [
+        "s.66 "
+       ]
+      }
+     }
     },
     "USA": {
      "provision_count": 0,
@@ -3840,12 +4519,26 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 1,
+     "provision_count": 5,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
        "provisions": [
         "Art. 12 Zuständigkeit"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 3,
+       "provisions": [
+        "Art. 22a Zulassung von Prüfgesellschaften",
+        "Art. 22b Zulassung von leitenden Prüferinnen und Prüfern",
+        "Art. 22c Zulassung zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren im GwG-Bereich"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 24 Geldwäschereifachstelle"
        ]
       }
      }
@@ -3859,8 +4552,18 @@
      "instruments": {}
     },
     "ARE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 4,
+     "instruments": {
+      "TFS / UN-sanctions mechanism 2020": {
+       "count": 4,
+       "provisions": [
+        "Article (2)",
+        "Article (11)",
+        "Article (22)",
+        "Article (24)"
+       ]
+      }
+     }
     }
    }
   },
@@ -3913,8 +4616,15 @@
      }
     },
     "GBR": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "ECCTA 2023": {
+       "count": 1,
+       "provisions": [
+        "s.66 "
+       ]
+      }
+     }
     },
     "USA": {
      "provision_count": 0,
@@ -3957,12 +4667,34 @@
      }
     },
     "CHE": {
-     "provision_count": 1,
+     "provision_count": 13,
      "instruments": {
       "AMLA / GwG": {
        "count": 1,
        "provisions": [
         "Art. 12 Zuständigkeit"
+       ]
+      },
+      "AMLO / GwV": {
+       "count": 11,
+       "provisions": [
+        "Art. 22a Zulassung von Prüfgesellschaften",
+        "Art. 22b Zulassung von leitenden Prüferinnen und Prüfern",
+        "Art. 22c Zulassung zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren im GwG-Bereich",
+        "Art. 3 Kreditgeschäft",
+        "Art. 4 Dienstleistungen für den Zahlungsverkehr",
+        "Art. 5 Handelstätigkeit",
+        "Art. 6 Weitere Tätigkeiten",
+        "Art. 13 Händlerinnen und Händler",
+        "Art. 14 Gewerblicher Handel",
+        "Art. 15 Güter",
+        "Art. 15a Erfasste Edelmetalle und Edelsteine"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 24 Geldwäschereifachstelle"
        ]
       }
      }
@@ -3976,8 +4708,18 @@
      "instruments": {}
     },
     "ARE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 4,
+     "instruments": {
+      "TFS / UN-sanctions mechanism 2020": {
+       "count": 4,
+       "provisions": [
+        "Article (2)",
+        "Article (11)",
+        "Article (22)",
+        "Article (24)"
+       ]
+      }
+     }
     }
    }
   },
@@ -4110,7 +4852,7 @@
      }
     },
     "GBR": {
-     "provision_count": 9,
+     "provision_count": 22,
      "instruments": {
       "POCA 2002": {
        "count": 4,
@@ -4134,6 +4876,29 @@
        "count": 1,
        "provisions": [
         "s.17 Enforcement"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 5,
+       "provisions": [
+        "s.35 ",
+        "s.39 ",
+        "s.45 ",
+        "s.46 ",
+        "s.54 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 8,
+       "provisions": [
+        "s.179 ",
+        "s.180 ",
+        "s.181 ",
+        "s.182 ",
+        "s.183 ",
+        "s.184 ",
+        "s.199 ",
+        "s.214 "
        ]
       }
      }
@@ -4223,7 +4988,7 @@
      }
     },
     "CHE": {
-     "provision_count": 3,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 3,
@@ -4231,6 +4996,12 @@
         "Art. 305bis 423",
         "Art. 260quinquies 349",
         "Art. 260ter 345"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 21 Qualifiziertes Steuervergehen"
        ]
       }
      }
@@ -4381,7 +5152,7 @@
      }
     },
     "GBR": {
-     "provision_count": 9,
+     "provision_count": 22,
      "instruments": {
       "POCA 2002": {
        "count": 4,
@@ -4405,6 +5176,29 @@
        "count": 1,
        "provisions": [
         "s.17 Enforcement"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 5,
+       "provisions": [
+        "s.35 ",
+        "s.39 ",
+        "s.45 ",
+        "s.46 ",
+        "s.54 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 8,
+       "provisions": [
+        "s.179 ",
+        "s.180 ",
+        "s.181 ",
+        "s.182 ",
+        "s.183 ",
+        "s.184 ",
+        "s.199 ",
+        "s.214 "
        ]
       }
      }
@@ -4494,7 +5288,7 @@
      }
     },
     "CHE": {
-     "provision_count": 3,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 3,
@@ -4502,6 +5296,12 @@
         "Art. 305bis 423",
         "Art. 260quinquies 349",
         "Art. 260ter 345"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 21 Qualifiziertes Steuervergehen"
        ]
       }
      }
@@ -4834,7 +5634,7 @@
      }
     },
     "GBR": {
-     "provision_count": 9,
+     "provision_count": 22,
      "instruments": {
       "POCA 2002": {
        "count": 4,
@@ -4858,6 +5658,29 @@
        "count": 1,
        "provisions": [
         "s.17 Enforcement"
+       ]
+      },
+      "ECTEA 2022": {
+       "count": 5,
+       "provisions": [
+        "s.35 ",
+        "s.39 ",
+        "s.45 ",
+        "s.46 ",
+        "s.54 "
+       ]
+      },
+      "ECCTA 2023": {
+       "count": 8,
+       "provisions": [
+        "s.179 ",
+        "s.180 ",
+        "s.181 ",
+        "s.182 ",
+        "s.183 ",
+        "s.184 ",
+        "s.199 ",
+        "s.214 "
        ]
       }
      }
@@ -4947,7 +5770,7 @@
      }
     },
     "CHE": {
-     "provision_count": 3,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 3,
@@ -4955,6 +5778,12 @@
         "Art. 305bis 423",
         "Art. 260quinquies 349",
         "Art. 260ter 345"
+       ]
+      },
+      "AMLO-FINMA / GwV-FINMA": {
+       "count": 1,
+       "provisions": [
+        "Art. 21 Qualifiziertes Steuervergehen"
        ]
       }
      }

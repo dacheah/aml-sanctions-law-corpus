@@ -16,6 +16,35 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.3.4] — 2026-07-10
+
+Derived-layer curated-tagging sweep. No authoritative texts change; this touches only the
+concept tags in the derived layer (`scripts/concepts.py` and the regenerated `derived/`, site,
+and Hugging Face export).
+
+### Added
+
+- **Curated concept tags for the six records that previously had none** — the two UK Economic
+  Crime Acts (ECTEA 2022 and ECCTA 2023, keyed to the AML/sanctions marquee: overseas-entities /
+  beneficial-ownership registers, unexplained-wealth orders and interim freezing, cryptoasset
+  confiscation, the money-laundering/terrorist-financing offence and information-order reforms, and
+  sanctions designation), the Canadian **PCMLTF Regulations**, both Swiss FINMA/AMLA ordinances
+  (**AMLO** and **AMLO-FINMA** — German text, where the English keyword fallback is structurally
+  useless, so curated tags are the only lever), and the UAE **TFS mechanism** (Cabinet Decision
+  74/2020). Every record now carries at least some human-reviewed tags.
+
+### Changed
+
+- **Broadened the keyword fallback** with neutral, cross-jurisdiction terms it was missing
+  (identity verification / enhanced & simplified due diligence; persons with significant control and
+  the register of overseas entities; transaction-record and prescribed-record keeping; cryptoassets;
+  confiscation / restraint / civil-recovery / unexplained-wealth / monetary-penalty offences;
+  financial-sanctions and urgent-designation language; proliferation-of-armaments financing).
+- Curated coverage rises from **6.9% to 8.9%** of provisions (+152 human-reviewed units) and the
+  untagged share falls from 45.3% to 41.5%; records with zero curated tags fall from **6 to 0**.
+  Administrative schedule provisions (e.g. "the Companies Act 2006 is amended as follows") remain
+  deliberately untagged. Concept tags stay unofficial and derived — expect occasional over/under-tagging.
+
 ## [1.3.3] — 2026-07-10
 
 Source-monitor reliability fix. No authoritative texts or derived records change; this is a

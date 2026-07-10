@@ -30,7 +30,7 @@
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
     "beneficial_ownership",
@@ -44,12 +44,15 @@
     "record_keeping",
     "risk_based_approach",
     "supervisory_architecture",
-    "suspicious_matter_reporting"
+    "suspicious_matter_reporting",
+    "threshold_transaction_reporting",
+    "virtual_assets"
   ],
   "tags": [
     {
       "unit": "31 (1) Every copy of a consolidated statute or consolidated",
       "concepts": [
+        "customer_due_diligence",
         "amlctf_program",
         "suspicious_matter_reporting",
         "funds_transfer_reporting",
@@ -61,11 +64,9 @@
     {
       "unit": "1 (1) In the Act and in these Regulations, shell bank",
       "concepts": [
-        "funds_transfer_reporting",
-        "enrolment_registration",
-        "correspondent_banking",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "2 (1) For the purposes of subsection 9.3(1) of the Act, a",
@@ -89,40 +90,67 @@
     {
       "unit": "7 (1) A financial entity shall report the following transactions and information to the Centre:",
       "concepts": [
+        "threshold_transaction_reporting",
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "9 A financial entity that maintains a list of clients for the",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "10 A financial entity shall keep a large cash transaction",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "11 A financial entity shall keep a large virtual currency",
+      "concepts": [
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "12 A financial entity shall keep the following records in",
       "concepts": [
-        "funds_transfer_reporting"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "13 A financial entity shall keep the following records in",
       "concepts": [
-        "funds_transfer_reporting"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "14 (1) A financial entity shall keep the following records",
       "concepts": [
-        "funds_transfer_reporting"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "15 (1) A trust company shall also keep the following",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "16 (1) For the purposes of subsections 9.4(1) and (3) of",
       "concepts": [
-        "risk_based_approach",
-        "correspondent_banking",
-        "supervisory_architecture"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "18 A life insurance company or life insurance broker or",
@@ -133,25 +161,102 @@
     {
       "unit": "20 A life insurance company or life insurance broker or",
       "concepts": [
+        "record_keeping",
         "enrolment_registration"
+      ]
+    },
+    {
+      "unit": "24.12 A factor shall keep a large cash transaction record",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "24.13 A factor shall keep a large virtual currency transaction record in respect of every amount of $10,000 or",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "24.14 A factor shall keep the following records in respect of every factoring agreement that it enters into:",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "24.18 A financing or leasing entity shall keep a large",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "24.19 A financing or leasing entity shall keep a large virtual currency transaction record in respect of every",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "24.2 A financing or leasing entity shall keep the following records in connection with an activity referred to in",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "28 A securities dealer shall keep a large virtual currency",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "29 A securities dealer shall keep the following records in",
+      "concepts": [
+        "record_keeping"
       ]
     },
     {
       "unit": "30 (1) A money services business shall report the following transactions and information to the Centre:",
       "concepts": [
+        "threshold_transaction_reporting",
         "funds_transfer_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "31 A money services business shall keep a large cash",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "32 A money services business shall keep a large virtual",
+      "concepts": [
+        "record_keeping"
       ]
     },
     {
       "unit": "33 (1) A foreign money services business shall report",
       "concepts": [
-        "funds_transfer_reporting"
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "34 A foreign money services business shall keep a large",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "35 A foreign money services business shall keep a large",
+      "concepts": [
+        "record_keeping"
       ]
     },
     {
       "unit": "36 A money services business shall keep the following",
       "concepts": [
         "funds_transfer_reporting",
+        "record_keeping",
         "enrolment_registration",
         "definitions_and_interpretation"
       ]
@@ -169,6 +274,32 @@
       ]
     },
     {
+      "unit": "42 A British Columbia notary public or British Columbia",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "43 A British Columbia notary public or British Columbia",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "44 (1) Subject to subsection (2), every legal counsel and",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "45 Subject to subsection 62(2), every legal counsel and",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
       "unit": "46 A legal counsel or legal firm that, in connection with",
       "concepts": [
         "record_keeping"
@@ -181,15 +312,94 @@
       ]
     },
     {
+      "unit": "50 An accountant or accounting firm shall keep a large",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "51 An accountant or accounting firm shall keep a large",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "52 An accountant or accounting firm shall keep the following records in connection with an activity referred to",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "56 A real estate broker or sales representative shall keep",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "57 A real estate broker or sales representative shall keep",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "58 (1) A real estate broker or sales representative shall",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "62 A real estate developer shall keep a large cash transaction record in respect of every amount of $10,000 or",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "63 A real estate developer shall keep a large virtual currency transaction record in respect of every amount",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "64.5 A mortgage administrator, mortgage broker or",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "64.6 A mortgage administrator, mortgage broker or",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "68 A dealer in precious metals and precious stones shall",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "69 A dealer in precious metals and precious stones shall",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
       "unit": "70 (1) A casino shall report the following transactions",
       "concepts": [
         "funds_transfer_reporting"
       ]
     },
     {
+      "unit": "73 A casino shall keep a large virtual currency transaction record in respect of every amount of $10,000 or more",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
       "unit": "74 (1) A casino shall keep the following records in respect of every account that the casino opens:",
       "concepts": [
-        "funds_transfer_reporting"
+        "funds_transfer_reporting",
+        "record_keeping"
       ]
     },
     {
@@ -200,15 +410,35 @@
       ]
     },
     {
+      "unit": "80 A department or an agent of His Majesty in right of",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "81 A department or an agent of His Majesty in right of",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "82 A department or an agent of His Majesty in right of",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
       "unit": "83 The provisions of this Part are subject to the provisions of Parts 5 and 6.",
       "concepts": [
-        "amlctf_program"
+        "amlctf_program",
+        "record_keeping"
       ]
     },
     {
       "unit": "84 A person or entity shall verify, in accordance with",
       "concepts": [
-        "suspicious_matter_reporting"
+        "suspicious_matter_reporting",
+        "record_keeping"
       ]
     },
     {
@@ -357,8 +587,15 @@
       ]
     },
     {
+      "unit": "106 (1) A person or entity that is required to verify a",
+      "concepts": [
+        "customer_due_diligence"
+      ]
+    },
+    {
       "unit": "107 (1) A person or entity that is required to verify a",
       "concepts": [
+        "customer_due_diligence",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -366,19 +603,28 @@
     {
       "unit": "108 A person or entity that is required to verify a person’s identity under these Regulations shall keep a record",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping"
       ]
     },
     {
       "unit": "109 (1) A person or entity that is required to verify a",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping",
         "enrolment_registration"
       ]
     },
     {
+      "unit": "109.1 (1) A person or entity that is required to verify a",
+      "concepts": [
+        "customer_due_diligence"
+      ]
+    },
+    {
       "unit": "110 (1) A person or entity that is required to verify a",
       "concepts": [
+        "customer_due_diligence",
         "enforcement_and_offences",
         "supervisory_architecture"
       ]
@@ -386,6 +632,7 @@
     {
       "unit": "111 (1) If a person or entity that is referred to in any of",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping",
         "enforcement_and_offences",
         "supervisory_architecture"
@@ -394,8 +641,15 @@
     {
       "unit": "112 (1) A person or entity that is required to verify the",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping",
         "enrolment_registration"
+      ]
+    },
+    {
+      "unit": "112.1 (1) A person or entity that is required to verify an",
+      "concepts": [
+        "customer_due_diligence"
       ]
     },
     {
@@ -408,6 +662,7 @@
     {
       "unit": "114 (1) If a person or entity that is referred to in any of",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping",
         "enforcement_and_offences",
         "supervisory_architecture"
@@ -507,6 +762,12 @@
       ]
     },
     {
+      "unit": "129 (1) If a person or entity that is required under these",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
       "unit": "132 (1) A report that is required to be made under these",
       "concepts": [
         "funds_transfer_reporting"
@@ -556,6 +817,12 @@
     },
     {
       "unit": "139 A trust company that is required to keep a record in",
+      "concepts": [
+        "record_keeping"
+      ]
+    },
+    {
+      "unit": "142 (1) For the purposes of sections 10, 20, 27 and 31",
       "concepts": [
         "record_keeping"
       ]

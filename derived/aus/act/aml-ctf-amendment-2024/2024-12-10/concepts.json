@@ -47,6 +47,7 @@
     "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
@@ -502,6 +503,7 @@
         "correspondent_banking",
         "politically_exposed_persons",
         "virtual_assets",
+        "sanctions_prohibitions",
         "designation_criteria",
         "un_and_autonomous_sanctions",
         "proliferation_financing",
@@ -535,6 +537,7 @@
         "risk_based_approach",
         "designated_services",
         "politically_exposed_persons",
+        "sanctions_prohibitions",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
@@ -1506,6 +1509,7 @@
       "unit": "64  Obligations of ordering institutions",
       "concepts": [
         "designated_services",
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions",
         "enforcement_and_offences",
         "definitions_and_interpretation"
@@ -1525,6 +1529,7 @@
       "concepts": [
         "amlctf_program",
         "designated_services",
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions",
         "enforcement_and_offences",
         "definitions_and_interpretation"

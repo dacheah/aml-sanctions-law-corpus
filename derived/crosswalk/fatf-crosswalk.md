@@ -19,6 +19,7 @@
     - *AML/CTF Rules 2025*: Part 5—AML/CTF programs
 - **United Kingdom:**
     - *MLR 2017*: reg.18
+    - *ECCTA 2023*: s.187
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:**
     - *AMLR (Reg (EU) 2024/1624)*: Article 10 Business-wide risk assessment
@@ -26,7 +27,9 @@
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 7 Risk assessment at Union level; Article 8 National risk assessment
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLO / GwV*: Art. 19 Zusätzliche Abklärungen
+    - *AMLO-FINMA / GwV-FINMA*: Art. 6 Globale Überwachung der Rechts- und Reputationsrisike; Art. 13 Geschäftsbeziehungen mit erhöhten Risiken; Art. 14 Transaktionen mit erhöhten Risiken; Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken; Art. 18 Aufnahme von Geschäftsbeziehungen mit erhöhten Risik; Art. 19 Verantwortung des obersten Geschäftsführungsorgans b; Art. 20 Überwachung der Geschäftsbeziehungen und der Transak; Art. 23 Neue Produkte, Geschäftspraktiken und Technologien; Art. 38 Kriterien für Transaktionen mit erhöhten Risiken
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -58,6 +61,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+    - *ECTEA 2022*: s.35; s.39; s.45; s.46; s.54
+    - *ECCTA 2023*: s.179; s.180; s.181; s.182; s.183; s.184; s.199; s.214
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
     - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
@@ -74,6 +79,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+    - *AMLO-FINMA / GwV-FINMA*: Art. 21 Qualifiziertes Steuervergehen
 - **Hong Kong:**
     - *OSCO*: 25. Dealing with property known or believed to represent pro
     - *DTROP*: 25. Dealing with property known or believed to represent pro
@@ -106,6 +112,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+    - *ECTEA 2022*: s.35; s.39; s.45; s.46; s.54
+    - *ECCTA 2023*: s.179; s.180; s.181; s.182; s.183; s.184; s.199; s.214
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
     - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
@@ -122,6 +130,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+    - *AMLO-FINMA / GwV-FINMA*: Art. 21 Qualifiziertes Steuervergehen
 - **Hong Kong:**
     - *OSCO*: 25. Dealing with property known or believed to represent pro
     - *DTROP*: 25. Dealing with property known or believed to represent pro
@@ -155,6 +164,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+    - *ECTEA 2022*: s.35; s.39; s.45; s.46; s.54
+    - *ECCTA 2023*: s.179; s.180; s.181; s.182; s.183; s.184; s.199; s.214
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
     - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
@@ -171,6 +182,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+    - *AMLO-FINMA / GwV-FINMA*: Art. 21 Qualifiziertes Steuervergehen
 - **Hong Kong:**
     - *OSCO*: 25. Dealing with property known or believed to represent pro
     - *DTROP*: 25. Dealing with property known or believed to represent pro
@@ -196,6 +208,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Autonomous Sanctions Act 2011*: 10A  Proscription of persons or entities relating to past ci; 6  Specifying a provision as a sanction law; 10  Regulations may apply sanctions; 16  Offence—contravening a sanction law; 15  Invalidation of authorisations
 - **United Kingdom:**
     - *SAMLA 2018*: s.3 Financial sanctions; s.11 Designation of a person by name under a designation pow; s.15 Exceptions and licences
+    - *ECTEA 2022*: s.49; s.50; s.58; s.59; s.57; s.54; s.56
+    - *ECCTA 2023*: s.36; s.38; s.214
 - **United States:**
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities; § 1701. Unusual and extraordinary threat; dec-
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -211,6 +225,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Switzerland:**
     - *AMLA / GwG*: Art. 10 Vermögenssperre
     - *Embargo Act / EmbG*: Art. 1 Gegenstand; Art. 2 Zuständigkeit
+    - *AMLO-FINMA / GwV-FINMA*: Art. 7 Verbotene Vermögenswerte; Art. 8 Verbotene Geschäftsbeziehung
 - **Hong Kong:**
     - *UNATMO*: 6. Freezing of property; 4. Specification by Chief Executive of persons and property 
     - *UNSO*: 3. Regulations shall give effect to relevant instructions
@@ -218,7 +233,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Japan:**
     - *FEFTA (外為法)*: 第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要; 第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取; 第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令; 第四十八条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令
     - *International Terrorist Asset-Freezing Act*: 第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ; 第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ; 第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為
-- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:**
+    - *TFS / UN-sanctions mechanism 2020*: Article (7); Article (8); Article (15); Article (16); Article (18); Article (21); Article (2); Article (3); Article (4); Article (5); Article (9); Article (10); Article (13); Article (14); Article (12); Article (17); Article (19)
 
 ### R.7 — Targeted financial sanctions related to proliferation
 *Concepts:* `proliferation_financing`, `asset_freezing`, `sanctions_prohibitions`
@@ -233,6 +249,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *Autonomous Sanctions Act 2011*: 10  Regulations may apply sanctions; 16  Offence—contravening a sanction law
 - **United Kingdom:**
     - *SAMLA 2018*: s.3 Financial sanctions
+    - *ECTEA 2022*: s.49; s.50; s.54; s.56
+    - *ECCTA 2023*: s.36; s.38; s.214
 - **United States:**
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -247,13 +265,15 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Switzerland:**
     - *AMLA / GwG*: Art. 10 Vermögenssperre
     - *Embargo Act / EmbG*: Art. 2 Zuständigkeit
+    - *AMLO-FINMA / GwV-FINMA*: Art. 7 Verbotene Vermögenswerte; Art. 8 Verbotene Geschäftsbeziehung
 - **Hong Kong:**
     - *WMD(CPS)O*: 4. Prohibition on providing services in relation to weapons 
     - *UNATMO*: 6. Freezing of property
 - **Japan:**
     - *FEFTA (外為法)*: 第二十五条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令; 第四十八条　国際的な平和及び安全の維持を妨げることとなると認められるものとして政令; 第十六条　主務大臣は、我が国が締結した条約その他の国際約束を誠実に履行するため必要; 第二十一条　財務大臣は、居住者又は非居住者による資本取引（第二十条に規定する資本取
     - *International Terrorist Asset-Freezing Act*: 第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ; 第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ; 第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為
-- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:**
+    - *TFS / UN-sanctions mechanism 2020*: Article (7); Article (8); Article (15); Article (16); Article (18); Article (21)
 
 ### R.8 — Non-profit organisations
 *Note:* NPO-specific measures not captured in v1.
@@ -277,6 +297,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 8  Use of applicable customer identification procedures by r
 - **United Kingdom:**
     - *MLR 2017*: reg.27; reg.28; reg.33
+    - *ECTEA 2022*: s.16
+    - *ECCTA 2023*: s.165; s.187
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
@@ -285,11 +307,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
 - **Canada:**
     - *PCMLTFA*: 6.1 Every person or entity referred to in section 5 shall; 9 (1) Subject to section 10.1, every person or entity referr
+    - *PCMLTFR*: 44 (1) Subject to subsection (2), every legal counsel and; 45 Subject to subsection 62(2), every legal counsel and
 - **Singapore:**
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
     - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
+    - *AMLO / GwV*: Art. 16 Beizug Dritter; Art. 17 Identifizierung der Vertragspartei; Art. 19 Zusätzliche Abklärungen
+    - *AMLO-FINMA / GwV-FINMA*: Art. 9a Abklärungen bei Sitzgesellschaften; Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten; Art. 12 Vereinfachte Sorgfaltspflichten17; Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken; Art. 16 Mittel der Abklärungen; Art. 17 Zeitpunkt der zusätzlichen Abklärungen; Art. 35 Pflicht zur Identifizierung der Vertragspartei und z; Art. 36 Professioneller Notenhandel; Art. 44 Erforderliche Angaben; Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber v; Art. 46 Einfache Gesellschaften; Art. 47 Juristische Personen, Personengesellschaften und Beh; Art. 48 Form und Behandlung der Dokumente; Art. 49 Echtheitsbestätigung; Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär 
 - **Hong Kong:**
     - *AMLO*: 3. When customer due diligence measures must be carried out
 - **Japan:**
@@ -315,9 +340,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *4AMLD (Dir (EU) 2015/849)*: Article 40 1. Member States shall require obliged entities t
 - **Canada:**
     - *PCMLTFA*: 6 Every person or entity referred to in section 5 shall
+    - *PCMLTFR*: 9 A financial entity that maintains a list of clients for th; 10 A financial entity shall keep a large cash transaction; 11 A financial entity shall keep a large virtual currency; 12 A financial entity shall keep the following records in; 13 A financial entity shall keep the following records in; 14 (1) A financial entity shall keep the following records; 15 (1) A trust company shall also keep the following
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 7 Dokumentationspflicht
+    - *AMLO / GwV*: Art. 21 Dokumentation
+    - *AMLO-FINMA / GwV-FINMA*: Art. 22 Dokumentationspflicht und Aufbewahrung der Belege32; Art. 22a Information von Behörden und Dokumentation; Art. 39 Dokumentationspflicht
 - **Hong Kong:**
     - *AMLO*: 20. Duty to keep records
 - **Japan:**
@@ -360,7 +388,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Canada:**
     - *PCMLTFA*: 9.31 (1) No entity referred to in paragraph 5(a), (b), (d),
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLO-FINMA / GwV-FINMA*: Art. 37 Korrespondenzbankbeziehungen mit ausländischen Banke
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -391,12 +420,15 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Act 2006*: 5B  Meaning of virtual asset; 19  Translation of virtual assets to Australian currency; 46A  Reports of transfers of value involving unverified self; 66A  Obligations of ordering and beneficiary institutions re; 76A  Unregistered persons must not provide certain virtual a; 76B  Virtual Asset Service Provider Register; 76C  Information to be entered on the Virtual Asset Service 
     - *AML/CTF Amendment Act 2024*: Schedule 6—
     - *AML/CTF Transitional Rules 2026*: 6  Virtual Asset Service Provider Register; 11  Delayed application of requirement to report transfers o; 12  Delayed application of certain Principal Act provisions; 14  Registration to provide registrable virtual asset servic
-- **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Kingdom:**
+    - *ECCTA 2023*: s.179; s.180; s.181
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *PCMLTFR*: 11 A financial entity shall keep a large virtual currency
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLO-FINMA / GwV-FINMA*: Art. 51a Geschäfte mit virtuellen Währungen
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -412,9 +444,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *PCMLTFR*: 7 (1) A financial entity shall report the following transact; 30 (1) A money services business shall report the following 
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLO / GwV*: Art. 4 Dienstleistungen für den Zahlungsverkehr; Art. 9 Geld- oder Wertübertragungsgeschäft
+    - *AMLO-FINMA / GwV-FINMA*: Art. 10 Angaben bei Zahlungsaufträgen; Art. 52 Geld- und Wertübertragungen
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -430,6 +465,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 8  Use of applicable customer identification procedures by r
 - **United Kingdom:**
     - *MLR 2017*: reg.27; reg.28; reg.33
+    - *ECTEA 2022*: s.16
+    - *ECCTA 2023*: s.165; s.187
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
@@ -438,11 +475,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
 - **Canada:**
     - *PCMLTFA*: 6.1 Every person or entity referred to in section 5 shall; 9 (1) Subject to section 10.1, every person or entity referr
+    - *PCMLTFR*: 44 (1) Subject to subsection (2), every legal counsel and; 45 Subject to subsection 62(2), every legal counsel and
 - **Singapore:**
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
     - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
+    - *AMLO / GwV*: Art. 16 Beizug Dritter; Art. 17 Identifizierung der Vertragspartei; Art. 19 Zusätzliche Abklärungen
+    - *AMLO-FINMA / GwV-FINMA*: Art. 9a Abklärungen bei Sitzgesellschaften; Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten; Art. 12 Vereinfachte Sorgfaltspflichten17; Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken; Art. 16 Mittel der Abklärungen; Art. 17 Zeitpunkt der zusätzlichen Abklärungen; Art. 35 Pflicht zur Identifizierung der Vertragspartei und z; Art. 36 Professioneller Notenhandel; Art. 44 Erforderliche Angaben; Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber v; Art. 46 Einfache Gesellschaften; Art. 47 Juristische Personen, Personengesellschaften und Beh; Art. 48 Form und Behandlung der Dokumente; Art. 49 Echtheitsbestätigung; Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär 
 - **Hong Kong:**
     - *AMLO*: 3. When customer due diligence measures must be carried out
 - **Japan:**
@@ -468,6 +508,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 8 Organisatorische Massnahmen
+    - *AMLO-FINMA / GwV-FINMA*: Art. 19 Verantwortung des obersten Geschäftsführungsorgans b; Art. 24 Geldwäschereifachstelle; Art. 25 Weitere Aufgaben der Geldwäschereifachstelle; Art. 26 Interne Weisungen; Art. 27 Integrität und Ausbildung
 - **Hong Kong:**
     - *AMLO*: 19. Financial institutions and DNFBPs to establish procedure
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -484,6 +525,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 8  Use of applicable customer identification procedures by r
 - **United Kingdom:**
     - *MLR 2017*: reg.18; reg.27; reg.28; reg.33
+    - *ECCTA 2023*: s.187; s.165
+    - *ECTEA 2022*: s.16
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
@@ -493,9 +536,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 7 Risk assessment at Union level; Article 8 National risk assessment
 - **Canada:**
     - *PCMLTFA*: 6.1 Every person or entity referred to in section 5 shall; 9 (1) Subject to section 10.1, every person or entity referr
+    - *PCMLTFR*: 44 (1) Subject to subsection (2), every legal counsel and; 45 Subject to subsection 62(2), every legal counsel and
 - **Singapore:**
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
+    - *AMLO / GwV*: Art. 19 Zusätzliche Abklärungen; Art. 16 Beizug Dritter; Art. 17 Identifizierung der Vertragspartei
+    - *AMLO-FINMA / GwV-FINMA*: Art. 6 Globale Überwachung der Rechts- und Reputationsrisike; Art. 13 Geschäftsbeziehungen mit erhöhten Risiken; Art. 14 Transaktionen mit erhöhten Risiken; Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken; Art. 18 Aufnahme von Geschäftsbeziehungen mit erhöhten Risik; Art. 19 Verantwortung des obersten Geschäftsführungsorgans b; Art. 20 Überwachung der Geschäftsbeziehungen und der Transak; Art. 23 Neue Produkte, Geschäftspraktiken und Technologien; Art. 38 Kriterien für Transaktionen mit erhöhten Risiken; Art. 9a Abklärungen bei Sitzgesellschaften; Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten; Art. 12 Vereinfachte Sorgfaltspflichten17; Art. 16 Mittel der Abklärungen; Art. 17 Zeitpunkt der zusätzlichen Abklärungen; Art. 35 Pflicht zur Identifizierung der Vertragspartei und z; Art. 36 Professioneller Notenhandel; Art. 44 Erforderliche Angaben; Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber v; Art. 46 Einfache Gesellschaften; Art. 47 Juristische Personen, Personengesellschaften und Beh; Art. 48 Form und Behandlung der Dokumente; Art. 49 Echtheitsbestätigung; Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär 
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
     - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
 - **Hong Kong:**
@@ -514,6 +560,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:**
     - *POCA 2002*: s.330 Failure to disclose: regulated sector; s.331 Failure to disclose: nominated officers in the regulat; s.337 Protected disclosures; s.338 Authorised disclosures
     - *Terrorism Act 2000*: s.19 Disclosure of information: duty.
+    - *ECCTA 2023*: s.184; s.185; s.186
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.320 Reports of suspicious transactions.
@@ -526,6 +573,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 8.
 - **Switzerland:**
     - *AMLA / GwG*: Art. 9 Meldepflicht
+    - *AMLO / GwV*: Art. 20 Meldepflicht
+    - *AMLO-FINMA / GwV-FINMA*: Art. 25a Entscheidungskompetenz bei Meldungen
 - **Hong Kong:**
     - *OSCO*: 25A. Disclosure of knowledge or suspicion that property repr
     - *DTROP*: 25A. Disclosure of knowledge or suspicion that property repr
@@ -556,6 +605,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United Arab Emirates:**
     - *Federal AML/CFT Law 2025*: Article (29)
+    - *TFS / UN-sanctions mechanism 2020*: Article (23)
 
 ### R.22 — DNFBPs: customer due diligence
 *Concepts:* `designated_services`, `customer_due_diligence`
@@ -568,6 +618,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Transitional Rules 2026*: 7  Requirement for AML/CTF policies to deal with carrying ou; 8  Use of applicable customer identification procedures by r
 - **United Kingdom:**
     - *MLR 2017*: reg.27; reg.28; reg.33
+    - *ECTEA 2022*: s.16
+    - *ECCTA 2023*: s.165; s.187
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.620 Due diligence programs for private banking accoun
@@ -576,11 +628,14 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
 - **Canada:**
     - *PCMLTFA*: 6.1 Every person or entity referred to in section 5 shall; 9 (1) Subject to section 10.1, every person or entity referr
+    - *PCMLTFR*: 44 (1) Subject to subsection (2), every legal counsel and; 45 Subject to subsection 62(2), every legal counsel and
 - **Singapore:**
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
+    - *AMLO / GwV*: Art. 3 Kreditgeschäft; Art. 4 Dienstleistungen für den Zahlungsverkehr; Art. 5 Handelstätigkeit; Art. 6 Weitere Tätigkeiten; Art. 13 Händlerinnen und Händler; Art. 14 Gewerblicher Handel; Art. 15 Güter; Art. 15a Erfasste Edelmetalle und Edelsteine; Art. 16 Beizug Dritter; Art. 17 Identifizierung der Vertragspartei; Art. 19 Zusätzliche Abklärungen
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
     - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
+    - *AMLO-FINMA / GwV-FINMA*: Art. 9a Abklärungen bei Sitzgesellschaften; Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten; Art. 12 Vereinfachte Sorgfaltspflichten17; Art. 15 Zusätzliche Abklärungen bei erhöhten Risiken; Art. 16 Mittel der Abklärungen; Art. 17 Zeitpunkt der zusätzlichen Abklärungen; Art. 35 Pflicht zur Identifizierung der Vertragspartei und z; Art. 36 Professioneller Notenhandel; Art. 44 Erforderliche Angaben; Art. 45 Natürliche Personen sowie Inhaberinnen und Inhaber v; Art. 46 Einfache Gesellschaften; Art. 47 Juristische Personen, Personengesellschaften und Beh; Art. 48 Form und Behandlung der Dokumente; Art. 49 Echtheitsbestätigung; Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär 
 - **Hong Kong:**
     - *AMLO*: 3. When customer due diligence measures must be carried out
 - **Japan:**
@@ -600,7 +655,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:**
     - *PSPM Act 2019*: 9.
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLO / GwV*: Art. 3 Kreditgeschäft; Art. 4 Dienstleistungen für den Zahlungsverkehr; Art. 5 Handelstätigkeit; Art. 6 Weitere Tätigkeiten; Art. 13 Händlerinnen und Händler; Art. 14 Gewerblicher Handel; Art. 15 Güter; Art. 15a Erfasste Edelmetalle und Edelsteine
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -614,6 +670,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Rules 2025*: Part 6—Customer due diligence
 - **United Kingdom:**
     - *MLR 2017*: reg.28
+    - *ECTEA 2022*: s.3 Register of overseas entities; s.4 Application for registration; s.7 Updating duty; s.12; s.16
+    - *ECCTA 2023*: s.4 Proposed officers; s.7 Persons with initial; s.64; s.65; s.156; s.159; s.161; s.162; s.165
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5336. Beneficial ownership information report-
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.380 Reports of beneficial ownership information.
@@ -621,10 +679,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLR (Reg (EU) 2024/1624)*: Article 51 Identification of beneficial owners for legal ent; Article 52 Beneficial ownership through ownership interest; Article 53 Beneficial ownership through control; Article 58 Identification of beneficial owners for express t; Article 62 Beneficial ownership information
     - *4AMLD (Dir (EU) 2015/849)*: Article 30 1. ►M1 Member States shall ensure that corporate ; Article 31 1. Member States shall ensure that this Article a
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 10 Central beneficial ownership registers
-- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *PCMLTFR*: 16 (1) For the purposes of subsections 9.4(1) and (3) of
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 4 Feststellung der wirtschaftlich berechtigten Person
+    - *AMLO / GwV*: Art. 18 Feststellung der wirtschaftlich berechtigten Person
+    - *AMLO-FINMA / GwV-FINMA*: Art. 9a Abklärungen bei Sitzgesellschaften; Art. 35 Pflicht zur Identifizierung der Vertragspartei und z; Art. 56 Grundsatz; Art. 57 Erforderliche Angaben; Art. 58 Ausnahmen von der Feststellungspflicht; Art. 59 Grundsatz; Art. 60 Erforderliche Angaben; Art. 63 Sitzgesellschaften; Art. 64 Personenverbindungen, Trusts und andere Vermögensein; Art. 66 Kollektive Anlageform oder Beteiligungsgesellschaft 
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -636,6 +697,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Rules 2025*: Part 6—Customer due diligence
 - **United Kingdom:**
     - *MLR 2017*: reg.28
+    - *ECTEA 2022*: s.3 Register of overseas entities; s.4 Application for registration; s.7 Updating duty; s.12; s.16
+    - *ECCTA 2023*: s.4 Proposed officers; s.7 Persons with initial; s.64; s.65; s.156; s.159; s.161; s.162; s.165
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5336. Beneficial ownership information report-
     - *31 C.F.R. Part 1010*: § 1010.230 Beneficial ownership requirements for legal entit; § 1010.380 Reports of beneficial ownership information.
@@ -643,10 +706,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLR (Reg (EU) 2024/1624)*: Article 51 Identification of beneficial owners for legal ent; Article 52 Beneficial ownership through ownership interest; Article 53 Beneficial ownership through control; Article 58 Identification of beneficial owners for express t; Article 62 Beneficial ownership information
     - *4AMLD (Dir (EU) 2015/849)*: Article 30 1. ►M1 Member States shall ensure that corporate ; Article 31 1. Member States shall ensure that this Article a
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 10 Central beneficial ownership registers
-- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *PCMLTFR*: 16 (1) For the purposes of subsections 9.4(1) and (3) of
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 4 Feststellung der wirtschaftlich berechtigten Person
+    - *AMLO / GwV*: Art. 18 Feststellung der wirtschaftlich berechtigten Person
+    - *AMLO-FINMA / GwV-FINMA*: Art. 9a Abklärungen bei Sitzgesellschaften; Art. 35 Pflicht zur Identifizierung der Vertragspartei und z; Art. 56 Grundsatz; Art. 57 Erforderliche Angaben; Art. 58 Ausnahmen von der Feststellungspflicht; Art. 59 Grundsatz; Art. 60 Erforderliche Angaben; Art. 63 Sitzgesellschaften; Art. 64 Personenverbindungen, Trusts und andere Vermögensein; Art. 66 Kollektive Anlageform oder Beteiligungsgesellschaft 
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
@@ -664,7 +730,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Act 2006*: 26R  AUSTRAC CEO may require reporting entity to undertake M; 161  External audits—risk management etc.; 202  Notices to reporting entities; 203  Contents of notices to reporting entities; 244  Reports to the AUSTRAC CEO etc.
     - *AML/CTF Amendment Act 2024*: Schedule 9—
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
-- **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Kingdom:**
+    - *ECCTA 2023*: s.66
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:**
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
@@ -673,9 +740,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 12 Zuständigkeit
+    - *AMLO / GwV*: Art. 22a Zulassung von Prüfgesellschaften; Art. 22b Zulassung von leitenden Prüferinnen und Prüfern; Art. 22c Zulassung zur Prüfung von Anwältinnen und Anwälten 
+    - *AMLO-FINMA / GwV-FINMA*: Art. 24 Geldwäschereifachstelle
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:**
+    - *TFS / UN-sanctions mechanism 2020*: Article (2); Article (11); Article (22); Article (24)
 
 ### R.27 — Powers of supervisors
 *Concepts:* `supervisory_architecture`
@@ -684,7 +754,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Act 2006*: 26R  AUSTRAC CEO may require reporting entity to undertake M; 161  External audits—risk management etc.; 202  Notices to reporting entities; 203  Contents of notices to reporting entities; 244  Reports to the AUSTRAC CEO etc.
     - *AML/CTF Amendment Act 2024*: Schedule 9—
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
-- **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Kingdom:**
+    - *ECCTA 2023*: s.66
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:**
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
@@ -693,9 +764,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Switzerland:**
     - *AMLA / GwG*: Art. 12 Zuständigkeit
+    - *AMLO / GwV*: Art. 22a Zulassung von Prüfgesellschaften; Art. 22b Zulassung von leitenden Prüferinnen und Prüfern; Art. 22c Zulassung zur Prüfung von Anwältinnen und Anwälten 
+    - *AMLO-FINMA / GwV-FINMA*: Art. 24 Geldwäschereifachstelle
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:**
+    - *TFS / UN-sanctions mechanism 2020*: Article (2); Article (11); Article (22); Article (24)
 
 ### R.28 — Regulation and supervision of DNFBPs
 *Concepts:* `supervisory_architecture`, `designated_services`
@@ -704,7 +778,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AML/CTF Act 2006*: 26R  AUSTRAC CEO may require reporting entity to undertake M; 161  External audits—risk management etc.; 202  Notices to reporting entities; 203  Contents of notices to reporting entities; 244  Reports to the AUSTRAC CEO etc.; 6  Designated services; 139  Providing a designated service using a false customer n; 140  Receiving a designated service using a false customer n
     - *AML/CTF Amendment Act 2024*: Schedule 9—; Schedule 3—; Part 1—Real estate; Part 2—Dealers in precious metals and stones; Part 3—Professional services
     - *Autonomous Sanctions Regulations 2011*: 25A  Review of operation of the autonomous sanctions legisla; 26  Delegations by Minister
-- **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Kingdom:**
+    - *ECCTA 2023*: s.66
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:**
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
@@ -714,9 +789,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
     - *AMLA / GwG*: Art. 12 Zuständigkeit
+    - *AMLO / GwV*: Art. 22a Zulassung von Prüfgesellschaften; Art. 22b Zulassung von leitenden Prüferinnen und Prüfern; Art. 22c Zulassung zur Prüfung von Anwältinnen und Anwälten ; Art. 3 Kreditgeschäft; Art. 4 Dienstleistungen für den Zahlungsverkehr; Art. 5 Handelstätigkeit; Art. 6 Weitere Tätigkeiten; Art. 13 Händlerinnen und Händler; Art. 14 Gewerblicher Handel; Art. 15 Güter; Art. 15a Erfasste Edelmetalle und Edelsteine
+    - *AMLO-FINMA / GwV-FINMA*: Art. 24 Geldwäschereifachstelle
 - **Hong Kong:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Japan:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **United Arab Emirates:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **United Arab Emirates:**
+    - *TFS / UN-sanctions mechanism 2020*: Article (2); Article (11); Article (22); Article (24)
 
 ### R.29 — Financial intelligence units
 *Note:* The FIU (AUSTRAC / NCA-UKFIU) is an institution, not a captured instrument in v1.
@@ -738,6 +816,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+    - *ECTEA 2022*: s.35; s.39; s.45; s.46; s.54
+    - *ECCTA 2023*: s.179; s.180; s.181; s.182; s.183; s.184; s.199; s.214
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
     - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
@@ -754,6 +834,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+    - *AMLO-FINMA / GwV-FINMA*: Art. 21 Qualifiziertes Steuervergehen
 - **Hong Kong:**
     - *OSCO*: 25. Dealing with property known or believed to represent pro
     - *DTROP*: 25. Dealing with property known or believed to represent pro
@@ -781,6 +862,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+    - *ECTEA 2022*: s.35; s.39; s.45; s.46; s.54
+    - *ECCTA 2023*: s.179; s.180; s.181; s.182; s.183; s.184; s.199; s.214
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
     - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
@@ -797,6 +880,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+    - *AMLO-FINMA / GwV-FINMA*: Art. 21 Qualifiziertes Steuervergehen
 - **Hong Kong:**
     - *OSCO*: 25. Dealing with property known or believed to represent pro
     - *DTROP*: 25. Dealing with property known or believed to represent pro
@@ -854,6 +938,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *POCA 2002*: s.327 Concealing etc; s.328 Arrangements; s.329 Acquisition, use and possession; s.330 Failure to disclose: regulated sector
     - *Terrorism Act 2000*: s.15 Fund-raising.; s.16 Use and possession.; s.17 Funding arrangements.; s.18 Money laundering.
     - *SAMLA 2018*: s.17 Enforcement
+    - *ECTEA 2022*: s.35; s.39; s.45; s.46; s.54
+    - *ECCTA 2023*: s.179; s.180; s.181; s.182; s.183; s.184; s.199; s.214
 - **United States:**
     - *BSA (31 U.S.C. §§5311–5336)*: § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-
     - *18 U.S.C. §1956*: § 1956. Laundering of monetary instruments
@@ -870,6 +956,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *TSOFA*: 3.; 4.; 5.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
+    - *AMLO-FINMA / GwV-FINMA*: Art. 21 Qualifiziertes Steuervergehen
 - **Hong Kong:**
     - *OSCO*: 25. Dealing with property known or believed to represent pro
     - *DTROP*: 25. Dealing with property known or believed to represent pro

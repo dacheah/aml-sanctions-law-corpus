@@ -45,10 +45,12 @@
     "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
-    "threshold_transaction_reporting"
+    "threshold_transaction_reporting",
+    "virtual_assets"
   ],
   "tags": [
     {
@@ -69,6 +71,8 @@
         "beneficial_ownership",
         "enrolment_registration",
         "politically_exposed_persons",
+        "virtual_assets",
+        "sanctions_prohibitions",
         "asset_freezing",
         "designation_criteria",
         "proliferation_financing",
@@ -130,6 +134,7 @@
         "suspicious_matter_reporting",
         "record_keeping",
         "politically_exposed_persons",
+        "sanctions_prohibitions",
         "supervisory_architecture"
       ]
     },
@@ -145,6 +150,7 @@
       "concepts": [
         "beneficial_ownership",
         "suspicious_matter_reporting",
+        "sanctions_prohibitions",
         "supervisory_architecture"
       ]
     },
@@ -247,13 +253,15 @@
       "unit": "Article 26 Ongoing monitoring of the business relationship and monitoring of transactions performed b",
       "concepts": [
         "customer_due_diligence",
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "sanctions_prohibitions"
       ]
     },
     {
       "unit": "Article 27 Temporary measures for customers subject to UN financial sanctions",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "sanctions_prohibitions"
       ]
     },
     {
@@ -268,12 +276,16 @@
     {
       "unit": "Article 29 Identification of third countries with significant strategic deficiencies in their nationa",
       "concepts": [
+        "customer_due_diligence",
+        "sanctions_prohibitions",
         "proliferation_financing"
       ]
     },
     {
       "unit": "Article 30 Identification of third countries with compliance weaknesses in their national AML/CFT reg",
       "concepts": [
+        "customer_due_diligence",
+        "sanctions_prohibitions",
         "proliferation_financing"
       ]
     },
@@ -289,7 +301,14 @@
     {
       "unit": "Article 32 Guidelines on money laundering and terrorist financing risks, trends and methods",
       "concepts": [
+        "customer_due_diligence",
         "scope_and_application"
+      ]
+    },
+    {
+      "unit": "SECTION 3",
+      "concepts": [
+        "customer_due_diligence"
       ]
     },
     {
@@ -298,6 +317,12 @@
         "customer_due_diligence"
       ],
       "curated": true
+    },
+    {
+      "unit": "SECTION 4",
+      "concepts": [
+        "customer_due_diligence"
+      ]
     },
     {
       "unit": "Article 34 Scope of application of enhanced due diligence measures",
@@ -309,6 +334,7 @@
     {
       "unit": "Article 35 Countermeasures to mitigate money laundering and terrorist financing threats from outside",
       "concepts": [
+        "customer_due_diligence",
         "supervisory_architecture"
       ]
     },
@@ -324,6 +350,7 @@
       "concepts": [
         "customer_due_diligence",
         "enrolment_registration",
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
@@ -336,11 +363,19 @@
       ]
     },
     {
+      "unit": "Article 39 Prohibition of correspondent relationships with shell institutions",
+      "concepts": [
+        "virtual_assets"
+      ]
+    },
+    {
       "unit": "Article 40 Measures to mitigate risks in relation to transactions with a self-hosted address",
       "concepts": [
         "customer_due_diligence",
         "beneficial_ownership",
-        "risk_based_approach"
+        "risk_based_approach",
+        "virtual_assets",
+        "sanctions_prohibitions"
       ]
     },
     {
@@ -614,6 +649,7 @@
       "concepts": [
         "customer_due_diligence",
         "enrolment_registration",
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },

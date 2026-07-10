@@ -30,20 +30,22 @@
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
     "asset_freezing",
     "beneficial_ownership",
+    "customer_due_diligence",
     "definitions_and_interpretation",
     "designation_criteria",
     "enforcement_and_offences",
     "enrolment_registration",
     "record_keeping",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
-    "suspicious_matter_reporting",
-    "tipping_off"
+    "tipping_off",
+    "un_and_autonomous_sanctions"
   ],
   "tags": [
     {
@@ -62,21 +64,23 @@
     {
       "unit": "s.2 Definition of “overseas entity” etc",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "s.3 Register of overseas entities",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.4 Application for registration",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.1 A statement:",
@@ -112,9 +116,9 @@
     {
       "unit": "s.7 Updating duty",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.1 A",
@@ -197,10 +201,9 @@
     {
       "unit": "s.12 [F23Identifying registrable beneficial owners][F23Duty to take steps to obtain",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.13 Additional powers to obtain information",
@@ -224,9 +227,9 @@
       "unit": "s.16 Verification of registrable beneficial owners and managing officers",
       "concepts": [
         "beneficial_ownership",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "s.17 Power to modify application process etc in certain cases",
@@ -250,6 +253,7 @@
     {
       "unit": "s.20 Annotation of the register",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },
@@ -280,6 +284,7 @@
     {
       "unit": "s.27 Resolving inconsistencies F35...",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration",
         "enforcement_and_offences"
       ]
@@ -287,6 +292,7 @@
     {
       "unit": "s.30 Court order to rectify register",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },
@@ -306,6 +312,7 @@
     {
       "unit": "s.34 Power to require overseas entity to register if it owns certain land",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration",
         "enforcement_and_offences"
       ]
@@ -313,9 +320,9 @@
     {
       "unit": "s.35 Liability of officers in default",
       "concepts": [
-        "amlctf_program",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.36 Meaning of “daily default fine”",
@@ -340,9 +347,9 @@
     {
       "unit": "s.39 Financial penalties",
       "concepts": [
-        "enrolment_registration",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.40 Sharing of information by HMRC",
@@ -380,41 +387,106 @@
       ]
     },
     {
+      "unit": "PART 2",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "s.45 Imposition of unexplained wealth orders on officers etc of property holder:",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.46 Imposition of unexplained wealth orders on officers etc of property holder:",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.47 Alternative test to the income requirement: England and Wales and Northern",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "s.48 Alternative test to the income requirement: Scotland",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "s.49 Power to extend period for which interim freezing order has effect: England",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.50 Power to extend period for which interim freezing order has effect: Scotland",
       "concepts": [
         "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.51 Annual reports on use of unexplained wealth orders: England and Wales",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "s.52 Limits on costs orders in relation to unexplained wealth orders: England and",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "s.53 Limits on expenses orders in relation to unexplained wealth orders: Scotland",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "enforcement_and_offences"
       ]
+    },
+    {
+      "unit": "s.54 Imposition of monetary penalties",
+      "concepts": [
+        "sanctions_prohibitions",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.56 Reporting on breach of financial sanctions",
+      "concepts": [
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.57 Streamlining process of making sanctions regulations",
+      "concepts": [
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.58 Urgent designation of persons by name",
       "concepts": [
-        "suspicious_matter_reporting",
         "designation_criteria"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.59 Urgent designation of persons by description",
       "concepts": [
         "designation_criteria"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.61 Existing sanctions regulations",
@@ -540,6 +612,7 @@
     {
       "unit": "Sch. para 7 (1) For the purposes of this Schedule a legal entity is “subject to its own disclosure",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration",
         "definitions_and_interpretation"
       ]
@@ -662,6 +735,7 @@
     {
       "unit": "Sch. para 7 In this Schedule—",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },
@@ -792,6 +866,7 @@
     {
       "unit": "Sch. para 9 (1) In this schedule—",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },
@@ -887,6 +962,7 @@
     {
       "unit": "Sch. para 6 In this Schedule—",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },

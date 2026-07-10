@@ -43,6 +43,7 @@
     "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "supervisory_architecture",
     "suspicious_matter_reporting",
     "tipping_off",
@@ -97,7 +98,8 @@
       "unit": "Article (6)",
       "concepts": [
         "asset_freezing",
-        "proliferation_financing"
+        "proliferation_financing",
+        "enforcement_and_offences"
       ]
     },
     {
@@ -192,6 +194,7 @@
         "beneficial_ownership",
         "risk_based_approach",
         "record_keeping",
+        "sanctions_prohibitions",
         "proliferation_financing",
         "supervisory_architecture"
       ]
@@ -278,6 +281,7 @@
     {
       "unit": "Article (33)",
       "concepts": [
+        "sanctions_prohibitions",
         "supervisory_architecture"
       ]
     },

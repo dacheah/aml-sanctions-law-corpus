@@ -94,6 +94,7 @@
     {
       "unit": "Article (6)",
       "concepts": [
+        "customer_due_diligence",
         "funds_transfer_reporting"
       ]
     },
@@ -188,6 +189,7 @@
     {
       "unit": "Article (22)",
       "concepts": [
+        "customer_due_diligence",
         "supervisory_architecture"
       ]
     },
@@ -217,6 +219,7 @@
     {
       "unit": "Article (27)",
       "concepts": [
+        "customer_due_diligence",
         "funds_transfer_reporting"
       ]
     },
@@ -329,6 +332,7 @@
     {
       "unit": "Article (44)",
       "concepts": [
+        "customer_due_diligence",
         "beneficial_ownership",
         "risk_based_approach",
         "record_keeping",

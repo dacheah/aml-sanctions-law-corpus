@@ -85,6 +85,7 @@
     {
       "unit": "§ 1010.220 Customer identification program requirements.",
       "concepts": [
+        "customer_due_diligence",
         "amlctf_program"
       ]
     },
@@ -225,6 +226,7 @@
     {
       "unit": "§ 1010.610 Due diligence programs for correspondent accounts for foreign financial institutions.",
       "concepts": [
+        "customer_due_diligence",
         "beneficial_ownership",
         "risk_based_approach",
         "suspicious_matter_reporting",

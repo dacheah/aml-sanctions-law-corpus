@@ -46,6 +46,7 @@
     "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
@@ -208,6 +209,7 @@
         "risk_based_approach",
         "designated_services",
         "politically_exposed_persons",
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions"
       ]
     },
@@ -280,6 +282,7 @@
         "designated_services",
         "enrolment_registration",
         "politically_exposed_persons",
+        "sanctions_prohibitions",
         "proliferation_financing"
       ]
     },
@@ -304,6 +307,7 @@
         "designated_services",
         "enrolment_registration",
         "politically_exposed_persons",
+        "sanctions_prohibitions",
         "proliferation_financing"
       ]
     },

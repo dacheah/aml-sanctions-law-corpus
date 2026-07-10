@@ -43,7 +43,8 @@
     "supervisory_architecture",
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
-    "tipping_off"
+    "tipping_off",
+    "virtual_assets"
   ],
   "tags": [
     {
@@ -740,6 +741,7 @@
       "unit": "Sch. para 1 (1) A business is in the regulated sector to the extent that it consists of—",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
@@ -794,9 +796,16 @@
       ]
     },
     {
+      "unit": "Sch. para 7 (1) A constable may seize any property subject to a restraint order for the purpose of",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "Sch. para 8 (1) The M114Land Charges Act 1972 and the [F358Land Registration Act 2002]—",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "enforcement_and_offences"
       ]
     },
     {
@@ -819,9 +828,22 @@
       ]
     },
     {
+      "unit": "Sch. para 12 In the following provisions of this Part of this Schedule—",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "Sch. para 13 (1) Subject to the provisions of this paragraph, a Scottish, Northern Ireland or Islands",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 14 (1) Her Majesty may by Order in Council make provision for the purpose of enabling",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
@@ -855,9 +877,22 @@
       ]
     },
     {
+      "unit": "Sch. para 20 (1) A constable may seize any property subject to a restraint order for the purpose of",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "Sch. para 21 (1) On the application of the Lord Advocate, the Court of Session may, in respect of",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 22 (1) On the application of the Lord Advocate, the court may, in respect of moveable",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
@@ -874,9 +909,22 @@
       ]
     },
     {
+      "unit": "Sch. para 26 In the following provisions of this Part of this Schedule—",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "Sch. para 27 (1) Subject to the provisions of this paragraph, an England and Wales order, Northern",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 28 (1) Her Majesty may by Order in Council make provision for the purpose of enabling",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
@@ -937,15 +985,40 @@
       ]
     },
     {
+      "unit": "Sch. para 42 In the following provisions of this Part of this Schedule—",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "Sch. para 43 (1) Subject to the provisions of this paragraph, an England and Wales, Scottish or Islands",
       "concepts": [
-        "enrolment_registration"
+        "enrolment_registration",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 44 (1) Her Majesty may by Order in Council make provision for the purpose of enabling",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 45 In this Part of this Schedule—",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 50 (1) Where money or other property falls to be dealt with in accordance with paragraph",
       "concepts": [
         "record_keeping"
+      ]
+    },
+    {
+      "unit": "Sch. para 51 (1) This paragraph applies where an insolvency practitioner seizes or disposes of",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
@@ -1142,6 +1215,7 @@
     {
       "unit": "Sch. para 6 (1) In this Schedule “financial institution” means—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },

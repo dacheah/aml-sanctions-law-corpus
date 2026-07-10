@@ -30,7 +30,7 @@
     "scope_and_application",
     "definitions_and_interpretation"
   ],
-  "tagging_method": "rule_based",
+  "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
     "asset_freezing",
@@ -41,10 +41,14 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "record_keeping",
+    "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
+    "suspicious_matter_reporting",
     "threshold_transaction_reporting",
-    "tipping_off"
+    "tipping_off",
+    "virtual_assets"
   ],
   "tags": [
     {
@@ -69,8 +73,9 @@
     {
       "unit": "s.4 Proposed officers: identity verification",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.5 Proposed officers: disqualification",
@@ -88,8 +93,9 @@
     {
       "unit": "s.7 Persons with initial significant control: identity verification",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.8 Names for criminal purposes",
@@ -236,6 +242,8 @@
     {
       "unit": "s.32 Disqualification for persistent breaches of companies legislation: NI",
       "concepts": [
+        "customer_due_diligence",
+        "beneficial_ownership",
         "enrolment_registration",
         "enforcement_and_offences"
       ]
@@ -263,12 +271,10 @@
     {
       "unit": "s.36 Disqualification of persons designated under sanctions legislation: GB",
       "concepts": [
-        "threshold_transaction_reporting",
-        "enrolment_registration",
-        "designation_criteria",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "sanctions_prohibitions",
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.37 Section 36: application to other bodies",
@@ -279,11 +285,10 @@
     {
       "unit": "s.38 Disqualification of persons designated under sanctions legislation: NI",
       "concepts": [
-        "enrolment_registration",
-        "designation_criteria",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "sanctions_prohibitions",
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.39 Section 38: application to other bodies",
@@ -352,6 +357,7 @@
     {
       "unit": "s.50 Membership information: one-off statement",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },
@@ -371,36 +377,35 @@
     {
       "unit": "s.63 Confirmation statements: offences",
       "concepts": [
+        "customer_due_diligence",
         "enforcement_and_offences"
       ]
     },
     {
       "unit": "s.64 Identity verification of persons with significant control",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.65 Procedure etc for verifying identity",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.66 Authorisation of corporate service providers",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "s.67 Exemption from identity verification: national security grounds",
       "concepts": [
+        "customer_due_diligence",
         "enforcement_and_offences"
       ]
     },
@@ -413,6 +418,7 @@
     {
       "unit": "s.69 Identity verification: material unavailable for public inspection",
       "concepts": [
+        "customer_due_diligence",
         "enrolment_registration"
       ]
     },
@@ -432,6 +438,7 @@
     {
       "unit": "s.72 Delivery of documents: identity verification etc",
       "concepts": [
+        "customer_due_diligence",
         "enrolment_registration"
       ]
     },
@@ -529,6 +536,7 @@
     {
       "unit": "s.96 Use or disclosure of PSC information by companies",
       "concepts": [
+        "beneficial_ownership",
         "enforcement_and_offences"
       ]
     },
@@ -553,6 +561,7 @@
     {
       "unit": "s.101 Overseas companies: identity verification of directors",
       "concepts": [
+        "customer_due_diligence",
         "enrolment_registration",
         "enforcement_and_offences"
       ]
@@ -786,6 +795,7 @@
     {
       "unit": "s.137 Material not available for public inspection",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping",
         "enrolment_registration",
         "definitions_and_interpretation"
@@ -842,12 +852,14 @@
     {
       "unit": "s.146 General false statement offences",
       "concepts": [
+        "customer_due_diligence",
         "enforcement_and_offences"
       ]
     },
     {
       "unit": "s.147 National security exemption from identity verification",
       "concepts": [
+        "customer_due_diligence",
         "enrolment_registration",
         "enforcement_and_offences"
       ]
@@ -889,14 +901,16 @@
     {
       "unit": "PART 3",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },
     {
       "unit": "s.156 Register of overseas entities",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.157 Required information about overseas entities: address information",
@@ -913,9 +927,9 @@
     {
       "unit": "s.159 Registration of information about trusts",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.160 Registration of information about managing officers: age limits",
@@ -926,10 +940,9 @@
     {
       "unit": "s.161 Registrable beneficial owners: cases involving trusts",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.24A (1) The Secretary of State may by regulations amend this Schedule so as to",
@@ -942,7 +955,8 @@
       "unit": "s.162 Registrable beneficial owners: nominees",
       "concepts": [
         "beneficial_ownership"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.6A A person (“X”) is to be treated as a beneficial owner of an",
@@ -962,9 +976,9 @@
       "unit": "s.165 Verification of registrable beneficial owners and managing officers",
       "concepts": [
         "beneficial_ownership",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "s.166 Material unavailable for public inspection: verification information",
@@ -975,6 +989,7 @@
     {
       "unit": "s.167 Material unavailable for public inspection",
       "concepts": [
+        "customer_due_diligence",
         "beneficial_ownership",
         "record_keeping",
         "tipping_off",
@@ -1043,54 +1058,83 @@
     {
       "unit": "s.178 Power to apply Part 1 amendments to register of overseas entities",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },
     {
+      "unit": "PART 4",
+      "concepts": [
+        "virtual_assets"
+      ]
+    },
+    {
+      "unit": "s.179 Cryptoassets: confiscation orders",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.180 Cryptoassets: civil recovery",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
       "unit": "s.181 Cryptoassets: terrorism",
       "concepts": [
-        "designation_criteria"
-      ]
+        "virtual_assets",
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.182 Money laundering: exiting and paying away exemptions",
       "concepts": [
-        "customer_due_diligence",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.183 Money laundering: exemptions for mixed-property transactions",
       "concepts": [
-        "amlctf_program",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.184 Money laundering: offences of failing to disclose",
       "concepts": [
+        "suspicious_matter_reporting",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.185 Money laundering: information orders",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "s.186 Terrorist financing: information orders",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "s.187 Enhanced due diligence: designation of high-risk countries",
       "concepts": [
-        "customer_due_diligence"
-      ]
+        "customer_due_diligence",
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "s.188 Direct disclosures of information: restrictions on civil liability",
@@ -1101,6 +1145,7 @@
     {
       "unit": "s.189 Indirect disclosure of information: restrictions on civil liability",
       "concepts": [
+        "virtual_assets",
         "enforcement_and_offences"
       ]
     },
@@ -1128,6 +1173,7 @@
       "concepts": [
         "customer_due_diligence",
         "record_keeping",
+        "virtual_assets",
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
@@ -1144,7 +1190,8 @@
       "unit": "s.199 Failure to prevent fraud",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.200 Fraud offences: supplementary",
@@ -1214,8 +1261,15 @@
     {
       "unit": "s.214 Sanctions enforcement: monetary penalties",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
+        "sanctions_prohibitions",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.215 Report on costs orders for proceedings for civil recovery",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
@@ -1333,6 +1387,7 @@
     {
       "unit": "Sch. para 8 In section 790A (overview of Part)—",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration"
       ]
     },
@@ -1345,6 +1400,7 @@
     {
       "unit": "Sch. para 11 For sections 790D and 790E substitute—",
       "concepts": [
+        "beneficial_ownership",
         "amlctf_program",
         "enrolment_registration"
       ]
@@ -1376,6 +1432,7 @@
     {
       "unit": "Sch. para 18 After section 790L insert—",
       "concepts": [
+        "beneficial_ownership",
         "enrolment_registration",
         "enforcement_and_offences"
       ]
@@ -1609,102 +1666,253 @@
       ]
     },
     {
+      "unit": "SCHEDULE 8",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 3 (1) Section 47C (power to seize property) is amended as follows.",
+      "concepts": [
+        "virtual_assets"
+      ]
+    },
+    {
+      "unit": "Sch. para 5 In section 47K (further detention pending making of restraint order), after",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 6 In section 47L (further detention pending variation of restraint order), after",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
       "unit": "Sch. para 7 (1) Section 47M (further detention in other cases) is amended as follows.",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
     {
       "unit": "Sch. para 8 In section 47R (release of property), after subsection (5) insert—",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "virtual_assets",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 10 (1) Section 51 (powers of enforcement receiver) is amended as follows.",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 12 After section 67 insert—",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
+        "enforcement_and_offences",
         "definitions_and_interpretation"
+      ]
+    },
+    {
+      "unit": "Sch. para 13 After section 67A insert—",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 16 For the italic heading before section 67, substitute “Enforcement: money,",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
       "unit": "Sch. para 17 In section 69 (powers of court and receiver etc), after subsection (2) insert—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
     {
       "unit": "Sch. para 18 After section 84 insert—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
+      ]
+    },
+    {
+      "unit": "Sch. para 21 (1) Section 127C (power to seize property) is amended as follows.",
+      "concepts": [
+        "virtual_assets"
+      ]
+    },
+    {
+      "unit": "Sch. para 23 In section 127K (further detention pending making of restraint order), after",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 24 In section 127L (further detention pending variation of restraint order), after",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 25 (1) Section 127M (further detention in other cases) is amended as follows.",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
     {
       "unit": "Sch. para 26 In section 127Q (release of property), after subsection (5) insert—",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "virtual_assets",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 27 (1) Section 128 (enforcement administrators) is amended as follows.",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 29 After section 131ZA insert—",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
+        "enforcement_and_offences",
         "definitions_and_interpretation"
+      ]
+    },
+    {
+      "unit": "Sch. para 30 After section 131A insert—",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 33 For the italic heading before section 131ZA, substitute “Enforcement: money,",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
       "unit": "Sch. para 35 In section 132 (powers of court and administrator etc), after subsection (2) insert—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
     {
       "unit": "Sch. para 36 After section 150 insert—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
+      ]
+    },
+    {
+      "unit": "Sch. para 39 (1) Section 195C (power to seize property) is amended as follows.",
+      "concepts": [
+        "virtual_assets"
+      ]
+    },
+    {
+      "unit": "Sch. para 41 In section 195K (further detention pending making of restraint order), after",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 42 In section 195L (further detention pending variation of restraint order), after",
+      "concepts": [
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 43 (1) Section 195M (further detention in other cases) is amended as follows.",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
     {
       "unit": "Sch. para 44 In section 195R (release of property), after subsection (5) insert—",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "virtual_assets",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 46 (1) Section 199 (powers of enforcement receiver) is amended as follows.",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 48 After section 215 insert—",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
+        "enforcement_and_offences",
         "definitions_and_interpretation"
+      ]
+    },
+    {
+      "unit": "Sch. para 49 After section 215A insert—",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Sch. para 52 For the italic heading before section 215, substitute “Enforcement: money,",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
       "unit": "Sch. para 53 In section 217 (powers of court and receiver etc), after subsection (2) insert—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
     {
       "unit": "Sch. para 54 After section 232 insert—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
+      ]
+    },
+    {
+      "unit": "SCHEDULE 9",
+      "concepts": [
+        "virtual_assets",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 1 In Part 5 of the Proceeds of Crime Act 2002 (civil recovery of the proceeds etc of",
       "concepts": [
         "record_keeping",
+        "virtual_assets",
+        "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
     },
@@ -1712,6 +1920,7 @@
       "unit": "CHAPTER 3D",
       "concepts": [
         "enrolment_registration",
+        "virtual_assets",
         "asset_freezing",
         "definitions_and_interpretation"
       ]
@@ -1720,6 +1929,7 @@
       "unit": "CHAPTER 3E",
       "concepts": [
         "amlctf_program",
+        "virtual_assets",
         "asset_freezing",
         "definitions_and_interpretation"
       ]
@@ -1728,6 +1938,7 @@
       "unit": "CHAPTER 3F",
       "concepts": [
         "threshold_transaction_reporting",
+        "virtual_assets",
         "asset_freezing",
         "definitions_and_interpretation"
       ]
@@ -1735,12 +1946,15 @@
     {
       "unit": "Sch. para 6 (1) Part 5 of the Proceeds of Crime Act 2002 (civil recovery of the proceeds etc of",
       "concepts": [
-        "asset_freezing"
+        "virtual_assets",
+        "asset_freezing",
+        "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 7 In section 316(1) (general interpretation)—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
@@ -1748,6 +1962,7 @@
       "unit": "Sch. para 8 (1) Part 8 of the Proceeds of Crime Act 2002 (investigations) is amended as follows.",
       "concepts": [
         "amlctf_program",
+        "virtual_assets",
         "asset_freezing",
         "enforcement_and_offences",
         "definitions_and_interpretation"
@@ -1756,31 +1971,48 @@
     {
       "unit": "Sch. para 11 In section 450 of the Proceeds of Crime Act 2002 (pseudonyms: Scotland), in",
       "concepts": [
+        "virtual_assets",
         "asset_freezing"
       ]
     },
     {
       "unit": "Sch. para 12 In section 453A of the Proceeds of Crime Act 2002 (certain offences in relation to",
       "concepts": [
+        "virtual_assets",
         "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 13 In section 453B of the Proceeds of Crime Act 2002 (certain offences in relation to",
       "concepts": [
+        "virtual_assets",
         "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 14 In section 453C of the Proceeds of Crime Act 2002 (obstruction offence in relation",
       "concepts": [
+        "virtual_assets",
         "enforcement_and_offences"
       ]
     },
     {
       "unit": "Sch. para 16 (1) Section 18 of the Civil Jurisdiction and Judgments Act 1982 (enforcement of UK",
       "concepts": [
+        "virtual_assets",
         "asset_freezing"
+      ]
+    },
+    {
+      "unit": "Sch. para 17 (1) Section 24 of the UK Borders Act 2007 (exercise of civil recovery powers by",
+      "concepts": [
+        "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "SCHEDULE 10",
+      "concepts": [
+        "virtual_assets"
       ]
     },
     {
@@ -1790,6 +2022,7 @@
         "threshold_transaction_reporting",
         "record_keeping",
         "enrolment_registration",
+        "virtual_assets",
         "asset_freezing",
         "designation_criteria",
         "enforcement_and_offences",
@@ -1804,8 +2037,15 @@
       ]
     },
     {
+      "unit": "Sch. para 5 In Part 6, in paragraph 19(1), at the appropriate places insert—",
+      "concepts": [
+        "virtual_assets"
+      ]
+    },
+    {
       "unit": "Sch. para 7 In Schedule 6 (financial information)—",
       "concepts": [
+        "virtual_assets",
         "definitions_and_interpretation"
       ]
     },
@@ -1935,6 +2175,7 @@
     {
       "unit": "Sch. para 22 (1) An offence under an instrument made under section 2(2) of the European",
       "concepts": [
+        "sanctions_prohibitions",
         "asset_freezing",
         "enforcement_and_offences",
         "definitions_and_interpretation"

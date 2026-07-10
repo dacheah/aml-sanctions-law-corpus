@@ -262,12 +262,14 @@
     {
       "unit": "35A  Reporting entities may disclose certain personal information to credit reporting bodies for identity verification purposes",
       "concepts": [
+        "customer_due_diligence",
         "designated_services"
       ]
     },
     {
       "unit": "35B  Credit reporting bodies may use and disclose certain personal information for identity verification purposes",
       "concepts": [
+        "customer_due_diligence",
         "designated_services"
       ]
     },
@@ -1029,6 +1031,7 @@
     {
       "unit": "84  Standard anti-money laundering and counter-terrorism financing program",
       "concepts": [
+        "customer_due_diligence",
         "amlctf_program",
         "designated_services"
       ]
@@ -1055,6 +1058,7 @@
     {
       "unit": "85  Joint anti-money laundering and counter-terrorism financing program",
       "concepts": [
+        "customer_due_diligence",
         "amlctf_program",
         "designated_services"
       ]
@@ -1732,6 +1736,7 @@
     {
       "unit": "184  When an infringement notice can be given",
       "concepts": [
+        "customer_due_diligence",
         "suspicious_matter_reporting",
         "threshold_transaction_reporting",
         "funds_transfer_reporting",

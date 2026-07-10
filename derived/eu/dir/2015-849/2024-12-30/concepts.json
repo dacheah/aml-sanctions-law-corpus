@@ -45,10 +45,12 @@
     "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
-    "tipping_off"
+    "tipping_off",
+    "virtual_assets"
   ],
   "tags": [
     {
@@ -79,6 +81,7 @@
         "enrolment_registration",
         "correspondent_banking",
         "politically_exposed_persons",
+        "virtual_assets",
         "enforcement_and_offences",
         "supervisory_architecture",
         "definitions_and_interpretation"
@@ -106,6 +109,7 @@
       "unit": "Article 6 1. The Commission shall conduct an assessment of the risks of money laundering and terrori",
       "concepts": [
         "risk_based_approach",
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
@@ -204,7 +208,8 @@
       "unit": "Article 18 1. ►M1 In the cases referred to in Articles 18a to 24, as well as in other cases of higher",
       "concepts": [
         "customer_due_diligence",
-        "risk_based_approach"
+        "risk_based_approach",
+        "virtual_assets"
       ]
     },
     {
@@ -228,6 +233,8 @@
         "customer_due_diligence",
         "beneficial_ownership",
         "risk_based_approach",
+        "virtual_assets",
+        "sanctions_prohibitions",
         "proliferation_financing"
       ]
     },
@@ -236,6 +243,7 @@
       "concepts": [
         "customer_due_diligence",
         "enrolment_registration",
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
@@ -276,7 +284,8 @@
     {
       "unit": "Article 24a By 1 January 2024, EBA shall issue guidelines specifying how the enhanced customer due dil",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "virtual_assets"
       ]
     },
     {
@@ -413,6 +422,7 @@
     {
       "unit": "Article 45 1. Member States shall require obliged entities that are part of a group to implement grou",
       "concepts": [
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },

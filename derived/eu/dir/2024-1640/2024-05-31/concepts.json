@@ -42,9 +42,11 @@
     "politically_exposed_persons",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
-    "suspicious_matter_reporting"
+    "suspicious_matter_reporting",
+    "virtual_assets"
   ],
   "tags": [
     {
@@ -118,6 +120,7 @@
         "beneficial_ownership",
         "suspicious_matter_reporting",
         "enrolment_registration",
+        "sanctions_prohibitions",
         "asset_freezing",
         "enforcement_and_offences",
         "supervisory_architecture"
@@ -192,6 +195,7 @@
         "beneficial_ownership",
         "record_keeping",
         "enrolment_registration",
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
@@ -222,6 +226,8 @@
         "beneficial_ownership",
         "enrolment_registration",
         "politically_exposed_persons",
+        "virtual_assets",
+        "sanctions_prohibitions",
         "asset_freezing",
         "enforcement_and_offences",
         "supervisory_architecture"
@@ -245,12 +251,14 @@
     {
       "unit": "Article 24 Suspension or withholding of consent",
       "concepts": [
+        "virtual_assets",
         "asset_freezing"
       ]
     },
     {
       "unit": "Article 25 Instructions to monitor transactions or activities",
       "concepts": [
+        "virtual_assets",
         "enforcement_and_offences"
       ]
     },
@@ -319,6 +327,7 @@
     {
       "unit": "Article 38 Supervision of forms of infrastructure of certain intermediaries operating under the freed",
       "concepts": [
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
@@ -326,6 +335,7 @@
       "unit": "Article 39 Provision of information to obliged entities",
       "concepts": [
         "risk_based_approach",
+        "sanctions_prohibitions",
         "supervisory_architecture"
       ]
     },
@@ -339,6 +349,7 @@
     {
       "unit": "Article 41 Central contact points",
       "concepts": [
+        "virtual_assets",
         "supervisory_architecture"
       ]
     },
@@ -477,6 +488,7 @@
       "unit": "Article 61 General provisions",
       "concepts": [
         "beneficial_ownership",
+        "sanctions_prohibitions",
         "supervisory_architecture"
       ]
     },
@@ -509,6 +521,7 @@
     {
       "unit": "Article 66 Cooperation with authorities in charge of implementing targeted financial sanctions",
       "concepts": [
+        "sanctions_prohibitions",
         "supervisory_architecture"
       ]
     },
