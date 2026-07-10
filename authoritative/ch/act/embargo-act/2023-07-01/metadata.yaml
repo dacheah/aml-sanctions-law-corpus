@@ -1,0 +1,58 @@
+corpus_id: ch/act/embargo-act
+version_id: '2023-07-01'
+title: Bundesgesetz über die Durchsetzung von internationalen Sanktionen (Embargogesetz, EmbG)
+short_title: Embargo Act / EmbG
+jurisdiction: CHE
+document_type: Federal Act
+legal_status: binding
+redistribution: open
+official_citation: Embargo Act (EmbA / EmbG), SR 946.231
+authentic_languages:
+- de
+- fr
+- it
+source_url: https://www.fedlex.admin.ch/eli/cc/2002/564/de
+source_publisher: Fedlex (Swiss Federal Chancellery)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:bec44fb579f6d003754fba33f6b460c8b4902fbf55f29fa89c2c928f0bec2f49
+original_sha256: sha256:b328f12b01f83b1506cbee83bd99997e39292171c0c875377653e19b34ace4a1
+text_sha256: sha256:bec44fb579f6d003754fba33f6b460c8b4902fbf55f29fa89c2c928f0bec2f49
+text_fidelity: extracted_verified
+language: de
+authoritative_status: authentic_text
+license: Swiss federal law — not copyright-protected (CopA SR 231.1 Art. 5); freely reproducible
+rights_note: Swiss federal law from Fedlex (fedlex.admin.ch), Swiss Federal Chancellery. Swiss official
+  texts are not copyright-protected (Copyright Act, SR 231.1, Art. 5) and are freely reproducible. Switzerland's
+  authentic legal languages are German, French and Italian; the German consolidated text is captured as
+  the authentic version. Fedlex also publishes an English translation which is expressly non-authentic
+  and has no legal force.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://www.fedlex.admin.ch/eli/cc/2002/564/de
+  original_sha256: sha256:b328f12b01f83b1506cbee83bd99997e39292171c0c875377653e19b34ace4a1
+  note: Official source PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: Switzerland's enabling act for implementing international (UN and autonomous) sanctions.
+  Authentic German; Fedlex English translation is non-authentic (https://www.fedlex.admin.ch/eli/cc/2002/564/en).
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9948
+    bigram_forward: 0.9653
+    unigram_reverse: 0.952
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers/footers)
+    and, for bilingual/section-extract records, the untargeted language or sections the comparison engine
+    retains; a token diff confirms the residual is non-substantive. Forward coverage is marginally below
+    the 0.995 English-calibrated gate because German long compound words tokenise differently between
+    the two engines; a manual diff confirms every residual token is a real compound present in the source
+    (no fabrication).'

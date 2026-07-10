@@ -73,6 +73,18 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -99,6 +111,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -276,6 +300,51 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF offences)": {
+       "count": 2,
+       "provisions": [
+        "462.31 (1) Every one commits an offence who uses,",
+        "83.02 Every person is guilty of an indictable offence and"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 5,
+     "instruments": {
+      "CDSA": {
+       "count": 2,
+       "provisions": [
+        "47.—(1) Except as provided in subsection (3) —",
+        "48.—(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may comm"
+       ]
+      },
+      "TSOFA": {
+       "count": 3,
+       "provisions": [
+        "3.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —",
+        "4.—(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes ava",
+        "5.—(1) Every person who —"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 3,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 3,
+       "provisions": [
+        "Art. 305bis 423",
+        "Art. 260quinquies 349",
+        "Art. 260ter 345"
+       ]
+      }
+     }
     }
    }
   },
@@ -451,6 +520,51 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF offences)": {
+       "count": 2,
+       "provisions": [
+        "462.31 (1) Every one commits an offence who uses,",
+        "83.02 Every person is guilty of an indictable offence and"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 5,
+     "instruments": {
+      "CDSA": {
+       "count": 2,
+       "provisions": [
+        "47.—(1) Except as provided in subsection (3) —",
+        "48.—(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may comm"
+       ]
+      },
+      "TSOFA": {
+       "count": 3,
+       "provisions": [
+        "3.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —",
+        "4.—(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes ava",
+        "5.—(1) Every person who —"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 3,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 3,
+       "provisions": [
+        "Art. 305bis 423",
+        "Art. 260quinquies 349",
+        "Art. 260ter 345"
+       ]
+      }
+     }
     }
    }
   },
@@ -621,6 +735,51 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF offences)": {
+       "count": 2,
+       "provisions": [
+        "462.31 (1) Every one commits an offence who uses,",
+        "83.02 Every person is guilty of an indictable offence and"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 5,
+     "instruments": {
+      "CDSA": {
+       "count": 2,
+       "provisions": [
+        "47.—(1) Except as provided in subsection (3) —",
+        "48.—(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may comm"
+       ]
+      },
+      "TSOFA": {
+       "count": 3,
+       "provisions": [
+        "3.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —",
+        "4.—(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes ava",
+        "5.—(1) Every person who —"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 3,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 3,
+       "provisions": [
+        "Art. 305bis 423",
+        "Art. 260quinquies 349",
+        "Art. 260ter 345"
+       ]
+      }
+     }
     }
    }
   },
@@ -742,6 +901,65 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 3,
+     "instruments": {
+      "JVCFOA (Magnitsky)": {
+       "count": 1,
+       "provisions": [
+        "4 (1) The Governor in Council may, if the Governor in"
+       ]
+      },
+      "SEMA": {
+       "count": 1,
+       "provisions": [
+        "4 (1) The Governor in Council may, if the Governor in"
+       ]
+      },
+      "United Nations Act (CA)": {
+       "count": 1,
+       "provisions": [
+        "2 When, in pursuance of Article 41 of the Charter of the"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 4,
+     "instruments": {
+      "TSOFA": {
+       "count": 1,
+       "provisions": [
+        "6.—(1) No person in Singapore and no citizen of Singapore outside Singapore may —"
+       ]
+      },
+      "UN (Anti-Terrorism Measures) Regs": {
+       "count": 2,
+       "provisions": [
+        "3.—(1) These Regulations do not apply to —",
+        "4.—(1) In these Regulations —"
+       ]
+      },
+      "United Nations Act (SG)": {
+       "count": 1,
+       "provisions": [
+        "2.—(1) Subject to subsection (2), if, under Article 41 of the Charter of the United Nations signed at San Francisco on 2"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 2,
+     "instruments": {
+      "Embargo Act / EmbG": {
+       "count": 2,
+       "provisions": [
+        "Art. 1 Gegenstand",
+        "Art. 2 Zuständigkeit"
+       ]
+      }
+     }
     }
    }
   },
@@ -836,6 +1054,65 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 3,
+     "instruments": {
+      "JVCFOA (Magnitsky)": {
+       "count": 1,
+       "provisions": [
+        "4 (1) The Governor in Council may, if the Governor in"
+       ]
+      },
+      "SEMA": {
+       "count": 1,
+       "provisions": [
+        "4 (1) The Governor in Council may, if the Governor in"
+       ]
+      },
+      "United Nations Act (CA)": {
+       "count": 1,
+       "provisions": [
+        "2 When, in pursuance of Article 41 of the Charter of the"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 4,
+     "instruments": {
+      "TSOFA": {
+       "count": 1,
+       "provisions": [
+        "6.—(1) No person in Singapore and no citizen of Singapore outside Singapore may —"
+       ]
+      },
+      "UN (Anti-Terrorism Measures) Regs": {
+       "count": 2,
+       "provisions": [
+        "3.—(1) These Regulations do not apply to —",
+        "4.—(1) In these Regulations —"
+       ]
+      },
+      "United Nations Act (SG)": {
+       "count": 1,
+       "provisions": [
+        "2.—(1) Subject to subsection (2), if, under Article 41 of the Charter of the United Nations signed at San Francisco on 2"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 2,
+     "instruments": {
+      "Embargo Act / EmbG": {
+       "count": 2,
+       "provisions": [
+        "Art. 1 Gegenstand",
+        "Art. 2 Zuständigkeit"
+       ]
+      }
+     }
     }
    }
   },
@@ -864,6 +1141,18 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -890,6 +1179,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1001,6 +1302,46 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 2,
+       "provisions": [
+        "6.1 Every person or entity referred to in section 5 shall",
+        "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 1,
+     "instruments": {
+      "PSPM Act 2019": {
+       "count": 1,
+       "provisions": [
+        "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 1,
+       "provisions": [
+        "Art. 305ter 431"
+       ]
+      },
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 3 Identifizierung der Vertragspartei"
+       ]
+      }
+     }
     }
    }
   },
@@ -1100,6 +1441,25 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 1,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 1,
+       "provisions": [
+        "6 Every person or entity referred to in section 5 shall"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1158,6 +1518,25 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 1,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 1,
+       "provisions": [
+        "9.3 (1) Every person or entity that is referred to in section 5 and that is prescribed shall determine, in the prescribe"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1223,6 +1602,25 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 1,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 1,
+       "provisions": [
+        "9.31 (1) No entity referred to in paragraph 5(a), (b), (d),"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1290,6 +1688,25 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 1,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 1,
+       "provisions": [
+        "11.1 Except as otherwise prescribed by regulation, every"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1346,6 +1763,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1405,6 +1834,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -1516,6 +1957,46 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 2,
+       "provisions": [
+        "6.1 Every person or entity referred to in section 5 shall",
+        "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 1,
+     "instruments": {
+      "PSPM Act 2019": {
+       "count": 1,
+       "provisions": [
+        "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 1,
+       "provisions": [
+        "Art. 305ter 431"
+       ]
+      },
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 3 Identifizierung der Vertragspartei"
+       ]
+      }
+     }
     }
    }
   },
@@ -1610,6 +2091,18 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -1735,6 +2228,46 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 2,
+       "provisions": [
+        "6.1 Every person or entity referred to in section 5 shall",
+        "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 1,
+     "instruments": {
+      "PSPM Act 2019": {
+       "count": 1,
+       "provisions": [
+        "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 1,
+       "provisions": [
+        "Art. 305ter 431"
+       ]
+      },
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 3 Identifizierung der Vertragspartei"
+       ]
+      }
+     }
     }
    }
   },
@@ -1822,6 +2355,39 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 1,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 1,
+       "provisions": [
+        "7 Subject to section 10.1, every person or entity referred"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 1,
+     "instruments": {
+      "TSOFA": {
+       "count": 1,
+       "provisions": [
+        "8.—(1) Every person in Singapore and every citizen of Singapore outside Singapore who —"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 1,
+     "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 9 Meldepflicht"
+       ]
+      }
+     }
     }
    }
   },
@@ -1886,6 +2452,18 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2003,6 +2581,46 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "PCMLTFA": {
+       "count": 2,
+       "provisions": [
+        "6.1 Every person or entity referred to in section 5 shall",
+        "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 1,
+     "instruments": {
+      "PSPM Act 2019": {
+       "count": 1,
+       "provisions": [
+        "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 1,
+       "provisions": [
+        "Art. 305ter 431"
+       ]
+      },
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 3 Identifizierung der Vertragspartei"
+       ]
+      }
+     }
     }
    }
   },
@@ -2049,6 +2667,25 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 1,
+     "instruments": {
+      "PSPM Act 2019": {
+       "count": 1,
+       "provisions": [
+        "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces"
+       ]
+      }
+     }
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2133,6 +2770,18 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2215,6 +2864,18 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2297,6 +2958,18 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2368,6 +3041,18 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2447,6 +3132,25 @@
        ]
       }
      }
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 1,
+     "instruments": {
+      "PSPM Act 2019": {
+       "count": 1,
+       "provisions": [
+        "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2473,6 +3177,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2634,6 +3350,51 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF offences)": {
+       "count": 2,
+       "provisions": [
+        "462.31 (1) Every one commits an offence who uses,",
+        "83.02 Every person is guilty of an indictable offence and"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 5,
+     "instruments": {
+      "CDSA": {
+       "count": 2,
+       "provisions": [
+        "47.—(1) Except as provided in subsection (3) —",
+        "48.—(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may comm"
+       ]
+      },
+      "TSOFA": {
+       "count": 3,
+       "provisions": [
+        "3.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —",
+        "4.—(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes ava",
+        "5.—(1) Every person who —"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 3,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 3,
+       "provisions": [
+        "Art. 305bis 423",
+        "Art. 260quinquies 349",
+        "Art. 260ter 345"
+       ]
+      }
+     }
     }
    }
   },
@@ -2793,6 +3554,51 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF offences)": {
+       "count": 2,
+       "provisions": [
+        "462.31 (1) Every one commits an offence who uses,",
+        "83.02 Every person is guilty of an indictable offence and"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 5,
+     "instruments": {
+      "CDSA": {
+       "count": 2,
+       "provisions": [
+        "47.—(1) Except as provided in subsection (3) —",
+        "48.—(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may comm"
+       ]
+      },
+      "TSOFA": {
+       "count": 3,
+       "provisions": [
+        "3.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —",
+        "4.—(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes ava",
+        "5.—(1) Every person who —"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 3,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 3,
+       "provisions": [
+        "Art. 305bis 423",
+        "Art. 260quinquies 349",
+        "Art. 260ter 345"
+       ]
+      }
+     }
     }
    }
   },
@@ -2819,6 +3625,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -2849,6 +3667,18 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -2875,6 +3705,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -3042,6 +3884,51 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 2,
+     "instruments": {
+      "Criminal Code (AML/CTF offences)": {
+       "count": 2,
+       "provisions": [
+        "462.31 (1) Every one commits an offence who uses,",
+        "83.02 Every person is guilty of an indictable offence and"
+       ]
+      }
+     }
+    },
+    "SGP": {
+     "provision_count": 5,
+     "instruments": {
+      "CDSA": {
+       "count": 2,
+       "provisions": [
+        "47.—(1) Except as provided in subsection (3) —",
+        "48.—(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may comm"
+       ]
+      },
+      "TSOFA": {
+       "count": 3,
+       "provisions": [
+        "3.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —",
+        "4.—(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes ava",
+        "5.—(1) Every person who —"
+       ]
+      }
+     }
+    },
+    "CHE": {
+     "provision_count": 3,
+     "instruments": {
+      "Criminal Code (AML/CTF articles)": {
+       "count": 3,
+       "provisions": [
+        "Art. 305bis 423",
+        "Art. 260quinquies 349",
+        "Art. 260ter 345"
+       ]
+      }
+     }
     }
    }
   },
@@ -3086,6 +3973,18 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -3123,6 +4022,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }
@@ -3164,6 +4075,18 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -3203,6 +4126,18 @@
     "EU": {
      "provision_count": 0,
      "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
+     "provision_count": 0,
+     "instruments": {}
     }
    }
   },
@@ -3235,6 +4170,18 @@
      "instruments": {}
     },
     "EU": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CAN": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "SGP": {
+     "provision_count": 0,
+     "instruments": {}
+    },
+    "CHE": {
      "provision_count": 0,
      "instruments": {}
     }

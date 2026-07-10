@@ -1,0 +1,55 @@
+corpus_id: ca/act/sema
+version_id: '2026-05-26'
+title: Special Economic Measures Act
+short_title: SEMA
+jurisdiction: CAN
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Special Economic Measures Act, S.C. 1992, c. 17
+authentic_languages:
+- en
+- fr
+source_url: https://laws-lois.justice.gc.ca/eng/acts/S-14.5/
+source_publisher: Justice Laws Website (Department of Justice Canada)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:5483b23b2b406fa089503469fea505a70341df1781a8da6df323a54827b5b8e1
+original_sha256: sha256:3c949eabb1d1aefada3cd76dda8539cc9948c07fc745db0bca3be45ca2ad7ff7
+text_sha256: sha256:5483b23b2b406fa089503469fea505a70341df1781a8da6df323a54827b5b8e1
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: Reproduction of Federal Law Order (SI/97-5) — free reproduction with attribution; not the official
+  version
+rights_note: Reproduced from the Justice Laws Website (laws-lois.justice.gc.ca), Department of Justice
+  Canada. Federal enactments are reproducible without charge or permission under the Reproduction of Federal
+  Law Order (SI/97-5), provided due diligence is used to ensure accuracy and the reproduction is not represented
+  as the official version. Not the official version — the official version is published on the Justice
+  Laws Website. Canadian federal statutes are equally authentic in English and French; the English version
+  is captured.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://laws-lois.justice.gc.ca/eng/acts/S-14.5/
+  original_sha256: sha256:3c949eabb1d1aefada3cd76dda8539cc9948c07fc745db0bca3be45ca2ad7ff7
+  note: Official source PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: Canada's autonomous economic-sanctions enabling statute.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9965
+    bigram_forward: 0.9507
+    unigram_reverse: 0.4424
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers/footers)
+    and, for bilingual/section-extract records, the untargeted language or sections the comparison engine
+    retains; a token diff confirms the residual is non-substantive.'

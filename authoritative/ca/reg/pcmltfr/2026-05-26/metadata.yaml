@@ -1,0 +1,56 @@
+corpus_id: ca/reg/pcmltfr
+version_id: '2026-05-26'
+title: Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations
+short_title: PCMLTFR
+jurisdiction: CAN
+document_type: Regulations
+legal_status: binding
+redistribution: open
+official_citation: Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations, SOR/2002-184
+authentic_languages:
+- en
+- fr
+source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-184/
+source_publisher: Justice Laws Website (Department of Justice Canada)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:11424290a01054385d02b80ee2d75fea40093083e296a7f0f41da53d5065cbc2
+original_sha256: sha256:5b6807bd750a8797c1b91a0dbf1261e3adc0a8fdad1ec7e6579ea12f4f640990
+text_sha256: sha256:11424290a01054385d02b80ee2d75fea40093083e296a7f0f41da53d5065cbc2
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: Reproduction of Federal Law Order (SI/97-5) — free reproduction with attribution; not the official
+  version
+rights_note: Reproduced from the Justice Laws Website (laws-lois.justice.gc.ca), Department of Justice
+  Canada. Federal enactments are reproducible without charge or permission under the Reproduction of Federal
+  Law Order (SI/97-5), provided due diligence is used to ensure accuracy and the reproduction is not represented
+  as the official version. Not the official version — the official version is published on the Justice
+  Laws Website. Canadian federal statutes are equally authentic in English and French; the English version
+  is captured.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-184/
+  original_sha256: sha256:5b6807bd750a8797c1b91a0dbf1261e3adc0a8fdad1ec7e6579ea12f4f640990
+  note: Official source PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: 'The principal consolidated regulation under the PCMLTFA: CDD, beneficial ownership,
+  and reporting detail.'
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9979
+    bigram_forward: 0.9611
+    unigram_reverse: 0.4251
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers/footers)
+    and, for bilingual/section-extract records, the untargeted language or sections the comparison engine
+    retains; a token diff confirms the residual is non-substantive.'

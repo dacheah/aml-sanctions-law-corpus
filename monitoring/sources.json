@@ -110,6 +110,86 @@
    "name": "UN Convention against Corruption (UNCAC/Mérida 2003, UNODC)",
    "url": "https://www.unodc.org/documents/treaties/UNCAC/Publications/Convention/08-50026_E.pdf",
    "last_sha256": null
+  },
+  {
+   "name": "Canada — PCMLTFA (S.C. 2000, c. 17)",
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/",
+   "last_sha256": null
+  },
+  {
+   "name": "Canada — PCMLTFR (SOR/2002-184)",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-184/",
+   "last_sha256": null
+  },
+  {
+   "name": "Canada — Criminal Code (R.S.C. 1985, c. C-46)",
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+   "last_sha256": null
+  },
+  {
+   "name": "Canada — Special Economic Measures Act (S.C. 1992, c. 17)",
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/S-14.5/",
+   "last_sha256": null
+  },
+  {
+   "name": "Canada — United Nations Act (R.S.C. 1985, c. U-2)",
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/U-2/",
+   "last_sha256": null
+  },
+  {
+   "name": "Canada — JVCFOA / Magnitsky (S.C. 2017, c. 21)",
+   "url": "https://laws-lois.justice.gc.ca/eng/acts/J-2.3/",
+   "last_sha256": null
+  },
+  {
+   "name": "Singapore — CDSA (Act 29 of 1992)",
+   "url": "https://sso.agc.gov.sg/Act/CDTOSCCBA1992",
+   "last_sha256": null
+  },
+  {
+   "name": "Singapore — TSOFA (Act 16 of 2002)",
+   "url": "https://sso.agc.gov.sg/Act/TSFA2002",
+   "last_sha256": null
+  },
+  {
+   "name": "Singapore — United Nations Act 2001 (Act 44 of 2001)",
+   "url": "https://sso.agc.gov.sg/Act/UNA2001",
+   "last_sha256": null
+  },
+  {
+   "name": "Singapore — UN (Anti-Terrorism Measures) Regs (Rg 1)",
+   "url": "https://sso.agc.gov.sg/SL/UNA2001-RG1",
+   "last_sha256": null
+  },
+  {
+   "name": "Singapore — Precious Stones and Precious Metals Act 2019 (Act 7 of 2019)",
+   "url": "https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019",
+   "last_sha256": null
+  },
+  {
+   "name": "Switzerland — AMLA / GwG (SR 955.0)",
+   "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de",
+   "last_sha256": null
+  },
+  {
+   "name": "Switzerland — AMLO / GwV (SR 955.01)",
+   "url": "https://www.fedlex.admin.ch/eli/cc/2015/791/de",
+   "last_sha256": null
+  },
+  {
+   "name": "Switzerland — AMLO-FINMA / GwV-FINMA (SR 955.033.0)",
+   "url": "https://www.fedlex.admin.ch/eli/cc/2015/390/de",
+   "last_sha256": null
+  },
+  {
+   "name": "Switzerland — Criminal Code (SR 311.0)",
+   "url": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de",
+   "last_sha256": null
+  },
+  {
+   "name": "Switzerland — Embargo Act / EmbG (SR 946.231)",
+   "url": "https://www.fedlex.admin.ch/eli/cc/2002/564/de",
+   "last_sha256": null
   }
  ],
  "_pending_once_ids_confirmed": [

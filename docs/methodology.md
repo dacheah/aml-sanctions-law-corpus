@@ -105,7 +105,16 @@ Drugs and Psychotropic Substances (Vienna, 1988), the UN Convention against Tran
 (Palermo / UNTOC, 2000), the International Convention for the Suppression of the Financing of Terrorism
 (1999), UN Security Council Resolutions 1267 (1999), 1373 (2001) and 1540 (2004), and the UN Convention
 against Corruption (UNCAC / Mérida, 2003 — Arts. 14 and 23 extend the AML framework into the corruption
-context). All jurisdictions are
+context); and — added by recorded decision (2026-07-10) — three further national branches: **Canada**
+(the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and Regulations, the Criminal Code
+money-laundering and terrorist-financing offences, and the sanctions statutes SEMA, the United Nations Act
+and the Magnitsky Act; from the Justice Laws Website, English captured from the bilingual consolidation,
+free reproduction under SI/97-5), **Singapore** (the CDSA, the Terrorism (Suppression of Financing) Act,
+the United Nations Act and its Anti-Terrorism Measures Regulations, and the Precious Stones and Precious
+Metals Act; from Singapore Statutes Online, reproduced with AGC permission), and **Switzerland** (the
+Anti-Money Laundering Act and Ordinance, the FINMA AML Ordinance, the Criminal Code money-laundering and
+terrorist-financing articles, and the Embargo Act; from Fedlex, captured as the **authentic German**
+consolidation — see the multilingual note below). All jurisdictions are
 cross-referenced, never merged; UK texts are Crown copyright under the Open Government Licence v3.0, US
 federal texts are public domain (17 U.S.C. §105), EU texts are © European Union reusable under Commission
 Decision 2011/833/EU with attribution, and UN treaties and Security Council resolutions are UN official
@@ -156,6 +165,28 @@ freely reproduced with attribution (`redistribution: open`), so — unlike FATF 
 published. The Palermo record's stored original is the UNODC ebook, which bundles the Convention with its
 three Protocols; the derived structure layer disambiguates the repeated article numbering per protocol
 section, and the FATF crosswalk's UN-treaty-basis mapping cites the Convention articles directly.
+
+The **Canadian** texts are captured from the Justice Laws Website as the official consolidations
+(`official_consolidation`). Justice Laws PDFs are bilingual side-by-side (English left, French right); the
+English authentic column is extracted word-by-word by horizontal position (both languages are equally
+authentic, the English is captured, and each record's "current to" date is the `version_id`). The Criminal
+Code money-laundering (s. 462.31) and terrorist-financing (ss. 83.02–83.04) offences are stored as a
+section extract sliced from the consolidated Code by committed anchors. Reproduction is under the
+Reproduction of Federal Law Order (SI/97-5): free, with the record noting it is not the official version.
+The **Singapore** texts are from Singapore Statutes Online (`official_consolidation` — SSO states the online
+text is an informal consolidation; the authoritative version is the printed 2020 Revised Edition), single
+column, reproduced with the Attorney-General's Chambers' permission. The **Swiss** texts are from Fedlex as
+the **authentic German** consolidation (`authentic_text`, `language: de`): Switzerland's authentic languages
+are German, French and Italian, and Fedlex's English is an expressly non-authentic translation (its URL is
+recorded in provenance), so — to keep the corpus's authentic-text discipline — the German is captured and
+the English linked. Swiss federal law is not copyright-protected (CopA Art. 5), so the full text is
+published. Two Swiss records sit marginally below the 0.995 forward-coverage gate (0.9946–0.9948) because
+German long compound words tokenise differently between the two comparison engines; a manual diff confirmed
+every residual token is a real compound in the source, so they are recorded as `extracted_verified` with the
+metrics and reason in their `verification` block. The Swiss Criminal Code articles (Art. 305bis, 305ter,
+260quinquies, 260ter) are a section extract; note that where a flattened superscript footnote digit attaches
+to a plain Fedlex article number the derived structure layer may carry that footnote in the unit number (a
+best-effort limitation of PDF capture — the authentic text itself is unaffected).
 
 ## 7. Neutral concept vocabulary
 

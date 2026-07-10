@@ -1,0 +1,53 @@
+corpus_id: sg/act/cdsa
+version_id: '2026-05-01'
+title: Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992
+short_title: CDSA
+jurisdiction: SGP
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
+  1992 (Act 29 of 1992, 2020 Rev. Ed.)
+authentic_languages:
+- en
+source_url: https://sso.agc.gov.sg/Act/CDTOSCCBA1992
+source_publisher: Singapore Statutes Online (Attorney-General's Chambers)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:6b51cacfa1aca3441ae4027752796198da939003b096b20af69f39697122bd16
+original_sha256: sha256:6ea864d3eef41d64150dd57ca8346033b4d749eef9042a136ca239a25b2e66a0
+text_sha256: sha256:6b51cacfa1aca3441ae4027752796198da939003b096b20af69f39697122bd16
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: Reproduced with the permission of the Attorney-General's Chambers of Singapore
+rights_note: Reproduced with the permission of the Attorney-General's Chambers of Singapore from Singapore
+  Statutes Online (sso.agc.gov.sg). This online version is an informal consolidation and is not the authoritative
+  text; the authoritative version is the printed 2020 Revised Edition / the Government Gazette. English
+  is Singapore's authentic legislative language.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://sso.agc.gov.sg/Act/CDTOSCCBA1992
+  original_sha256: sha256:6ea864d3eef41d64150dd57ca8346033b4d749eef9042a136ca239a25b2e66a0
+  note: Official source PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: Singapore's principal money-laundering offence, confiscation regime, and suspicious-transaction
+  reporting.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9999
+    bigram_forward: 0.9853
+    unigram_reverse: 0.9174
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers/footers)
+    and, for bilingual/section-extract records, the untargeted language or sections the comparison engine
+    retains; a token diff confirms the residual is non-substantive.'

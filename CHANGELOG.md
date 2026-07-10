@@ -16,6 +16,46 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.2.0] — 2026-07-10
+
+Adds three national branches — **Canada, Singapore and Switzerland** — taking the corpus to seven
+cross-referenced jurisdictions over the UN + FATF international backbone, and extends the FATF crosswalk to
+seven columns.
+
+### Added
+
+- **Canada branch** (`CAN`, 6 records) — the Proceeds of Crime (Money Laundering) and Terrorist Financing
+  Act and its Regulations, the Criminal Code money-laundering (s. 462.31) and terrorist-financing
+  (ss. 83.02–83.04) offences, the Special Economic Measures Act, the United Nations Act, and the Justice for
+  Victims of Corrupt Foreign Officials Act (Magnitsky). English captured from the bilingual Justice Laws
+  consolidations by word-level column separation.
+- **Singapore branch** (`SGP`, 5 records) — the Corruption, Drug Trafficking and Other Serious Crimes
+  (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the United Nations Act and
+  its Anti-Terrorism Measures Regulations, and the Precious Stones and Precious Metals Act. From Singapore
+  Statutes Online.
+- **Switzerland branch** (`CHE`, 5 records) — the Anti-Money Laundering Act (GwG) and Ordinance (GwV), the
+  FINMA AML Ordinance, the Criminal Code AML/CTF articles (305bis/305ter/260quinquies/260ter), and the
+  Embargo Act (EmbG). Captured as the **authentic German** consolidation from Fedlex (English on Fedlex is
+  non-authentic); Swiss federal law is not copyright-protected.
+- New extraction profiles in `extract.py` (Canada bilingual English-column word-level; Singapore SSO
+  single-column; Switzerland Fedlex German single-column) and committed Criminal-Code section slices for the
+  Canadian and Swiss offence extracts. Reproducibility is now **47 of 50** text-bearing records byte-exact.
+- Curated concept tags on the marquee provisions of all three branches, and the **FATF crosswalk extended to
+  seven national columns** (AU · UK · US · EU · CA · SG · CH) beneath the UN treaty basis.
+
+### Changed
+
+- `docs/methodology.md` §6 records the Canada/Singapore/Switzerland scope decision (dated) with the
+  bilingual-capture, informal-consolidation and authentic-German notes; the browsable site lists the three
+  new branches and the crosswalk renders seven columns.
+- `monitoring/sources.json` extended with the Canadian, Singaporean and Swiss source pages.
+
+### Notes
+
+- Two Swiss records verify at 0.9946–0.9948 forward coverage — marginally below the 0.995 English-calibrated
+  gate — because German long compounds tokenise differently between the comparison engines; a manual diff
+  confirms the residual is real source text (no fabrication), recorded in each `verification` block.
+
 ## [1.1.0] — 2026-07-09
 
 Adds the **UN backbone** — the international treaty and Security Council root beneath the FATF standard —
@@ -134,7 +174,8 @@ covering four fidelity-verified jurisdictions as separate, cross-referenced bran
 - This is a reference record of the law — **not legal or compliance advice** — and takes no position on any
   matter, institution, or investigation.
 
-[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.2.0
 [1.1.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.1.0
 [1.0.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.0.1
 [1.0.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.0.0

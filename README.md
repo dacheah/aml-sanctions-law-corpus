@@ -4,11 +4,11 @@
 
 A neutral, provenance-tracked, machine-readable record of the **law** of anti-money-laundering /
 counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone and rooted
-in the **UN treaty and Security Council** layer beneath it. Version 1 covers **Australia**, the **United
-Kingdom**, the **United States** and the **European Union** as separate, cross-referenced jurisdiction
-branches — never merged; each instrument is recorded from its own official source — over the shared
-**international backbone** (the UN conventions and resolutions, plus the FATF Recommendations) that they
-each implement.
+in the **UN treaty and Security Council** layer beneath it. Version 1 covers seven separate,
+cross-referenced jurisdiction branches — **Australia**, the **United Kingdom**, the **United States**, the
+**European Union**, **Canada**, **Singapore** and **Switzerland** — never merged; each instrument is
+recorded from its own official source — over the shared **international backbone** (the UN conventions and
+resolutions, plus the FATF Recommendations) that they each implement.
 
 > **An independent, non-commercial reference project. Not affiliated with or endorsed by any employer or
 > government body. Not legal or compliance advice.** This corpus records what each instrument says, as at
@@ -54,6 +54,9 @@ sha256sum authoritative/<id>/<version>/text.txt      # compare to text_sha256 in
 | UN Convention against Illicit Traffic in Narcotic Drugs (Vienna, 1988); UN Convention against Transnational Organized Crime (Palermo/UNTOC, 2000); International Convention for the Suppression of the Financing of Terrorism (1999) | international | ingested — UN backbone; authentic text, open (free reproduction with attribution) |
 | UN Security Council Resolutions 1267 (1999), 1373 (2001) and 1540 (2004) | international | ingested — UN backbone; authentic text, open (the enabling resolutions; designation *lists* out of scope) |
 | UN Convention against Corruption (UNCAC / Mérida, 2003) — Arts. 14 (prevent ML) & 23 (laundering of proceeds) | international | ingested — UN backbone; authentic text, open |
+| Proceeds of Crime (Money Laundering) and Terrorist Financing Act + Regulations; Criminal Code ss. 462.31 & 83.02–83.04; Special Economic Measures Act; United Nations Act; Magnitsky Act (JVCFOA) | CAN | ingested — Justice Laws consolidations; English captured from the bilingual text (free reproduction, SI/97-5) |
+| Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act; Terrorism (Suppression of Financing) Act; United Nations Act + Anti-Terrorism Measures Regs; Precious Stones and Precious Metals Act | SGP | ingested — Singapore Statutes Online (informal consolidation), with AGC permission |
+| Anti-Money Laundering Act (GwG) + Ordinance (GwV) + AMLO-FINMA; Criminal Code Art. 305bis/305ter/260quinquies/260ter; Embargo Act (EmbG) | CHE | ingested — Fedlex, **authentic German** consolidation (English on Fedlex is non-authentic) |
 | Charter of the United Nations Act 1945 (Comp. 15); Autonomous Sanctions Act 2011 (Comp. 4) + Regulations 2011 (Comp. 18) | AUS | ingested — sanctions branch, cross-referenced |
 | Proceeds of Crime Act 2002 (c. 29); Terrorism Act 2000 (c. 11); Sanctions and Anti-Money Laundering Act 2018 (c. 13) | GBR | ingested — official revised (in-force) consolidations from legislation.gov.uk |
 | Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (SI 2017/692) | GBR | ingested — revised, in force to 3 Jul 2026 (incl. SI 2026/621) |
@@ -93,6 +96,11 @@ See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
 - **UK legislation** is Crown copyright under the Open Government Licence v3.0; **US federal texts** are
   public domain (17 U.S.C. §105); **EU texts** are © European Union, reusable under Commission Decision
   2011/833/EU with attribution.
+- **Canadian federal law** is reproduced under the Reproduction of Federal Law Order (SI/97-5) — free, with
+  each record noting it is not the official version; **Singapore legislation** is reproduced with the
+  permission of the Attorney-General's Chambers (the online text is an informal consolidation); **Swiss
+  federal law** is not copyright-protected (CopA Art. 5) and is captured as the authentic German text
+  (Fedlex's English is a non-authentic translation).
 - Each source text keeps its own terms, recorded per record in `metadata.yaml`.
 
 Attribution for the Australian legislation: *Federal Register of Legislation

@@ -29,6 +29,54 @@
   "index": {
     "customer_due_diligence": [
       {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "65.—(1) The Minister may, by order in the Gazette, with or without conditions, exempt any person or class of persons fro"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "67.—(1) A prescribed person must perform such customer due diligence measures and internal control measures as may be pr"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "69.—(1) A prescribed person must maintain each record mentioned in section 67(3)(a) relating to a cash transaction, each"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "13.—(1) A person aggrieved by any of the following decisions may appeal to the Minister within the period and in the man"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "16.—(1) Subject to subsections (3) and (4), a regulated dealer must perform the prescribed customer due diligence measur"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "18.—(1) A regulated dealer must keep the following documents and information for the prescribed period:"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "39.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act."
+      },
+      {
         "corpus_id": "un/treaty/uncac-2003",
         "short_title": "UNCAC 2003 (Mérida)",
         "version_id": "2003-10-31",
@@ -51,6 +99,150 @@
         "short_title": "Terrorist Financing Convention 1999",
         "version_id": "1999-12-09",
         "unit": "Article 18"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "4.1 For the purposes of these Regulations, a person or"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "86 A financial entity shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "87 A financial entity shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "88 A financial entity shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "89 A trust company shall also"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "92 A life insurance company or life insurance broker or"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "94 A securities dealer shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "95 (1) A money services business — or a foreign money"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "96 A British Columbia notary public or British Columbia"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "100 An accountant or accounting firm shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "101 (1) A real estate broker or sales representative shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "102 A real estate developer shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "102.1 A mortgage administrator, mortgage broker or"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "102.2 A title insurer must"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "103 A casino shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "104 A department or an agent of His Majesty in right of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "105 (1) A person or entity that is required to verify a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "138 (1) Every person or entity, other than a title insurer, that is required to verify an entity’s identity in accordanc"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "154 (1) Subparagraphs 86(a)(i) and (ii), paragraphs"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "157 The prescribed special measures that are required"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "6.1 Every person or entity referred to in section 5 shall"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.2 (1) No person or entity referred to in section 5 shall"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.42 (1) In addition to any other measure required by"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -1097,6 +1289,18 @@
         "unit": "8  Use of applicable customer identification procedures by reporting entity"
       },
       {
+        "corpus_id": "ch/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF articles)",
+        "version_id": "2026-10-01",
+        "unit": "Art. 305ter 431"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 3 Identifizierung der Vertragspartei"
+      },
+      {
         "corpus_id": "eu/reg/2024-1620",
         "short_title": "AMLA Reg (Reg (EU) 2024/1620)",
         "version_id": "2024-05-31",
@@ -1692,6 +1896,24 @@
       }
     ],
     "beneficial_ownership": [
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "167 A person or entity referred to in section 5 of the Act"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.42 (1) In addition to any other measure required by"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73 (1) The Governor in Council may make any regulations that the Governor in Council considers necessary"
+      },
       {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
@@ -2847,6 +3069,48 @@
     ],
     "risk_based_approach": [
       {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "16 (1) For the purposes of subsections 9.4(1) and (3) of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "122.1 (1) A person or entity that determines under subsection 120(3), (4) or (5) or 120.1(1), (2) or (4) that a person i"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "123.1 A person or entity referred to in section 5 of the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "124 (1) For the purposes of section 9.5 of the Act, the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "124.1 (1) A financial entity, money services business or"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "138 (1) Every person or entity, other than a title insurer, that is required to verify an entity’s identity in accordanc"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.6 (1) Every person or entity referred to in section 5"
+      },
+      {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
         "version_id": "2026-07-07",
@@ -3653,10 +3917,124 @@
     ],
     "amlctf_program": [
       {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "33.—(1) This Part applies in relation to any drug dealing offence or serious offence, whether committed before, on or af"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "34.—(1) Where a defendant is convicted, or is by reason of section 29 taken to be convicted, of a drug dealing offence o"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "12.—(1) Any registered dealer or former registered dealer who fails to pay any financial penalty imposed on the person b"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "13.—(1) A person aggrieved by any of the following decisions may appeal to the Minister within the period and in the man"
+      },
+      {
         "corpus_id": "un/treaty/uncac-2003",
         "short_title": "UNCAC 2003 (Mérida)",
         "version_id": "2003-10-31",
         "unit": "Article 30. Prosecution, adjudication and sanctions"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "31 (1) Every copy of a consolidated statute or consolidated"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "5 The provisions of this Part are subject to the provisions of Parts 5 and 6."
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "83 The provisions of this Part are subject to the provisions of Parts 5 and 6."
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "115 The provisions of this Part are subject to the provisions of Parts 5 and 6."
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "155 (1) If a person or entity verifies a person’s identity"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "156 (1) For the purposes of subsection 9.6(1) of the Act,"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "167 A person or entity referred to in section 5 of the Act"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.5 Every person or entity that is referred to in section 5"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.6 (1) Every person or entity referred to in section 5"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.42 (1) In addition to any other measure required by"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.43 The person or entity to which a directive under"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.46 In the event of any inconsistency or conflict between a directive issued under this Part and a regulation"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "21 (1) On request of an officer, any mail that is being"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.38 (1) The Governor in Council may make regulations in respect of electronic communications and electronic means, inc"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.3 (1) The Director may write off in whole or in part a"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -4681,6 +5059,102 @@
     ],
     "suspicious_matter_reporting": [
       {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "8.—(1) Every person in Singapore and every citizen of Singapore outside Singapore who —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "10B.—(1) Any person —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "2.—(1) In this Act, unless the context otherwise requires —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "4.—(1) This Act applies to any drug dealing offence or foreign drug dealing offence whether committed before or after 30"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "5.—(1) There is to be an office of the Government called the Suspicious Transaction Reporting Office which is responsibl"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "41.—(1) An authorised officer may photograph or make copies of any material —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "45.—(1) Where a person knows or has reasonable grounds to suspect that any property —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "57.—(1) Any person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "60.—(1) A person must not move or attempt to move into or out of Singapore cash the total value of which exceeds the pre"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "62.—(1) A person who receives cash the total value of which exceeds the prescribed amount (or its equivalent in a foreig"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "63.—(1) A person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "65.—(1) The Minister may, by order in the Gazette, with or without conditions, exempt any person or class of persons fro"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "68.—(1) A prescribed person who enters into any cash transaction mentioned in section 67(1) must submit to a Suspicious "
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "77.—(1) Except as provided in subsection (2), or for the purpose of the performance of his or her duties or the exercise"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "17.—(1) A regulated dealer who enters into any designated transaction must submit to a Suspicious Transaction Reporting "
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "20.—(1) A regulated dealer must perform —"
+      },
+      {
         "corpus_id": "un/treaty/uncac-2003",
         "short_title": "UNCAC 2003 (Mérida)",
         "version_id": "2003-10-31",
@@ -4715,6 +5189,138 @@
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
         "unit": "Article 17"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "31 (1) Every copy of a consolidated statute or consolidated"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "84 A person or entity shall verify, in accordance with"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "116 (1) A financial entity shall take reasonable measures to determine whether"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "120 (1) A money services business shall take reasonable"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "120.1 (1) The following persons and entities shall take"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "120.2 (1) A casino shall take reasonable measures to"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "134 (1) A person or entity that is required under these"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "135 (1) A person or entity that is required under these"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "136 (1) A person or entity that is required to keep an information record under these Regulations — other than"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "137 (1) A casino that is required to report a disbursement under section 71 shall, when the casino makes the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "4 This Act is binding on Her Majesty in right of Canada"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "7 Subject to section 10.1, every person or entity referred"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "18 (1) If an officer believes on reasonable grounds that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "36 (1) Subject to this section and subsection 12(1) of the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.27 (1) Subject to this section and subsection 12(1) of"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "55 (1) Subject to subsections (3) and (6.1), sections 52,"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "55.1 (1) If the Centre, on the basis of its analysis and"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "56 (1) The Minister may enter into an agreement or arrangement, in writing, with the government of a foreign"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "56.1 (1) The Centre may disclose designated information to an institution or agency of a foreign state or of an"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "65.01 (1) The Centre may disclose to the Canada Revenue Agency information relating to the compliance with"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "65.02 (1) The Centre may disclose to the Canada Revenue Agency information relating to the compliance with"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77 The heading of Part 1 of the English version of"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -5051,6 +5657,12 @@
         "short_title": "AML/CTF Rules 2025",
         "version_id": "2026-03-31",
         "unit": "Schedule 1—Forms"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 9 Meldepflicht"
       },
       {
         "corpus_id": "eu/reg/2024-1620",
@@ -5415,6 +6027,36 @@
     ],
     "threshold_transaction_reporting": [
       {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "25.—(1) If, on an application by the defendant in respect of a confiscation order, the court is satisfied that the reali"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "57.—(1) Any person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "59.—(1) In this Part —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "80.—(1) Where an offence under this Act committed by a body corporate is proved —"
+      },
+      {
+        "corpus_id": "sg/act/united-nations-act",
+        "short_title": "United Nations Act (SG)",
+        "version_id": "2023-04-28",
+        "unit": "3.—(1) No action, suit or other legal proceedings shall lie against —"
+      },
+      {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
         "version_id": "2026-07-07",
@@ -5715,6 +6357,48 @@
         "unit": "Division 4—Registered remittance affiliates"
       },
       {
+        "corpus_id": "ch/reg/amlo-finma",
+        "short_title": "AMLO-FINMA / GwV-FINMA",
+        "version_id": "2023-01-01",
+        "unit": "Art. 78b97 Übergangsbestimmung zur Änderung vom 27. Oktober 2022"
+      },
+      {
+        "corpus_id": "ch/reg/amlo-finma",
+        "short_title": "AMLO-FINMA / GwV-FINMA",
+        "version_id": "2023-01-01",
+        "unit": "Art. 79 Inkrafttreten"
+      },
+      {
+        "corpus_id": "ch/reg/amlo",
+        "short_title": "AMLO / GwV",
+        "version_id": "2026-10-01",
+        "unit": "Art. 24 Inkrafttreten"
+      },
+      {
+        "corpus_id": "ch/act/embargo-act",
+        "short_title": "Embargo Act / EmbG",
+        "version_id": "2023-07-01",
+        "unit": "Art. 18 Referendum und Inkrafttreten"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 42281 Übergangsbestimmung zur Änderung vom 15. Juni 2018"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 42a284 Übergangsbestimmung zur Änderung vom 26. September 2025"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 44 Referendum und Inkrafttreten"
+      },
+      {
         "corpus_id": "eu/reg/2024-1620",
         "short_title": "AMLA Reg (Reg (EU) 2024/1620)",
         "version_id": "2024-05-31",
@@ -5847,6 +6531,204 @@
         "short_title": "UNCAC 2003 (Mérida)",
         "version_id": "2003-10-31",
         "unit": "Article 55. International cooperation for purposes of confiscation"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "31 (1) Every copy of a consolidated statute or consolidated"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "1 (1) In the Act and in these Regulations, shell bank"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "7 (1) A financial entity shall report the following transactions and information to the Centre:"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "12 A financial entity shall keep the following records in"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "13 A financial entity shall keep the following records in"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "14 (1) A financial entity shall keep the following records"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "30 (1) A money services business shall report the following transactions and information to the Centre:"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "33 (1) A foreign money services business shall report"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "36 A money services business shall keep the following"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "70 (1) A casino shall report the following transactions"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "74 (1) A casino shall keep the following records in respect of every account that the casino opens:"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "86 A financial entity shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "95 (1) A money services business — or a foreign money"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "103 A casino shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "116 (1) A financial entity shall take reasonable measures to determine whether"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "120 (1) A money services business shall take reasonable"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "120.2 (1) A casino shall take reasonable measures to"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "123.1 A person or entity referred to in section 5 of the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "124 (1) For the purposes of section 9.5 of the Act, the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "127 (1) If a person or entity that is required to report"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "128 (1) If a person or entity that is required to report"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "132 (1) A report that is required to be made under these"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "150 Sections 7, 10 to 14, 16, 85 to 88 and 116, subsections 123(1) and (2), sections 135, 138 and 145 and subsection 148"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "150.1 Paragraphs 7(1)(b) and (c), 12(o) to (q), 13(f) and"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "152 (1) The requirement to report information set out"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "167 A person or entity referred to in section 5 of the Act"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.4 (1) Every entity referred to in any of paragraphs"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.5 Every person or entity that is referred to in section 5"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "55 (1) Subject to subsections (3) and (6.1), sections 52,"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "55.1 (1) If the Centre, on the basis of its analysis and"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "56.1 (1) The Centre may disclose designated information to an institution or agency of a foreign state or of an"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "65.01 (1) The Centre may disclose to the Canada Revenue Agency information relating to the compliance with"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77.3 (1) Every person or entity commits an offence that"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -6193,6 +7075,84 @@
     ],
     "record_keeping": [
       {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "24.—(1) This section applies to the powers conferred on the General Division of the High Court by sections 19 to 23 or o"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "40.—(1) An authorised officer may, for the purpose of an investigation into drug dealing or criminal conduct (as the cas"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "41.—(1) An authorised officer may photograph or make copies of any material —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "42.—(1) In this Division —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "43.—(1) A financial institution must retain, or retain a copy of, each financial transaction document for the minimum re"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "44.—(1) Where a financial institution is required by law to release an original of a financial transaction document befo"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "49.—(1) Subject to subsection (6), the General Division of the High Court may, on an application by the Public Prosecuto"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "50.—(1) Subject to subsection (3), a person who enters into, or is otherwise concerned in an arrangement, knowing or hav"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "51.—(1) Subject to subsection (3), a person who enters into or is otherwise concerned in an arrangement, knowing or havi"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "55.—(1) Any person who possesses or uses any property that may be reasonably suspected of being, or of in whole or in pa"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "55A.—(1) Any person (A) —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "85.—(1) The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "23.—(1) The Registrar may exercise all or any powers in this section for any of the following purposes:"
+      },
+      {
         "corpus_id": "un/treaty/uncac-2003",
         "short_title": "UNCAC 2003 (Mérida)",
         "version_id": "2003-10-31",
@@ -6227,6 +7187,318 @@
         "short_title": "Terrorist Financing Convention 1999",
         "version_id": "1999-12-09",
         "unit": "Article 18"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "31 (1) Every copy of a consolidated statute or consolidated"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "4.1 For the purposes of these Regulations, a person or"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "36.1 A money services business, in connection with"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "37.1 (1) The documents referred to in subsection"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "46 A legal counsel or legal firm that, in connection with"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "89 A trust company shall also"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "93.1 (1) A factor shall verify,"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "93.2 (1) A financing or leasing entity shall verify"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "96 A British Columbia notary public or British Columbia"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "98 Any legal counsel or legal firm that is required to ascertain the identity of any person or confirm the existence of "
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "100 An accountant or accounting firm shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "101 (1) A real estate broker or sales representative shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "102 A real estate developer shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "102.1 A mortgage administrator, mortgage broker or"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "103 A casino shall"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "104 A department or an agent of His Majesty in right of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "108 A person or entity that is required to verify a person’s identity under these Regulations shall keep a record"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "109 (1) A person or entity that is required to verify a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "111 (1) If a person or entity that is referred to in any of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "112 (1) A person or entity that is required to verify the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "114 (1) If a person or entity that is referred to in any of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "122.1 (1) A person or entity that determines under subsection 120(3), (4) or (5) or 120.1(1), (2) or (4) that a person i"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "123 (1) If a financial entity, securities dealer or casino"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "124 (1) For the purposes of section 9.5 of the Act, the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "134 (1) A person or entity that is required under these"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "135 (1) A person or entity that is required under these"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "136 (1) A person or entity that is required to keep an information record under these Regulations — other than"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "137 (1) A casino that is required to report a disbursement under section 71 shall, when the casino makes the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "138 (1) Every person or entity, other than a title insurer, that is required to verify an entity’s identity in accordanc"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "139 A trust company that is required to keep a record in"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "143 (1) For the purposes of sections 11, 21, 28, 32 and"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "145 Every person and entity that enters into a business"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "146 (1) A person or entity that is required to verify the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "153 A person or entity that is required to keep a record"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "155 (1) If a person or entity verifies a person’s identity"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "160 A code of practice shall meet the following requirements:"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "6 Every person or entity referred to in section 5 shall"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.93 (1) A person or entity referred to in paragraph 5(h)"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "12 (1) Every person or entity referred to in subsection"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "14 (1) Subject to subsections (2) to (5), if a person or an"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "19 An officer may call on other persons to assist the officer in exercising any power of search, seizure or retention"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "21 (1) On request of an officer, any mail that is being"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "22 (1) An officer who retains currency or monetary instruments forfeited under subsection 14(5) shall send the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.02 (1) Every person or entity referred to in subsection (3) that reports the importation or exportation of"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.03 (1) Subject to subsections (2) to (5), if a person or"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.07 An officer may call on other persons to assist the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.1 (1) An officer who retains goods forfeited under"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "54 (1) The Centre"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "54.1 (1) The Centre is responsible for establishing and"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "64 (1) In this section, judge means a judge of a superior"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "65.1 (1) The Centre may enter into an agreement or arrangement, in writing, with an institution or agency of a"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "54.2 (1) The Centre is responsible for establishing and"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -7539,6 +8811,30 @@
     ],
     "tipping_off": [
       {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "7.—(1) Subject to subsection (2), the Minister may, by order in the Gazette, exempt any person in Singapore, or any citi"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "10A.—(1) Except as provided in subsection (3) —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "56.—(1) For the purpose of proving under this Part whether the whole or any part of any property constitutes, or directl"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "77.—(1) Except as provided in subsection (2), or for the purpose of the performance of his or her duties or the exercise"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -7702,6 +8998,18 @@
       }
     ],
     "designated_services": [
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "167 A person or entity referred to in section 5 of the Act"
+      },
       {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
@@ -9733,6 +11041,114 @@
     ],
     "enrolment_registration": [
       {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "21.—(1) A charging order may be made either absolutely or subject to conditions as to notifying any person holding any i"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "43.—(1) A financial institution must retain, or retain a copy of, each financial transaction document for the minimum re"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "44.—(1) Where a financial institution is required by law to release an original of a financial transaction document befo"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "45.—(1) Where a person knows or has reasonable grounds to suspect that any property —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "85.—(1) The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "4.—(1) The Minister may appoint from among public officers —"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "6.—(1) A person must not act as or hold out to be a regulated dealer unless the person is a registered dealer."
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "7.—(1) An application for registration as a registered dealer, or renewal of registration, must be —"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "8.—(1) The Registrar may refuse to grant or renew registration on any of the following grounds:"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "10.—(1) The Registrar may cancel the registration of a registered dealer, or suspend the registration for a period not e"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "11.—(1) Before exercising any power under section 10, the Registrar must, unless it is not practicable or desirable to d"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "12.—(1) Any registered dealer or former registered dealer who fails to pay any financial penalty imposed on the person b"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "13.—(1) A person aggrieved by any of the following decisions may appeal to the Minister within the period and in the man"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "23.—(1) The Registrar may exercise all or any powers in this section for any of the following purposes:"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "25.—(1) The Registrar may seize any property —"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "35.—(1) The Registrar may issue, approve, amend or revoke one or more codes of practice, guidelines or standards of perf"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "36A.—(1) Any document required or authorised by this Act to be served on any person may be served on the person —"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "39.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act."
+      },
+      {
         "corpus_id": "un/treaty/uncac-2003",
         "short_title": "UNCAC 2003 (Mérida)",
         "version_id": "2003-10-31",
@@ -9761,6 +11177,414 @@
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
         "unit": "Article 4 Jurisdiction"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "31 (1) Every copy of a consolidated statute or consolidated"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "1 (1) In the Act and in these Regulations, shell bank"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "15 (1) A trust company shall also keep the following"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "18 A life insurance company or life insurance broker or"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "20 A life insurance company or life insurance broker or"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "36 A money services business shall keep the following"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "75 For the purposes of sections 70 to 74, if a registered"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "109 (1) A person or entity that is required to verify a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "112 (1) A person or entity that is required to verify the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "134 (1) A person or entity that is required under these"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "135 (1) A person or entity that is required under these"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "136 (1) A person or entity that is required to keep an information record under these Regulations — other than"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "137 (1) A casino that is required to report a disbursement under section 71 shall, when the casino makes the"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "138 (1) Every person or entity, other than a title insurer, that is required to verify an entity’s identity in accordanc"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "154 (1) Subparagraphs 86(a)(i) and (ii), paragraphs"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "167 A person or entity referred to in section 5 of the Act"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "4 This Act is binding on Her Majesty in right of Canada"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.01 (1) A person or entity referred to in section 5 may"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.1 Except as otherwise prescribed by regulation, every"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.11 (1) The following persons or entities are not eligible for registration with the Centre:"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.12 (1) An application for registration shall be submitted to the Centre in the prescribed form and manner"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.13 (1) An applicant or a person or entity registered"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.14 (1) An applicant shall provide the Centre, in the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.15 The applicant is registered with the Centre once"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.17 (1) A registered person or entity shall provide the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.171 The Centre may revoke the registration of a person or entity that contravenes subsection 62(2) or a notice served"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.18 Any decision to deny an application or revoke a"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.19 A registered person or entity shall renew their"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.2 When a registered person or entity ceases an activity for which they are registered, they shall notify the Centre i"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.3 (1) Within 30 days after the day on which the person or entity receives a decision to deny their application"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4 (1) A person or entity that applied for a review under subsection 11.3(1) may appeal the Director’s decision"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "18 (1) If an officer believes on reasonable grounds that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "31 The service of the President’s notice under section 26"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "32 (1) If currency or monetary instruments have been"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "36 (1) Subject to this section and subsection 12(1) of the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.06 (1) If an officer has reasonable grounds to believe"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.22 The service of the President’s notice under section"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.23 (1) If goods have been seized as forfeit under this"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.27 (1) Subject to this section and subsection 12(1) of"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "53.6 (1) The Centre shall, within 30 days after the day"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "54.1 (1) The Centre is responsible for establishing and"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "55 (1) Subject to subsections (3) and (6.1), sections 52,"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "55.1 (1) If the Centre, on the basis of its analysis and"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "56.1 (1) The Centre may disclose designated information to an institution or agency of a foreign state or of an"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "72.1 The service of a notice by or on behalf of the Centre"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73 (1) The Governor in Council may make any regulations that the Governor in Council considers necessary"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.26 (1) The unpaid amount of any debt referred to in"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77.3 (1) Every person or entity commits an offence that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77.4 A person or entity referred to in section 11.1 that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "83.2 (1) A specified person or entity shall, no later than the second anniversary,"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "83.3 (1) A specified person or entity that is registered with the Centre on the commencement day"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77 The heading of Part 1 of the English version of"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "82 The Act is amended by adding the following"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4001 (1) Subject to subsection (2), every person or"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4002 If section 11.4001 applies to a person or entity,"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4003 An applicant is enrolled if the Centre adds the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4004 An enrolled person or entity shall renew their"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4005 An application for renewal of enrolment shall"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4006 An applicant for renewal of enrolment remains"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4007 An applicant for enrolment or for renewal of"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4008 (1) An applicant for enrolment or for renewal"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4009 (1) The Centre shall deny an application for"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.401 (1) An enrolled person or entity shall provide"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4011 (1) The Centre may revoke the enrolment of"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4012 (1) If section 11.4001 ceases to apply to an enrolled person or entity, the person or entity shall notify"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4013 If the Centre determines that section 11.4001"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "54.2 (1) The Centre is responsible for establishing and"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "93 Subsection 73(1) of the Act is amended by"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -11135,6 +12959,72 @@
         "short_title": "AML/CTF Transitional Rules 2026",
         "version_id": "2026-05-14",
         "unit": "19  Notifying AML/CTF compliance officer—certain persons with delayed enrolment"
+      },
+      {
+        "corpus_id": "ch/reg/amlo-finma",
+        "short_title": "AMLO-FINMA / GwV-FINMA",
+        "version_id": "2023-01-01",
+        "unit": "Art. 47 Juristische Personen, Personengesellschaften und Behörden"
+      },
+      {
+        "corpus_id": "ch/reg/amlo",
+        "short_title": "AMLO / GwV",
+        "version_id": "2026-10-01",
+        "unit": "Art. 5 Handelstätigkeit"
+      },
+      {
+        "corpus_id": "ch/reg/amlo",
+        "short_title": "AMLO / GwV",
+        "version_id": "2026-10-01",
+        "unit": "Art. 22c Zulassung zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren im GwG-Bereich"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 2 Geltungsbereich"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 20170 Tätigkeit ohne Anschluss an eine Selbstregulierungsorganisation"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 22a"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 26a210 Inländische Gruppengesellschaften"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 29 Informationsaustausch unter Behörden227"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 35 Bearbeitung durch die Meldestelle"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 35a270 Überprüfung"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 36272"
       },
       {
         "corpus_id": "eu/reg/2024-1620",
@@ -13581,6 +15471,54 @@
     ],
     "correspondent_banking": [
       {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "1 (1) In the Act and in these Regulations, shell bank"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "16 (1) For the purposes of subsections 9.4(1) and (3) of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "90 A financial entity that enters into a correspondent"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "91 If a client of a foreign financial institution has direct"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "156 (1) For the purposes of subsection 9.6(1) of the Act,"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "2 (1) The definitions in this section apply in this Act."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.31 (1) No entity referred to in paragraph 5(a), (b), (d),"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.4 (1) Every entity referred to in any of paragraphs"
+      },
+      {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
         "version_id": "2026-07-07",
@@ -13995,6 +15933,18 @@
         "short_title": "UNCAC 2003 (Mérida)",
         "version_id": "2003-10-31",
         "unit": "Article 52. Prevention and detection of transfers"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.2 (1) No person or entity referred to in section 5 shall"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.3 (1) Every person or entity that is referred to in section 5 and that is prescribed shall determine, in the prescribe"
       },
       {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
@@ -15243,6 +17193,18 @@
         "unit": "para 3 Decides also that all States shall take and enforce effective measures to establish domestic controls to prevent "
       },
       {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "4 (1) The Governor in Council may, if the Governor in"
+      },
+      {
+        "corpus_id": "ca/act/united-nations-act",
+        "short_title": "United Nations Act (CA)",
+        "version_id": "2026-05-26",
+        "unit": "2 When, in pursuance of Article 41 of the Charter of the"
+      },
+      {
         "corpus_id": "usa/usc/ieepa-50-35",
         "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
         "version_id": "2024",
@@ -15369,6 +17331,12 @@
         "unit": "16  Offence—contravening a sanction law"
       },
       {
+        "corpus_id": "ch/act/embargo-act",
+        "short_title": "Embargo Act / EmbG",
+        "version_id": "2023-07-01",
+        "unit": "Art. 2 Zuständigkeit"
+      },
+      {
         "corpus_id": "gbr/act/samla-2018",
         "short_title": "SAMLA 2018",
         "version_id": "2026-07-02",
@@ -15432,6 +17400,36 @@
       }
     ],
     "asset_freezing": [
+      {
+        "corpus_id": "sg/reg/un-anti-terrorism-measures",
+        "short_title": "UN (Anti-Terrorism Measures) Regs",
+        "version_id": "2023-04-28",
+        "unit": "3.—(1) These Regulations do not apply to —"
+      },
+      {
+        "corpus_id": "sg/reg/un-anti-terrorism-measures",
+        "short_title": "UN (Anti-Terrorism Measures) Regs",
+        "version_id": "2023-04-28",
+        "unit": "4.—(1) In these Regulations —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "6.—(1) No person in Singapore and no citizen of Singapore outside Singapore may —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "10B.—(1) Any person —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "85.—(1) The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and"
+      },
       {
         "corpus_id": "un/unscr/1373-2001",
         "short_title": "UNSCR 1373 (2001)",
@@ -15515,6 +17513,18 @@
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
         "unit": "Article 1 Definitions"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.11 (1) The following persons or entities are not eligible for registration with the Centre:"
+      },
+      {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "4 (1) The Governor in Council may, if the Governor in"
       },
       {
         "corpus_id": "usa/usc/ieepa-50-35",
@@ -16257,6 +18267,12 @@
     ],
     "designation_criteria": [
       {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "4 (1) The Governor in Council may, if the Governor in"
+      },
+      {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
         "version_id": "2026-07-07",
@@ -16769,6 +18785,12 @@
     ],
     "un_and_autonomous_sanctions": [
       {
+        "corpus_id": "sg/act/united-nations-act",
+        "short_title": "United Nations Act (SG)",
+        "version_id": "2023-04-28",
+        "unit": "2.—(1) Subject to subsection (2), if, under Article 41 of the Charter of the United Nations signed at San Francisco on 2"
+      },
+      {
         "corpus_id": "un/unscr/1373-2001",
         "short_title": "UNSCR 1373 (2001)",
         "version_id": "2001-09-28",
@@ -16803,6 +18825,18 @@
         "short_title": "UNSCR 1540 (2004)",
         "version_id": "2004-04-28",
         "unit": "preamble"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "4 (1) The Governor in Council may, if the Governor in"
+      },
+      {
+        "corpus_id": "ca/act/united-nations-act",
+        "short_title": "United Nations Act (CA)",
+        "version_id": "2026-05-26",
+        "unit": "2 When, in pursuance of Article 41 of the Charter of the"
       },
       {
         "corpus_id": "usa/usc/ieepa-50-35",
@@ -16991,6 +19025,12 @@
         "unit": "Division 2—AML/CTF policies related to ML/TF risk mitigation"
       },
       {
+        "corpus_id": "ch/act/embargo-act",
+        "short_title": "Embargo Act / EmbG",
+        "version_id": "2023-07-01",
+        "unit": "Art. 1 Gegenstand"
+      },
+      {
         "corpus_id": "gbr/act/samla-2018",
         "short_title": "SAMLA 2018",
         "version_id": "2026-07-02",
@@ -17058,6 +19098,534 @@
       }
     ],
     "enforcement_and_offences": [
+      {
+        "corpus_id": "sg/reg/un-anti-terrorism-measures",
+        "short_title": "UN (Anti-Terrorism Measures) Regs",
+        "version_id": "2023-04-28",
+        "unit": "10.—(1) Every person in Singapore, and every citizen of Singapore outside Singapore, who has information about any trans"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "2.—(1) In this Act, unless the context otherwise requires —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "3.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "4.—(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes ava"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "5.—(1) Every person who —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "9.—(1) The Minister may, by order in the Gazette, require any person or class of persons to determine on a continuing ba"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "10.—(1) Every person in Singapore who has information which the person knows or believes may be of material assistance —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "10A.—(1) Except as provided in subsection (3) —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "10B.—(1) Any person —"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "11.—(1) A Judge may, on an application without notice by the Public Prosecutor, after examining the application in priva"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "19.—(1) Any person who has an interest in the property that was seized under a warrant issued under section 11(1)(a) or "
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "32.—(1) Where there is no treaty, memorandum of understanding or other agreement in force between Singapore and a countr"
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "33.—(1) Every terrorism financing offence is deemed to be an extradition offence under the Extradition Act 1968."
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "34.—(1) Every person who, outside Singapore, commits an act or omission that, if committed in Singapore, would constitut"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "2.—(1) In this Act, unless the context otherwise requires —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "4.—(1) This Act applies to any drug dealing offence or foreign drug dealing offence whether committed before or after 30"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "6.—(1) Subject to section 30, where a defendant is convicted of one or more drug dealing offences, the court must, on th"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "7.—(1) Subject to section 30, where a defendant is convicted of one or more serious offences, the court must, on the app"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "9.—(1) Where the defendant has been charged with or convicted of a drug dealing offence or a serious offence, the court "
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "12.—(1) Where —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "15.—(1) For the purposes of sections 12 and 13, the amount that might be realised at the time a confiscation order is ma"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "17.—(1) Subject to subsection (4), where a court orders the defendant to pay any amount under section 6 or 7, section 31"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "18.—(1) The powers conferred on the General Division of the High Court by section 19(1) to make a restraint order and by"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "19.—(1) The General Division of the High Court may make a restraint order to prohibit any person from dealing with any r"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "20.—(1) The General Division of the High Court may make a charging order on realisable property for securing the payment"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "22.—(1) Where —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "29.—(1) For the purposes of this Act, a person is taken to be convicted of a drug dealing offence or a serious offence ("
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "31.—(1) Proceedings under this Act are to be instituted or continued against the personal representatives of a deceased "
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "33.—(1) This Part applies in relation to any drug dealing offence or serious offence, whether committed before, on or af"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "34.—(1) Where a defendant is convicted, or is by reason of section 29 taken to be convicted, of a drug dealing offence o"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "35.—(1) The provisions of Parts 2, 3 and 4 apply in relation to, and for the purpose of enabling the satisfaction of, a "
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "36.—(1) An authorised officer may, for the purpose of an investigation into drug dealing or criminal conduct (as the cas"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "37.—(1) The Public Prosecutor or any person duly authorised by the Public Prosecutor in writing may, for the purpose of "
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "39.—(1) Where a person is required by a production order to produce any material to an authorised officer or make any ma"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "40.—(1) An authorised officer may, for the purpose of an investigation into drug dealing or criminal conduct (as the cas"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "43.—(1) A financial institution must retain, or retain a copy of, each financial transaction document for the minimum re"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "44.—(1) Where a financial institution is required by law to release an original of a financial transaction document befo"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "45.—(1) Where a person knows or has reasonable grounds to suspect that any property —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "47.—(1) Except as provided in subsection (3) —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "48.—(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may comm"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "49.—(1) Subject to subsection (6), the General Division of the High Court may, on an application by the Public Prosecuto"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "50.—(1) Subject to subsection (3), a person who enters into, or is otherwise concerned in an arrangement, knowing or hav"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "51.—(1) Subject to subsection (3), a person who enters into or is otherwise concerned in an arrangement, knowing or havi"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "52.—(1) Subject to subsection (2), no witness in any civil or criminal proceedings is obliged —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "53.—(1) Any person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "54.—(1) Any person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "55.—(1) Any person who possesses or uses any property that may be reasonably suspected of being, or of in whole or in pa"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "55A.—(1) Any person (A) —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "56.—(1) For the purpose of proving under this Part whether the whole or any part of any property constitutes, or directl"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "57.—(1) Any person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "60.—(1) A person must not move or attempt to move into or out of Singapore cash the total value of which exceeds the pre"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "62.—(1) A person who receives cash the total value of which exceeds the prescribed amount (or its equivalent in a foreig"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "63.—(1) A person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "67.—(1) A prescribed person must perform such customer due diligence measures and internal control measures as may be pr"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "68.—(1) A prescribed person who enters into any cash transaction mentioned in section 67(1) must submit to a Suspicious "
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "69.—(1) A prescribed person must maintain each record mentioned in section 67(3)(a) relating to a cash transaction, each"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "70.—(1) Where, in relation to an investigation into drug dealing or criminal conduct (as the case may be), an order unde"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "71.—(1) If an investigation is begun against a person for a drug dealing offence or a serious offence (as the case may b"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "72.—(1) Any question of fact to be decided by a court in proceedings under this Act is to be decided on the balance of p"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "74.—(1) A document purporting to be issued by or on behalf of the government of a foreign country or part thereof and pu"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "75.—(1) For the purposes of any proceedings under this Act or any subsidiary legislation made under this Act, the fact t"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "76.—(1) An authorised officer or an officer of customs may arrest without warrant any person whom he or she reasonably b"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "77.—(1) Except as provided in subsection (2), or for the purpose of the performance of his or her duties or the exercise"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "80.—(1) Where an offence under this Act committed by a body corporate is proved —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "81.—(1) The Minister, or any person authorised by the Minister in writing, may compound any offence under this Act, or u"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "82.—(1) A Magistrate’s Court or a District Court has jurisdiction to hear and determine any offence under this Act and, "
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "85.—(1) The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and"
+      },
+      {
+        "corpus_id": "sg/act/united-nations-act",
+        "short_title": "United Nations Act (SG)",
+        "version_id": "2023-04-28",
+        "unit": "5.—(1) Every person who commits, or attempts to commit, or does any act with intent to commit, or counsels, procures, ai"
+      },
+      {
+        "corpus_id": "sg/act/united-nations-act",
+        "short_title": "United Nations Act (SG)",
+        "version_id": "2023-04-28",
+        "unit": "6.—(1) The provisions of this Act have effect, in relation to citizens of Singapore, outside as well as within Singapore"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "6.—(1) A person must not act as or hold out to be a regulated dealer unless the person is a registered dealer."
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "8.—(1) The Registrar may refuse to grant or renew registration on any of the following grounds:"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "10.—(1) The Registrar may cancel the registration of a registered dealer, or suspend the registration for a period not e"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "16.—(1) Subject to subsections (3) and (4), a regulated dealer must perform the prescribed customer due diligence measur"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "17.—(1) A regulated dealer who enters into any designated transaction must submit to a Suspicious Transaction Reporting "
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "18.—(1) A regulated dealer must keep the following documents and information for the prescribed period:"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "19.—(1) A regulated dealer must, in relation to the regulated dealer’s business of regulated dealing or business as an i"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "20.—(1) A regulated dealer must perform —"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "21.—(1) A regulated dealer must, if circumstances exist that require the regulated dealer to do so, make a disclosure un"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "22.—(1) The Registrar may give a written direction mentioned in subsection (2) to a regulated dealer in respect of that "
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "23.—(1) The Registrar may exercise all or any powers in this section for any of the following purposes:"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "24.—(1) The Registrar may, for the purposes of investigating an offence under this Act, in addition to exercising the po"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "25.—(1) The Registrar may seize any property —"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "29.—(1) The Registrar may disclose any information or document obtained in the exercise of his or her functions under th"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "31.—(1) The Registrar may compound any offence under this Act that is prescribed as a compoundable offence by collecting"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "32.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporatio"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "33.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorpo"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "35.—(1) The Registrar may issue, approve, amend or revoke one or more codes of practice, guidelines or standards of perf"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "39.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act."
+      },
       {
         "corpus_id": "un/unscr/1373-2001",
         "short_title": "UNSCR 1373 (2001)",
@@ -17681,6 +20249,450 @@
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
         "unit": "Article 15"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "99 If, as a result of its ongoing monitoring of a business"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "107 (1) A person or entity that is required to verify a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "110 (1) A person or entity that is required to verify a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "111 (1) If a person or entity that is referred to in any of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "113 (1) A person or entity that is required to verify an"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "114 (1) If a person or entity that is referred to in any of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "121 (1) A financial entity, securities dealer or casino"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "122 (1) A financial entity, life insurance company, life"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "122.1 (1) A person or entity that determines under subsection 120(3), (4) or (5) or 120.1(1), (2) or (4) that a person i"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "138 (1) Every person or entity, other than a title insurer, that is required to verify an entity’s identity in accordanc"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "7.1 The Minister of Foreign Affairs may, with the approval of the Governor in Council, enter into an agreement with the "
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "8 Every person who wilfully contravenes or fails to comply with an order or regulation made under section 4"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "9 (1) A person having the powers of an officer under the"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "11 (1) Any proceedings in respect of an offence under"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "12 Proceedings with respect to an offence under this"
+      },
+      {
+        "corpus_id": "ca/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF offences)",
+        "version_id": "2026-05-26",
+        "unit": "462.31 (1) Every one commits an offence who uses,"
+      },
+      {
+        "corpus_id": "ca/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF offences)",
+        "version_id": "2026-05-26",
+        "unit": "83.02 Every person is guilty of an indictable offence and"
+      },
+      {
+        "corpus_id": "ca/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF offences)",
+        "version_id": "2026-05-26",
+        "unit": "83.03 (1) Every person is guilty of an indictable offence"
+      },
+      {
+        "corpus_id": "ca/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF offences)",
+        "version_id": "2026-05-26",
+        "unit": "83.032 (1) On application, the Public Safety Minister"
+      },
+      {
+        "corpus_id": "ca/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF offences)",
+        "version_id": "2026-05-26",
+        "unit": "83.04 Every person is guilty of an indictable offence and"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "2 (1) The definitions in this section apply in this Act."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "3 The object of this Act is"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.6 (1) Every person or entity referred to in section 5"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.8 (1) Every entity referred to in any of paragraphs 5(a)"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.11 (1) The following persons or entities are not eligible for registration with the Centre:"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.171 The Centre may revoke the registration of a person or entity that contravenes subsection 62(2) or a notice served"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "18 (1) If an officer believes on reasonable grounds that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "25 A person from whom currency or monetary instruments were seized under section 18, or the lawful owner"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "27 (1) Within 90 days after the expiry of the period referred to in subsection 26(2), the Minister shall decide"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "28 If the Minister decides that subsection 12(1) was not"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "29 (1) If the Minister decides that subsection 12(1) was"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "36 (1) Subject to this section and subsection 12(1) of the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "38.1 The Minister, with the consent of the Minister designated for the purpose of section 42, may enter into an"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.18 (1) Within 90 days after the end of the period referred to in subsection 39.17(2), the Minister shall decide"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.27 (1) Subject to this section and subsection 12(1) of"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.29 (1) The Canada Border Services Agency may"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.31 The Minister, with the consent of the Minister"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.39 (1) The Governor in Council may make regulations establishing an administrative monetary penalties"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "53.6 (1) The Centre shall, within 30 days after the day"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "55 (1) Subject to subsections (3) and (6.1), sections 52,"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "55.1 (1) If the Centre, on the basis of its analysis and"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "56 (1) The Minister may enter into an agreement or arrangement, in writing, with the government of a foreign"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "56.1 (1) The Centre may disclose designated information to an institution or agency of a foreign state or of an"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "58 (1) The Centre may"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "59 (1) Subject to section 36 of the Access to Information"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "60 (1) Despite the provisions of any other Act, except"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "60.1 (1) The Director of the Canadian Security Intelligence Service, or any employee of the Canadian Security"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "60.3 (1) If the Centre makes a disclosure under paragraph 55(3)(b), the Commissioner of Revenue, appointed"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "65 (1) The Centre may disclose to the appropriate law"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.111 (1) Subject to subsection (2), if the Centre requests information from the person or entity to enable"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.12 If an act or omission may be proceeded with as a"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.22 (1) In the following cases, the Centre shall make"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.23 (1) For greater certainty, a violation is not an offence."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.24 (1) Due diligence is a defence in a proceeding in"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.4 In a proceeding in respect of a violation or a prosecution for an offence, a notice of violation purporting to"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.5 (1) No proceedings in respect of a violation may be"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "74 (1) Every person or entity that knowingly contravenes any of sections 6, 6.1 and 9.1 to 9.31, subsection"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "75 (1) Every person or entity that contravenes section 7"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "76 Every person or entity that contravenes section 8 is"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77 (1) Every person or entity that contravenes subsection 9(1) or (3) is guilty of an offence and liable on summary conv"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77.01 Every person or entity that knowingly contravenes section 9.92 or 9.93 is guilty of an offence and liable"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77.1 (1) Every person or entity that, under this Act, is"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77.2 (1) Every person or entity that is an employer, that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77.3 (1) Every person or entity commits an offence that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "77.4 A person or entity referred to in section 11.1 that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "78 If a person or an entity commits an offence under"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "79 In a prosecution for an offence under section 75 or"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "80 A peace officer or a person acting under the direction"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "81 (1) Proceedings under paragraph 74(1)(a), 74(2)(a),"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "82 A complaint or information in respect of an offence"
+      },
+      {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "10 (1) A foreign national who is the subject of an order"
+      },
+      {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "11 Every person who knowingly contravenes or fails to"
+      },
+      {
+        "corpus_id": "ca/act/united-nations-act",
+        "short_title": "United Nations Act (CA)",
+        "version_id": "2026-05-26",
+        "unit": "3 (1) Any person who contravenes an order or regulation made under this Act is guilty of an offence and liable"
+      },
+      {
+        "corpus_id": "ca/act/united-nations-act",
+        "short_title": "United Nations Act (CA)",
+        "version_id": "2026-05-26",
+        "unit": "4 (1) Every order and regulation made under this Act"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -20237,6 +23249,24 @@
         "short_title": "AML/CTF Transitional Rules 2026",
         "version_id": "2026-05-14",
         "unit": "20  Notice may be provided after conduct occurs"
+      },
+      {
+        "corpus_id": "ch/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF articles)",
+        "version_id": "2026-10-01",
+        "unit": "Art. 260ter 345"
+      },
+      {
+        "corpus_id": "ch/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF articles)",
+        "version_id": "2026-10-01",
+        "unit": "Art. 260quinquies 349"
+      },
+      {
+        "corpus_id": "ch/act/criminal-code-aml-ctf",
+        "short_title": "Criminal Code (AML/CTF articles)",
+        "version_id": "2026-10-01",
+        "unit": "Art. 305bis 423"
       },
       {
         "corpus_id": "eu/reg/2024-1620",
@@ -24333,6 +27363,36 @@
     ],
     "supervisory_architecture": [
       {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "10B.—(1) Any person —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "3.—(1) For the purposes of this Act, an item is subject to legal privilege if —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "45.—(1) Where a person knows or has reasonable grounds to suspect that any property —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "57.—(1) Any person who —"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "29.—(1) The Registrar may disclose any information or document obtained in the exercise of his or her functions under th"
+      },
+      {
         "corpus_id": "un/treaty/uncac-2003",
         "short_title": "UNCAC 2003 (Mérida)",
         "version_id": "2003-10-31",
@@ -24391,6 +27451,102 @@
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
         "unit": "Article 1 Definitions"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "16 (1) For the purposes of subsections 9.4(1) and (3) of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "75 For the purposes of sections 70 to 74, if a registered"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "90 A financial entity that enters into a correspondent"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "107 (1) A person or entity that is required to verify a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "110 (1) A person or entity that is required to verify a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "111 (1) If a person or entity that is referred to in any of"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "113 (1) A person or entity that is required to verify an"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "114 (1) If a person or entity that is referred to in any of"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.7 (1) Every entity referred to in any of paragraphs 5(a)"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.93 (1) A person or entity referred to in paragraph 5(h)"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.12 (1) An application for registration shall be submitted to the Centre in the prescribed form and manner"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.44 (1) Every entity referred to in any of paragraphs"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "45 (1) The Director is the chief executive officer of the"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "65 (1) The Centre may disclose to the appropriate law"
+      },
+      {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "6 Each of the following entities must determine on a"
+      },
+      {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "7 (1) If it determines that it is in possession or control of"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -28211,6 +31367,18 @@
     ],
     "scope_and_application": [
       {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "33.—(1) Every terrorism financing offence is deemed to be an extradition offence under the Extradition Act 1968."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "5 This Part applies to the following persons and entities:"
+      },
+      {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
         "version_id": "2026-07-07",
@@ -28693,6 +31861,84 @@
     ],
     "definitions_and_interpretation": [
       {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "27.—(1) A person who claims an interest in any property that was forfeited and who did not receive notice under section "
+      },
+      {
+        "corpus_id": "sg/act/tsofa",
+        "short_title": "TSOFA",
+        "version_id": "2025-07-18",
+        "unit": "32.—(1) Where there is no treaty, memorandum of understanding or other agreement in force between Singapore and a countr"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "2.—(1) In this Act, unless the context otherwise requires —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "35.—(1) The provisions of Parts 2, 3 and 4 apply in relation to, and for the purpose of enabling the satisfaction of, a "
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "41.—(1) An authorised officer may photograph or make copies of any material —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "57.—(1) Any person who —"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "65.—(1) The Minister may, by order in the Gazette, with or without conditions, exempt any person or class of persons fro"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "76.—(1) An authorised officer or an officer of customs may arrest without warrant any person whom he or she reasonably b"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "77.—(1) Except as provided in subsection (2), or for the purpose of the performance of his or her duties or the exercise"
+      },
+      {
+        "corpus_id": "sg/act/cdsa",
+        "short_title": "CDSA",
+        "version_id": "2026-05-01",
+        "unit": "85.—(1) The Minister may make regulations for prescribing anything which is required to be prescribed under this Act and"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "10.—(1) The Registrar may cancel the registration of a registered dealer, or suspend the registration for a period not e"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "13.—(1) A person aggrieved by any of the following decisions may appeal to the Minister within the period and in the man"
+      },
+      {
+        "corpus_id": "sg/act/pspm",
+        "short_title": "PSPM Act 2019",
+        "version_id": "2024-05-01",
+        "unit": "32.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporatio"
+      },
+      {
         "corpus_id": "un/unscr/1540-2004",
         "short_title": "UNSCR 1540 (2004)",
         "version_id": "2004-04-28",
@@ -28769,6 +32015,216 @@
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
         "unit": "Article 32"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "31 (1) Every copy of a consolidated statute or consolidated"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "1 (1) In the Act and in these Regulations, shell bank"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "2 (1) For the purposes of subsection 9.3(1) of the Act, a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "36 A money services business shall keep the following"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "47 (1) An accountant or accounting firm is engaged in a"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "95 (1) A money services business — or a foreign money"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "120 (1) A money services business shall take reasonable"
+      },
+      {
+        "corpus_id": "ca/reg/pcmltfr",
+        "short_title": "PCMLTFR",
+        "version_id": "2026-05-26",
+        "unit": "151.1 (1) Paragraphs 4.1(d) and (e) and section 37 do"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "1 This Act may be cited as the Special Economic Measures Act."
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "2 In this Act,"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "5.2 All secured and unsecured rights and interests in"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "5.3 The following definitions apply in sections 5.4 to 5.6."
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "12 Proceedings with respect to an offence under this"
+      },
+      {
+        "corpus_id": "ca/act/sema",
+        "short_title": "SEMA",
+        "version_id": "2026-05-26",
+        "unit": "13 The following definitions apply in this Part."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "1 This Act may be cited as the Proceeds of Crime (Money Laundering) and Terrorist Financing Act."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "2 (1) The definitions in this section apply in this Act."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "9.7 (1) Every entity referred to in any of paragraphs 5(a)"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.4 (1) A person or entity that applied for a review under subsection 11.3(1) may appeal the Director’s decision"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.44 (1) Every entity referred to in any of paragraphs"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.47 A directive issued under this Part is not a statutory instrument within the meaning of the Statutory Instruments A"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.6 Every entity referred to in any of paragraphs 5(a) to"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "11.7 (1) The Governor in Council may, by order, authorize the Minister to issue to any person or entity referred"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "18 (1) If an officer believes on reasonable grounds that"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39 (1) The Minister may authorize an officer or a class"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "39.01 The following definitions apply in this Part."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "60 (1) Despite the provisions of any other Act, except"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.1 (1) The Governor in Council may make regulations"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "73.18 (1) The contravention of a compliance order"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "82 A complaint or information in respect of an offence"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "83.1 The following definitions apply in this section and in sections 83.2 and 83.3."
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "175.1 The Financial Transactions and Reports Analysis"
+      },
+      {
+        "corpus_id": "ca/act/pcmltfa",
+        "short_title": "PCMLTFA",
+        "version_id": "2026-05-26",
+        "unit": "121 The following definitions apply in this section and"
+      },
+      {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "1 This Act may be cited as the Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)."
+      },
+      {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "2 The following definitions apply in this Act."
+      },
+      {
+        "corpus_id": "ca/act/jvcfoa",
+        "short_title": "JVCFOA (Magnitsky)",
+        "version_id": "2026-05-26",
+        "unit": "4.1 The following definitions apply in sections 4.2 to 4.4."
       },
       {
         "corpus_id": "usa/cfr/31-1010",

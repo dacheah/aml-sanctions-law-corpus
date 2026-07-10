@@ -1,0 +1,56 @@
+corpus_id: ch/reg/amlo-finma
+version_id: '2023-01-01'
+title: Verordnung der Eidgenössischen Finanzmarktaufsicht über die Bekämpfung der Geldwäscherei und der
+  Terrorismusfinanzierung (Geldwäschereiverordnung-FINMA, GwV-FINMA)
+short_title: AMLO-FINMA / GwV-FINMA
+jurisdiction: CHE
+document_type: FINMA Ordinance
+legal_status: binding
+redistribution: open
+official_citation: FINMA Anti-Money Laundering Ordinance (AMLO-FINMA / GwV-FINMA), SR 955.033.0
+authentic_languages:
+- de
+- fr
+- it
+source_url: https://www.fedlex.admin.ch/eli/cc/2015/390/de
+source_publisher: Fedlex (Swiss Federal Chancellery)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:c69385b7cbaae7c6f76f8606f619c706fb46bba36c57bfc7584b82ac2768cabb
+original_sha256: sha256:1c60f95e7c0eb6e9545ec1a7859e625ae1a2a31cf7c7f23c96f1e4a0d7075fd2
+text_sha256: sha256:c69385b7cbaae7c6f76f8606f619c706fb46bba36c57bfc7584b82ac2768cabb
+text_fidelity: extracted_verified
+language: de
+authoritative_status: authentic_text
+license: Swiss federal law — not copyright-protected (CopA SR 231.1 Art. 5); freely reproducible
+rights_note: Swiss federal law from Fedlex (fedlex.admin.ch), Swiss Federal Chancellery. Swiss official
+  texts are not copyright-protected (Copyright Act, SR 231.1, Art. 5) and are freely reproducible. Switzerland's
+  authentic legal languages are German, French and Italian; the German consolidated text is captured as
+  the authentic version. Fedlex also publishes an English translation which is expressly non-authentic
+  and has no legal force.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://www.fedlex.admin.ch/eli/cc/2015/390/de
+  original_sha256: sha256:1c60f95e7c0eb6e9545ec1a7859e625ae1a2a31cf7c7f23c96f1e4a0d7075fd2
+  note: Official source PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: 'Binding FINMA implementing ordinance (issuer: FINMA). Authentic German consolidated
+  text.'
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9961
+    bigram_forward: 0.9727
+    unigram_reverse: 0.9595
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers/footers)
+    and, for bilingual/section-extract records, the untargeted language or sections the comparison engine
+    retains; a token diff confirms the residual is non-substantive.'

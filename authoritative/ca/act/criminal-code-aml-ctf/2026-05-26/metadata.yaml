@@ -1,0 +1,56 @@
+corpus_id: ca/act/criminal-code-aml-ctf
+version_id: '2026-05-26'
+title: Criminal Code — money-laundering and terrorist-financing offences (ss. 462.31, 83.02–83.04)
+short_title: Criminal Code (AML/CTF offences)
+jurisdiction: CAN
+document_type: Act (offence extract)
+legal_status: binding
+redistribution: open
+official_citation: Criminal Code, R.S.C. 1985, c. C-46, ss. 462.31 and 83.02–83.04
+authentic_languages:
+- en
+- fr
+source_url: https://laws-lois.justice.gc.ca/eng/acts/C-46/
+source_publisher: Justice Laws Website (Department of Justice Canada)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:86fb94995c1744dfef263a3e60dd979dec5544b7600258d5206954e8100e680e
+original_sha256: sha256:309a17e08a80460180e5270b963e5030fea2b5729456c51ae1a788cced603d4b
+text_sha256: sha256:86fb94995c1744dfef263a3e60dd979dec5544b7600258d5206954e8100e680e
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: Reproduction of Federal Law Order (SI/97-5) — free reproduction with attribution; not the official
+  version
+rights_note: Reproduced from the Justice Laws Website (laws-lois.justice.gc.ca), Department of Justice
+  Canada. Federal enactments are reproducible without charge or permission under the Reproduction of Federal
+  Law Order (SI/97-5), provided due diligence is used to ensure accuracy and the reproduction is not represented
+  as the official version. Not the official version — the official version is published on the Justice
+  Laws Website. Canadian federal statutes are equally authentic in English and French; the English version
+  is captured.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://laws-lois.justice.gc.ca/eng/acts/C-46/
+  original_sha256: sha256:309a17e08a80460180e5270b963e5030fea2b5729456c51ae1a788cced603d4b
+  note: Official source PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: 'Extract of the Criminal Code: s. 462.31 (laundering proceeds of crime) and ss. 83.02–83.04
+  (terrorist-financing offences), sliced from the consolidated Code.'
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9997
+    bigram_forward: 0.9751
+    unigram_reverse: 0.004
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers/footers)
+    and, for bilingual/section-extract records, the untargeted language or sections the comparison engine
+    retains; a token diff confirms the residual is non-substantive.'

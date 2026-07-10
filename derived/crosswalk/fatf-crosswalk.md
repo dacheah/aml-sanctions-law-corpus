@@ -1,4 +1,4 @@
-# FATF cross-jurisdiction crosswalk (UN treaty basis → Australia ↔ United Kingdom ↔ United States ↔ European Union)
+# FATF cross-jurisdiction crosswalk (UN treaty basis → Australia · United Kingdom · United States · European Union · Canada · Singapore · Switzerland)
 
 > **Unofficial, derived, analytical.** Each FATF Recommendation is shown with its **UN treaty /
 > Security Council basis** (the root international instrument it restates) above the national columns,
@@ -24,6 +24,9 @@
     - *AMLR (Reg (EU) 2024/1624)*: Article 10 Business-wide risk assessment
     - *4AMLD (Dir (EU) 2015/849)*: Article 8 1. Member States shall ensure that obliged entitie
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 7 Risk assessment at Union level; Article 8 National risk assessment
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.2 — National cooperation and coordination
 *Note:* Institutional/coordination measure; not a captured instrument in v1.
@@ -61,6 +64,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *Criminal Code (AML/CTF offences)*: 462.31 (1) Every one commits an offence who uses,; 83.02 Every person is guilty of an indictable offence and
+- **Singapore:**
+    - *CDSA*: 47.; 48.
+    - *TSOFA*: 3.; 4.; 5.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
 
 ### R.4 — Confiscation and provisional measures
 *Concepts:* `enforcement_and_offences`
@@ -91,6 +101,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *Criminal Code (AML/CTF offences)*: 462.31 (1) Every one commits an offence who uses,; 83.02 Every person is guilty of an indictable offence and
+- **Singapore:**
+    - *CDSA*: 47.; 48.
+    - *TSOFA*: 3.; 4.; 5.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
 
 ## C — Terrorist financing and proliferation financing
 
@@ -122,6 +139,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *Criminal Code (AML/CTF offences)*: 462.31 (1) Every one commits an offence who uses,; 83.02 Every person is guilty of an indictable offence and
+- **Singapore:**
+    - *CDSA*: 47.; 48.
+    - *TSOFA*: 3.; 4.; 5.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
 
 ### R.6 — Targeted financial sanctions related to terrorism and terrorist financing
 *Concepts:* `asset_freezing`, `designation_criteria`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`, `sanctions_permits`
@@ -139,6 +163,16 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities; § 1701. Unusual and extraordinary threat; dec-
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *JVCFOA (Magnitsky)*: 4 (1) The Governor in Council may, if the Governor in
+    - *SEMA*: 4 (1) The Governor in Council may, if the Governor in
+    - *United Nations Act (CA)*: 2 When, in pursuance of Article 41 of the Charter of the
+- **Singapore:**
+    - *TSOFA*: 6.
+    - *UN (Anti-Terrorism Measures) Regs*: 3.; 4.
+    - *United Nations Act (SG)*: 2.
+- **Switzerland:**
+    - *Embargo Act / EmbG*: Art. 1 Gegenstand; Art. 2 Zuständigkeit
 
 ### R.7 — Targeted financial sanctions related to proliferation
 *Concepts:* `asset_freezing`, `un_and_autonomous_sanctions`, `sanctions_prohibitions`
@@ -156,6 +190,16 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:**
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1702. Presidential authorities; § 1701. Unusual and extraordinary threat; dec-
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *JVCFOA (Magnitsky)*: 4 (1) The Governor in Council may, if the Governor in
+    - *SEMA*: 4 (1) The Governor in Council may, if the Governor in
+    - *United Nations Act (CA)*: 2 When, in pursuance of Article 41 of the Charter of the
+- **Singapore:**
+    - *TSOFA*: 6.
+    - *UN (Anti-Terrorism Measures) Regs*: 3.; 4.
+    - *United Nations Act (SG)*: 2.
+- **Switzerland:**
+    - *Embargo Act / EmbG*: Art. 1 Gegenstand; Art. 2 Zuständigkeit
 
 ### R.8 — Non-profit organisations
 *Note:* NPO-specific measures not captured in v1.
@@ -185,6 +229,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLR (Reg (EU) 2024/1624)*: Article 19 Application of customer due diligence measures; Article 20 Customer due diligence measures; Article 22 Identification and verification of the identity o; Article 33 Simplified due diligence measures; Article 34 Scope of application of enhanced due diligence me; Article 48 General provisions relating to reliance on other 
     - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
+- **Canada:**
+    - *PCMLTFA*: 6.1 Every person or entity referred to in section 5 shall; 9 (1) Subject to section 10.1, every person or entity referr
+- **Singapore:**
+    - *PSPM Act 2019*: 9.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
+    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei
 
 ### R.11 — Record-keeping
 *Concepts:* `record_keeping`
@@ -202,6 +253,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLR (Reg (EU) 2024/1624)*: Article 77 Record retention
     - *4AMLD (Dir (EU) 2015/849)*: Article 40 1. Member States shall require obliged entities t
+- **Canada:**
+    - *PCMLTFA*: 6 Every person or entity referred to in section 5 shall
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.12 — Politically exposed persons
 *Concepts:* `politically_exposed_persons`
@@ -214,6 +269,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLR (Reg (EU) 2024/1624)*: Article 42 Specific provisions regarding politically exposed
     - *4AMLD (Dir (EU) 2015/849)*: Article 20 With respect to transactions or business relation; Article 22 Where a politically exposed person is no longer e
+- **Canada:**
+    - *PCMLTFA*: 9.3 (1) Every person or entity that is referred to in sectio
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.13 — Correspondent banking
 *Concepts:* `correspondent_banking`
@@ -227,6 +286,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *31 C.F.R. Part 1010*: § 1010.620 Due diligence programs for private banking accoun
 - **European Union:**
     - *AMLR (Reg (EU) 2024/1624)*: Article 36 Specific enhanced due diligence measures for cros
+- **Canada:**
+    - *PCMLTFA*: 9.31 (1) No entity referred to in paragraph 5(a), (b), (d),
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.14 — Money or value transfer services
 *Concepts:* `enrolment_registration`
@@ -239,6 +302,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *PCMLTFA*: 11.1 Except as otherwise prescribed by regulation, every
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.15 — New technologies (incl. virtual assets)
 *Concepts:* `virtual_assets`
@@ -250,6 +317,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.16 — Wire transfers
 *Concepts:* `funds_transfer_reporting`
@@ -262,6 +332,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.17 — Reliance on third parties
 *Concepts:* `customer_due_diligence`
@@ -280,6 +353,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLR (Reg (EU) 2024/1624)*: Article 19 Application of customer due diligence measures; Article 20 Customer due diligence measures; Article 22 Identification and verification of the identity o; Article 33 Simplified due diligence measures; Article 34 Scope of application of enhanced due diligence me; Article 48 General provisions relating to reliance on other 
     - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
+- **Canada:**
+    - *PCMLTFA*: 6.1 Every person or entity referred to in section 5 shall; 9 (1) Subject to section 10.1, every person or entity referr
+- **Singapore:**
+    - *PSPM Act 2019*: 9.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
+    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei
 
 ### R.18 — Internal controls and foreign branches and subsidiaries
 *Concepts:* `amlctf_program`
@@ -295,6 +375,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *BSA (31 U.S.C. §§5311–5336)*: § 5318. Compliance, exemptions, and summons
 - **European Union:**
     - *4AMLD (Dir (EU) 2015/849)*: Article 8 1. Member States shall ensure that obliged entitie
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.19 — Higher-risk countries
 *Concepts:* `risk_based_approach`, `customer_due_diligence`
@@ -314,6 +397,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLR (Reg (EU) 2024/1624)*: Article 10 Business-wide risk assessment; Article 19 Application of customer due diligence measures; Article 20 Customer due diligence measures; Article 22 Identification and verification of the identity o; Article 33 Simplified due diligence measures; Article 34 Scope of application of enhanced due diligence me; Article 48 General provisions relating to reliance on other 
     - *4AMLD (Dir (EU) 2015/849)*: Article 8 1. Member States shall ensure that obliged entitie; Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 7 Risk assessment at Union level; Article 8 National risk assessment
+- **Canada:**
+    - *PCMLTFA*: 6.1 Every person or entity referred to in section 5 shall; 9 (1) Subject to section 10.1, every person or entity referr
+- **Singapore:**
+    - *PSPM Act 2019*: 9.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
+    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei
 
 ### R.20 — Reporting of suspicious transactions
 *Concepts:* `suspicious_matter_reporting`
@@ -330,6 +420,12 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLR (Reg (EU) 2024/1624)*: Article 69 Reporting of suspicions; Article 70 Specific provisions for reporting of suspicions b
     - *4AMLD (Dir (EU) 2015/849)*: Article 33 1. Member States shall require obliged entities, 
+- **Canada:**
+    - *PCMLTFA*: 7 Subject to section 10.1, every person or entity referred
+- **Singapore:**
+    - *TSOFA*: 8.
+- **Switzerland:**
+    - *AMLA / GwG*: Art. 9 Meldepflicht
 
 ### R.21 — Tipping-off and confidentiality
 *Concepts:* `tipping_off`
@@ -343,6 +439,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:**
     - *4AMLD (Dir (EU) 2015/849)*: Article 39 1. Obliged entities and their directors and emplo
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.22 — DNFBPs: customer due diligence
 *Concepts:* `designated_services`, `customer_due_diligence`
@@ -361,6 +460,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLR (Reg (EU) 2024/1624)*: Article 19 Application of customer due diligence measures; Article 20 Customer due diligence measures; Article 22 Identification and verification of the identity o; Article 33 Simplified due diligence measures; Article 34 Scope of application of enhanced due diligence me; Article 48 General provisions relating to reliance on other 
     - *4AMLD (Dir (EU) 2015/849)*: Article 11 Member States shall ensure that obliged entities ; Article 13 1. Customer due diligence measures shall comprise
+- **Canada:**
+    - *PCMLTFA*: 6.1 Every person or entity referred to in section 5 shall; 9 (1) Subject to section 10.1, every person or entity referr
+- **Singapore:**
+    - *PSPM Act 2019*: 9.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
+    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei
 
 ### R.23 — DNFBPs: other measures
 *Concepts:* `designated_services`
@@ -371,6 +477,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **United Kingdom:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **United States:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:**
+    - *PSPM Act 2019*: 9.
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ## E — Transparency and beneficial ownership of legal persons and arrangements
 
@@ -388,6 +498,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLR (Reg (EU) 2024/1624)*: Article 51 Identification of beneficial owners for legal ent; Article 52 Beneficial ownership through ownership interest; Article 53 Beneficial ownership through control; Article 58 Identification of beneficial owners for express t; Article 62 Beneficial ownership information
     - *4AMLD (Dir (EU) 2015/849)*: Article 30 1. ►M1 Member States shall ensure that corporate ; Article 31 1. Member States shall ensure that this Article a
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 10 Central beneficial ownership registers
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.25 — Transparency and beneficial ownership of legal arrangements
 *Concepts:* `beneficial_ownership`
@@ -403,6 +516,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLR (Reg (EU) 2024/1624)*: Article 51 Identification of beneficial owners for legal ent; Article 52 Beneficial ownership through ownership interest; Article 53 Beneficial ownership through control; Article 58 Identification of beneficial owners for express t; Article 62 Beneficial ownership information
     - *4AMLD (Dir (EU) 2015/849)*: Article 30 1. ►M1 Member States shall ensure that corporate ; Article 31 1. Member States shall ensure that this Article a
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 10 Central beneficial ownership registers
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ## F — Powers and responsibilities of competent authorities
 
@@ -422,6 +538,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
     - *AMLA Reg (Reg (EU) 2024/1620)*: Article 1 Establishment and scope of action; Article 5 Tasks; Article 13 The listing of selected obliged entities
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.27 — Powers of supervisors
 *Concepts:* `supervisory_architecture`
@@ -435,6 +554,9 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
     - *AMLA Reg (Reg (EU) 2024/1620)*: Article 1 Establishment and scope of action; Article 5 Tasks; Article 13 The listing of selected obliged entities
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.28 — Regulation and supervision of DNFBPs
 *Concepts:* `supervisory_architecture`, `designated_services`
@@ -448,6 +570,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:**
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 37 Powers and resources of national supervisors; Article 40 Risk-based supervision; Article 49 AML/CFT supervisory colleges in the financial sec
     - *AMLA Reg (Reg (EU) 2024/1620)*: Article 1 Establishment and scope of action; Article 5 Tasks; Article 13 The listing of selected obliged entities
+- **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Singapore:**
+    - *PSPM Act 2019*: 9.
+- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 
 ### R.29 — Financial intelligence units
 *Note:* The FIU (AUSTRAC / NCA-UKFIU) is an institution, not a captured instrument in v1.
@@ -478,6 +604,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *Criminal Code (AML/CTF offences)*: 462.31 (1) Every one commits an offence who uses,; 83.02 Every person is guilty of an indictable offence and
+- **Singapore:**
+    - *CDSA*: 47.; 48.
+    - *TSOFA*: 3.; 4.; 5.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
 
 ### R.31 — Powers of law enforcement and investigative authorities
 *Concepts:* `enforcement_and_offences`
@@ -503,6 +636,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *Criminal Code (AML/CTF offences)*: 462.31 (1) Every one commits an offence who uses,; 83.02 Every person is guilty of an indictable offence and
+- **Singapore:**
+    - *CDSA*: 47.; 48.
+    - *TSOFA*: 3.; 4.; 5.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
 
 ### R.32 — Cash couriers
 *Note:* Cross-border cash declaration regimes not separately captured in v1.
@@ -546,6 +686,13 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *18 U.S.C. §2339C*: § 2339C. Prohibitions against the financing of ter-
     - *IEEPA (50 U.S.C. §§1701–1708)*: § 1705. Penalties
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Canada:**
+    - *Criminal Code (AML/CTF offences)*: 462.31 (1) Every one commits an offence who uses,; 83.02 Every person is guilty of an indictable offence and
+- **Singapore:**
+    - *CDSA*: 47.; 48.
+    - *TSOFA*: 3.; 4.; 5.
+- **Switzerland:**
+    - *Criminal Code (AML/CTF articles)*: Art. 305bis 423; Art. 260quinquies 349; Art. 260ter 345
 
 ## G — International cooperation
 

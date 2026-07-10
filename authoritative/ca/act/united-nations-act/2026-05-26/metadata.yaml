@@ -1,0 +1,55 @@
+corpus_id: ca/act/united-nations-act
+version_id: '2026-05-26'
+title: United Nations Act
+short_title: United Nations Act (CA)
+jurisdiction: CAN
+document_type: Act
+legal_status: binding
+redistribution: open
+official_citation: United Nations Act, R.S.C. 1985, c. U-2
+authentic_languages:
+- en
+- fr
+source_url: https://laws-lois.justice.gc.ca/eng/acts/U-2/
+source_publisher: Justice Laws Website (Department of Justice Canada)
+source_is_official: true
+retrieval_date: '2026-07-10'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:e5d8a96e60888a66c4741fca9c64b4aeca4f21e289ae2a890719b87df02223b0
+original_sha256: sha256:5c1cbd9bb8ec2fdaae210d3dadeb490b28581be0e1a19e2ffe63e7806d27936e
+text_sha256: sha256:e5d8a96e60888a66c4741fca9c64b4aeca4f21e289ae2a890719b87df02223b0
+text_fidelity: extracted_verified
+language: en
+authoritative_status: official_consolidation
+license: Reproduction of Federal Law Order (SI/97-5) — free reproduction with attribution; not the official
+  version
+rights_note: Reproduced from the Justice Laws Website (laws-lois.justice.gc.ca), Department of Justice
+  Canada. Federal enactments are reproducible without charge or permission under the Reproduction of Federal
+  Law Order (SI/97-5), provided due diligence is used to ensure accuracy and the reproduction is not represented
+  as the official version. Not the official version — the official version is published on the Justice
+  Laws Website. Canadian federal statutes are equally authentic in English and French; the English version
+  is captured.
+capture_history:
+- date: '2026-07-10'
+  source_url: https://laws-lois.justice.gc.ca/eng/acts/U-2/
+  original_sha256: sha256:5c1cbd9bb8ec2fdaae210d3dadeb490b28581be0e1a19e2ffe63e7806d27936e
+  note: Official source PDF.
+supersedes: null
+superseded_by: null
+related_documents: []
+provenance_note: Enabling statute for implementing UN Security Council sanctions in Canadian law.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9988
+    bigram_forward: 0.9451
+    unigram_reverse: 0.4672
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-10'
+  note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers/footers)
+    and, for bilingual/section-extract records, the untargeted language or sections the comparison engine
+    retains; a token diff confirms the residual is non-substantive.'
