@@ -103,7 +103,9 @@ Authority (Regulation (EU) 2024/1620); and — added by recorded decision (2026-
 restates and that every national branch implements — the UN Convention against Illicit Traffic in Narcotic
 Drugs and Psychotropic Substances (Vienna, 1988), the UN Convention against Transnational Organized Crime
 (Palermo / UNTOC, 2000), the International Convention for the Suppression of the Financing of Terrorism
-(1999), and UN Security Council Resolutions 1267 (1999), 1373 (2001) and 1540 (2004). All jurisdictions are
+(1999), UN Security Council Resolutions 1267 (1999), 1373 (2001) and 1540 (2004), and the UN Convention
+against Corruption (UNCAC / Mérida, 2003 — Arts. 14 and 23 extend the AML framework into the corruption
+context). All jurisdictions are
 cross-referenced, never merged; UK texts are Crown copyright under the Open Government Licence v3.0, US
 federal texts are public domain (17 U.S.C. §105), EU texts are © European Union reusable under Commission
 Decision 2011/833/EU with attribution, and UN treaties and Security Council resolutions are UN official

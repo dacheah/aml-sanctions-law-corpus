@@ -4,11 +4,13 @@ title: "AML/CTF & Financial-Sanctions Legal Corpus (Australia, United Kingdom, U
 abstract: >-
   A neutral, provenance-first, machine-readable record of the law of
   anti-money-laundering / counter-terrorism-financing (AML/CTF) and financial
-  sanctions, on the FATF standard as backbone, covering four cross-referenced
+  sanctions, on the FATF standard as backbone and rooted in the UN treaty and
+  Security Council layer beneath it, covering four cross-referenced
   jurisdictions: Australia, the United Kingdom, the United States, and the
   European Union. Every authoritative text carries its official source, SHA-256
   hash, and dated version; a separate derived layer adds structure, neutral
-  concept tags, and a four-way FATF crosswalk.
+  concept tags, and a FATF crosswalk that maps each Recommendation from its UN
+  treaty basis down to the national provisions that implement it.
 type: dataset
 authors:
   - family-names: Cheah
@@ -16,7 +18,7 @@ authors:
 repository-code: "https://github.com/dacheah/aml-sanctions-law-corpus"
 url: "https://huggingface.co/datasets/dacheah/aml-sanctions-law-corpus"
 doi: 10.5281/zenodo.21279526
-version: 1.0.1
+version: 1.1.0
 license: CC-BY-4.0
 keywords:
   - AML
@@ -24,6 +26,7 @@ keywords:
   - anti-money-laundering
   - sanctions
   - FATF
+  - United Nations
   - Australia
   - United Kingdom
   - United States

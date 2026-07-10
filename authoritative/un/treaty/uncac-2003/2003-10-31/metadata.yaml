@@ -1,0 +1,67 @@
+corpus_id: un/treaty/uncac-2003
+version_id: '2003-10-31'
+title: United Nations Convention against Corruption (New York, 2003)
+short_title: UNCAC 2003 (Mérida)
+jurisdiction: international
+document_type: Treaty (UN convention)
+legal_status: binding
+redistribution: open
+official_citation: UN Convention against Corruption, New York, 31 October 2003, 2349 UNTS 41 (entered
+  into force 14 December 2005)
+authentic_languages:
+- ar
+- zh
+- en
+- fr
+- ru
+- es
+adoption_date: '2003-10-31'
+entry_into_force_date: '2005-12-14'
+source_url: https://www.unodc.org/documents/treaties/UNCAC/Publications/Convention/08-50026_E.pdf
+source_publisher: United Nations (UNODC / Office of Legal Affairs)
+source_is_official: true
+retrieval_date: '2026-07-09'
+retrieved_by: corpus maintainer (official human download from source)
+original_format: pdf
+original_filename: original.pdf
+content_hash: sha256:cd77130f6cad27a55e713a2692d2dd1a34f736368e32e46a3a02bdc99262c5f0
+original_sha256: sha256:8b49e5d7fea11d0b7e8bbbad7161a617ac480bec17d6e1f6a13f76d7ff8b1960
+text_sha256: sha256:cd77130f6cad27a55e713a2692d2dd1a34f736368e32e46a3a02bdc99262c5f0
+text_fidelity: extracted_verified
+language: en
+authoritative_status: authentic_text
+license: UN official document (free reproduction with attribution)
+rights_note: United Nations official document. UN treaties and Security Council resolutions may be freely
+  reproduced with attribution to the United Nations. Authentic in the six UN languages (Arabic, Chinese,
+  English, French, Russian, Spanish); the English authentic version is captured.
+capture_history:
+- date: '2026-07-09'
+  source_url: https://www.unodc.org/documents/treaties/UNCAC/Publications/Convention/08-50026_E.pdf
+  original_sha256: sha256:8b49e5d7fea11d0b7e8bbbad7161a617ac480bec17d6e1f6a13f76d7ff8b1960
+  note: Official UNODC published English convention PDF (08-50026_E).
+supersedes: null
+superseded_by: null
+related_documents:
+- un/treaty/palermo-2000
+- un/treaty/vienna-1988
+- aus/act/aml-ctf-2006
+- gbr/act/poca-2002
+- usa/usc/18-1956
+- eu/dir/2015-849
+provenance_note: The 2003 UN Convention against Corruption (Mérida) — Article 14 (measures to prevent
+  money-laundering) and Article 23 (laundering of proceeds of crime) extend the AML treaty framework into
+  the corruption context, tracking the Palermo money-laundering articles. UNODC official English publication
+  (08-50026_E). Single-column PDF; text.txt extracted with running headers removed, de-hyphenated, letter-spaced
+  headings re-joined. English authentic version; all six UN languages are equally authentic.
+verification:
+  status: verified_by_independent_extraction
+  method: Independent re-extraction with a different engine, compared by order-robust multiset token coverage.
+  independent_engine: poppler pdftotext vs PyMuPDF (two independent PDF engines)
+  metrics:
+    unigram_forward: 0.9995
+    bigram_forward: 0.9927
+    unigram_reverse: 0.9101
+  verified_by: corpus maintainer (automated cross-engine gate)
+  verified_date: '2026-07-09'
+  note: 'Reverse direction below 1.0 by design: stored text omits running-header/masthead furniture (PDF)
+    or head/chrome (HTML) the comparison engine retains; a token diff confirms the residual is non-substantive.'

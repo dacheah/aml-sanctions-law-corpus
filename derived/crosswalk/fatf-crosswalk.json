@@ -124,6 +124,11 @@
      "corpus_id": "un/treaty/palermo-2000",
      "short_title": "Palermo Convention 2000 (UNTOC)",
      "citation": "Art. 6 — criminalization of the laundering of proceeds of crime"
+    },
+    {
+     "corpus_id": "un/treaty/uncac-2003",
+     "short_title": "UNCAC 2003 (Mérida)",
+     "citation": "Art. 23 — laundering of proceeds of crime"
     }
    ],
    "jurisdictions": {
@@ -294,6 +299,11 @@
      "corpus_id": "un/treaty/palermo-2000",
      "short_title": "Palermo Convention 2000 (UNTOC)",
      "citation": "Art. 12 — confiscation and seizure"
+    },
+    {
+     "corpus_id": "un/treaty/uncac-2003",
+     "short_title": "UNCAC 2003 (Mérida)",
+     "citation": "Art. 31 — freezing, seizure and confiscation"
     }
    ],
    "jurisdictions": {
@@ -2218,7 +2228,18 @@
    ],
    "in_v1_scope": true,
    "note": "",
-   "un_basis": [],
+   "un_basis": [
+    {
+     "corpus_id": "un/treaty/palermo-2000",
+     "short_title": "Palermo Convention 2000 (UNTOC)",
+     "citation": "Art. 7 — measures to combat money-laundering (regulatory & supervisory regime)"
+    },
+    {
+     "corpus_id": "un/treaty/uncac-2003",
+     "short_title": "UNCAC 2003 (Mérida)",
+     "citation": "Art. 14 — measures to prevent money-laundering (regulatory & supervisory regime)"
+    }
+   ],
    "jurisdictions": {
     "AUS": {
      "provision_count": 8,

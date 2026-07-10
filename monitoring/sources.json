@@ -105,6 +105,11 @@
    "name": "UN Security Council Resolution 1540 (2004)",
    "url": "https://undocs.org/S/RES/1540(2004)",
    "last_sha256": null
+  },
+  {
+   "name": "UN Convention against Corruption (UNCAC/Mérida 2003, UNODC)",
+   "url": "https://www.unodc.org/documents/treaties/UNCAC/Publications/Convention/08-50026_E.pdf",
+   "last_sha256": null
   }
  ],
  "_pending_once_ids_confirmed": [

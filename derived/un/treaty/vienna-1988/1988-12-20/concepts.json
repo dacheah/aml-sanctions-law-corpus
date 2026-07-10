@@ -30,18 +30,37 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
+    "asset_freezing",
     "definitions_and_interpretation",
     "enforcement_and_offences",
+    "enrolment_registration",
     "sanctions_permits",
+    "supervisory_architecture",
     "suspicious_matter_reporting"
   ],
   "tags": [
+    {
+      "unit": "Article 1 Definitions",
+      "concepts": [
+        "asset_freezing",
+        "enforcement_and_offences",
+        "supervisory_architecture",
+        "definitions_and_interpretation"
+      ]
+    },
     {
       "unit": "Article 3",
       "concepts": [
         "enforcement_and_offences"
       ],
       "curated": true
+    },
+    {
+      "unit": "Article 4 Jurisdiction",
+      "concepts": [
+        "enrolment_registration",
+        "enforcement_and_offences"
+      ]
     },
     {
       "unit": "Article 5",
@@ -79,9 +98,14 @@
     {
       "unit": "Article 11",
       "concepts": [
-        "suspicious_matter_reporting",
-        "sanctions_permits",
         "enforcement_and_offences"
+      ]
+    },
+    {
+      "unit": "Article 12 Substances Frequently Used In The Illicit Manufacture Of Narcotic Drugs Or Psychotropic Substances",
+      "concepts": [
+        "suspicious_matter_reporting",
+        "sanctions_permits"
       ]
     },
     {

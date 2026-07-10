@@ -7,6 +7,7 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## customer_due_diligence
 *Identifying and verifying customers and their circumstances (CDD/KYC/EDD).*
 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 14. Measures to prevent money-laundering; Article 52. Prevention and detection of transfers
 - **Palermo Convention 2000 (UNTOC)** (`un/treaty/palermo-2000`): Article 7. Measures to combat money-laundering
 - **Terrorist Financing Convention 1999** (`un/treaty/tf-convention-1999`): Article 18
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): § 1010.230 Beneficial ownership requirements for legal entity customers.; § 1010.330 Reports relating to currency in excess of $10,000 received in a trade or business.; § 1010.331 Reports relating to currency in excess of $10,000 received as bail by court clerks.; § 1010.620 Due diligence programs for private banking accounts.; § 1010.955 Availability of beneficial ownership information reported under this part.
@@ -55,6 +56,7 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## amlctf_program
 *The governance, policies, and controls a reporting entity must maintain.*
 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 30. Prosecution, adjudication and sanctions
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): Subpart A—General Definitions; Subpart B—Programs; § 1010.200 General.; § 1010.210 Anti-money laundering programs.; § 1010.220 Customer identification program requirements.; § 1010.520 Information sharing between government agencies and financial institutions.; § 1010.540 Voluntary information sharing among financial institutions.; § 1010.605 Definitions.
 - **BSA (31 U.S.C. §§5311–5336)** (`usa/usc/bsa-31-53-ii`): § 5318. Compliance, exemptions, and summons
 - **AML/CTF Amendment Act 2024** (`aus/act/aml-ctf-amendment-2024`): Schedule 1—AML/CTF programs and business groups; 1  Section 4; 2  Section 4; 3  Section 5; 4  Section 5 (definition of anti-money laundering and counter-terrorism financing program); 9  Section 5 (definition of joint anti-money laundering and counter-terrorism financing program); 16  Section 5 (definition of special anti-money laundering and counter-terrorism financing program); 17  Section 5 (definition of standard anti-money laundering and counter-terrorism financing program); Part 1A—AML/CTF programs; 26A  Simplified outline; 26B  What is an AML/CTF program?; 26F  Reporting entities must develop and maintain AML/CTF policies; Division 6—AML/CTF program documentation and approvals; 26N  AML/CTF program documentation; 26P  AML/CTF program approvals; 26R  AUSTRAC CEO may require reporting entity to undertake ML/TF risk assessment etc.; 26S  Registered remittance affiliates of a registered remittance network provider; 26U  Business of a lead entity of a reporting group; 32  Section 104; Division 5—AML/CTF program record-keeping requirements; 46  Subsection 184(4) (before paragraph (b) of the definition of designated infringement notice provision); 47  Subsection 184(4) (paragraph (g) of the definition of designated infringement notice provision); 11  Delayed application of certain provisions of this Act; 65  Obligations of beneficiary institutions; 66  Obligations of intermediary institutions; 66A  Obligations of ordering and beneficiary institutions relating to virtual asset transfers; 46A  Reports of transfers of value involving unverified self-hosted virtual asset wallets
@@ -73,9 +75,10 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## suspicious_matter_reporting
 *Reporting suspicions to the financial intelligence unit (SMR/SAR).*
 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 14. Measures to prevent money-laundering
 - **Palermo Convention 2000 (UNTOC)** (`un/treaty/palermo-2000`): Article 7. Measures to combat money-laundering; [Protocol against the Smuggling of Migrants] Article 7. Cooperation
 - **Terrorist Financing Convention 1999** (`un/treaty/tf-convention-1999`): Article 18
-- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 11; Article 17
+- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 12 Substances Frequently Used In The Illicit Manufacture Of Narcotic Drugs Or Psychotropic Substances; Article 17
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): § 1010.320 Reports of suspicious transactions.; § 1010.540 Voluntary information sharing among financial institutions.; § 1010.610 Due diligence programs for correspondent accounts for foreign financial institutions.
 - **BSA (31 U.S.C. §§5311–5336)** (`usa/usc/bsa-31-53-ii`): § 5318. Compliance, exemptions, and summons; § 5333. Safe harbor with respect to keep open di-
 - **AML/CTF Amendment Act 2024** (`aus/act/aml-ctf-amendment-2024`): 38  Subsection 161(1); 30  Undertaking ongoing customer due diligence; 32  Enhanced customer due diligence obligation; 36  Pre-commencement customers; 39A  Exemption—assisting the investigation of certain offences; 39D  Exemption—when a suspicious matter reporting obligation arises; 39F  Exemption—intermediary institutions
@@ -109,6 +112,7 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## funds_transfer_reporting
 *Reporting international/cross-border funds transfer instructions (IFTI).*
 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 55. International cooperation for purposes of confiscation
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): § 1010.821 Penalty adjustment and table.
 - **BSA (31 U.S.C. §§5311–5336)** (`usa/usc/bsa-31-53-ii`): § 5330. Registration of money transmitting busi-
 - **AML/CTF Amendment Act 2024** (`aus/act/aml-ctf-amendment-2024`): Schedule 8—Transfers of value and international value transfer services; 1  Section 4; 4  Section 5 (definition of batched electronic funds transfer instruction); 6  Section 5; 8  Section 5; 13  Section 5; 34  Section 4; 35  Section 5 (definition of international funds transfer instruction); 37  Section 40; 39E  Exemptions—specified conditions
@@ -122,6 +126,7 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## record_keeping
 *Retaining prescribed records for prescribed periods.*
 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 7. Public sector; Article 14. Measures to prevent money-laundering; Article 16. Bribery of foreign public officials and officials of public international organizations
 - **Palermo Convention 2000 (UNTOC)** (`un/treaty/palermo-2000`): [Protocol against the Illicit Manufacturing of] Article 7. Record-keeping; [Protocol against the Illicit Manufacturing of] Article 15. Brokers and brokering
 - **Terrorist Financing Convention 1999** (`un/treaty/tf-convention-1999`): Article 18
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): § 1010.306 Filing of reports.; § 1010.330 Reports relating to currency in excess of $10,000 received in a trade or business.; § 1010.370 Reports of certain domestic transactions.; § 1010.410 Records to be made and retained by financial institutions.; § 1010.415 Purchases of bank checks and drafts, cashier's checks, money orders and traveler's checks.; § 1010.420 Records to be made and retained by persons having financial interests in foreign financial accounts.; § 1010.430 Nature of records and retention period.; § 1010.630 Prohibition on correspondent accounts for foreign shell banks; records concerning owners of foreign banks and agents for service ; § 1010.955 Availability of beneficial ownership information reported under this part.
@@ -165,8 +170,10 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## enrolment_registration
 *The obligation to enrol or register with the regulator.*
 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 42. Jurisdiction
 - **Palermo Convention 2000 (UNTOC)** (`un/treaty/palermo-2000`): Article 15. Jurisdiction; [Protocol against the Illicit Manufacturing of] Article 15. Brokers and brokering
 - **Terrorist Financing Convention 1999** (`un/treaty/tf-convention-1999`): Article 7
+- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 4 Jurisdiction
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): § 1010.350 Reports of foreign financial accounts.; § 1010.360 Reports of transactions with foreign financial agencies.; § 1010.605 Definitions.; § 1010.630 Prohibition on correspondent accounts for foreign shell banks; records concerning owners of foreign banks and agents for service ; § 1010.651 Special measures against Burma.; § 1010.653 Special measures against Commercial Bank of Syria.; § 1010.821 Penalty adjustment and table.; § 1010.914 Service of summons.; § 1010.955 Availability of beneficial ownership information reported under this part.
 - **BSA (31 U.S.C. §§5311–5336)** (`usa/usc/bsa-31-53-ii`): § 5319. Availability of reports; § 5330. Registration of money transmitting busi-
 - **IEEPA (50 U.S.C. §§1701–1708)** (`usa/usc/ieepa-50-35`): § 1709. Imposition of sanctions with respect to
@@ -203,6 +210,7 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## politically_exposed_persons
 *Heightened measures for higher-risk public-office holders (PEPs).*
 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 52. Prevention and detection of transfers
 - **AML/CTF Amendment Act 2024** (`aus/act/aml-ctf-amendment-2024`): 5  Section 5; 28  Undertaking initial customer due diligence; 32  Enhanced customer due diligence obligation
 - **AML/CTF Act 2006** (`aus/act/aml-ctf-2006`): 5  Definitions; 5  Definitions
 - **AML/CTF Rules 2025** (`aus/rules/aml-ctf-2025`): Division 2—Information requirements for registration applications; Division 2—AML/CTF policies related to ML/TF risk mitigation; Part 6—Customer due diligence; Division 1—Initial customer due diligence; Division 3—Simplified customer due diligence; Division 5—Politically exposed persons
@@ -234,7 +242,7 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## sanctions_permits
 *Authorisations/permits allowing an otherwise-prohibited act (licences).*
 
-- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 11
+- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 12 Substances Frequently Used In The Illicit Manufacture Of Narcotic Drugs Or Psychotropic Substances
 - **Autonomous Sanctions Regulations 2011** (`aus/reg/autonomous-sanctions-2011`): 5D  Suspension of sanctions for specified activities; 18  Minister may grant permits; 19  Minister may waive operation of declaration under paragraph 6(b) or 6A(1)(b), (2)(b), (4)(b), (5)(b), (8)(b) or (9)(b); 20  Permit for assets and controlled assets
 - **Charter of the United Nations Act 1945** (`aus/act/charter-un-1945`): 13A  Invalidation of permission, authorisations etc.; 22  Authorised dealings
 - **Autonomous Sanctions Act 2011** (`aus/act/autonomous-sanctions-2011`): 15  Invalidation of authorisations
@@ -246,8 +254,10 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 - **UNSCR 1373 (2001)** (`un/unscr/1373-2001`): para 1 Decides that all States shall:
 - **UNSCR 1267 (1999)** (`un/unscr/1267-1999`): para 3 Decides that on 14 November 1999 all States shall impose the measures set out in paragraph 4 below, unless the Co; para 4 Decides further that, in order to enforce paragraph 2 above, all States shall:
 - **UNSCR 1540 (2004)** (`un/unscr/1540-2004`): para 3 Decides also that all States shall take and enforce effective measures to establish domestic controls to prevent 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 2. Use of terms; Article 3. Scope of application; Article 46. Mutual legal assistance; Article 54. Mechanisms for recovery of property through international cooperation in confiscation; Article 55. International cooperation for purposes of confiscation; Article 60. Training and technical assistance
 - **Palermo Convention 2000 (UNTOC)** (`un/treaty/palermo-2000`): Article 2. Use of terms; Article 13. International cooperation for purposes of confiscation
 - **Terrorist Financing Convention 1999** (`un/treaty/tf-convention-1999`): Article 8
+- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 1 Definitions
 - **IEEPA (50 U.S.C. §§1701–1708)** (`usa/usc/ieepa-50-35`): § 1702. Presidential authorities
 - **Autonomous Sanctions Regulations 2011** (`aus/reg/autonomous-sanctions-2011`): 7  Designating controlled assets; 15  Prohibition of dealing with controlled assets; 20  Permit for assets and controlled assets
 - **Charter of the United Nations Act 1945** (`aus/act/charter-un-1945`): 20  Offence—dealing with freezable assets; 21  Offence—giving an asset to a proscribed person or entity; 22A  Regulations on procedures relating to freezable assets
@@ -299,9 +309,10 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 - **UNSCR 1373 (2001)** (`un/unscr/1373-2001`): para 1 Decides that all States shall:
 - **UNSCR 1267 (1999)** (`un/unscr/1267-1999`): para 8 Calls upon States to bring proceedings against persons and entities within their jurisdiction that violate the me
 - **UNSCR 1540 (2004)** (`un/unscr/1540-2004`): para 2 Decides also that all States, in accordance with their national procedures, shall adopt and enforce appropriate e
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 2. Use of terms; Article 3. Scope of application; Article 12. Private sector; Article 13. Participation of society; Article 15. Bribery of national public officials; Article 16. Bribery of foreign public officials and officials of public international organizations; Article 17. Embezzlement, misappropriation or other diversion of property by a public official; Article 18. Trading in influence; Article 19. Abuse of functions; Article 20. Illicit enrichment; Article 21. Bribery in the private sector; Article 22. Embezzlement of property in the private sector; Article 23. Laundering of proceeds of crime; Article 25. Obstruction of justice; Article 26. Liability of legal persons; Article 28. Knowledge, intent and purpose as elements of an offence; Article 29. Statute of limitations; Article 30. Prosecution, adjudication and sanctions; Article 31. Freezing, seizure and confiscation; Article 32. Protection of witnesses, experts and victims; Article 33. Protection of reporting persons; Article 37. Cooperation with law enforcement authorities; Article 38. Cooperation between national authorities; Article 39. Cooperation between national authorities; Article 40. Bank secrecy; Article 41. Criminal record; Article 42. Jurisdiction; Article 43. International cooperation; Article 44. Extradition; Article 45. Transfer of sentenced persons; Article 46. Mutual legal assistance; Article 47. Transfer of criminal proceedings; Article 48. Law enforcement cooperation; Article 50. Special investigative techniques; Article 53. Measures for direct recovery of property; Article 54. Mechanisms for recovery of property through international cooperation in confiscation; Article 55. International cooperation for purposes of confiscation; Article 56. Special cooperation; Article 57. Return and disposal of assets; Article 58. Financial intelligence unit; Article 60. Training and technical assistance; Article 61. Collection, exchange and analysis of information on corruption
 - **Palermo Convention 2000 (UNTOC)** (`un/treaty/palermo-2000`): Article 2. Use of terms; Article 3. Scope of application; Article 5. Criminalization of participation in an; Article 6. Criminalization of the laundering of proceeds of crime; Article 8. Criminalization of corruption; Article 10. Liability of legal persons; Article 11. Prosecution, adjudication and sanctions; Article 12. Confiscation and seizure; Article 13. International cooperation for purposes of confiscation; Article 15. Jurisdiction; Article 16. Extradition; Article 17. Transfer of sentenced persons; Article 18. Mutual legal assistance; Article 19. Joint investigations; Article 21. Transfer of criminal proceedings; Article 22. Establishment of criminal record; Article 23. Criminalization of obstruction of justice; Article 24. Protection of witnesses; Article 25. Assistance to and protection of victims; Article 26. Measures to enhance cooperation with law enforcement authorities; Article 27. Law enforcement cooperation; Article 29. Training and technical assistance; Article 34. Implementation of the Convention; [Protocol to Prevent, Suppress and Punish] Article 1. Relation with the United Nations Convention against; [Protocol to Prevent, Suppress and Punish] Article 4. Scope of application; [Protocol to Prevent, Suppress and Punish] Article 5. Criminalization; [Protocol to Prevent, Suppress and Punish] Article 11. Border measures; [Protocol against the Smuggling of Migrants] Article 1. Relation with the United Nations Convention against; [Protocol against the Smuggling of Migrants] Article 4. Scope of application; [Protocol against the Smuggling of Migrants] Article 6. Criminalization; [Protocol against the Smuggling of Migrants] Article 11. Border measures; [Protocol against the Illicit Manufacturing of] Article 1. Relation with the United Nations Convention against Transnati; [Protocol against the Illicit Manufacturing of] Article 4. Scope of application; [Protocol against the Illicit Manufacturing of] Article 9. Deactivation of firearms
 - **Terrorist Financing Convention 1999** (`un/treaty/tf-convention-1999`): Article 1; Article 2; Article 3; Article 4; Article 5; Article 7; Article 8; Article 9; Article 10; Article 11; Article 12; Article 13; Article 14; Article 15; Article 16
-- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 3; Article 5; Article 6; Article 7; Article 8; Article 9; Article 11; Article 15
+- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 1 Definitions; Article 3; Article 4 Jurisdiction; Article 5; Article 6; Article 7; Article 8; Article 9; Article 11; Article 15
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): § 1010.670 Summons or subpoena of foreign bank records; termination of correspondent relationship.; § 1010.821 Penalty adjustment and table.; § 1010.930 Rewards for informants.
 - **18 U.S.C. §2339B** (`usa/usc/18-2339b`): § 2339B. Providing material support or resources
 - **BSA (31 U.S.C. §§5311–5336)** (`usa/usc/bsa-31-53-ii`): § 5321. Civil penalties; § 5322. Criminal penalties; § 5324. Structuring transactions to evade report-; § 5330. Registration of money transmitting busi-
@@ -331,7 +342,9 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 ## supervisory_architecture
 *FATF mutual evaluation; national regulators (AUSTRAC; DFAT) and their functions.*
 
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 2. Use of terms; Article 12. Private sector; Article 14. Measures to prevent money-laundering; Article 46. Mutual legal assistance; Article 54. Mechanisms for recovery of property through international cooperation in confiscation
 - **Palermo Convention 2000 (UNTOC)** (`un/treaty/palermo-2000`): Article 2. Use of terms; Article 7. Measures to combat money-laundering; [Protocol against the Illicit Manufacturing of] Article 3. Use of terms; [Protocol against the Illicit Manufacturing of] Article 9. Deactivation of firearms
+- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 1 Definitions
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): § 1010.350 Reports of foreign financial accounts.; § 1010.540 Voluntary information sharing among financial institutions.; § 1010.605 Definitions.; § 1010.610 Due diligence programs for correspondent accounts for foreign financial institutions.; § 1010.713 Oral communications.; § 1010.810 Enforcement.; § 1010.955 Availability of beneficial ownership information reported under this part.
 - **BSA (31 U.S.C. §§5311–5336)** (`usa/usc/bsa-31-53-ii`): § 5319. Availability of reports; § 5323. Whistleblower incentives and protections; § 5330. Registration of money transmitting busi-; § 5333. Safe harbor with respect to keep open di-
 - **Autonomous Sanctions Regulations 2011** (`aus/reg/autonomous-sanctions-2011`): 25A  Review of operation of the autonomous sanctions legislative framework; 26  Delegations by Minister
@@ -376,9 +389,10 @@ For each neutral concept, the provisions across the corpus that address it. Conc
 *Defined terms and rules of interpretation.*
 
 - **UNSCR 1540 (2004)** (`un/unscr/1540-2004`): preamble
+- **UNCAC 2003 (Mérida)** (`un/treaty/uncac-2003`): Article 61. Collection, exchange and analysis of information on corruption; Article 66. Settlement of disputes
 - **Palermo Convention 2000 (UNTOC)** (`un/treaty/palermo-2000`): Article 28. Collection, exchange and analysis of information; Article 35. Settlement of disputes; [Protocol to Prevent, Suppress and Punish] Article 14. Saving clause; [Protocol to Prevent, Suppress and Punish] Article 15. Settlement of disputes; [Protocol against the Smuggling of Migrants] Article 19. Saving clause; [Protocol against the Smuggling of Migrants] Article 20. Settlement of disputes; [Protocol against the Illicit Manufacturing of] Article 16. Settlement of disputes
 - **Terrorist Financing Convention 1999** (`un/treaty/tf-convention-1999`): Article 24
-- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 32
+- **Vienna Convention 1988** (`un/treaty/vienna-1988`): Article 1 Definitions; Article 32
 - **31 C.F.R. Part 1010** (`usa/cfr/31-1010`): Subpart A—General Definitions; § 1010.100 General definitions.; § 1010.330 Reports relating to currency in excess of $10,000 received in a trade or business.; § 1010.331 Reports relating to currency in excess of $10,000 received as bail by court clerks.; § 1010.505 Definitions.; § 1010.520 Information sharing between government agencies and financial institutions.; § 1010.540 Voluntary information sharing among financial institutions.; § 1010.605 Definitions.; § 1010.651 Special measures against Burma.; § 1010.653 Special measures against Commercial Bank of Syria.; § 1010.658 Special measures against FBME Bank, Ltd.; § 1010.659 Special measures against North Korea.; § 1010.660 Special measures against Bank of Dandong.; § 1010.661 Special measures against Iran.; § 1010.663 Special measures regarding Al-Huda Bank.; § 1010.664 Special measures regarding Huione Group.; § 1010.670 Summons or subpoena of foreign bank records; termination of correspondent relationship.; § 1010.711 Submitting requests.; § 1010.713 Oral communications.; § 1010.716 Modifying or rescinding rulings.
 - **BSA (31 U.S.C. §§5311–5336)** (`usa/usc/bsa-31-53-ii`): § 5312. Definitions and application; § 5323. Whistleblower incentives and protections; § 5330. Registration of money transmitting busi-; § 5340. Definitions
 - **IEEPA (50 U.S.C. §§1701–1708)** (`usa/usc/ieepa-50-35`): § 1704. Authority to issue regulations; § 1708. Actions to address economic or industrial; § 1709. Imposition of sanctions with respect to; SUBCHAPTER I—ELECTRONIC SURVEILLANCE

@@ -29,6 +29,18 @@
   "index": {
     "customer_due_diligence": [
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 14. Measures to prevent money-laundering"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 52. Prevention and detection of transfers"
+      },
+      {
         "corpus_id": "un/treaty/palermo-2000",
         "short_title": "Palermo Convention 2000 (UNTOC)",
         "version_id": "2000-11-15",
@@ -3641,6 +3653,12 @@
     ],
     "amlctf_program": [
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 30. Prosecution, adjudication and sanctions"
+      },
+      {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
         "version_id": "2026-07-07",
@@ -4663,6 +4681,12 @@
     ],
     "suspicious_matter_reporting": [
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 14. Measures to prevent money-laundering"
+      },
+      {
         "corpus_id": "un/treaty/palermo-2000",
         "short_title": "Palermo Convention 2000 (UNTOC)",
         "version_id": "2000-11-15",
@@ -4684,7 +4708,7 @@
         "corpus_id": "un/treaty/vienna-1988",
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
-        "unit": "Article 11"
+        "unit": "Article 12 Substances Frequently Used In The Illicit Manufacture Of Narcotic Drugs Or Psychotropic Substances"
       },
       {
         "corpus_id": "un/treaty/vienna-1988",
@@ -5819,6 +5843,12 @@
     ],
     "funds_transfer_reporting": [
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 55. International cooperation for purposes of confiscation"
+      },
+      {
         "corpus_id": "usa/cfr/31-1010",
         "short_title": "31 C.F.R. Part 1010",
         "version_id": "2026-07-07",
@@ -6162,6 +6192,24 @@
       }
     ],
     "record_keeping": [
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 7. Public sector"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 14. Measures to prevent money-laundering"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 16. Bribery of foreign public officials and officials of public international organizations"
+      },
       {
         "corpus_id": "un/treaty/palermo-2000",
         "short_title": "Palermo Convention 2000 (UNTOC)",
@@ -9685,6 +9733,12 @@
     ],
     "enrolment_registration": [
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 42. Jurisdiction"
+      },
+      {
         "corpus_id": "un/treaty/palermo-2000",
         "short_title": "Palermo Convention 2000 (UNTOC)",
         "version_id": "2000-11-15",
@@ -9701,6 +9755,12 @@
         "short_title": "Terrorist Financing Convention 1999",
         "version_id": "1999-12-09",
         "unit": "Article 7"
+      },
+      {
+        "corpus_id": "un/treaty/vienna-1988",
+        "short_title": "Vienna Convention 1988",
+        "version_id": "1988-12-20",
+        "unit": "Article 4 Jurisdiction"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -13931,6 +13991,12 @@
     ],
     "politically_exposed_persons": [
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 52. Prevention and detection of transfers"
+      },
+      {
         "corpus_id": "aus/act/aml-ctf-amendment-2024",
         "short_title": "AML/CTF Amendment Act 2024",
         "version_id": "2024-12-10",
@@ -15314,7 +15380,7 @@
         "corpus_id": "un/treaty/vienna-1988",
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
-        "unit": "Article 11"
+        "unit": "Article 12 Substances Frequently Used In The Illicit Manufacture Of Narcotic Drugs Or Psychotropic Substances"
       },
       {
         "corpus_id": "aus/reg/autonomous-sanctions-2011",
@@ -15391,6 +15457,42 @@
         "unit": "para 3 Decides also that all States shall take and enforce effective measures to establish domestic controls to prevent "
       },
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 2. Use of terms"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 3. Scope of application"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 46. Mutual legal assistance"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 54. Mechanisms for recovery of property through international cooperation in confiscation"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 55. International cooperation for purposes of confiscation"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 60. Training and technical assistance"
+      },
+      {
         "corpus_id": "un/treaty/palermo-2000",
         "short_title": "Palermo Convention 2000 (UNTOC)",
         "version_id": "2000-11-15",
@@ -15407,6 +15509,12 @@
         "short_title": "Terrorist Financing Convention 1999",
         "version_id": "1999-12-09",
         "unit": "Article 8"
+      },
+      {
+        "corpus_id": "un/treaty/vienna-1988",
+        "short_title": "Vienna Convention 1988",
+        "version_id": "1988-12-20",
+        "unit": "Article 1 Definitions"
       },
       {
         "corpus_id": "usa/usc/ieepa-50-35",
@@ -16969,6 +17077,258 @@
         "unit": "para 2 Decides also that all States, in accordance with their national procedures, shall adopt and enforce appropriate e"
       },
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 2. Use of terms"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 3. Scope of application"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 12. Private sector"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 13. Participation of society"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 15. Bribery of national public officials"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 16. Bribery of foreign public officials and officials of public international organizations"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 17. Embezzlement, misappropriation or other diversion of property by a public official"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 18. Trading in influence"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 19. Abuse of functions"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 20. Illicit enrichment"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 21. Bribery in the private sector"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 22. Embezzlement of property in the private sector"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 23. Laundering of proceeds of crime"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 25. Obstruction of justice"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 26. Liability of legal persons"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 28. Knowledge, intent and purpose as elements of an offence"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 29. Statute of limitations"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 30. Prosecution, adjudication and sanctions"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 31. Freezing, seizure and confiscation"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 32. Protection of witnesses, experts and victims"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 33. Protection of reporting persons"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 37. Cooperation with law enforcement authorities"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 38. Cooperation between national authorities"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 39. Cooperation between national authorities"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 40. Bank secrecy"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 41. Criminal record"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 42. Jurisdiction"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 43. International cooperation"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 44. Extradition"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 45. Transfer of sentenced persons"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 46. Mutual legal assistance"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 47. Transfer of criminal proceedings"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 48. Law enforcement cooperation"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 50. Special investigative techniques"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 53. Measures for direct recovery of property"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 54. Mechanisms for recovery of property through international cooperation in confiscation"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 55. International cooperation for purposes of confiscation"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 56. Special cooperation"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 57. Return and disposal of assets"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 58. Financial intelligence unit"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 60. Training and technical assistance"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 61. Collection, exchange and analysis of information on corruption"
+      },
+      {
         "corpus_id": "un/treaty/palermo-2000",
         "short_title": "Palermo Convention 2000 (UNTOC)",
         "version_id": "2000-11-15",
@@ -17266,7 +17626,19 @@
         "corpus_id": "un/treaty/vienna-1988",
         "short_title": "Vienna Convention 1988",
         "version_id": "1988-12-20",
+        "unit": "Article 1 Definitions"
+      },
+      {
+        "corpus_id": "un/treaty/vienna-1988",
+        "short_title": "Vienna Convention 1988",
+        "version_id": "1988-12-20",
         "unit": "Article 3"
+      },
+      {
+        "corpus_id": "un/treaty/vienna-1988",
+        "short_title": "Vienna Convention 1988",
+        "version_id": "1988-12-20",
+        "unit": "Article 4 Jurisdiction"
       },
       {
         "corpus_id": "un/treaty/vienna-1988",
@@ -23961,6 +24333,36 @@
     ],
     "supervisory_architecture": [
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 2. Use of terms"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 12. Private sector"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 14. Measures to prevent money-laundering"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 46. Mutual legal assistance"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 54. Mechanisms for recovery of property through international cooperation in confiscation"
+      },
+      {
         "corpus_id": "un/treaty/palermo-2000",
         "short_title": "Palermo Convention 2000 (UNTOC)",
         "version_id": "2000-11-15",
@@ -23983,6 +24385,12 @@
         "short_title": "Palermo Convention 2000 (UNTOC)",
         "version_id": "2000-11-15",
         "unit": "[Protocol against the Illicit Manufacturing of] Article 9. Deactivation of firearms"
+      },
+      {
+        "corpus_id": "un/treaty/vienna-1988",
+        "short_title": "Vienna Convention 1988",
+        "version_id": "1988-12-20",
+        "unit": "Article 1 Definitions"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -28291,6 +28699,18 @@
         "unit": "preamble"
       },
       {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 61. Collection, exchange and analysis of information on corruption"
+      },
+      {
+        "corpus_id": "un/treaty/uncac-2003",
+        "short_title": "UNCAC 2003 (Mérida)",
+        "version_id": "2003-10-31",
+        "unit": "Article 66. Settlement of disputes"
+      },
+      {
         "corpus_id": "un/treaty/palermo-2000",
         "short_title": "Palermo Convention 2000 (UNTOC)",
         "version_id": "2000-11-15",
@@ -28337,6 +28757,12 @@
         "short_title": "Terrorist Financing Convention 1999",
         "version_id": "1999-12-09",
         "unit": "Article 24"
+      },
+      {
+        "corpus_id": "un/treaty/vienna-1988",
+        "short_title": "Vienna Convention 1988",
+        "version_id": "1988-12-20",
+        "unit": "Article 1 Definitions"
       },
       {
         "corpus_id": "un/treaty/vienna-1988",

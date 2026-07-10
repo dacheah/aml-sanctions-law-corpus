@@ -39,6 +39,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **UN treaty basis:**
     - *Vienna Convention 1988*: Art. 3 — offences and sanctions (first internationalised the ML offence)
     - *Palermo Convention 2000 (UNTOC)*: Art. 6 — criminalization of the laundering of proceeds of crime
+    - *UNCAC 2003 (Mérida)*: Art. 23 — laundering of proceeds of crime
 
 - **Australia:**
     - *AML/CTF Act 2006*: 139  Providing a designated service using a false customer n; 140  Receiving a designated service using a false customer n; 142  Conducting transactions so as to avoid reporting requir; 143  Conducting transfers to avoid reporting requirements re; 236  Defence of taking reasonable precautions, and exercisin
@@ -68,6 +69,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **UN treaty basis:**
     - *Vienna Convention 1988*: Art. 5 — confiscation
     - *Palermo Convention 2000 (UNTOC)*: Art. 12 — confiscation and seizure
+    - *UNCAC 2003 (Mérida)*: Art. 31 — freezing, seizure and confiscation
 
 - **Australia:**
     - *AML/CTF Act 2006*: 139  Providing a designated service using a false customer n; 140  Receiving a designated service using a false customer n; 142  Conducting transactions so as to avoid reporting requir; 143  Conducting transfers to avoid reporting requirements re; 236  Defence of taking reasonable precautions, and exercisin
@@ -406,6 +408,10 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 
 ### R.26 — Regulation and supervision of financial institutions
 *Concepts:* `supervisory_architecture`
+
+- **UN treaty basis:**
+    - *Palermo Convention 2000 (UNTOC)*: Art. 7 — measures to combat money-laundering (regulatory & supervisory regime)
+    - *UNCAC 2003 (Mérida)*: Art. 14 — measures to prevent money-laundering (regulatory & supervisory regime)
 
 - **Australia:**
     - *AML/CTF Act 2006*: 26R  AUSTRAC CEO may require reporting entity to undertake M; 161  External audits—risk management etc.; 202  Notices to reporting entities; 203  Contents of notices to reporting entities; 244  Reports to the AUSTRAC CEO etc.

@@ -14,31 +14,47 @@ never an in-place edit.
 
 ## [Unreleased]
 
+_Nothing yet._
+
+## [1.1.0] — 2026-07-09
+
+Adds the **UN backbone** — the international treaty and Security Council root beneath the FATF standard —
+and makes the FATF crosswalk *vertical* (UN instrument → FATF Recommendation → national provision).
+
 ### Added
 
-- **UN backbone branch** (`jurisdiction: international`) — the international treaty and Security Council root
-  beneath the FATF standard, as six authoritative records (authentic text, open — UN official documents are
-  freely reproducible with attribution): the UN Convention against Illicit Traffic in Narcotic Drugs and
-  Psychotropic Substances (Vienna, 1988), the UN Convention against Transnational Organized Crime (Palermo /
-  UNTOC, 2000), the International Convention for the Suppression of the Financing of Terrorism (1999), and UN
-  Security Council Resolutions 1267 (1999), 1373 (2001) and 1540 (2004). All six are `extracted_verified` by
-  independent cross-engine re-extraction and reproduced byte-exact by `extract.py`.
+- **UN backbone branch** (`jurisdiction: international`) — seven authoritative records (authentic text,
+  open — UN official documents are freely reproducible with attribution): the UN Convention against Illicit
+  Traffic in Narcotic Drugs and Psychotropic Substances (Vienna, 1988), the UN Convention against
+  Transnational Organized Crime (Palermo / UNTOC, 2000), the International Convention for the Suppression of
+  the Financing of Terrorism (1999), UN Security Council Resolutions 1267 (1999), 1373 (2001) and 1540
+  (2004), and the UN Convention against Corruption (UNCAC / Mérida, 2003). All seven are `extracted_verified`
+  by independent cross-engine re-extraction and reproduced byte-exact by `extract.py`.
 - **Vertical "UN treaty basis" dimension** in the FATF crosswalk — each Recommendation now shows the root UN
   instrument(s) it restates *above* the AU/UK/US/EU columns (fixed human-curated mapping), making the chain
   visible root-to-implementation and restoring the international-cooperation Recommendations (R.36–40) to
   coverage through their treaty root.
 - Curated concept tags on the marquee UN provisions (Vienna Art. 3/5; Palermo Art. 6/7/12; TF Convention
-  Art. 2/8/18; the key operative paragraphs of UNSCR 1267/1373/1540).
+  Art. 2/8/18; UNCAC Art. 14/23/31/52; the key operative paragraphs of UNSCR 1267/1373/1540).
 - UN extraction profiles in `extract.py` (single-column UN PDF + full-document UN HTML); reproducibility is
-  now **30 of 33** text-bearing records byte-exact (all six UN records included).
+  now **31 of 34** text-bearing records byte-exact (all seven UN records included).
 
 ### Changed
 
 - `docs/methodology.md` — §6 records the UN backbone scope decision (dated) with the multilingual and
   free-reproduction notes; §8 documents the UN-treaty-basis crosswalk dimension.
-- The browsable site groups the international backbone (UN treaties, UN resolutions, FATF) above the national
-  branches, and the crosswalk page renders the UN treaty basis per Recommendation.
-- `monitoring/sources.json` extended with the six UN source pages (21 sources total).
+- The browsable site now groups the landing page **by jurisdiction** (the international UN + FATF backbone,
+  then the Australia, UK, US and EU branches) rather than by document type — mirroring the corpus's
+  never-merged-branches principle — and the crosswalk page renders the UN treaty basis per Recommendation.
+- `monitoring/sources.json` extended with the seven UN source pages (22 sources total).
+
+### Fixed
+
+- The UN treaty structure segmenter now recovers article headings that the source PDFs rendered without
+  their "Article N" prefix, by anchoring to the table-of-contents sequence: the Vienna Convention now
+  segments into 33 of 34 articles (was 28) and the Palermo Convention captures its bundled Protocols without
+  article-number collisions. The authoritative texts are unchanged (append-only); this affects only the
+  derived structure layer.
 
 ## [1.0.1] — 2026-07-09
 
@@ -118,6 +134,7 @@ covering four fidelity-verified jurisdictions as separate, cross-referenced bran
 - This is a reference record of the law — **not legal or compliance advice** — and takes no position on any
   matter, institution, or investigation.
 
-[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.1.0
 [1.0.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.0.1
 [1.0.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.0.0
