@@ -1301,6 +1301,18 @@
         "unit": "Art. 3 Identifizierung der Vertragspartei"
       },
       {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 6 Besondere Sorgfaltspflichten"
+      },
+      {
         "corpus_id": "eu/reg/2024-1620",
         "short_title": "AMLA Reg (Reg (EU) 2024/1620)",
         "version_id": "2024-05-31",
@@ -2093,6 +2105,12 @@
         "short_title": "AML/CTF Rules 2025",
         "version_id": "2026-03-31",
         "unit": "Division 2—Reports of threshold transactions"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 4 Feststellung der wirtschaftlich berechtigten Person"
       },
       {
         "corpus_id": "eu/reg/2024-1624",
@@ -4805,6 +4823,12 @@
         "unit": "19  Notifying AML/CTF compliance officer—certain persons with delayed enrolment"
       },
       {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 8 Organisatorische Massnahmen"
+      },
+      {
         "corpus_id": "eu/dir/2015-849",
         "short_title": "4AMLD (Dir (EU) 2015/849)",
         "version_id": "2024-12-30",
@@ -6360,7 +6384,7 @@
         "corpus_id": "ch/reg/amlo-finma",
         "short_title": "AMLO-FINMA / GwV-FINMA",
         "version_id": "2023-01-01",
-        "unit": "Art. 78b97 Übergangsbestimmung zur Änderung vom 27. Oktober 2022"
+        "unit": "Art. 78b Übergangsbestimmung zur Änderung vom 27. Oktober 2022"
       },
       {
         "corpus_id": "ch/reg/amlo-finma",
@@ -6384,13 +6408,13 @@
         "corpus_id": "ch/act/amla",
         "short_title": "AMLA / GwG",
         "version_id": "2026-10-01",
-        "unit": "Art. 42281 Übergangsbestimmung zur Änderung vom 15. Juni 2018"
+        "unit": "Art. 42 Übergangsbestimmung zur Änderung vom 15. Juni 2018"
       },
       {
         "corpus_id": "ch/act/amla",
         "short_title": "AMLA / GwG",
         "version_id": "2026-10-01",
-        "unit": "Art. 42a284 Übergangsbestimmung zur Änderung vom 26. September 2025"
+        "unit": "Art. 42a Übergangsbestimmung zur Änderung vom 26. September 2025"
       },
       {
         "corpus_id": "ch/act/amla",
@@ -8099,6 +8123,12 @@
         "short_title": "AML/CTF Rules 2025",
         "version_id": "2026-03-31",
         "unit": "Division 13—Transitional"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 7 Dokumentationspflicht"
       },
       {
         "corpus_id": "eu/reg/2024-1624",
@@ -12988,7 +13018,7 @@
         "corpus_id": "ch/act/amla",
         "short_title": "AMLA / GwG",
         "version_id": "2026-10-01",
-        "unit": "Art. 20170 Tätigkeit ohne Anschluss an eine Selbstregulierungsorganisation"
+        "unit": "Art. 20 Tätigkeit ohne Anschluss an eine Selbstregulierungsorganisation"
       },
       {
         "corpus_id": "ch/act/amla",
@@ -13000,7 +13030,7 @@
         "corpus_id": "ch/act/amla",
         "short_title": "AMLA / GwG",
         "version_id": "2026-10-01",
-        "unit": "Art. 26a210 Inländische Gruppengesellschaften"
+        "unit": "Art. 26a Inländische Gruppengesellschaften"
       },
       {
         "corpus_id": "ch/act/amla",
@@ -13018,13 +13048,13 @@
         "corpus_id": "ch/act/amla",
         "short_title": "AMLA / GwG",
         "version_id": "2026-10-01",
-        "unit": "Art. 35a270 Überprüfung"
+        "unit": "Art. 35a Überprüfung"
       },
       {
         "corpus_id": "ch/act/amla",
         "short_title": "AMLA / GwG",
         "version_id": "2026-10-01",
-        "unit": "Art. 36272"
+        "unit": "Art. 36"
       },
       {
         "corpus_id": "eu/reg/2024-1620",
@@ -17205,6 +17235,12 @@
         "unit": "2 When, in pursuance of Article 41 of the Charter of the"
       },
       {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "5 (1) The Minister may issue to any person in Canada or"
+      },
+      {
         "corpus_id": "usa/usc/ieepa-50-35",
         "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
         "version_id": "2024",
@@ -17527,6 +17563,18 @@
         "unit": "4 (1) The Governor in Council may, if the Governor in"
       },
       {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "1 This Act may be cited as the Freezing Assets of Corrupt Foreign Officials Act."
+      },
+      {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "4 (1) If a foreign state, in writing, asserts to the Government of Canada that a person has misappropriated property of "
+      },
+      {
         "corpus_id": "usa/usc/ieepa-50-35",
         "short_title": "IEEPA (50 U.S.C. §§1701–1708)",
         "version_id": "2024",
@@ -17567,6 +17615,12 @@
         "short_title": "Charter of the United Nations Act 1945",
         "version_id": "2021-09-14",
         "unit": "22A  Regulations on procedures relating to freezable assets"
+      },
+      {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 10 Vermögenssperre"
       },
       {
         "corpus_id": "eu/reg/2024-1624",
@@ -18271,6 +18325,12 @@
         "short_title": "JVCFOA (Magnitsky)",
         "version_id": "2026-05-26",
         "unit": "4 (1) The Governor in Council may, if the Governor in"
+      },
+      {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "4 (1) If a foreign state, in writing, asserts to the Government of Canada that a person has misappropriated property of "
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -20693,6 +20753,30 @@
         "short_title": "United Nations Act (CA)",
         "version_id": "2026-05-26",
         "unit": "4 (1) Every order and regulation made under this Act"
+      },
+      {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "9 (1) Every person in Canada and every Canadian outside Canada must, without delay, disclose to the Commissioner of the "
+      },
+      {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "10 (1) Every person who wilfully contravenes an order"
+      },
+      {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "11 (1) Any proceedings in respect of an offence under"
+      },
+      {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "12 Proceedings with respect to an offence under this Act"
       },
       {
         "corpus_id": "usa/cfr/31-1010",
@@ -29751,6 +29835,12 @@
         "unit": "Schedule 1—Forms"
       },
       {
+        "corpus_id": "ch/act/amla",
+        "short_title": "AMLA / GwG",
+        "version_id": "2026-10-01",
+        "unit": "Art. 12 Zuständigkeit"
+      },
+      {
         "corpus_id": "eu/reg/2024-1620",
         "short_title": "AMLA Reg (Reg (EU) 2024/1620)",
         "version_id": "2024-05-31",
@@ -32225,6 +32315,18 @@
         "short_title": "JVCFOA (Magnitsky)",
         "version_id": "2026-05-26",
         "unit": "4.1 The following definitions apply in sections 4.2 to 4.4."
+      },
+      {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "1 This Act may be cited as the Freezing Assets of Corrupt Foreign Officials Act."
+      },
+      {
+        "corpus_id": "ca/act/facfoa",
+        "short_title": "FACFOA",
+        "version_id": "2026-05-26",
+        "unit": "2 (1) The following definitions apply in this Act."
       },
       {
         "corpus_id": "usa/cfr/31-1010",

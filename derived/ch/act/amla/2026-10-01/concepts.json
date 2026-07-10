@@ -30,8 +30,13 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
+    "amlctf_program",
+    "asset_freezing",
+    "beneficial_ownership",
     "customer_due_diligence",
     "enrolment_registration",
+    "record_keeping",
+    "supervisory_architecture",
     "suspicious_matter_reporting",
     "threshold_transaction_reporting"
   ],
@@ -50,6 +55,41 @@
       "curated": true
     },
     {
+      "unit": "Art. 4 Feststellung der wirtschaftlich berechtigten Person",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 6 Besondere Sorgfaltspflichten",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 7 Dokumentationspflicht",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 8 Organisatorische Massnahmen",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 9 Meldepflicht",
       "concepts": [
         "suspicious_matter_reporting"
@@ -57,7 +97,21 @@
       "curated": true
     },
     {
-      "unit": "Art. 20170 Tätigkeit ohne Anschluss an eine Selbstregulierungsorganisation",
+      "unit": "Art. 10 Vermögenssperre",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12 Zuständigkeit",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 20 Tätigkeit ohne Anschluss an eine Selbstregulierungsorganisation",
       "concepts": [
         "enrolment_registration"
       ]
@@ -69,7 +123,7 @@
       ]
     },
     {
-      "unit": "Art. 26a210 Inländische Gruppengesellschaften",
+      "unit": "Art. 26a Inländische Gruppengesellschaften",
       "concepts": [
         "enrolment_registration"
       ]
@@ -87,25 +141,25 @@
       ]
     },
     {
-      "unit": "Art. 35a270 Überprüfung",
+      "unit": "Art. 35a Überprüfung",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "Art. 36272",
+      "unit": "Art. 36",
       "concepts": [
         "enrolment_registration"
       ]
     },
     {
-      "unit": "Art. 42281 Übergangsbestimmung zur Änderung vom 15. Juni 2018",
+      "unit": "Art. 42 Übergangsbestimmung zur Änderung vom 15. Juni 2018",
       "concepts": [
         "threshold_transaction_reporting"
       ]
     },
     {
-      "unit": "Art. 42a284 Übergangsbestimmung zur Änderung vom 26. September 2025",
+      "unit": "Art. 42a Übergangsbestimmung zur Änderung vom 26. September 2025",
       "concepts": [
         "threshold_transaction_reporting"
       ]

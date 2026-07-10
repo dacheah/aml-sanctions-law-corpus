@@ -16,6 +16,30 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.2.1] — 2026-07-10
+
+Completes the Canada branch and corrects the Swiss article numbering.
+
+### Added
+
+- **Canada — Freezing Assets of Corrupt Foreign Officials Act** (S.C. 2011, c. 10; `ca/act/facfoa`), the
+  remaining sanctions statute (freezing politically-exposed foreign persons' assets at a foreign state's
+  request), `extracted_verified`. Canada is now seven records.
+
+### Fixed
+
+- **Swiss article numbering.** Fedlex PDFs flatten superscript footnote digits onto plain article numbers,
+  so the derived structure previously mis-numbered some Swiss articles (e.g. AMLA Art. 1 as "15"). The Swiss
+  structure layer now relabels articles positionally against the authentic Fedlex **Akoma-Ntoso XML** order,
+  giving clean numbers (1, 2, 2a, 2b, 3, 4, 5, 6, …). The authoritative texts and hashes are unchanged —
+  this affects only the derived structure layer.
+
+### Changed
+
+- Swiss curated concept tags enriched now that article numbering is reliable: the crosswalk's Switzerland
+  column covers customer due diligence, beneficial ownership, record-keeping, the AML programme, suspicious-
+  transaction reporting and asset-freezing (AMLA Arts. 3–12), not only the Criminal Code offences.
+
 ## [1.2.0] — 2026-07-10
 
 Adds three national branches — **Canada, Singapore and Switzerland** — taking the corpus to seven
@@ -174,7 +198,8 @@ covering four fidelity-verified jurisdictions as separate, cross-referenced bran
 - This is a reference record of the law — **not legal or compliance advice** — and takes no position on any
   matter, institution, or investigation.
 
-[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/dacheah/aml-sanctions-law-corpus/compare/v1.2.1...HEAD
+[1.2.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.2.1
 [1.2.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.2.0
 [1.1.0]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.1.0
 [1.0.1]: https://github.com/dacheah/aml-sanctions-law-corpus/releases/tag/v1.0.1

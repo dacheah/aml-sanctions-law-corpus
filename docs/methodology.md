@@ -107,9 +107,9 @@ Drugs and Psychotropic Substances (Vienna, 1988), the UN Convention against Tran
 against Corruption (UNCAC / Mérida, 2003 — Arts. 14 and 23 extend the AML framework into the corruption
 context); and — added by recorded decision (2026-07-10) — three further national branches: **Canada**
 (the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and Regulations, the Criminal Code
-money-laundering and terrorist-financing offences, and the sanctions statutes SEMA, the United Nations Act
-and the Magnitsky Act; from the Justice Laws Website, English captured from the bilingual consolidation,
-free reproduction under SI/97-5), **Singapore** (the CDSA, the Terrorism (Suppression of Financing) Act,
+money-laundering and terrorist-financing offences, and the sanctions statutes SEMA, the United Nations Act,
+the Magnitsky Act and the Freezing Assets of Corrupt Foreign Officials Act; from the Justice Laws Website,
+English captured from the bilingual consolidation, free reproduction under SI/97-5), **Singapore** (the CDSA, the Terrorism (Suppression of Financing) Act,
 the United Nations Act and its Anti-Terrorism Measures Regulations, and the Precious Stones and Precious
 Metals Act; from Singapore Statutes Online, reproduced with AGC permission), and **Switzerland** (the
 Anti-Money Laundering Act and Ordinance, the FINMA AML Ordinance, the Criminal Code money-laundering and

@@ -903,12 +903,19 @@
      "instruments": {}
     },
     "CAN": {
-     "provision_count": 3,
+     "provision_count": 5,
      "instruments": {
       "JVCFOA (Magnitsky)": {
        "count": 1,
        "provisions": [
         "4 (1) The Governor in Council may, if the Governor in"
+       ]
+      },
+      "FACFOA": {
+       "count": 2,
+       "provisions": [
+        "4 (1) If a foreign state, in writing, asserts to the Government of Canada that a person has misappropriated property of ",
+        "5 (1) The Minister may issue to any person in Canada or"
        ]
       },
       "SEMA": {
@@ -950,8 +957,14 @@
      }
     },
     "CHE": {
-     "provision_count": 2,
+     "provision_count": 3,
      "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 10 Vermögenssperre"
+       ]
+      },
       "Embargo Act / EmbG": {
        "count": 2,
        "provisions": [
@@ -1056,12 +1069,19 @@
      "instruments": {}
     },
     "CAN": {
-     "provision_count": 3,
+     "provision_count": 5,
      "instruments": {
       "JVCFOA (Magnitsky)": {
        "count": 1,
        "provisions": [
         "4 (1) The Governor in Council may, if the Governor in"
+       ]
+      },
+      "FACFOA": {
+       "count": 2,
+       "provisions": [
+        "4 (1) If a foreign state, in writing, asserts to the Government of Canada that a person has misappropriated property of ",
+        "5 (1) The Minister may issue to any person in Canada or"
        ]
       },
       "SEMA": {
@@ -1103,8 +1123,14 @@
      }
     },
     "CHE": {
-     "provision_count": 2,
+     "provision_count": 3,
      "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 10 Vermögenssperre"
+       ]
+      },
       "Embargo Act / EmbG": {
        "count": 2,
        "provisions": [
@@ -1327,7 +1353,7 @@
      }
     },
     "CHE": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 1,
@@ -1336,9 +1362,11 @@
        ]
       },
       "AMLA / GwG": {
-       "count": 1,
+       "count": 3,
        "provisions": [
-        "Art. 3 Identifizierung der Vertragspartei"
+        "Art. 3 Identifizierung der Vertragspartei",
+        "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
+        "Art. 6 Besondere Sorgfaltspflichten"
        ]
       }
      }
@@ -1458,8 +1486,15 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 7 Dokumentationspflicht"
+       ]
+      }
+     }
     }
    }
   },
@@ -1982,7 +2017,7 @@
      }
     },
     "CHE": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 1,
@@ -1991,9 +2026,11 @@
        ]
       },
       "AMLA / GwG": {
-       "count": 1,
+       "count": 3,
        "provisions": [
-        "Art. 3 Identifizierung der Vertragspartei"
+        "Art. 3 Identifizierung der Vertragspartei",
+        "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
+        "Art. 6 Besondere Sorgfaltspflichten"
        ]
       }
      }
@@ -2101,8 +2138,15 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 8 Organisatorische Massnahmen"
+       ]
+      }
+     }
     }
    }
   },
@@ -2253,7 +2297,7 @@
      }
     },
     "CHE": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 1,
@@ -2262,9 +2306,11 @@
        ]
       },
       "AMLA / GwG": {
-       "count": 1,
+       "count": 3,
        "provisions": [
-        "Art. 3 Identifizierung der Vertragspartei"
+        "Art. 3 Identifizierung der Vertragspartei",
+        "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
+        "Art. 6 Besondere Sorgfaltspflichten"
        ]
       }
      }
@@ -2606,7 +2652,7 @@
      }
     },
     "CHE": {
-     "provision_count": 2,
+     "provision_count": 4,
      "instruments": {
       "Criminal Code (AML/CTF articles)": {
        "count": 1,
@@ -2615,9 +2661,11 @@
        ]
       },
       "AMLA / GwG": {
-       "count": 1,
+       "count": 3,
        "provisions": [
-        "Art. 3 Identifizierung der Vertragspartei"
+        "Art. 3 Identifizierung der Vertragspartei",
+        "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
+        "Art. 6 Besondere Sorgfaltspflichten"
        ]
       }
      }
@@ -2780,8 +2828,15 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 4 Feststellung der wirtschaftlich berechtigten Person"
+       ]
+      }
+     }
     }
    }
   },
@@ -2874,8 +2929,15 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 4 Feststellung der wirtschaftlich berechtigten Person"
+       ]
+      }
+     }
     }
    }
   },
@@ -2968,8 +3030,15 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 12 Zuständigkeit"
+       ]
+      }
+     }
     }
    }
   },
@@ -3051,8 +3120,15 @@
      "instruments": {}
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 12 Zuständigkeit"
+       ]
+      }
+     }
     }
    }
   },
@@ -3149,8 +3225,15 @@
      }
     },
     "CHE": {
-     "provision_count": 0,
-     "instruments": {}
+     "provision_count": 1,
+     "instruments": {
+      "AMLA / GwG": {
+       "count": 1,
+       "provisions": [
+        "Art. 12 Zuständigkeit"
+       ]
+      }
+     }
     }
    }
   },

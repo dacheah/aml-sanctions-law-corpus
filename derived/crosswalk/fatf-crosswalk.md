@@ -165,6 +165,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Canada:**
     - *JVCFOA (Magnitsky)*: 4 (1) The Governor in Council may, if the Governor in
+    - *FACFOA*: 4 (1) If a foreign state, in writing, asserts to the Governm; 5 (1) The Minister may issue to any person in Canada or
     - *SEMA*: 4 (1) The Governor in Council may, if the Governor in
     - *United Nations Act (CA)*: 2 When, in pursuance of Article 41 of the Charter of the
 - **Singapore:**
@@ -172,6 +173,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *UN (Anti-Terrorism Measures) Regs*: 3.; 4.
     - *United Nations Act (SG)*: 2.
 - **Switzerland:**
+    - *AMLA / GwG*: Art. 10 Vermögenssperre
     - *Embargo Act / EmbG*: Art. 1 Gegenstand; Art. 2 Zuständigkeit
 
 ### R.7 — Targeted financial sanctions related to proliferation
@@ -192,6 +194,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **European Union:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Canada:**
     - *JVCFOA (Magnitsky)*: 4 (1) The Governor in Council may, if the Governor in
+    - *FACFOA*: 4 (1) If a foreign state, in writing, asserts to the Governm; 5 (1) The Minister may issue to any person in Canada or
     - *SEMA*: 4 (1) The Governor in Council may, if the Governor in
     - *United Nations Act (CA)*: 2 When, in pursuance of Article 41 of the Charter of the
 - **Singapore:**
@@ -199,6 +202,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *UN (Anti-Terrorism Measures) Regs*: 3.; 4.
     - *United Nations Act (SG)*: 2.
 - **Switzerland:**
+    - *AMLA / GwG*: Art. 10 Vermögenssperre
     - *Embargo Act / EmbG*: Art. 1 Gegenstand; Art. 2 Zuständigkeit
 
 ### R.8 — Non-profit organisations
@@ -235,7 +239,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
-    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei
+    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
 
 ### R.11 — Record-keeping
 *Concepts:* `record_keeping`
@@ -256,7 +260,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Canada:**
     - *PCMLTFA*: 6 Every person or entity referred to in section 5 shall
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLA / GwG*: Art. 7 Dokumentationspflicht
 
 ### R.12 — Politically exposed persons
 *Concepts:* `politically_exposed_persons`
@@ -359,7 +364,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
-    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei
+    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
 
 ### R.18 — Internal controls and foreign branches and subsidiaries
 *Concepts:* `amlctf_program`
@@ -377,7 +382,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *4AMLD (Dir (EU) 2015/849)*: Article 8 1. Member States shall ensure that obliged entitie
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLA / GwG*: Art. 8 Organisatorische Massnahmen
 
 ### R.19 — Higher-risk countries
 *Concepts:* `risk_based_approach`, `customer_due_diligence`
@@ -403,7 +409,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
-    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei
+    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
 
 ### R.20 — Reporting of suspicious transactions
 *Concepts:* `suspicious_matter_reporting`
@@ -466,7 +472,7 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *PSPM Act 2019*: 9.
 - **Switzerland:**
     - *Criminal Code (AML/CTF articles)*: Art. 305ter 431
-    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei
+    - *AMLA / GwG*: Art. 3 Identifizierung der Vertragspartei; Art. 5 Erneute Identifizierung oder Feststellung der wirtsch; Art. 6 Besondere Sorgfaltspflichten
 
 ### R.23 — DNFBPs: other measures
 *Concepts:* `designated_services`
@@ -500,7 +506,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 10 Central beneficial ownership registers
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLA / GwG*: Art. 4 Feststellung der wirtschaftlich berechtigten Person
 
 ### R.25 — Transparency and beneficial ownership of legal arrangements
 *Concepts:* `beneficial_ownership`
@@ -518,7 +525,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLD6 (Dir (EU) 2024/1640)*: Article 10 Central beneficial ownership registers
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLA / GwG*: Art. 4 Feststellung der wirtschaftlich berechtigten Person
 
 ## F — Powers and responsibilities of competent authorities
 
@@ -540,7 +548,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLA Reg (Reg (EU) 2024/1620)*: Article 1 Establishment and scope of action; Article 5 Tasks; Article 13 The listing of selected obliged entities
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLA / GwG*: Art. 12 Zuständigkeit
 
 ### R.27 — Powers of supervisors
 *Concepts:* `supervisory_architecture`
@@ -556,7 +565,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
     - *AMLA Reg (Reg (EU) 2024/1620)*: Article 1 Establishment and scope of action; Article 5 Tasks; Article 13 The listing of selected obliged entities
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLA / GwG*: Art. 12 Zuständigkeit
 
 ### R.28 — Regulation and supervision of DNFBPs
 *Concepts:* `supervisory_architecture`, `designated_services`
@@ -573,7 +583,8 @@ _Outside the corpus's v1 scope — no captured implementing instrument._
 - **Canada:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
 - **Singapore:**
     - *PSPM Act 2019*: 9.
-- **Switzerland:** — no curated marquee provision in v1 (see keyword tags in the instrument pages)
+- **Switzerland:**
+    - *AMLA / GwG*: Art. 12 Zuständigkeit
 
 ### R.29 — Financial intelligence units
 *Note:* The FIU (AUSTRAC / NCA-UKFIU) is an institution, not a captured instrument in v1.
