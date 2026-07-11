@@ -37,15 +37,16 @@
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
+    "designated_services",
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
+    "politically_exposed_persons",
     "record_keeping",
+    "risk_based_approach",
     "scope_and_application",
     "supervisory_architecture",
-    "suspicious_matter_reporting",
     "threshold_transaction_reporting",
-    "tipping_off",
     "virtual_assets"
   ],
   "tags": [
@@ -68,82 +69,123 @@
       "curated": true
     },
     {
+      "unit": "5A. Schedule 2 has effect in relation to DNFBPs",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
       "unit": "9. Power to enter business premises etc. for routine inspection",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "9A. When power under section 9 invoked by other regulatory authority",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "10. Offences for non-compliance with requirements imposed under section 9",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11. Relevant authorities may appoint investigators",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "12A. When power under section 12 invoked by other regulatory authority",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "13. Offences for non-compliance with requirements imposed under section 12",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "13B. International enforcement cooperation",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "13C. International supervisory cooperation",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "13D. Regulator-related requirements",
       "concepts": [
-        "virtual_assets",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "13E. Investors’ and public interest condition",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "17. Magistrate’s warrants",
       "concepts": [
-        "suspicious_matter_reporting",
-        "record_keeping",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "20A. Part 4 does not apply to licensed VAS provider",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "21. Relevant authorities may take disciplinary actions",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "24. Interpretation of Part 5",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "25. Persons to whom this Part does not apply",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "27. Commissioner to maintain register of licensees",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "28. Certified copy of register or entry in register admissible as evidence",
@@ -154,38 +196,52 @@
     {
       "unit": "29. Restriction on operating money service",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "designated_services",
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "30. Grant of licence",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "31. Renewal of licence",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "34. Revocation or suspension of licence",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "35. Commissioner’s approval required in respect of persons proposing to become licensee’s directors",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "36. Commissioner’s approval required in respect of persons proposing to become licensee’s ultimate owners",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "37. Commissioner’s approval required in respect of persons proposing to become licensee’s partners",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "38. Adding new business premises",
@@ -224,29 +280,30 @@
     {
       "unit": "43. Commissioner may take disciplinary actions",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "47. Warrant to enter premises to remove evidence of commission of offence",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "48. Authorized officer’s power to arrest and search, etc.",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "52. Offence to provide false information in connection with application for licence etc.",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53. Time limit for prosecution",
@@ -258,21 +315,23 @@
     {
       "unit": "53A. Interpretation of Part 5A",
       "concepts": [
-        "enrolment_registration",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53B. Disapplication",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "53D. Registrar to maintain register of licensees",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53E. Certified copies and their evidential value",
@@ -283,38 +342,67 @@
     {
       "unit": "53F. Offence of carrying on trust or company service business without licence",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "designated_services",
+        "enforcement_and_offences",
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53G. Application for and grant of licence",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53H. Licence granted only if fit and proper test satisfied",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53I. Fit and proper test",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53K. Renewal of licence",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53Q. When licence may be revoked or suspended",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53S. Approval required to become ultimate owner of licensee",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53T. Approval required to become partner of licensee",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53U. Approval required to become director of licensee",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53W. Notification of changes in particulars",
@@ -331,8 +419,9 @@
     {
       "unit": "53Z. Disciplinary action by Registrar",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZC. Registration of pecuniary penalty order",
@@ -343,20 +432,23 @@
     {
       "unit": "53ZF. Magistrate’s warrant to enter premises",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZG. Power to require production of material in legible form",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZN. Offence of providing false or misleading information",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZO. Time limit for prosecution",
@@ -375,63 +467,74 @@
     {
       "unit": "53ZR. Interpretation of Part 5B",
       "concepts": [
-        "virtual_assets",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRA. Meaning of VA or virtual asset",
       "concepts": [
-        "virtual_assets",
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRB. Meaning of providing VA service and performing regulated function",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "designated_services",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRC. Meaning of related corporation, subsidiary and wholly owned subsidiary",
       "concepts": [
-        "virtual_assets",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRD. Licence required for carrying on VA service business",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "designated_services",
+        "enrolment_registration",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRE. Offence to issue advertisements relating to unlicensed person’s provision of VA service",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enforcement_and_offences",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRF. Offence involving fraudulent or deceptive devices etc. in transactions in virtual assets",
       "concepts": [
-        "virtual_assets",
-        "enforcement_and_offences"
-      ]
+        "enforcement_and_offences",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRG. Offence to fraudulently or recklessly induce others to invest in virtual assets",
       "concepts": [
-        "enrolment_registration",
-        "virtual_assets",
-        "enforcement_and_offences"
-      ]
+        "enforcement_and_offences",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRH. Register of licensed persons",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRI. Certified copy of register",
@@ -442,28 +545,51 @@
     {
       "unit": "53ZRJ. Fit and proper test",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRK. Application for and grant of licence",
       "concepts": [
-        "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53ZRL. Application to be licensed representatives",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53ZRM. Approval and transfer of accreditation",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRO. Requirements for responsible officers",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53ZRP. Approval of responsible officers",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRQ. Ultimate ownership",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZRR. Premises for keeping records or documents",
@@ -531,13 +657,15 @@
       "unit": "53ZSJ. Offences for non-compliance with section 53ZSH auditor’s requirement",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZSL. Offences to destroy, conceal, or alter accounts, records, or documents, etc.",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZSM. Immunity in respect of communication with Commission by prescribed auditor",
@@ -552,18 +680,25 @@
       ]
     },
     {
+      "unit": "53ZSP. Disciplinary action by Commission",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
       "unit": "53ZSQ. Other circumstances for revocation or suspension in respect of licensed persons etc.",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZSR. Determination concerning misconduct and fit and proper person",
       "concepts": [
-        "threshold_transaction_reporting",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZST. Registration of pecuniary penalty order",
@@ -576,6 +711,34 @@
       "concepts": [
         "definitions_and_interpretation"
       ]
+    },
+    {
+      "unit": "53ZSY. Grounds for imposing prohibition or requirement under section 53ZSZ, 53ZT or 53ZTA",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53ZSZ. Restriction of business",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53ZT. Restriction on dealing with property",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53ZTA. Maintenance of property",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZTD. Power to impose prohibition or requirement not affected by revocation or suspension of licence",
@@ -607,19 +770,22 @@
       "unit": "53ZTO. Offence for making false or misleading representation in connection with application",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZTP. Offence for providing false or misleading information, if information required under this Ordinance",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZTQ. Offence for providing false or misleading document, if document required in connection with Commission’s function",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZTR. Certain representations prohibited",
@@ -631,7 +797,8 @@
       "unit": "53ZTS. Offence for obstructing person in performance of functions",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZTT. Time limitation for prosecution",
@@ -661,29 +828,31 @@
     {
       "unit": "53ZTZ. Interpretation of Part 5C",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
-        "virtual_assets",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZU. Meaning of dealing in precious metals and stones",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "designated_services"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUA. Disapplication of Part 5C",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUC. Commissioner to maintain register",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUD. Certified copy of register",
@@ -694,15 +863,18 @@
     {
       "unit": "53ZUE. Offence of carrying out certain transaction without registration",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "designated_services",
+        "enforcement_and_offences",
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUF. Application for and grant of registration",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUG. Certificate of registration and branch certificates",
@@ -737,9 +909,9 @@
     {
       "unit": "53ZUL. Cancellation or suspension of registration",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUM. Supplementary provisions on cancellation or suspension of registration",
@@ -750,14 +922,16 @@
     {
       "unit": "53ZUN. Fit and proper test",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUO. Application for and grant of registration",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUP. Certificate of registration and branch certificates",
@@ -769,7 +943,8 @@
       "unit": "53ZUQ. Renewal of registration as Category B registrant",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUR. Amendment of conditions of registration",
@@ -792,10 +967,9 @@
     {
       "unit": "53ZUU. Cancellation or suspension of registration",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUV. Supplementary provisions on cancellation or suspension of registration",
@@ -806,14 +980,23 @@
     {
       "unit": "53ZUW. Approval required for becoming ultimate owner of Category B registrant",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53ZUX. Approval required for becoming partner of Category B registrant",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZUY. Approval required for becoming director of Category B registrant",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZV. Display of certificate of registration",
@@ -845,15 +1028,16 @@
     {
       "unit": "53ZVE. Disciplinary action against Category A registrant",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZVF. Disciplinary action against Category B registrant",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZVI. Registration of pecuniary penalty order",
@@ -864,39 +1048,44 @@
     {
       "unit": "53ZVK. Non-Hong Kong precious metals and stones dealer must file cash transaction report",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZVM. Magistrate’s warrant to enter premises",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZVN. Power to require production of material in legible form",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZVO. Authorized officer’s power to arrest and search etc.",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZVP. How this Ordinance applies to hawker",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "53ZVT. Offence of providing false or misleading information",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "53ZVU. Time limit for prosecution",
@@ -914,9 +1103,16 @@
     {
       "unit": "54. Interpretation of Part 6",
       "concepts": [
-        "enrolment_registration",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "55. Establishment of Tribunal",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "61. Powers of Tribunal",
@@ -958,35 +1154,43 @@
       "unit": "76A. Interpretation of Part 6A",
       "concepts": [
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "76B. Confidentiality",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "76C. Permitted disclosures by specified person",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "76D. Permitted disclosures by relevant authority",
       "concepts": [
-        "virtual_assets",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "76E. Person subject to inspection, investigation or disciplinary action must not disclose information",
       "concepts": [
-        "tipping_off",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "76F. Recipient of information disclosed under section 76C, 76D or 76E must not disclose it onwards",
       "concepts": [
-        "tipping_off",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "76G. Other enactments on disclosure of information not affected",
@@ -1005,7 +1209,8 @@
       "unit": "79. Prosecution of offences by relevant authorities",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "80. Giving of notices by relevant authorities",
@@ -1023,19 +1228,17 @@
     {
       "unit": "1. In this Ordinance—",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping",
-        "enrolment_registration",
-        "virtual_assets",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "2. What are customer due diligence measures",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership"
-      ]
+        "beneficial_ownership",
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "3. When customer due diligence measures must be carried out",
@@ -1048,43 +1251,44 @@
       "unit": "4. Simplified customer due diligence",
       "concepts": [
         "customer_due_diligence",
-        "beneficial_ownership",
-        "supervisory_architecture"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "12. Special requirements for wire transfers",
       "concepts": [
-        "customer_due_diligence",
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "13A. Special requirements for virtual asset transfer",
       "concepts": [
-        "customer_due_diligence",
+        "funds_transfer_reporting",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "14. Special requirements for correspondent banking relationships",
       "concepts": [
-        "correspondent_banking",
-        "supervisory_architecture"
-      ]
+        "correspondent_banking"
+      ],
+      "curated": true
     },
     {
       "unit": "18. Carrying out customer due diligence measures by means of intermediaries",
       "concepts": [
-        "customer_due_diligence",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "19. Financial institutions and DNFBPs to establish procedures",
       "concepts": [
-        "amlctf_program"
+        "amlctf_program",
+        "politically_exposed_persons"
       ],
       "curated": true
     },
@@ -1096,10 +1300,26 @@
       "curated": true
     },
     {
+      "unit": "22. Duties extended to branches and subsidiary undertakings outside Hong Kong",
+      "concepts": [
+        "amlctf_program",
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "23. Financial institutions and DNFBPs to prevent contravention of Part 2 or 3 of this Schedule",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
       "unit": "15. Requirements imposed by Commission",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     }
   ]
 }

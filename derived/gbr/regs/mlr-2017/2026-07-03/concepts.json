@@ -33,11 +33,11 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
-    "asset_freezing",
     "beneficial_ownership",
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
+    "designated_services",
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
@@ -45,11 +45,9 @@
     "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
-    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
-    "threshold_transaction_reporting",
     "tipping_off",
     "virtual_assets"
   ],
@@ -64,53 +62,44 @@
     {
       "unit": "reg.3 —(1)  In these Regulations—",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "funds_transfer_reporting",
-        "enrolment_registration",
-        "politically_exposed_persons",
-        "virtual_assets",
-        "asset_freezing",
-        "proliferation_financing",
-        "enforcement_and_offences",
-        "supervisory_architecture",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.4 —(1)  For the purpose of these Regulations, “business relationship” means a business,",
       "concepts": [
-        "beneficial_ownership",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.5 —(1)  In these Regulations, “beneficial owner”, in relation to a body corporate which is not a",
       "concepts": [
         "beneficial_ownership",
-        "enrolment_registration",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.6 —(1)  In these Regulations, “beneficial owner”, in relation to a trust, means each of the",
       "concepts": [
         "beneficial_ownership",
-        "supervisory_architecture"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.7 —(1)  Subject to paragraph (2), the following bodies are supervisory authorities in relation to",
       "concepts": [
-        "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.8 —(1)  Parts 1 to 6 [F41, 7A] and 8 to 11 apply to the persons (“relevant persons”) acting in the",
       "concepts": [
+        "designated_services",
         "scope_and_application"
       ],
       "curated": true
@@ -118,47 +107,65 @@
     {
       "unit": "reg.9 —(1)  For the purposes of these Regulations, a relevant person (“A”) is to be regarded as",
       "concepts": [
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.10 —(1)  In these Regulations, “credit institution” means—",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "designated_services"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.11 In these Regulations—",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "designated_services"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.12 —(1)  In these Regulations, “independent legal professional” means a firm or sole practitioner",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "definitions_and_interpretation",
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.13 —(1)  In these Regulations, “estate agent” means a firm or a sole practitioner, who, or whose",
+      "concepts": [
+        "definitions_and_interpretation",
+        "designated_services"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.14 —(1)  In these Regulations—",
       "concepts": [
-        "threshold_transaction_reporting",
-        "virtual_assets"
-      ]
+        "definitions_and_interpretation",
+        "designated_services"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.14A —(1)  In these Regulations, “cryptoasset exchange provider” means a firm or sole",
       "concepts": [
+        "definitions_and_interpretation",
+        "designated_services",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.15 —(1)  Parts 1 to 4, 6 and 8 to 11 do not apply to the following persons when carrying on any",
       "concepts": [
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "CHAPTER 2",
@@ -169,44 +176,41 @@
     {
       "unit": "reg.16 —(1)  The Treasury and the Home Office must make arrangements before 26th June 2018 for",
       "concepts": [
-        "customer_due_diligence",
-        "risk_based_approach",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.16A —(1)  The Treasury must make arrangements for a risk assessment to be undertaken to",
       "concepts": [
-        "risk_based_approach",
-        "sanctions_prohibitions",
         "proliferation_financing",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.17 —(1)  Each supervisory authority must identify and assess the international and domestic",
       "concepts": [
         "risk_based_approach",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.18 —(1)  A relevant person must take appropriate steps to identify and assess the risks of money",
       "concepts": [
-        "risk_based_approach",
-        "amlctf_program"
+        "amlctf_program",
+        "risk_based_approach"
       ],
       "curated": true
     },
     {
       "unit": "reg.18A —(1)  A relevant person must take appropriate steps to identify and assess the risks of",
       "concepts": [
-        "risk_based_approach",
         "proliferation_financing",
-        "supervisory_architecture"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.19 —(1)  A relevant person must—",
@@ -218,51 +222,52 @@
     {
       "unit": "reg.19A —(1)  A relevant person must—",
       "concepts": [
-        "risk_based_approach",
+        "amlctf_program",
         "proliferation_financing"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.20 —(1)  A relevant parent undertaking must—",
       "concepts": [
-        "proliferation_financing",
-        "supervisory_architecture"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.21 —(1)  Where appropriate with regard to the size and nature of its business, a relevant person",
       "concepts": [
-        "risk_based_approach",
-        "proliferation_financing",
-        "supervisory_architecture"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.23 —(1)  An authorised person whose supervisory authority is the FCA must, before acting as a",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.24 —(1)  A relevant person must—",
       "concepts": [
-        "proliferation_financing",
-        "supervisory_architecture"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.25 —(1)  The supervisory authority must determine whether the additional measures taken under",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.26 —(1)  No person may be the beneficial owner, officer or manager of a firm within paragraph (2)",
       "concepts": [
-        "beneficial_ownership",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "PART 3",
@@ -286,49 +291,46 @@
     {
       "unit": "reg.28 —(1)  This regulation applies when a relevant person is required by regulation 27 to apply",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "customer_due_diligence"
       ],
       "curated": true
     },
     {
       "unit": "reg.29 —(1)  This regulation applies in addition to regulation 28 where a relevant person is a credit",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.30 —(1)   [F160Subject to paragraph (1A), this] regulation applies when a relevant person is required",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.30A —(1)  [F165Subject to paragraph (8A), before] establishing a business relationship with—",
       "concepts": [
-        "customer_due_diligence",
         "beneficial_ownership",
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.31 —(1)  Where, in relation to any customer, a relevant person is unable to apply customer due",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.32 —(1)  A relevant person—",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "CHAPTER 2",
@@ -339,23 +341,23 @@
     {
       "unit": "reg.33 —(1)  A relevant person must apply enhanced customer due diligence measures and enhanced",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "risk_based_approach"
       ],
       "curated": true
     },
     {
       "unit": "reg.34 —(1)  A credit institution or financial institution (the “correspondent”) which has or proposes",
       "concepts": [
-        "customer_due_diligence",
-        "funds_transfer_reporting",
         "correspondent_banking",
-        "politically_exposed_persons",
-        "supervisory_architecture"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.35 —(1)  A relevant person must have in place appropriate risk-management systems and",
       "concepts": [
+        "customer_due_diligence",
         "politically_exposed_persons"
       ],
       "curated": true
@@ -376,20 +378,16 @@
       "unit": "reg.37 —(1)  A relevant person may apply simplified customer due diligence measures in relation",
       "concepts": [
         "customer_due_diligence",
-        "risk_based_approach",
-        "suspicious_matter_reporting",
-        "enrolment_registration",
-        "supervisory_architecture",
-        "scope_and_application",
-        "definitions_and_interpretation"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.38 —(1)  Subject to paragraph (3), a relevant person is not required to apply customer due",
       "concepts": [
-        "customer_due_diligence",
-        "suspicious_matter_reporting"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "PART 4",
@@ -400,12 +398,9 @@
     {
       "unit": "reg.39 —(1)  A relevant person may rely on a person who falls within paragraph (3) (“the third party”)",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "record_keeping",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.40 —(1)  Subject to paragraph (5), a relevant person must keep the records specified in",
@@ -430,38 +425,33 @@
     {
       "unit": "reg.42 —(1)  This Part applies to UK bodies corporate and relevant trusts.",
       "concepts": [
-        "amlctf_program",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership",
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.43 —(1)  When a UK body corporate which is not listed on a regulated market enters into a",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.44 —(1)  The trustees of a relevant trust must maintain accurate and up-to-date records in writing",
       "concepts": [
-        "customer_due_diligence",
         "beneficial_ownership",
-        "record_keeping",
-        "enrolment_registration"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.45 —(1)  The Commissioners must maintain a register (“the register”) of—",
       "concepts": [
-        "customer_due_diligence",
         "beneficial_ownership",
-        "enrolment_registration",
-        "proliferation_financing",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.45G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
@@ -485,78 +475,74 @@
     {
       "unit": "reg.46 —(1)  A supervisory authority must effectively monitor the relevant persons for which it is",
       "concepts": [
-        "customer_due_diligence",
         "risk_based_approach",
-        "record_keeping",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.46A A self-regulatory organisation must publish or make arrangements to publish an annual",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.47 —(1)  A supervisory authority must, in any way it considers appropriate, make up-to-date",
       "concepts": [
-        "politically_exposed_persons",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.48 —(1)  The FCA must give guidance under section 139A of FSMA (power of the FCA to",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "politically_exposed_persons",
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.49 —(1)  Self-regulatory organisations must make arrangements to ensure that—",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.50 —(1)  A supervisory authority must take such steps as it considers appropriate—",
       "concepts": [
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.51 —(1)  A supervisory authority within regulation 7 must collect such information as it considers",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.52 —(1)   F329... A supervisory authority may disclose to a relevant authority information it holds",
       "concepts": [
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.52A —(1)  No person working for a relevant supervisory authority, or acting on behalf of a",
       "concepts": [
-        "virtual_assets",
-        "proliferation_financing",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.52B —(1)  Any person who discloses information in contravention of regulation 52A is guilty",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "CHAPTER 2",
@@ -568,30 +554,31 @@
     {
       "unit": "reg.53 For the purposes of this Chapter—",
       "concepts": [
+        "definitions_and_interpretation",
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.54 —(1)  The FCA must maintain a register of those relevant persons who—",
       "concepts": [
-        "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.55 —(1)  The FCA may maintain a register of Annex 1 financial institutions.",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.56 —(1)  Unless a person in respect of whom the registering authorities are required to maintain",
       "concepts": [
-        "enrolment_registration",
-        "virtual_assets"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.56A —(1)  Regulation 56 does not apply to an existing cryptoasset exchange provider or existing",
@@ -605,67 +592,59 @@
       "concepts": [
         "enrolment_registration",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.57 —(1)  A person applying for registration in a register maintained under regulation 54 or 55 (“an",
       "concepts": [
-        "beneficial_ownership",
-        "risk_based_approach",
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.58 —(1)  The registering authority must refuse to register an applicant for registration in a register",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
-        "virtual_assets",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.58A —(1)  The FCA must refuse to register an applicant (“A”) for registration in a register",
       "concepts": [
-        "beneficial_ownership",
         "enrolment_registration",
-        "virtual_assets",
-        "enforcement_and_offences"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.59 —(1)  Subject to regulation 58 [F380and regulation 58A], the registering authority may refuse",
       "concepts": [
-        "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.60 —(1)  If paragraph (2) applies, the registering authority may suspend (for such period as it",
       "concepts": [
-        "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.60A —(1)  Paragraph (2) applies where—",
       "concepts": [
-        "enrolment_registration",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.60B Schedule 6B applies to an acquisition of or increase in control over a registered cryptoasset",
       "concepts": [
         "enrolment_registration",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "PART 7",
@@ -676,91 +655,98 @@
     {
       "unit": "reg.61 In this Part “transfer of funds supervisory authority” in relation to a payment service provider",
       "concepts": [
+        "funds_transfer_reporting",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.62 —(1)  The FCA is the transfer of funds supervisory authority for payment service providers,",
       "concepts": [
-        "enrolment_registration",
+        "funds_transfer_reporting",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.63 —(1)  A transfer of funds supervisory authority must—",
       "concepts": [
-        "amlctf_program",
         "funds_transfer_reporting",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64 —F398(1)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
       "concepts": [
-        "funds_transfer_reporting",
-        "virtual_assets",
-        "definitions_and_interpretation"
-      ]
+        "funds_transfer_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64A —(1)  This Part applies in respect of a cryptoasset transfer which is not excluded by",
       "concepts": [
-        "amlctf_program",
         "funds_transfer_reporting",
-        "virtual_assets",
-        "definitions_and_interpretation"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64B In this Part—",
       "concepts": [
+        "definitions_and_interpretation",
+        "funds_transfer_reporting",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64C —(1)  In respect of an inter-cryptoasset business transfer, the cryptoasset business of the",
       "concepts": [
-        "customer_due_diligence",
-        "enrolment_registration",
+        "funds_transfer_reporting",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64D —(1)  When a cryptoasset business of a beneficiary receives a cryptoasset as part of an inter-",
       "concepts": [
-        "customer_due_diligence",
-        "risk_based_approach",
-        "virtual_assets",
-        "proliferation_financing"
-      ]
+        "funds_transfer_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64E —(1)  When an intermediary cryptoasset business receives a cryptoasset as part of an inter-",
       "concepts": [
-        "risk_based_approach",
-        "record_keeping",
+        "funds_transfer_reporting",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64F An intermediary cryptoasset business must—",
       "concepts": [
+        "funds_transfer_reporting",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64G —(1)  A cryptoasset business involved in an unhosted wallet transfer may request from its",
       "concepts": [
-        "risk_based_approach",
+        "funds_transfer_reporting",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.64H A cryptoasset business must respond fully and without delay to a request in writing from",
       "concepts": [
-        "virtual_assets",
-        "definitions_and_interpretation"
-      ]
+        "funds_transfer_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "PART 8",
@@ -769,49 +755,53 @@
       ]
     },
     {
+      "unit": "reg.65 —(1)  In this Part—",
+      "concepts": [
+        "definitions_and_interpretation"
+      ],
+      "curated": true
+    },
+    {
       "unit": "reg.66 —(1)  A supervisory authority may, by notice in writing to a person (“P”) who is (or was at",
       "concepts": [
-        "suspicious_matter_reporting",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.67 —(1)  On receiving a request to which paragraph (2) applies from a foreign authority, the",
       "concepts": [
-        "funds_transfer_reporting",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.68 —(1)  This regulation applies if—",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.69 —(1)  Paragraph (2) applies where a duly authorised officer of (or acting on behalf of)",
       "concepts": [
-        "funds_transfer_reporting",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.70 —(1)  A justice may issue a warrant under this regulation if satisfied on information given",
       "concepts": [
-        "suspicious_matter_reporting",
-        "record_keeping",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.71 —(1)  Any material possession of which is taken in accordance with a requirement under",
       "concepts": [
-        "record_keeping",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.73 —(1)  A statement made by a person in response to a requirement imposed under",
@@ -822,30 +812,34 @@
     {
       "unit": "reg.74 —(1)  A relevant officer (“R”) may only exercise powers under this Part pursuant to",
       "concepts": [
-        "tipping_off",
-        "virtual_assets"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.74A —(1)  Each cryptoasset exchange provider and custodian wallet provider (“cryptoasset",
       "concepts": [
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "supervisory_architecture",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.74B —(1)  This regulation applies where the FCA reasonably considers that a report by a skilled",
       "concepts": [
+        "supervisory_architecture",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.74C —(1)  The FCA may [F414exercise its powers of direction under paragraph (5) or (6) in writing",
       "concepts": [
-        "enrolment_registration",
-        "virtual_assets",
-        "proliferation_financing"
-      ]
+        "enforcement_and_offences",
+        "supervisory_architecture",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "CHAPTER 1",
@@ -854,64 +848,83 @@
       ]
     },
     {
+      "unit": "reg.75 For the purposes of this Part, “relevant requirement” has the meaning given in Schedule 6.",
+      "concepts": [
+        "definitions_and_interpretation",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
       "unit": "reg.76 —(1)  Paragraph (2) applies if a designated supervisory authority is satisfied that any person",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.77 —(1)  Paragraph (2) applies if the FCA is satisfied that a relevant person or a payment service",
       "concepts": [
-        "risk_based_approach",
-        "funds_transfer_reporting",
-        "record_keeping",
-        "enrolment_registration",
-        "virtual_assets"
-      ]
+        "enforcement_and_offences",
+        "funds_transfer_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.78 —(1)  Paragraph (2) applies if a designated supervisory authority considers that another person",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.79 Any one or more of the powers in regulations 76, 77 and 78 may be exercised by a designated",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.80 —(1)  If, on the application of a designated supervisory authority, the court is satisfied—",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.81 —(1)  When determining the type of sanction, and level of any penalty, to be imposed",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.82 —(1)  Sections 389 (notices of discontinuance), 390 (final notices) and 392 (application of",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.83 —(1)  When determining the type of sanction, and level of any penalty, to be imposed on",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.84 —(1)  Where a warning notice is given by the FCA under regulation 81(2), neither the FCA",
       "concepts": [
-        "record_keeping"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.85 —(1)  Where the Commissioners give a notice under regulation 83, the Commissioners must",
       "concepts": [
-        "record_keeping"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "CHAPTER 3",
@@ -922,91 +935,159 @@
     {
       "unit": "reg.86 —(1)  A person who contravenes a relevant requirement imposed on that person is guilty of",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.87 —(1)  This regulation applies if a person (“P”) knows or suspects that an appropriate officer",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enforcement_and_offences",
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.88 —(1)  A person (“P”) commits an offence if, in purported compliance with a requirement",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.89 —(1)  Proceedings for an offence under these Regulations may be instituted by—",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.90 —(1)  Proceedings against any person for an offence under these Regulations may be taken",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.91 —(1)  Proceedings for an offence alleged to have been committed by—",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.92 —(1)  If an offence under this Part committed by a body corporate is shown—",
       "concepts": [
-        "threshold_transaction_reporting",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.93 —[F427(1)  A person may appeal to the Upper Tribunal a decision by the FCA under—",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.94 —(1)  The Commissioners must offer a person (“P”) a review of a decision that has been",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.95 —(1)  The Commissioners must review a decision if—",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.96 —(1)  If under this Chapter the Commissioners have offered a person (“P”) a review of a",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.97 —(1)  This regulation applies if—",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.98 —(1)  This regulation applies if the Commissioners are required to undertake a review under",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.99 —[F429(1)  A person may appeal to the tribunal in accordance with regulation 100 if the person",
       "concepts": [
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.100 —(1)  Subject to paragraphs (2) to (4), an appeal under regulation 99 is to be made to the",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.101 Any charge or penalty imposed on a relevant person or on a payment service provider by",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.102 —(1)  The FCA and the Commissioners may impose charges on—",
       "concepts": [
-        "enrolment_registration",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.103 —(1)  The following bodies and persons must, if they know or suspect or have reasonable",
       "concepts": [
         "suspicious_matter_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "reg.104 —(1)  The NCA must make arrangements to provide appropriate feedback on the suspicious",
       "concepts": [
         "suspicious_matter_reporting"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.104A Schedule 6A makes provision in relation to the NCA in its capacity as the United",
+      "concepts": [
+        "supervisory_architecture",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.105 —(1)  The Commissioners may disclose to the FCA information held in connection with their",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "reg.107 In determining whether a person has failed to comply with any requirement in the funds",
+      "concepts": [
+        "funds_transfer_reporting",
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "reg.108 —(1)  The Treasury must from time to time—",

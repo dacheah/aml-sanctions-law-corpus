@@ -41,6 +41,7 @@
     "enrolment_registration",
     "proliferation_financing",
     "record_keeping",
+    "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
@@ -50,43 +51,45 @@
     {
       "unit": "2.—(1) In this Act, unless the context otherwise requires —",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "3.—(1) For the purposes of this Act, an item is subject to legal privilege if —",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "4.—(1) This Act applies to any drug dealing offence or foreign drug dealing offence whether committed before or after 30",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "5.—(1) There is to be an office of the Government called the Suspicious Transaction Reporting Office which is responsibl",
       "concepts": [
-        "suspicious_matter_reporting",
-        "proliferation_financing",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "6.—(1) Subject to section 30, where a defendant is convicted of one or more drug dealing offences, the court must, on th",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "7.—(1) Subject to section 30, where a defendant is convicted of one or more serious offences, the court must, on the app",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "9.—(1) Where the defendant has been charged with or convicted of a drug dealing offence or a serious offence, the court ",
@@ -145,20 +148,23 @@
     {
       "unit": "18.—(1) The powers conferred on the General Division of the High Court by section 19(1) to make a restraint order and by",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "19.—(1) The General Division of the High Court may make a restraint order to prohibit any person from dealing with any r",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "20.—(1) The General Division of the High Court may make a charging order on realisable property for securing the payment",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "21.—(1) A charging order may be made either absolutely or subject to conditions as to notifying any person holding any i",
@@ -219,16 +225,16 @@
     {
       "unit": "33.—(1) This Part applies in relation to any drug dealing offence or serious offence, whether committed before, on or af",
       "concepts": [
-        "amlctf_program",
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "34.—(1) Where a defendant is convicted, or is by reason of section 29 taken to be convicted, of a drug dealing offence o",
       "concepts": [
-        "amlctf_program",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "35.—(1) The provisions of Parts 2, 3 and 4 apply in relation to, and for the purpose of enabling the satisfaction of, a ",
@@ -273,34 +279,30 @@
     {
       "unit": "42.—(1) In this Division —",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "43.—(1) A financial institution must retain, or retain a copy of, each financial transaction document for the minimum re",
       "concepts": [
-        "record_keeping",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "44.—(1) Where a financial institution is required by law to release an original of a financial transaction document befo",
       "concepts": [
-        "record_keeping",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "45.—(1) Where a person knows or has reasonable grounds to suspect that any property —",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "47.—(1) Except as provided in subsection (3) —",
@@ -312,7 +314,8 @@
     {
       "unit": "48.—(1) Despite section 77 and any other written law or rule of law, a Suspicious Transaction Reporting Officer may comm",
       "concepts": [
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "suspicious_matter_reporting"
       ],
       "curated": true
     },
@@ -326,16 +329,16 @@
     {
       "unit": "50.—(1) Subject to subsection (3), a person who enters into, or is otherwise concerned in an arrangement, knowing or hav",
       "concepts": [
-        "record_keeping",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "51.—(1) Subject to subsection (3), a person who enters into or is otherwise concerned in an arrangement, knowing or havi",
       "concepts": [
-        "record_keeping",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "52.—(1) Subject to subsection (2), no witness in any civil or criminal proceedings is obliged —",
@@ -347,27 +350,29 @@
       "unit": "53.—(1) Any person who —",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "54.—(1) Any person who —",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "55.—(1) Any person who possesses or uses any property that may be reasonably suspected of being, or of in whole or in pa",
       "concepts": [
-        "record_keeping",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "55A.—(1) Any person (A) —",
       "concepts": [
-        "record_keeping",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "56.—(1) For the purpose of proving under this Part whether the whole or any part of any property constitutes, or directl",
@@ -379,76 +384,73 @@
     {
       "unit": "57.—(1) Any person who —",
       "concepts": [
-        "suspicious_matter_reporting",
-        "threshold_transaction_reporting",
-        "cash_couriers",
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "59.—(1) In this Part —",
       "concepts": [
-        "threshold_transaction_reporting",
-        "cash_couriers"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "60.—(1) A person must not move or attempt to move into or out of Singapore cash the total value of which exceeds the pre",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "62.—(1) A person who receives cash the total value of which exceeds the prescribed amount (or its equivalent in a foreig",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "63.—(1) A person who —",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "65.—(1) The Minister may, by order in the Gazette, with or without conditions, exempt any person or class of persons fro",
       "concepts": [
-        "customer_due_diligence",
-        "suspicious_matter_reporting",
-        "definitions_and_interpretation"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "67.—(1) A prescribed person must perform such customer due diligence measures and internal control measures as may be pr",
       "concepts": [
-        "customer_due_diligence",
-        "enforcement_and_offences"
-      ]
+        "amlctf_program",
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "68.—(1) A prescribed person who enters into any cash transaction mentioned in section 67(1) must submit to a Suspicious ",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "69.—(1) A prescribed person must maintain each record mentioned in section 67(3)(a) relating to a cash transaction, each",
       "concepts": [
-        "customer_due_diligence",
-        "enforcement_and_offences"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "70.—(1) Where, in relation to an investigation into drug dealing or criminal conduct (as the case may be), an order unde",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "71.—(1) If an investigation is begun against a person for a drug dealing offence or a serious offence (as the case may b",

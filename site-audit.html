@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Corpus Audit Dashboard</title>
+<!--
+  CORPUS AUDIT DASHBOARD — reference template (from the dataviz-validated design).
+  To adapt: edit ONLY the `DATA` object below (every REPLACE: value is corpus-specific).
+  Keep the CSS, the render code, and the palette as-is so every corpus's dashboard reads as one family.
+  Set a field to null to omit its section (e.g. reproduction: null if the axis couldn't be measured).
+
+  IMPORTANT — after editing DATA, PRE-RENDER so the file isn't blank in script-less viewers:
+      node scripts/prerender.js fill <this-file>
+  That bakes the built markup into the root wrap div (it currently holds the placeholder render).
+  Verify: the root wrap must NOT be an empty shell, the file must end in </html>, and the body must
+  contain the built markup (the <h1>, "Punch-list", and footer). Then render headless and eyeball it.
+-->
+<style>
+  :root{
+    --surface:#fcfcfb; --page:#f9f9f7; --primary:#0b0b0b; --secondary:#52514e;
+    --muted:#898781; --grid:#e1e0d9; --baseline:#c3c2b7; --border:rgba(11,11,11,.10);
+    --good:#0ca30c; --good-ink:#006300; --warn:#c98500;
+    --blue:#2a78d6; --amber:#eda100; --cur:#256abf; --kw:#86b6ef; --untag:#e1e0d9;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --surface:#1a1a19; --page:#0d0d0d; --primary:#fff; --secondary:#c3c2b7;
+    --muted:#898781; --grid:#2c2c2a; --baseline:#383835; --border:rgba(255,255,255,.10);
+    --good:#0ca30c; --good-ink:#0ca30c; --warn:#eda100;
+    --blue:#3987e5; --amber:#eda100; --cur:#3987e5; --kw:#256abf; --untag:#2c2c2a;
+  }}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--page);color:var(--primary);
+    font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.5;
+    -webkit-font-smoothing:antialiased;padding:32px 20px 56px}
+  .wrap{max-width:1060px;margin:0 auto}
+  header{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px 16px;margin-bottom:4px}
+  h1{font-size:23px;margin:0;font-weight:650;letter-spacing:-.01em}
+  .sub{color:var(--secondary);font-size:14px}
+  .banner{display:flex;align-items:center;gap:10px;margin:18px 0 26px;padding:12px 16px;
+    background:var(--surface);border:1px solid var(--border);border-radius:12px}
+  .dot{width:10px;height:10px;border-radius:50%;flex:none}
+  h2{font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);
+    margin:34px 0 12px;font-weight:650}
+  h2 .plain{text-transform:none;letter-spacing:0;color:var(--muted);font-weight:400}
+  .grid{display:grid;gap:12px}
+  .kpis{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:15px 16px}
+  .tile .v{font-size:30px;font-weight:660;letter-spacing:-.02em;line-height:1.05}
+  .tile .l{font-size:12.5px;color:var(--secondary);margin-top:5px}
+  .tile .n{font-size:11.5px;color:var(--muted);margin-top:3px}
+  .ok{color:var(--good-ink)}
+  .chip{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:600;
+    padding:2px 8px;border-radius:999px;border:1px solid var(--border)}
+  .chip.good{color:var(--good-ink)} .chip.warn{color:var(--warn)}
+  .cols2{grid-template-columns:1fr 1fr}
+  .cols3{grid-template-columns:1.4fr 1fr}
+  @media(max-width:720px){.cols2,.cols3{grid-template-columns:1fr}}
+  .bar{display:flex;height:26px;border-radius:6px;overflow:hidden;gap:2px;margin:10px 0 6px}
+  .seg{display:flex;align-items:center;justify-content:center;font-size:11.5px;font-weight:600;
+    color:#fff;min-width:26px;border-radius:4px;white-space:nowrap;overflow:hidden;padding:0 6px}
+  .seg.light-ink{color:var(--primary)}
+  .legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--secondary);margin-top:2px}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .sw{width:11px;height:11px;border-radius:3px;flex:none}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--grid)}
+  th{color:var(--muted);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.05em}
+  td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+  tr:last-child td{border-bottom:none}
+  .jflex{display:flex;align-items:center;gap:8px}
+  .jbar{height:8px;border-radius:4px;background:var(--blue);flex:none}
+  b.h{font-size:14px}
+  ul.items{list-style:none;padding:0;margin:6px 0 0}
+  ul.items li{display:flex;gap:9px;padding:7px 0;border-bottom:1px solid var(--grid);font-size:13.5px}
+  ul.items li:last-child{border-bottom:none}
+  .mk{flex:none;font-weight:700}.mk.done{color:var(--good-ink)}.mk.open{color:var(--warn)}
+  .items .d{color:var(--secondary);font-size:12.5px}
+  code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;
+    background:color-mix(in srgb,var(--muted) 14%,transparent);padding:1px 5px;border-radius:4px}
+  footer{margin-top:34px;font-size:12px;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 16px}
+  footer a{color:var(--secondary)}
+  .fine{font-size:11.5px;color:var(--muted);margin-top:8px}
+</style>
+</head>
+<body>
+<div class="wrap" id="root"><header><h1>AML/CTF &amp; Financial-Sanctions Legal Corpus — Audit</h1><span class="sub">release <b>v1.3.5</b> · as at 11 Jul 2026</span></header><div class="banner"><span class="dot" style="background:var(--good);box-shadow:0 0 0 4px color-mix(in srgb,var(--good) 22%,transparent)"></span>
+  <div><b>All green.</b> <span class="sub">Verification 100% on both axes · validation gate passing · provenance chain intact · IP boundary clean.</span></div></div><div class="grid kpis"><div class="card tile"><div class="v"><span class="">69</span></div><div class="l">Authoritative records</div><div class="n">10 jurisdictions + UN backbone</div></div><div class="card tile"><div class="v"><span class="ok">68 / 68</span></div><div class="l">Fidelity verified</div><div class="n">of text-bearing records</div></div><div class="card tile"><div class="v"><span class="ok">68 / 68</span></div><div class="l">Byte-exact reproduction</div><div class="n">extract.py · was 65/68 → 100%</div></div><div class="card tile"><div class="v"><span class="">7,739</span></div><div class="l">Structured provisions</div><div class="n">25 concepts · 7,302 tags</div></div><div class="card tile"><div class="v"><span class="chip good">✓ PASS</span></div><div class="l">Validation gate</div><div class="n">schemas · hashes · wall</div></div><div class="card tile"><div class="v"><span class="chip good">✓ PROVEN</span></div><div class="l">Engine reproduction</div><div class="n">byte-identical rebuild</div></div></div><h2>Verification</h2><div class="grid cols2"><div class="card"><div class="jflex" style="justify-content:space-between"><b class="h">Fidelity verification</b><span class="chip good">✓ 68 / 68</span></div><p class="sub" style="margin:8px 0 0">Every stored text confirmed a faithful capture of its official source by independent cross-engine extraction. The 69th record — FATF Recommendations — is deliberately restricted_withheld (copyright), so it has no stored text to verify.</p></div><div class="card"><div class="jflex" style="justify-content:space-between"><b class="h">Byte-exact re-derivation</b><span class="chip good">✓ 68 / 68</span></div><p class="sub" style="margin:8px 0 0">extract.py re-derives every text from its stored original by committed code and matches SHA-256. The three legacy AU records that were content-equivalent but not byte-exact were re-derived to the canonical extraction at v1.3.5 (blank-line placement only; legal content proven identical) — closing the last gap.</p></div></div><h2>Provenance &amp; integrity</h2><div class="grid cols2"><div class="card"><table><tr><td>Engine fingerprint (v1.3.5)</td><td class="n "><code>115d8b01…2181</code></td></tr><tr><td>Build engine → derived layer</td><td class="n ok">byte-identical ✓</td></tr><tr><td>Toolkit repo (private engine)</td><td class="n ok">private ✓</td></tr><tr><td>Public repo IP leak scan</td><td class="n ok">clean ✓</td></tr><tr><td>Authoritative layer</td><td class="n ">append-only</td></tr></table></div><div class="card"><b class="h">Authoritative status mix</b><table style="margin-top:8px"><tr><td>official_consolidation</td><td class="n">45</td></tr><tr><td>authentic_text</td><td class="n">18</td></tr><tr><td>official_translation</td><td class="n">5</td></tr><tr><td>restricted_withheld</td><td class="n">1</td></tr></table></div></div><h2>Coverage &amp; monitoring</h2><div class="grid cols3"><div class="card"><b class="h">Jurisdiction coverage</b>
+  <table style="margin-top:8px"><thead><tr><th>Branch</th><th class="n">Records</th></tr></thead><tbody><tr><td><div class="jflex"><span class="jbar" style="width:60px"></span>AUS</div></td><td class="n">9</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:54px"></span>international</div></td><td class="n">8</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:54px"></span>USA</div></td><td class="n">8</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:48px"></span>CAN</div></td><td class="n">7</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:48px"></span>HKG</div></td><td class="n">7</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:42px"></span>GBR</div></td><td class="n">6</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:36px"></span>ARE</div></td><td class="n">5</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:36px"></span>CHE</div></td><td class="n">5</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:36px"></span>JPN</div></td><td class="n">5</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:36px"></span>SGP</div></td><td class="n">5</td></tr><tr><td><div class="jflex"><span class="jbar" style="width:30px"></span>EU</div></td><td class="n">4</td></tr></tbody></table></div><div class="card"><b class="h">Source monitor — 60 watched</b><div class="bar" role="img"><div class="seg" style="flex:43;background:var(--blue)" title="43 auto">43 auto</div><div class="seg light-ink" style="flex:17;background:var(--amber)" title="17 manual">17 manual</div></div><div class="legend"><span><span class="sw" style="background:var(--blue)"></span>Auto — 38 static + 5 e-Gov API</span><span><span class="sw" style="background:var(--amber)"></span>Manual — JS SPA (HK e-Legislation, UAE, Fedlex)</span></div><p class="fine">Manual = JavaScript single-page apps a stdlib fetch can't read; flagged for human review, not silently trusted. Japan restored to auto via its XML API.</p></div></div><h2>Concept tagging <span class="plain">— quality dial, not a pass/fail gate</span></h2>
+  <div class="card"><div class="bar" role="img"><div class="seg" style="flex:686;background:var(--cur)" title="Curated 8.9%">Curated 8.9%</div><div class="seg" style="flex:3845;background:var(--kw)" title="Keyword 49.7%">Keyword 49.7%</div><div class="seg light-ink" style="flex:3208;background:var(--untag)" title="Untagged 41.5%">Untagged 41.5%</div></div><div class="legend"><span><span class="sw" style="background:var(--cur)"></span>Curated · 686 (per-tag curated flag)</span><span><span class="sw" style="background:var(--kw)"></span>Keyword fallback · 3,845 (automatic)</span><span><span class="sw" style="background:var(--untag);border:1px solid var(--border)"></span>Untagged · 3,208</span></div><p class="fine">Split by the per-tag curated flag in concepts.json (tagging_method: hybrid): 686 provisions hand-curated, 3,845 automatic, the rest untagged (largely administrative schedule text, deliberately left). Curated coverage 8.9% is the softest axis and the main enhancement lever. Source: derived/**/concepts.json (per-tag curated).</p></div><h2>Punch-list</h2><div class="grid cols2"><div class="card"><b class="h">Resolved in v1.3.5</b><ul class="items"><li><span class="mk done">✓</span><span><b>Byte-exact extraction → 68/68</b> <span class="d">Three AU pre-module texts re-derived to canonical extraction; content proven identical.</span></span></li><li><span class="mk done">✓</span><span><b>Monitor housekeeping</b> <span class="d">Four AU instruments added (60 sources); stale pending list cleared.</span></span></li></ul></div><div class="card"><b class="h">Open — enhancements, not gaps</b><ul class="items"><li><span class="mk open">○</span><span><b>Official-XML structure</b> <span class="d">Drive segmentation from Fedlex / e-Gov / Formex XML where it exists.</span></span></li><li><span class="mk open">○</span><span><b>UAE redistribution posture</b> <span class="d">Finalise the restricted-but-published decision.</span></span></li><li><span class="mk open">○</span><span><b>Deeper curated tagging</b> <span class="d">Lift curated share beyond 8.9%.</span></span></li></ul></div></div><footer><span>Generated 11 Jul 2026</span><a href="https://github.com/dacheah/aml-sanctions-law-corpus">GitHub</a><a href="https://huggingface.co/datasets/dacheah/aml-sanctions-law-corpus">Hugging Face</a><a href="https://doi.org/10.5281/zenodo.21279526">Zenodo DOI</a></footer><p class="fine">A reference record of the law — not legal or compliance advice. Verification figures cover the corpus's own provenance guarantees (faithful capture + reproducible derivation), not the correctness of any official source or translation.</p></div>
+
+<script>
+/* ============================ REPLACE: everything in DATA ============================ */
+const DATA = {
+  title: "AML/CTF & Financial-Sanctions Legal Corpus — Audit",
+  version: "v1.3.5",
+  asOf: "11 Jul 2026",
+  allGreen: true,
+  bannerNote: "Verification 100% on both axes · validation gate passing · provenance chain intact · IP boundary clean.",
+  kpis: [
+    {v:"69",      l:"Authoritative records",  n:"10 jurisdictions + UN backbone"},
+    {v:"68 / 68", l:"Fidelity verified",      n:"of text-bearing records", status:"good"},
+    {v:"68 / 68", l:"Byte-exact reproduction",n:"extract.py · was 65/68 → 100%", status:"good"},
+    {v:"7,739",   l:"Structured provisions",  n:"25 concepts · 7,302 tags"},
+    {chip:"PASS",   chipKind:"good", l:"Validation gate", n:"schemas · hashes · wall"},
+    {chip:"PROVEN", chipKind:"good", l:"Engine reproduction", n:"byte-identical rebuild"}
+  ],
+  verification: {
+    fidelity: {ratio:"68 / 68", note:"Every stored text confirmed a faithful capture of its official source by independent cross-engine extraction. The 69th record — FATF Recommendations — is deliberately restricted_withheld (copyright), so it has no stored text to verify."},
+    reproduction: {ratio:"68 / 68", note:"extract.py re-derives every text from its stored original by committed code and matches SHA-256. The three legacy AU records that were content-equivalent but not byte-exact were re-derived to the canonical extraction at v1.3.5 (blank-line placement only; legal content proven identical) — closing the last gap."}
+  },
+  provenance: [
+    ["Engine fingerprint (v1.3.5)", "115d8b01…2181"],
+    ["Build engine → derived layer", "byte-identical ✓", "good"],
+    ["Toolkit repo (private engine)", "private ✓", "good"],
+    ["Public repo IP leak scan", "clean ✓", "good"],
+    ["Authoritative layer", "append-only"]
+  ],
+  statusMix: [["official_consolidation",45],["authentic_text",18],["official_translation",5],["restricted_withheld",1]],
+  branches: [["AUS",9],["international",8],["USA",8],["CAN",7],["HKG",7],["GBR",6],["ARE",5],["CHE",5],["JPN",5],["SGP",5],["EU",4]],
+  monitor: {
+    heading: "Source monitor — 60 watched",
+    segments: [
+      {label:"43 auto",   value:43, hue:"var(--blue)"},
+      {label:"17 manual", value:17, hue:"var(--amber)", lightInk:true}
+    ],
+    legend: [
+      {sw:"var(--blue)",  text:"Auto — 38 static + 5 e-Gov API"},
+      {sw:"var(--amber)", text:"Manual — JS SPA (HK e-Legislation, UAE, Fedlex)"}
+    ],
+    note: "Manual = JavaScript single-page apps a stdlib fetch can't read; flagged for human review, not silently trusted. Japan restored to auto via its XML API."
+  },
+  tagging: {
+    heading: "Concept tagging",
+    headingPlain: "— quality dial, not a pass/fail gate",
+    segments: [
+      {label:"Curated 8.9%",  value:686,  hue:"var(--cur)"},
+      {label:"Keyword 49.7%", value:3845, hue:"var(--kw)"},
+      {label:"Untagged 41.5%",value:3208, hue:"var(--untag)", lightInk:true}
+    ],
+    legend: [
+      {sw:"var(--cur)",   text:"Curated · 686 (per-tag curated flag)"},
+      {sw:"var(--kw)",    text:"Keyword fallback · 3,845 (automatic)"},
+      {sw:"var(--untag)", text:"Untagged · 3,208", ring:true}
+    ],
+    note: "Split by the per-tag curated flag in concepts.json (tagging_method: hybrid): 686 provisions hand-curated, 3,845 automatic, the rest untagged (largely administrative schedule text, deliberately left). Curated coverage 8.9% is the softest axis and the main enhancement lever. Source: derived/**/concepts.json (per-tag curated)."
+  },
+  resolved: [
+    {t:"Byte-exact extraction → 68/68", d:"Three AU pre-module texts re-derived to canonical extraction; content proven identical."},
+    {t:"Monitor housekeeping", d:"Four AU instruments added (60 sources); stale pending list cleared."}
+  ],
+  open: [
+    {t:"Official-XML structure", d:"Drive segmentation from Fedlex / e-Gov / Formex XML where it exists."},
+    {t:"UAE redistribution posture", d:"Finalise the restricted-but-published decision."},
+    {t:"Deeper curated tagging", d:"Lift curated share beyond 8.9%."}
+  ],
+  links: [
+    {label:"GitHub", href:"https://github.com/dacheah/aml-sanctions-law-corpus"},
+    {label:"Hugging Face", href:"https://huggingface.co/datasets/dacheah/aml-sanctions-law-corpus"},
+    {label:"Zenodo DOI", href:"https://doi.org/10.5281/zenodo.21279526"}
+  ],
+  footNote: "A reference record of the law — not legal or compliance advice. Verification figures cover the corpus's own provenance guarantees (faithful capture + reproducible derivation), not the correctness of any official source or translation."
+};
+/* ========================== end REPLACE — render code below ========================== */
+
+const el=(h)=>{const t=document.createElement("template");t.innerHTML=h.trim();return t.content.firstChild;};
+const esc=(s)=>String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+function bar(segs){
+  const total=segs.reduce((a,s)=>a+(s.value||0),0)||1;
+  return `<div class="bar" role="img">`+segs.map(s=>
+    `<div class="seg${s.lightInk?" light-ink":""}" style="flex:${s.value};background:${s.hue}" title="${esc(s.label)}">${esc(s.label)}</div>`).join("")+`</div>`;
+}
+function legend(items){
+  return `<div class="legend">`+items.map(i=>
+    `<span><span class="sw" style="background:${i.sw}${i.ring?";border:1px solid var(--border)":""}"></span>${esc(i.text)}</span>`).join("")+`</div>`;
+}
+const D=DATA, out=[];
+out.push(`<header><h1>${esc(D.title)}</h1><span class="sub">release <b>${esc(D.version)}</b> · as at ${esc(D.asOf)}</span></header>`);
+out.push(`<div class="banner"><span class="dot" style="background:${D.allGreen?"var(--good)":"var(--warn)"};box-shadow:0 0 0 4px color-mix(in srgb,${D.allGreen?"var(--good)":"var(--warn)"} 22%,transparent)"></span>
+  <div><b>${D.allGreen?"All green.":"Attention needed."}</b> <span class="sub">${esc(D.bannerNote)}</span></div></div>`);
+
+out.push(`<div class="grid kpis">`+D.kpis.map(k=>{
+  // chip tiles: good → "✓ PASS", warn → "— NOT MEASURED" (an unmeasured axis is never shown as a pass)
+  const v=k.chip?`<span class="chip ${k.chipKind||""}">${k.chipKind==="warn"?"—":"✓"} ${esc(k.chip)}</span>`
+                :`<span class="${k.status==="good"?"ok":""}">${esc(k.v)}</span>`;
+  return `<div class="card tile"><div class="v">${v}</div><div class="l">${esc(k.l)}</div><div class="n">${esc(k.n||"")}</div></div>`;
+}).join("")+`</div>`);
+
+if(D.verification){
+  // An axis is either measured (green ✓ ratio) or notMeasured (amber "— not measured" + why). Set an
+  // axis to {notMeasured:true, note:"..."} when the corpus can't support it (e.g. data-only, no engine),
+  // or to null to omit its card entirely. Never dress an unmeasured axis as a pass.
+  const vc=(o,label)=>{ if(!o) return "";
+    const chip = o.notMeasured ? `<span class="chip warn">— not measured</span>` : `<span class="chip good">✓ ${esc(o.ratio)}</span>`;
+    return `<div class="card"><div class="jflex" style="justify-content:space-between"><b class="h">${esc(label)}</b>${chip}</div><p class="sub" style="margin:8px 0 0">${o.note}</p></div>`; };
+  out.push(`<h2>Verification</h2><div class="grid cols2">${vc(D.verification.fidelity,"Fidelity verification")}${vc(D.verification.reproduction,"Byte-exact re-derivation")}</div>`);
+}
+
+out.push(`<h2>Provenance &amp; integrity</h2><div class="grid cols2"><div class="card"><table>`+
+  D.provenance.map(r=>`<tr><td>${esc(r[0])}</td><td class="n ${r[2]==="good"?"ok":""}">${r[1].indexOf("…")>-1?`<code>${esc(r[1])}</code>`:esc(r[1])}</td></tr>`).join("")+
+  `</table></div><div class="card"><b class="h">Authoritative status mix</b><table style="margin-top:8px">`+
+  D.statusMix.map(r=>`<tr><td>${esc(r[0])}</td><td class="n">${r[1]}</td></tr>`).join("")+`</table></div></div>`);
+
+const jmax=Math.max(...D.branches.map(b=>b[1]),1);
+out.push(`<h2>Coverage &amp; monitoring</h2><div class="grid cols3"><div class="card"><b class="h">Jurisdiction coverage</b>
+  <table style="margin-top:8px"><thead><tr><th>Branch</th><th class="n">Records</th></tr></thead><tbody>`+
+  D.branches.map(b=>`<tr><td><div class="jflex"><span class="jbar" style="width:${Math.round(b[1]/jmax*54)+6}px"></span>${esc(b[0])}</div></td><td class="n">${b[1]}</td></tr>`).join("")+
+  `</tbody></table></div><div class="card"><b class="h">${esc(D.monitor.heading)}</b>${bar(D.monitor.segments)}${legend(D.monitor.legend)}<p class="fine">${D.monitor.note}</p></div></div>`);
+
+out.push(`<h2>${esc(D.tagging.heading)} <span class="plain">${esc(D.tagging.headingPlain||"")}</span></h2>
+  <div class="card">${bar(D.tagging.segments)}${legend(D.tagging.legend)}<p class="fine">${D.tagging.note}</p></div>`);
+
+const list=(arr,kind)=>`<ul class="items">`+arr.map(i=>`<li><span class="mk ${kind}">${kind==="done"?"✓":"○"}</span><span><b>${esc(i.t)}</b> <span class="d">${esc(i.d)}</span></span></li>`).join("")+`</ul>`;
+out.push(`<h2>Punch-list</h2><div class="grid cols2"><div class="card"><b class="h">Resolved in ${esc(D.version)}</b>${list(D.resolved,"done")}</div><div class="card"><b class="h">Open — enhancements, not gaps</b>${list(D.open,"open")}</div></div>`);
+
+out.push(`<footer><span>Generated ${esc(D.asOf)}</span>`+D.links.map(l=>`<a href="${esc(l.href)}">${esc(l.label)}</a>`).join("")+`</footer><p class="fine">${esc(D.footNote)}</p>`);
+
+document.getElementById("root").innerHTML=out.join("");
+</script>
+</body>
+</html>

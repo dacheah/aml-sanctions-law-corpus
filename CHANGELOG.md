@@ -16,6 +16,28 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.3.6] — 2026-07-11
+
+Derived-layer curated-tagging sweep — the deepest yet. No authoritative texts change; this touches only
+the concept tags (`scripts/concepts.py` and the regenerated `derived/`, site, and Hugging Face export).
+
+### Changed
+
+- **Curated concept coverage more than doubled: 8.9% → 20.0% of provisions** (686 → ~1,550 human-reviewed
+  provision-tags), with keyword-fallback down to 41.3% and untagged down to 38.7%. Twelve high-value,
+  low-coverage records were curated provision-by-provision against the neutral vocabulary: the UK
+  Money Laundering Regulations 2017, Proceeds of Crime Act 2002 (Part 7 + investigation powers),
+  Terrorism Act 2000 (Part III), Sanctions and AML Act 2018; the Australian AML/CTF Act 2006 (flagship,
+  extended across its operative sections); the Hong Kong AMLO (Cap. 615, Schedule 2 + licensing);
+  the Canadian PCMLTFA; the Singapore CDSA; and the four Japanese statutes (APOC, FEFTA, APTCP, ITAF),
+  where the English keyword fallback is structurally blind and curated tags are the only signal.
+- Every new tag was verified before landing: each concept is in the published vocabulary, and each tag
+  key resolves to exactly one structural unit (guarding against the dup-numbering in schedule-heavy Acts).
+  Administrative machinery (commencement, extent, amendments to other legislation, confiscation/
+  procedure) was deliberately left untagged. Tags remain unofficial and derived — expect occasional
+  over/under-tagging.
+- Docs: `BUILD.md` and `docs/reproducibility.md` record the v1.3.6 engine fingerprint.
+
 ## [1.3.5] — 2026-07-11
 
 Closes the extraction-reproducibility gap to 100% and refreshes source monitoring. No legal content

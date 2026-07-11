@@ -50,9 +50,9 @@
     {
       "unit": "s.1 Terrorism: interpretation.",
       "concepts": [
-        "designation_criteria",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "PART II",
@@ -64,7 +64,8 @@
       "unit": "s.3 Proscription.",
       "concepts": [
         "designation_criteria"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.4 Deproscription: application.",
@@ -136,9 +137,9 @@
     {
       "unit": "s.14 Terrorist property.",
       "concepts": [
-        "designation_criteria",
-        "enforcement_and_offences"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "s.15 Fund-raising.",
@@ -176,12 +177,18 @@
       "curated": true
     },
     {
+      "unit": "s.20 Disclosure of information: permission.",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
       "unit": "s.21 Cooperation with police.",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "s.21D Tipping off: regulated sector",
@@ -193,37 +200,38 @@
     {
       "unit": "s.21E Disclosures within an undertaking or group etc",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "s.21F Other permitted disclosures between institutions etc",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "s.21G Other permitted disclosures etc",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "s.21H Interpretation of sections 21D to 21G",
       "concepts": [
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "s.22 Penalties.",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.22B [F76Information] orders",

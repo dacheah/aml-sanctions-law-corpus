@@ -32,9 +32,40 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
-    "enforcement_and_offences"
+    "asset_freezing",
+    "definitions_and_interpretation",
+    "enforcement_and_offences",
+    "scope_and_application"
   ],
   "tags": [
+    {
+      "unit": "第一条　この法律は、組織的な犯罪が平穏かつ健全な社会生活を著しく害し、及び犯罪によ",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二条　この法律において「団体」とは、共同の目的を有する多数人の継続的結合体であっ",
+      "concepts": [
+        "definitions_and_interpretation"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第八条　団体の構成員が罪（これに当たる行為が、当該団体の活動として、当該行為を実行",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第九条　第二条第二項第一号若しくは第三号の犯罪収益若しくは薬物犯罪収益（麻薬特例法",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
     {
       "unit": "第十条　犯罪収益等（公衆等脅迫目的の犯罪行為等のための資金等の提供等の処罰に関する",
       "concepts": [
@@ -46,6 +77,84 @@
       "unit": "第十一条　情を知って、犯罪収益等を収受した者は、七年以下の拘禁刑若しくは三百万円以",
       "concepts": [
         "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十二条　第三条第一項第九号、第十一号、第十二号及び第十五号に掲げる罪に係る同条の",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十三条　次に掲げる財産は、没収することができる。",
+      "concepts": [
+        "asset_freezing",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十四条　前条第一項各号又は第四項各号に掲げる財産（以下「不法財産」という。）が不法",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十五条　第十三条の規定による没収は、不法財産又は混和財産が犯人以外の者に帰属しな",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十六条　第十三条第一項各号に掲げる財産を没収することができないとき、又は当該財産",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十七条　法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十八条　不法財産である債権等（不動産及び動産以外の財産をいう。第十九条第一項及び",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十八条の三　第二十七条から第三十条までに規定する財産以外の財産に係る権利で債務者",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二十二条　裁判所は、第二条第二項第一号イ若しくはロ若しくは同項第二号ニに掲げる罪",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二十三条　裁判官は、前条第一項又は第二項に規定する理由及び必要があると認めるとき",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第四十二条　裁判所は、第二条第二項第一号イ若しくはロ若しくは同項第二号ニに掲げる罪",
+      "concepts": [
+        "asset_freezing"
       ],
       "curated": true
     }

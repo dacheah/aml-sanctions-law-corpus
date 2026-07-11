@@ -32,6 +32,7 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
+    "amlctf_program",
     "asset_freezing",
     "beneficial_ownership",
     "definitions_and_interpretation",
@@ -43,7 +44,6 @@
     "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
-    "suspicious_matter_reporting",
     "un_and_autonomous_sanctions"
   ],
   "tags": [
@@ -51,9 +51,9 @@
       "unit": "s.1 Power to make sanctions regulations",
       "concepts": [
         "sanctions_prohibitions",
-        "un_and_autonomous_sanctions",
-        "definitions_and_interpretation"
-      ]
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.3 Financial sanctions",
@@ -66,43 +66,53 @@
     {
       "unit": "s.4 Immigration sanctions",
       "concepts": [
-        "designation_criteria"
-      ]
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.5 Trade sanctions",
+      "concepts": [
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.6 Aircraft sanctions",
       "concepts": [
-        "enrolment_registration",
-        "designation_criteria",
-        "definitions_and_interpretation"
-      ]
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.7 Shipping sanctions",
       "concepts": [
-        "enrolment_registration",
-        "designation_criteria",
-        "un_and_autonomous_sanctions",
-        "definitions_and_interpretation"
-      ]
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.8 Other sanctions for purposes of UN obligations",
       "concepts": [
-        "designation_criteria"
-      ]
+        "sanctions_prohibitions",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.9 “Designated persons”",
       "concepts": [
+        "definitions_and_interpretation",
         "designation_criteria"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.10 Designation powers: general",
       "concepts": [
         "designation_criteria"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.11 Designation of a person by name under a designation power",
@@ -114,23 +124,25 @@
     {
       "unit": "s.12 Designation of persons by description under a designation power",
       "concepts": [
-        "suspicious_matter_reporting",
         "designation_criteria"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.13 Persons named by or under UN Security Council Resolutions",
       "concepts": [
         "designation_criteria",
         "un_and_autonomous_sanctions"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.14 “Specified ships”",
       "concepts": [
-        "suspicious_matter_reporting",
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.15 Exceptions and licences",
@@ -142,9 +154,9 @@
     {
       "unit": "s.16 Information",
       "concepts": [
-        "record_keeping",
-        "enrolment_registration"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "s.17 Enforcement",
@@ -156,89 +168,140 @@
     {
       "unit": "s.19 Enforcement: goods etc on ships",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enrolment_registration",
-        "un_and_autonomous_sanctions",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.20 Goods etc on ships: non-UK conduct",
       "concepts": [
-        "suspicious_matter_reporting",
-        "un_and_autonomous_sanctions"
-      ]
+        "enforcement_and_offences",
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "s.21 Extra-territorial application",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.22 Power to vary or revoke designation made under regulations",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.23 Right to request variation or revocation of designation",
       "concepts": [
         "designation_criteria"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.25 Right of UN-named person to request review",
       "concepts": [
         "designation_criteria",
         "un_and_autonomous_sanctions"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.26 Power to revoke specification of ship made under regulations",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.27 Right to request revocation of specification of ship",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.29 UN-designated ship: right to request review",
       "concepts": [
+        "designation_criteria",
         "un_and_autonomous_sanctions"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.31 Independent review of regulations with counter-terrorism purpose",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.33 Procedure for requests to F38... appropriate Minister",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.34 Temporary powers in relation to EU sanctions lists",
       "concepts": [
-        "record_keeping",
-        "designation_criteria"
-      ]
+        "designation_criteria",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.35 Directions under section 34: further provision",
       "concepts": [
-        "suspicious_matter_reporting",
-        "record_keeping",
-        "definitions_and_interpretation"
-      ]
+        "designation_criteria",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.36 Rights of person on EU sanctions list",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.37 Rights of UN-named person on EU sanctions list",
       "concepts": [
+        "designation_criteria",
         "un_and_autonomous_sanctions"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.38 Court review of decisions",
       "concepts": [
         "designation_criteria"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.39 Court reviews: further provision",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "designation_criteria"
+      ],
+      "curated": true
     },
     {
       "unit": "s.40 Rules of court",
       "concepts": [
         "definitions_and_interpretation"
       ]
+    },
+    {
+      "unit": "s.41 Procedure for dealing with goods etc seized from ships",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.45 Revocation and amendment of regulations under section 1",
@@ -255,23 +318,23 @@
     {
       "unit": "s.49 Money laundering and terrorist financing etc",
       "concepts": [
-        "asset_freezing",
-        "enforcement_and_offences"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "s.50 Reports on progress towards register of beneficial owners of overseas entities",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.51 Public registers of beneficial ownership of companies registered in British",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.54 Regulations: general",
@@ -298,29 +361,29 @@
       "concepts": [
         "asset_freezing",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.61 Meaning of “financial services” and “financial products”",
       "concepts": [
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.62 Interpretation",
       "concepts": [
-        "record_keeping",
-        "asset_freezing",
-        "un_and_autonomous_sanctions",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.63 Extent",
       "concepts": [
-        "asset_freezing",
         "scope_and_application"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Sch. para 2 Preventing the export of goods of a prescribed description—",

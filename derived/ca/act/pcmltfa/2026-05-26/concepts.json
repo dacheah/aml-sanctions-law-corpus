@@ -33,21 +33,26 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
-    "asset_freezing",
     "beneficial_ownership",
     "cash_couriers",
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
+    "designated_services",
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
     "politically_exposed_persons",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_permits",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
-    "suspicious_matter_reporting"
+    "suspicious_matter_reporting",
+    "threshold_transaction_reporting",
+    "tipping_off",
+    "un_and_autonomous_sanctions"
   ],
   "tags": [
     {
@@ -59,24 +64,31 @@
     {
       "unit": "2 (1) The definitions in this section apply in this Act.",
       "concepts": [
-        "correspondent_banking",
-        "enforcement_and_offences",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "2.1 Regulations under this Act are to be made on the",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "3 The object of this Act is",
       "concepts": [
-        "cash_couriers",
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "4 This Act is binding on Her Majesty in right of Canada",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enrolment_registration"
-      ]
+        "designated_services",
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "5 This Part applies to the following persons and entities:",
@@ -88,8 +100,9 @@
     {
       "unit": "5.1 For greater certainty, this Part does not apply to persons or entities referred to in paragraph 5(h.1) in respect",
       "concepts": [
-        "customer_due_diligence"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "6 Every person or entity referred to in section 5 shall",
@@ -113,18 +126,40 @@
       "curated": true
     },
     {
+      "unit": "7.1 (1) Every person or entity referred to in section 5",
+      "concepts": [
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "8 No person or entity shall disclose that they have made,",
+      "concepts": [
+        "tipping_off"
+      ],
+      "curated": true
+    },
+    {
       "unit": "9 (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "9.11 (1) Every government institution or agency that",
+      "concepts": [
+        "beneficial_ownership"
       ],
       "curated": true
     },
     {
       "unit": "9.2 (1) No person or entity referred to in section 5 shall",
       "concepts": [
-        "customer_due_diligence",
-        "politically_exposed_persons"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "9.3 (1) Every person or entity that is referred to in section 5 and that is prescribed shall determine, in the prescribe",
@@ -136,51 +171,95 @@
     {
       "unit": "9.31 (1) No entity referred to in paragraph 5(a), (b), (d),",
       "concepts": [
-        "correspondent_banking"
+        "correspondent_banking",
+        "enrolment_registration"
       ],
       "curated": true
     },
     {
       "unit": "9.4 (1) Every entity referred to in any of paragraphs",
       "concepts": [
-        "funds_transfer_reporting",
         "correspondent_banking"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "9.5 Every person or entity that is referred to in section 5",
       "concepts": [
-        "amlctf_program",
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "9.6 (1) Every person or entity referred to in section 5",
       "concepts": [
-        "risk_based_approach",
         "amlctf_program",
-        "enforcement_and_offences"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "9.61 (1) Every entity referred to in paragraph 5(e.1)",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "9.7 (1) Every entity referred to in any of paragraphs 5(a)",
       "concepts": [
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "9.8 (1) Every entity referred to in any of paragraphs 5(a)",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "9.9 In sections 9.91 to 9.93, agent or mandatary means",
+      "concepts": [
+        "definitions_and_interpretation"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "9.91 A person or entity referred to in paragraph 5(h)",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "9.92 A person or entity referred to in paragraph 5(h)",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "9.93 (1) A person or entity referred to in paragraph 5(h)",
       "concepts": [
-        "record_keeping",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "10.1 Sections 7 and 9 do not apply to persons or entities",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "11 Nothing in this Act requires a legal counsel to disclose any communication that is subject to solicitor-client",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "11.01 (1) A person or entity referred to in section 5 may",
@@ -198,23 +277,23 @@
     {
       "unit": "11.11 (1) The following persons or entities are not eligible for registration with the Centre:",
       "concepts": [
-        "enrolment_registration",
-        "asset_freezing",
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "11.12 (1) An application for registration shall be submitted to the Centre in the prescribed form and manner",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "11.13 (1) An applicant or a person or entity registered",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.14 (1) An applicant shall provide the Centre, in the",
@@ -237,9 +316,9 @@
     {
       "unit": "11.171 The Centre may revoke the registration of a person or entity that contravenes subsection 62(2) or a notice served",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "11.18 Any decision to deny an application or revoke a",
@@ -251,13 +330,15 @@
       "unit": "11.19 A registered person or entity shall renew their",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.2 When a registered person or entity ceases an activity for which they are registered, they shall notify the Centre i",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.3 (1) Within 30 days after the day on which the person or entity receives a decision to deny their application",
@@ -273,12 +354,19 @@
       ]
     },
     {
+      "unit": "11.41 In this Part, foreign entity means",
+      "concepts": [
+        "definitions_and_interpretation"
+      ],
+      "curated": true
+    },
+    {
       "unit": "11.42 (1) In addition to any other measure required by",
       "concepts": [
-        "customer_due_diligence",
         "beneficial_ownership",
-        "amlctf_program"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "11.43 The person or entity to which a directive under",
@@ -306,6 +394,13 @@
       ]
     },
     {
+      "unit": "11.49 (1) The Governor in Council may make regulations",
+      "concepts": [
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
       "unit": "11.6 Every entity referred to in any of paragraphs 5(a) to",
       "concepts": [
         "definitions_and_interpretation"
@@ -314,29 +409,58 @@
     {
       "unit": "11.7 (1) The Governor in Council may, by order, authorize the Minister to issue to any person or entity referred",
       "concepts": [
+        "sanctions_permits"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "11.8 In this Part, officer has the same meaning as in",
+      "concepts": [
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "12 (1) Every person or entity referred to in subsection",
       "concepts": [
-        "record_keeping"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "14 (1) Subject to subsections (2) to (5), if a person or an",
       "concepts": [
-        "record_keeping"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "15 (1) An officer may search",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "16 (1) An officer may, in order to determine whether",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "17 (1) An officer may examine any mail that is being",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "18 (1) If an officer believes on reasonable grounds that",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "19 An officer may call on other persons to assist the officer in exercising any power of search, seizure or retention",
@@ -347,9 +471,9 @@
     {
       "unit": "21 (1) On request of an officer, any mail that is being",
       "concepts": [
-        "amlctf_program",
-        "record_keeping"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "22 (1) An officer who retains currency or monetary instruments forfeited under subsection 14(5) shall send the",
@@ -417,25 +541,36 @@
       "unit": "39.01 The following definitions apply in this Part.",
       "concepts": [
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "39.02 (1) Every person or entity referred to in subsection (3) that reports the importation or exportation of",
       "concepts": [
-        "record_keeping"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "39.03 (1) Subject to subsections (2) to (5), if a person or",
       "concepts": [
-        "record_keeping"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "39.04 (1) If an officer suspects on reasonable grounds",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "39.06 (1) If an officer has reasonable grounds to believe",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "39.07 An officer may call on other persons to assist the",
@@ -497,98 +632,190 @@
       "unit": "39.39 (1) The Governor in Council may make regulations establishing an administrative monetary penalties",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "40 The object of this Part is to establish an agency that",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "41 (1) There is hereby established the Financial Transactions and Reports Analysis Centre of Canada.",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "42 (1) The Minister is responsible for the Centre.",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "45 (1) The Director is the chief executive officer of the",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "52 (1) The Director shall report to the Minister from",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53 (1) The Director shall not disclose under section 52",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53.1 (1) The Director shall, at the request of the Minister or an officer of the Department of Finance, disclose to",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53.31 (1) For the purpose of assessing risks to the integrity of the Canadian financial system that may arise",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53.4 The Director shall, at the request of the Minister or",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53.41 (1) For the purpose referred to in subsection",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53.5 The Director shall, at the request of the Minister or",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "53.6 (1) The Centre shall, within 30 days after the day",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53.7 At the request of the Minister or an officer of the",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "54 (1) The Centre",
       "concepts": [
-        "record_keeping"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "54.1 (1) The Centre is responsible for establishing and",
       "concepts": [
-        "record_keeping",
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "55 (1) Subject to subsections (3) and (6.1), sections 52,",
       "concepts": [
-        "suspicious_matter_reporting",
-        "funds_transfer_reporting",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "55.1 (1) If the Centre, on the basis of its analysis and",
       "concepts": [
-        "suspicious_matter_reporting",
-        "funds_transfer_reporting",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "56 (1) The Minister may enter into an agreement or arrangement, in writing, with the government of a foreign",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "56.1 (1) The Centre may disclose designated information to an institution or agency of a foreign state or of an",
       "concepts": [
-        "suspicious_matter_reporting",
-        "funds_transfer_reporting",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "58 (1) The Centre may",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "58.1 (1) The Centre may, at the request of the Minister,",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "59 (1) Subject to section 36 of the Access to Information",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "60 (1) Despite the provisions of any other Act, except",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "60.1 (1) The Director of the Canadian Security Intelligence Service, or any employee of the Canadian Security",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "60.3 (1) If the Centre makes a disclosure under paragraph 55(3)(b), the Commissioner of Revenue, appointed",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "63.1 (1) For an examination under subsection 62(1), an",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "64 (1) In this section, judge means a judge of a superior",
@@ -599,28 +826,37 @@
     {
       "unit": "65 (1) The Centre may disclose to the appropriate law",
       "concepts": [
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "65.01 (1) The Centre may disclose to the Canada Revenue Agency information relating to the compliance with",
       "concepts": [
-        "suspicious_matter_reporting",
-        "funds_transfer_reporting"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "65.02 (1) The Centre may disclose to the Canada Revenue Agency information relating to the compliance with",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "65.1 (1) The Centre may enter into an agreement or arrangement, in writing, with an institution or agency of a",
       "concepts": [
-        "record_keeping"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "71 (1) The Director shall, on or before September 30 of",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "72.1 The service of a notice by or on behalf of the Centre",
@@ -638,44 +874,100 @@
     {
       "unit": "73.1 (1) The Governor in Council may make regulations",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "73.11 Except if a penalty is fixed under paragraph",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "73.111 (1) Subject to subsection (2), if the Centre requests information from the person or entity to enable",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "73.12 If an act or omission may be proceeded with as a",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "73.13 Every contravention that is designated under",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "73.131 If the Centre believes on reasonable grounds",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "73.14 (1) When the Centre issues a notice of violation,",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "73.15 (1) If the person or entity pays the penalty proposed in the notice of violation, the person or entity is",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "73.16 (1) If a person or entity has committed a prescribed violation, then as soon as feasible after proceedings with re",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "73.17 (1) If a person or entity refuses to enter into a",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "73.18 (1) The contravention of a compliance order",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "73.22 (1) In the following cases, the Centre shall make",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "73.23 (1) For greater certainty, a violation is not an offence.",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "73.24 (1) Due diligence is a defence in a proceeding in",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "73.26 (1) The unpaid amount of any debt referred to in",
@@ -705,13 +997,15 @@
       "unit": "74 (1) Every person or entity that knowingly contravenes any of sections 6, 6.1 and 9.1 to 9.31, subsection",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "75 (1) Every person or entity that contravenes section 7",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "76 Every person or entity that contravenes section 8 is",
@@ -729,46 +1023,50 @@
       "unit": "77.01 Every person or entity that knowingly contravenes section 9.92 or 9.93 is guilty of an offence and liable",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "77.1 (1) Every person or entity that, under this Act, is",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "77.2 (1) Every person or entity that is an employer, that",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "77.3 (1) Every person or entity commits an offence that",
       "concepts": [
-        "funds_transfer_reporting",
-        "enrolment_registration",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "77.4 A person or entity referred to in section 11.1 that",
       "concepts": [
-        "enrolment_registration",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "78 If a person or an entity commits an offence under",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "79 In a prosecution for an offence under section 75 or",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "80 A peace officer or a person acting under the direction",
@@ -836,13 +1134,15 @@
       "unit": "11.4001 (1) Subject to subsection (2), every person or",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.4002 If section 11.4001 applies to a person or entity,",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.4003 An applicant is enrolled if the Centre adds the",
@@ -854,7 +1154,8 @@
       "unit": "11.4004 An enrolled person or entity shall renew their",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.4005 An application for renewal of enrolment shall",
@@ -872,7 +1173,8 @@
       "unit": "11.4007 An applicant for enrolment or for renewal of",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.4008 (1) An applicant for enrolment or for renewal",
@@ -884,7 +1186,8 @@
       "unit": "11.4009 (1) The Centre shall deny an application for",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.401 (1) An enrolled person or entity shall provide",
@@ -896,13 +1199,15 @@
       "unit": "11.4011 (1) The Centre may revoke the enrolment of",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.4012 (1) If section 11.4001 ceases to apply to an enrolled person or entity, the person or entity shall notify",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11.4013 If the Centre determines that section 11.4001",
@@ -913,9 +1218,9 @@
     {
       "unit": "54.2 (1) The Centre is responsible for establishing and",
       "concepts": [
-        "record_keeping",
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "93 Subsection 73(1) of the Act is amended by",

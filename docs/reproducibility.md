@@ -21,6 +21,7 @@ recorded against each release here:
 
 | Corpus release | Engine fingerprint |
 |---|---|
+| v1.3.6 | `b9e9e35fc4e0dc83f7d888f733a78811f8f8a6b9be7618745d46523aecdd5f22` |
 | v1.3.5 | `115d8b0158b3efe18003a1422c9f4fbabacdb504b7b8528865f5325cc9ca2181` |
 | v1.3.4 | `42b74c8b7de0bfa1a6eb32efd6809b0be92fb9ca85ce72ff1ffe34483688e6e3` |
 

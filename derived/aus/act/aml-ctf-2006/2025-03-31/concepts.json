@@ -42,26 +42,25 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
+    "politically_exposed_persons",
     "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "tipping_off",
-    "un_and_autonomous_sanctions",
     "virtual_assets"
   ],
   "tags": [
     {
       "unit": "3  Objects",
       "concepts": [
-        "threshold_transaction_reporting",
-        "un_and_autonomous_sanctions",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "4  Simplified outline",
@@ -80,23 +79,9 @@
     {
       "unit": "5  Definitions",
       "concepts": [
-        "customer_due_diligence",
-        "risk_based_approach",
-        "amlctf_program",
-        "suspicious_matter_reporting",
-        "threshold_transaction_reporting",
-        "funds_transfer_reporting",
-        "record_keeping",
-        "designated_services",
-        "enrolment_registration",
-        "correspondent_banking",
-        "virtual_assets",
-        "cash_couriers",
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "scope_and_application",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "6  Designated services",
@@ -109,7 +94,15 @@
       "unit": "7  Services provided jointly to 2 or more customers",
       "concepts": [
         "designated_services"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "7A  Securities and derivatives",
+      "concepts": [
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "8  Person-to-person electronic funds transfer instructions",
@@ -134,21 +127,30 @@
     {
       "unit": "11  Control test",
       "concepts": [
-        "correspondent_banking"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "12  Owner-managed branches of ADIs",
       "concepts": [
-        "designated_services"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "13  Eligible gaming machine venues",
+      "concepts": [
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "14  Residency",
       "concepts": [
-        "designated_services",
-        "correspondent_banking"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "15  Shell banks",
@@ -159,13 +161,22 @@
     {
       "unit": "17  Bearer negotiable instruments",
       "concepts": [
-        "cash_couriers"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "19  Translation of digital currency to Australian currency",
       "concepts": [
         "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "21  Permanent establishment",
+      "concepts": [
+        "definitions_and_interpretation",
+        "scope_and_application"
       ],
       "curated": true
     },
@@ -178,21 +189,23 @@
     {
       "unit": "24  Crown to be bound",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "25  Extension to external Territories",
       "concepts": [
         "scope_and_application"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "26  Extra-territorial application",
       "concepts": [
-        "enforcement_and_offences",
         "scope_and_application"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "27  Simplified outline",
@@ -204,6 +217,7 @@
     {
       "unit": "28  Identification procedures for certain pre-commencement customers",
       "concepts": [
+        "beneficial_ownership",
         "customer_due_diligence"
       ],
       "curated": true
@@ -218,21 +232,25 @@
     {
       "unit": "30  Identification procedures for certain low-risk services",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "risk_based_approach"
       ],
       "curated": true
     },
     {
       "unit": "31  Verification of identity of low-risk service customer etc.",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "risk_based_approach"
       ],
       "curated": true
     },
     {
       "unit": "32  Carrying out applicable customer identification procedure before commencement of provision of designated service",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "politically_exposed_persons",
+        "risk_based_approach"
       ],
       "curated": true
     },
@@ -262,16 +280,16 @@
     {
       "unit": "35A  Reporting entities may disclose certain personal information to credit reporting bodies for identity verification purposes",
       "concepts": [
-        "customer_due_diligence",
-        "designated_services"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "35B  Credit reporting bodies may use and disclose certain personal information for identity verification purposes",
       "concepts": [
-        "customer_due_diligence",
-        "designated_services"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "35C  Reporting entities to notify inability to verify identity",
@@ -281,44 +299,58 @@
       "curated": true
     },
     {
+      "unit": "35D  Verification information not to be collected or held by a credit reporting body",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
       "unit": "35E  Retention of verification information—credit reporting bodies",
       "concepts": [
-        "record_keeping",
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "record_keeping"
       ],
       "curated": true
     },
     {
       "unit": "35F  Retention of verification information—reporting entities",
       "concepts": [
-        "record_keeping",
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "record_keeping"
       ],
       "curated": true
     },
     {
       "unit": "35G  Access to verification information",
       "concepts": [
-        "designated_services"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "35H  Unauthorised access to verification information—offence",
       "concepts": [
+        "customer_due_diligence",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "35J  Obtaining access to verification information by false pretences—offence",
       "concepts": [
+        "customer_due_diligence",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "35K  Unauthorised use or disclosure of verification information—offence",
       "concepts": [
+        "customer_due_diligence",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Division 6—Ongoing customer due diligence",
@@ -329,11 +361,9 @@
     {
       "unit": "36  Ongoing customer due diligence",
       "concepts": [
-        "customer_due_diligence",
-        "designated_services",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "37  Applicable customer identification procedures may be carried out by an agent of a reporting entity",
@@ -345,23 +375,23 @@
     {
       "unit": "37A  Reliance on applicable customer identification procedures or other procedures—agreements or arrangements",
       "concepts": [
-        "customer_due_diligence",
-        "designated_services"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "37B  Regular assessments of agreement or arrangement covered by section 37A",
       "concepts": [
-        "designated_services",
-        "enforcement_and_offences"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "38  Reliance on applicable customer identification procedures or other procedures—other circumstances",
       "concepts": [
-        "customer_due_diligence",
-        "designated_services"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "39  General exemptions",
@@ -426,10 +456,9 @@
     {
       "unit": "45  Reports of international funds transfer instructions",
       "concepts": [
-        "funds_transfer_reporting",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "funds_transfer_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "46  International funds transfer instruction",
@@ -454,10 +483,9 @@
     {
       "unit": "49  Further information to be given to the AUSTRAC CEO etc.",
       "concepts": [
-        "designated_services",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "49A  AML/CTF Rules may make provision in relation to reports by registered remittance affiliates",
@@ -469,30 +497,31 @@
     {
       "unit": "49B  Notice to obtain information or documents in certain circumstances",
       "concepts": [
-        "proliferation_financing",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "49C  Authorisation to obtain information or documents in certain circumstances",
       "concepts": [
-        "proliferation_financing",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "50  Request to obtain information about the identity of holders of foreign credit cards and foreign debit cards",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "supervisory_architecture"
       ],
       "curated": true
     },
     {
       "unit": "50A  Secrecy—information obtained under section 49, 49B or 49C",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "51A  Simplified outline",
@@ -565,9 +594,9 @@
     {
       "unit": "54  Reports about receipts of monetary instruments moved into",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "55  Movements of monetary instruments into",
@@ -586,21 +615,23 @@
     {
       "unit": "57  Obligations of customs officers and police officers",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "61  Power to affix notices about reporting obligations",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "62  Notice about reporting obligations to be given to travellers to",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "Part 5—Electronic funds transfer instructions",
@@ -617,26 +648,23 @@
     {
       "unit": "64  Electronic funds transfer instructions—2 or more institutions involved in the transfer",
       "concepts": [
-        "funds_transfer_reporting",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "funds_transfer_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "65  Request to include customer information in certain international electronic funds transfer instructions",
       "concepts": [
-        "funds_transfer_reporting",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "funds_transfer_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "66  Electronic funds transfer instructions—only one institution involved in the transfer",
       "concepts": [
-        "funds_transfer_reporting",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "funds_transfer_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "68  Defence of relying on information supplied by another person",
@@ -688,6 +716,7 @@
     {
       "unit": "74  Unregistered persons must not provide certain remittance services",
       "concepts": [
+        "enforcement_and_offences",
         "enrolment_registration"
       ],
       "curated": true
@@ -715,60 +744,58 @@
     {
       "unit": "75B  Applications for registration",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "75C  Registration by AUSTRAC CEO",
       "concepts": [
-        "beneficial_ownership",
-        "designated_services",
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "75E  Registration may be subject to conditions",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "75F  When registration of a person ceases",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "75G  Cancellation of registration",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "75H  Suspension of registration",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "75J  Renewal of registration",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "75K  Removal of entries from the Remittance Sector Register",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "75L  AML/CTF Rules—general provision",
@@ -779,11 +806,9 @@
     {
       "unit": "75M  Registered persons to advise of material changes in circumstance etc.",
       "concepts": [
-        "amlctf_program",
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "75N  AUSTRAC CEO may request further information",
@@ -815,7 +840,8 @@
       "unit": "75T  Basis of registration",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Part 6A—The Digital Currency Exchange Register",
@@ -842,8 +868,8 @@
     {
       "unit": "76A  Unregistered persons must not provide certain digital currency exchange services",
       "concepts": [
-        "virtual_assets",
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ],
       "curated": true
     },
@@ -856,16 +882,16 @@
     {
       "unit": "76B  Digital Currency Exchange Register",
       "concepts": [
-        "virtual_assets",
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ],
       "curated": true
     },
     {
       "unit": "76C  Information to be entered on the Digital Currency Exchange Register",
       "concepts": [
-        "virtual_assets",
-        "enrolment_registration"
+        "enrolment_registration",
+        "virtual_assets"
       ],
       "curated": true
     },
@@ -873,65 +899,65 @@
       "unit": "76D  Applications for registration",
       "concepts": [
         "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "76E  Registration by AUSTRAC CEO",
       "concepts": [
-        "beneficial_ownership",
         "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "76G  Registration may be subject to conditions",
       "concepts": [
         "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "76H  When registration of a person ceases",
       "concepts": [
         "enrolment_registration",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "76J  Cancellation of registration",
       "concepts": [
         "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "76K  Suspension of registration",
       "concepts": [
         "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "76L  Renewal of registration",
       "concepts": [
         "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "76M  Removal of entries from the Digital Currency Exchange Register",
       "concepts": [
         "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "76N  AML/CTF Rules—general provision",
@@ -943,9 +969,9 @@
       "unit": "76P  Registered persons to advise of material changes in circumstance etc.",
       "concepts": [
         "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "76Q  AUSTRAC CEO may request further information",
@@ -977,8 +1003,10 @@
     {
       "unit": "76T  Basis of registration",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "enrolment_registration",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "Part 7—Anti-money laundering and counter-terrorism financing programs",
@@ -1180,6 +1208,7 @@
       "unit": "96  Due diligence assessments and records of correspondent banking relationships",
       "concepts": [
         "correspondent_banking",
+        "customer_due_diligence",
         "record_keeping"
       ],
       "curated": true
@@ -1187,9 +1216,16 @@
     {
       "unit": "100  Geographical links",
       "concepts": [
-        "correspondent_banking",
-        "scope_and_application"
-      ]
+        "correspondent_banking"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "102  Countermeasures",
+      "concepts": [
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "Part 10—Record-keeping requirements",
@@ -1223,10 +1259,9 @@
     {
       "unit": "108  Customer-provided transaction documents to be retained",
       "concepts": [
-        "record_keeping",
-        "designated_services",
-        "enforcement_and_offences"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "109  Records relating to transferred ADI accounts",
@@ -1245,8 +1280,8 @@
     {
       "unit": "111  Copying documents obtained in the course of carrying out an applicable custom identification procedure",
       "concepts": [
-        "record_keeping",
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "record_keeping"
       ],
       "curated": true
     },
@@ -1270,6 +1305,7 @@
     {
       "unit": "114  Retention of information if identification procedures taken to have been carried out by a reporting entity",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping"
       ],
       "curated": true
@@ -1311,6 +1347,7 @@
     {
       "unit": "116  Records about anti-money laundering and counter-terrorism financing programs",
       "concepts": [
+        "amlctf_program",
         "record_keeping"
       ],
       "curated": true
@@ -1324,8 +1361,8 @@
     {
       "unit": "117  Retention of records about correspondent banking relationships",
       "concepts": [
-        "record_keeping",
-        "correspondent_banking"
+        "correspondent_banking",
+        "record_keeping"
       ],
       "curated": true
     },
@@ -1353,12 +1390,14 @@
       "unit": "121  Offence—AUSTRAC entrusted persons",
       "concepts": [
         "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "123  Offence of tipping off",
       "concepts": [
+        "enforcement_and_offences",
         "tipping_off"
       ],
       "curated": true
@@ -1373,36 +1412,40 @@
     {
       "unit": "125  Access to AUSTRAC information",
       "concepts": [
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "126  Dealings with AUSTRAC information",
       "concepts": [
-        "suspicious_matter_reporting",
         "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "127  Disclosure of AUSTRAC information to foreign countries or agencies",
       "concepts": [
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "128  Unauthorised accessing of AUSTRAC information",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enforcement_and_offences",
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "129  Use or disclosure of AUSTRAC information disclosed in contravention of this Part",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enforcement_and_offences",
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "Part 12—Offences",
@@ -1421,47 +1464,45 @@
     {
       "unit": "136  False or misleading information",
       "concepts": [
-        "designated_services",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "137  Producing false or misleading documents",
       "concepts": [
-        "designated_services",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "138  False documents",
       "concepts": [
-        "customer_due_diligence",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "139  Providing a designated service using a false customer name or customer anonymity",
       "concepts": [
-        "enforcement_and_offences",
-        "designated_services"
+        "designated_services",
+        "enforcement_and_offences"
       ],
       "curated": true
     },
     {
       "unit": "140  Receiving a designated service using a false customer name or customer anonymity",
       "concepts": [
-        "enforcement_and_offences",
-        "designated_services"
+        "designated_services",
+        "enforcement_and_offences"
       ],
       "curated": true
     },
     {
       "unit": "141  Customer commonly known by 2 or more different names—disclosure to reporting entity",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "enforcement_and_offences"
       ],
       "curated": true
     },
@@ -1476,6 +1517,7 @@
     {
       "unit": "143  Conducting transfers to avoid reporting requirements relating to cross-border movements of monetary instruments",
       "concepts": [
+        "cash_couriers",
         "enforcement_and_offences"
       ],
       "curated": true
@@ -1505,17 +1547,16 @@
     {
       "unit": "147  Authorised officer may enter premises by consent or under a monitoring warrant",
       "concepts": [
-        "designated_services"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "148  Monitoring powers of authorised officers",
       "concepts": [
-        "record_keeping",
-        "designated_services",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "149  Tampering or interfering with things secured in the exercise of monitoring powers",
@@ -1526,8 +1567,9 @@
     {
       "unit": "150  Authorised officer may ask questions and seek production of documents",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "158  Occupier to provide authorised officer with facilities and assistance",
@@ -1545,6 +1587,7 @@
       "unit": "161  External audits—risk management etc.",
       "concepts": [
         "amlctf_program",
+        "risk_based_approach",
         "supervisory_architecture"
       ],
       "curated": true
@@ -1552,11 +1595,9 @@
     {
       "unit": "162  External audits—compliance",
       "concepts": [
-        "suspicious_matter_reporting",
-        "designated_services",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "164  External auditors",
@@ -1590,8 +1631,9 @@
     {
       "unit": "167  Authorised officer may obtain information and documents",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "169  Self-incrimination",
@@ -1616,9 +1658,9 @@
     {
       "unit": "172A  Power of AUSTRAC CEO to obtain information and documents",
       "concepts": [
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "172C  Requirements made of persons appearing for examination",
@@ -1670,13 +1712,15 @@
       "unit": "174  Ancillary contravention of civil penalty provision",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "175  Civil penalty orders",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "176  Who may apply for a civil penalty order",
@@ -1736,16 +1780,9 @@
     {
       "unit": "184  When an infringement notice can be given",
       "concepts": [
-        "customer_due_diligence",
-        "suspicious_matter_reporting",
-        "threshold_transaction_reporting",
-        "funds_transfer_reporting",
-        "record_keeping",
-        "enrolment_registration",
-        "virtual_assets",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "185  Matters to be included in an infringement notice",
@@ -1787,39 +1824,38 @@
     {
       "unit": "190  Monitoring of compliance",
       "concepts": [
-        "designated_services",
-        "enrolment_registration",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "191  Remedial directions",
       "concepts": [
-        "designated_services",
         "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "192  Injunctions",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "197  Acceptance of undertakings",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "198  Enforcement of undertakings",
       "concepts": [
-        "threshold_transaction_reporting",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Division 8—Powers of questioning, search and arrest for cross-border movements of monetary instruments",
@@ -1830,16 +1866,18 @@
     {
       "unit": "199  Questioning and search powers in relation to monetary instruments",
       "concepts": [
-        "suspicious_matter_reporting",
         "cash_couriers",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "201  Arrest without warrant",
       "concepts": [
+        "cash_couriers",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "202  Notices to reporting entities",
@@ -1870,9 +1908,9 @@
     {
       "unit": "207  Disclosing existence or nature of notice",
       "concepts": [
-        "designated_services",
-        "enforcement_and_offences"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "208  Simplified outline",
@@ -1883,15 +1921,16 @@
     {
       "unit": "209  Establishment of AUSTRAC",
       "concepts": [
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "210  Function of AUSTRAC",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Subdivision A—Office and functions of the AUSTRAC CEO",
@@ -1902,19 +1941,16 @@
     {
       "unit": "211  AUSTRAC CEO",
       "concepts": [
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "212  Functions of the AUSTRAC CEO",
       "concepts": [
-        "risk_based_approach",
-        "record_keeping",
-        "designated_services",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "213  Policy principles",
@@ -2106,20 +2142,30 @@
     {
       "unit": "237  Treatment of partnerships",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "238  Treatment of unincorporated associations",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "239  Treatment of trusts with multiple trustees",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "240  Concurrent operation of State and Territory laws",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "244  Reports to the AUSTRAC CEO etc.",

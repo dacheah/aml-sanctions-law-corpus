@@ -33,13 +33,66 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "asset_freezing",
-    "designation_criteria"
+    "designation_criteria",
+    "enforcement_and_offences",
+    "proliferation_financing",
+    "sanctions_permits",
+    "sanctions_prohibitions",
+    "scope_and_application",
+    "supervisory_architecture",
+    "un_and_autonomous_sanctions"
   ],
   "tags": [
+    {
+      "unit": "第一条　この法律は、国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三",
+      "concepts": [
+        "scope_and_application",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二条　国は、次章及び第三章の規定による措置が適正かつ円滑に行われることを確保する",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
     {
       "unit": "第三条　国際連合安全保障理事会決議第千二百六十七号、同理事会決議第千三百三十三号そ",
       "concepts": [
         "asset_freezing",
+        "designation_criteria",
+        "proliferation_financing",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第四条　国家公安委員会は、国際連合安全保障理事会決議第千三百七十三号（以下この項及",
+      "concepts": [
+        "designation_criteria",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第五条　国家公安委員会は、指定をするときは、その旨、当該指定に係る者の氏名又は名",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第六条　国家公安委員会は、指定の有効期間（この項の規定により延長された有効期間を含",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第七条　国家公安委員会は、指定を受けた者が次の各号のいずれかに該当するに至ったと認",
+      "concepts": [
         "designation_criteria"
       ],
       "curated": true
@@ -47,14 +100,143 @@
     {
       "unit": "第八条　国家公安委員会は、第四条第四項の規定及び行政手続法第十三条第一項の規定によ",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第九条　財産凍結等対象者（第三条第一項の規定により公告された者若しくは指定（仮指定",
+      "concepts": [
+        "sanctions_permits"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十条　財産凍結等対象者は、前条の許可を受けようとするときは、国家公安委員会規則で",
+      "concepts": [
+        "sanctions_permits"
       ],
       "curated": true
     },
     {
       "unit": "第十一条　公安委員会は、財産凍結等対象者から第九条第一号から第四号までに掲げる行為",
       "concepts": [
+        "asset_freezing",
+        "sanctions_permits"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十二条　公安委員会は、第九条の許可に条件を付し、及びこれを変更することができる。",
+      "concepts": [
+        "sanctions_permits"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十三条　公安委員会は、第九条の許可をしたときは、国家公安委員会規則で定めるところ",
+      "concepts": [
+        "sanctions_permits"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十四条　公安委員会は、第九条の許可を受けた者について、次の各号のいずれかに該当す",
+      "concepts": [
+        "sanctions_permits"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十五条　何人も、財産凍結等対象者を相手方として次の各号に掲げる行為をしてはならな",
+      "concepts": [
+        "asset_freezing",
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十六条　特定債権に対し強制執行による差押命令又は差押処分が発せられた場合におい",
+      "concepts": [
         "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十七条　財産凍結等対象者が所持している規制対象財産（土地、建物、自動車その他携帯",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十八条　前二節の規定による措置は、その国民経済に対する影響をできるだけ少ないもの",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第十九条　公安委員会は、前二節の規定による措置を実施するため必要があると認めるとき",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二十条　公安委員会は、前二節の規定による措置を実施するため必要があると認めるとき",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二十一条　公安委員会は、第十五条の規定に違反し、又は違反するおそれがある事業者そ",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二十二条　第十五条の規定に違反して前条の規定による情報の提供又は指導若しくは助言",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二十五条　この法律の規定は、日本国内に住所地等がある者が、日本国外でする行為にも",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第二十九条　次の各号のいずれかに該当する行為をした者（法人その他の団体にあっては、",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第三十条　次の各号のいずれかに該当する行為をした者（法人その他の団体にあっては、そ",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第三十一条　第十六条第一項の規定による命令に違反する行為をした者（法人その他の団体",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第三十二条　第十三条第三項の規定に違反する行為をした者（法人その他の団体にあって",
+      "concepts": [
+        "enforcement_and_offences"
       ],
       "curated": true
     },
