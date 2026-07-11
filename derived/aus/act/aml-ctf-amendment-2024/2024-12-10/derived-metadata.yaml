@@ -3,10 +3,10 @@
   artifact_file: structure.json
   source_corpus_id: aus/act/aml-ctf-amendment-2024
   source_version_id: '2024-12-10'
-  source_text_sha256: sha256:47f35e31724e44594c41c6db4ca341a7be4ebf3a5e5958765a282967c170940e
+  source_text_sha256: sha256:f20c0538b532c33a533a1a92862470506b0af40f304c30626c6e14a4cd06a642
   generation_method: rule_based
   generator: build_derived.py (structure)
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: unreviewed
   reviewed_by: null
   license: CC-BY-4.0
@@ -19,10 +19,10 @@
   artifact_file: concepts.json
   source_corpus_id: aus/act/aml-ctf-amendment-2024
   source_version_id: '2024-12-10'
-  source_text_sha256: sha256:47f35e31724e44594c41c6db4ca341a7be4ebf3a5e5958765a282967c170940e
+  source_text_sha256: sha256:f20c0538b532c33a533a1a92862470506b0af40f304c30626c6e14a4cd06a642
   generation_method: hybrid
   generator: corpus-toolkit build_derived
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: human_reviewed
   reviewed_by: corpus maintainer
   license: CC-BY-4.0

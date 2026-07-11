@@ -18,10 +18,17 @@ retrieval_date: '2026-07-08'
 retrieved_by: corpus maintainer (official human download from source)
 original_format: docx
 original_filename: original.docx
-content_hash: sha256:47f35e31724e44594c41c6db4ca341a7be4ebf3a5e5958765a282967c170940e
+content_hash: sha256:f20c0538b532c33a533a1a92862470506b0af40f304c30626c6e14a4cd06a642
 original_sha256: sha256:120607e4f816b1e91497a677bc317b669f254e305120e635bda87018d30e5912
-text_sha256: sha256:47f35e31724e44594c41c6db4ca341a7be4ebf3a5e5958765a282967c170940e
+text_sha256: sha256:f20c0538b532c33a533a1a92862470506b0af40f304c30626c6e14a4cd06a642
 text_fidelity: extracted_verified
+text_derivation:
+  method: canonical_extraction
+  note: text.txt is the byte-exact output of the committed DOCX extraction profile
+    (scripts/extract.py extract_docx) applied to the stored original.docx, so it re-derives
+    reproducibly (verified by scripts/extract.py). It replaces an earlier pre-module capture
+    whose blank-line placement differed; the legal content is identical (every non-empty line
+    unchanged, and the cross-engine token metrics below are unaffected). Re-derived 2026-07-11.
 language: en
 authoritative_status: authentic_text
 license: CC-BY-4.0

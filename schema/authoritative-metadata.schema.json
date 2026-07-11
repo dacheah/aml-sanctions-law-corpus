@@ -156,6 +156,19 @@
       ],
       "description": "Required when a text.txt exists"
     },
+    "text_derivation": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "How text.txt was derived from the stored original, when noted (e.g. canonical re-derivation).",
+      "properties": {
+        "method": {
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    },
     "language": {
       "type": "string",
       "description": "ISO 639 code of the stored text.txt"

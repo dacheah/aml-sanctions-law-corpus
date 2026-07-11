@@ -6,7 +6,7 @@
   source_text_sha256: sha256:467af35d9530089281dec2e5521a13ccb3b587db6049214e92ac8616166c4a88
   generation_method: rule_based
   generator: build_derived.py (structure)
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: unreviewed
   reviewed_by: null
   license: CC-BY-4.0
@@ -22,7 +22,7 @@
   source_text_sha256: sha256:467af35d9530089281dec2e5521a13ccb3b587db6049214e92ac8616166c4a88
   generation_method: hybrid
   generator: corpus-toolkit build_derived
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: human_reviewed
   reviewed_by: corpus maintainer
   license: CC-BY-4.0
@@ -41,7 +41,7 @@
   source_authentic_sha256: sha256:81e26e7de8702045c1c461b2c07de8e65b70f98d3fae6632d6cdc295d7a4db9d
   generation_method: ocr
   generator: scripts/ocr_arabic.py (tesseract 5.3.4, ara)
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: unreviewed
   reviewed_by: null
   license: CC-BY-4.0

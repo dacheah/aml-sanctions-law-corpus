@@ -16,6 +16,35 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.3.5] — 2026-07-11
+
+Closes the extraction-reproducibility gap to 100% and refreshes source monitoring. No legal content
+changes.
+
+### Fixed
+
+- **Reproducible extraction now 68/68 byte-exact (was 65/68).** Three early AU records
+  (`aus/act/aml-ctf-amendment-2024`, `aus/rules/aml-ctf-2025`, `aus/rules/aml-ctf-transitional-2026`)
+  were captured before the `extract.py` profile module and could not be re-derived byte-for-byte from
+  their stored DOCX — a later Federal Register export whose blank-line placement differs. Their
+  `text.txt` has been **re-derived to the canonical `extract_docx` output**, repairing the invariant
+  that every stored text derives from its stored original by committed code. The legal content is
+  **provably identical** (every non-empty line unchanged; the cross-engine verification metrics are
+  unaffected by blank lines), the change is recorded per record under a new `text_derivation` note, and
+  the records remain `extracted_verified`. Their `text_sha256`/`content_hash` are updated accordingly;
+  the `PREMODULE` exemption in `extract.py` is removed, so no record is exempt from the byte-exact check.
+
+### Changed
+
+- **Source monitoring:** added the four AU instruments already in the corpus but not yet watched —
+  Charter of the United Nations Act 1945, Autonomous Sanctions Act 2011, Autonomous Sanctions
+  Regulations 2011, and the AML/CTF Rules 2025 (60 sources total) — and cleared the stale `_pending`
+  note (those four are now ingested and monitored; only AUSTRAC guidance remains, flagged as guidance
+  not law).
+- Schema: `authoritative-metadata` gains an optional `text_derivation` object (method + note).
+- Docs: `BUILD.md` and `docs/reproducibility.md` record the v1.3.5 engine fingerprint and the 68/68
+  extraction-reproducibility result.
+
 ## [1.3.4] — 2026-07-10
 
 Derived-layer curated-tagging sweep. No authoritative texts change; this touches only the

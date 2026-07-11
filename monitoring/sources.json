@@ -17,6 +17,26 @@
       "last_sha256": null
     },
     {
+      "name": "Charter of the United Nations Act 1945 (C1945A00032)",
+      "url": "https://www.legislation.gov.au/C1945A00032/latest/versions",
+      "last_sha256": null
+    },
+    {
+      "name": "Autonomous Sanctions Act 2011 (C2011A00038)",
+      "url": "https://www.legislation.gov.au/C2011A00038/latest/versions",
+      "last_sha256": null
+    },
+    {
+      "name": "Autonomous Sanctions Regulations 2011 (F2011L02673)",
+      "url": "https://www.legislation.gov.au/F2011L02673/latest/versions",
+      "last_sha256": null
+    },
+    {
+      "name": "AML/CTF Rules 2025 — principal rules (F2026C00274)",
+      "url": "https://www.legislation.gov.au/F2026C00274/latest/versions",
+      "last_sha256": null
+    },
+    {
       "name": "FATF 40 Recommendations (standard)",
       "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html",
       "last_sha256": null
@@ -310,11 +330,7 @@
     }
   ],
   "_pending_once_ids_confirmed": [
-    "AML/CTF Rules 2025 (Federal Register F-instrument)",
-    "Charter of the United Nations Act 1945",
-    "Autonomous Sanctions Act 2011",
-    "Autonomous Sanctions Regulations 2011",
-    "AUSTRAC sector/regulatory guidance pages"
+    "AUSTRAC sector/regulatory guidance pages (guidance, not law — out of scope unless promoted)"
   ],
   "_reliability": "Some official portals are JavaScript single-page apps: a stdlib fetch sees a shell, not the law, so a naive hash would report 'unchanged' forever. Such sources carry \"render\":\"spa\" and are reported MANUAL (checked by hand each cycle) unless a \"monitor_url\" points at a server-rendered artifact that is fetched instead. Japan uses the e-Gov XML API. Hong Kong e-Legislation, the UAE portal, and Swiss Fedlex have no stdlib-reachable text artifact and are manual-review. watch_sources.py also flags any fetch that returns too little text (SUSPECT)."
 }

@@ -3,10 +3,10 @@
   artifact_file: structure.json
   source_corpus_id: aus/rules/aml-ctf-2025
   source_version_id: '2026-03-31'
-  source_text_sha256: sha256:854e1fbf470b3f425c36b7d2fa1dd1057d4d2097371140dbca8d018ef6740109
+  source_text_sha256: sha256:16edadac463c1d39df6c15a900d315408972fd0821d2a1aaf320d615ffea6e16
   generation_method: rule_based
   generator: build_derived.py (structure)
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: unreviewed
   reviewed_by: null
   license: CC-BY-4.0
@@ -19,10 +19,10 @@
   artifact_file: concepts.json
   source_corpus_id: aus/rules/aml-ctf-2025
   source_version_id: '2026-03-31'
-  source_text_sha256: sha256:854e1fbf470b3f425c36b7d2fa1dd1057d4d2097371140dbca8d018ef6740109
+  source_text_sha256: sha256:16edadac463c1d39df6c15a900d315408972fd0821d2a1aaf320d615ffea6e16
   generation_method: hybrid
   generator: corpus-toolkit build_derived
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: human_reviewed
   reviewed_by: corpus maintainer
   license: CC-BY-4.0

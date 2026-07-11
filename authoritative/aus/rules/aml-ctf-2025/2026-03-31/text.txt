@@ -251,6 +251,7 @@ Endnote 2—Abbreviation key	143
 Endnote 3—Legislation history	144
 Endnote 4—Amendment history	145
 
+
   
 Part 1—Preliminary
   
@@ -2521,7 +2522,9 @@ Explanation of this notice
 
 Full name of reporting entity to whom this Notice is issued
 
+
 Commencement date of this Notice
+
 
 Details of the customer(s) to whom this Notice applies | Details of the customer(s) to whom this Notice applies | Details of the customer(s) to whom this Notice applies
 Full name of customer(s) | Date of birth or Australian Business Number/Australian Company Number (if known) | Additional details of customer(s) to whom this Notice applies (if known)
@@ -2564,12 +2567,15 @@ Explanation of this notice
 
 Full name of reporting entity to whom the keep open notice was issued
 
+
 Commencement date of the keep open notice
+
 
 Commencement date of the extension period
 [State the date that is the day after the expiry of the following (as applicable):
 (a) the keep open notice;
 (b) the previous extension period.]
+
 
 Previous extension notices (if any) issued in relation to the keep open notice | Previous extension notices (if any) issued in relation to the keep open notice
 Have any extension notices previously been issued in relation to the keep open notice? | 
@@ -2582,6 +2588,7 @@ Full name of customer(s) | Date of birth or Australian Business Number/Australia
  | 
  | 
  | 
+
 
 Details of senior member | Details of senior member
 Full name | 
@@ -2603,7 +2610,9 @@ This is the prescribed form for an application to the AUSTRAC CEO under paragrap
 
 Full name of reporting entity to whom the keep open notice was issued
 
+
 Commencement date of the keep open notice
+
 
 Previous extension notices issued under subsection 39B(7) of the AML/CTF Act | Previous extension notices issued under subsection 39B(7) of the AML/CTF Act
 How many extension notices have been issued in relation to the keep open notice prior to this application? | 
@@ -2621,7 +2630,9 @@ Full name of customer(s) | Date of birth or Australian Business Number/Australia
 
 Reasons a further extension of the keep open notice is required
 
+
 Serious offence(s) under investigation by the agency
+
 
 Details of senior member | Details of senior member
 Full name | 
@@ -2634,6 +2645,7 @@ I am the senior member specified above and I reasonably believe that the continu
 
 Signed |  | Date
  |  | 
+
 
 Endnotes
 Endnote 1—About the endnotes

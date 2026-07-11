@@ -21,11 +21,21 @@ recorded against each release here:
 
 | Corpus release | Engine fingerprint |
 |---|---|
+| v1.3.5 | `115d8b0158b3efe18003a1422c9f4fbabacdb504b7b8528865f5325cc9ca2181` |
 | v1.3.4 | `42b74c8b7de0bfa1a6eb32efd6809b0be92fb9ca85ce72ff1ffe34483688e6e3` |
 
 To reproduce this corpus, assemble a build tree (the toolkit's `scripts/` alongside this repo's
 `authoritative/`, `schema/`, and `site.json`), verify the engine with `sha256sum -c
 scripts/MANIFEST.sha256`, then run the build. Full procedure: `BUILD.md` in the toolkit repo.
+
+## Authoritative text reproducibility
+
+Every stored `text.txt` re-derives byte-for-byte from its stored original by committed code
+(`scripts/extract.py`, one profile per jurisdiction/format). As of **v1.3.5 this is 68/68 byte-exact
+with no exceptions** — the FATF Recommendations are the only instrument without stored text (copyright,
+`restricted_withheld`). Three early AU records that were previously content-equivalent-but-not-byte-exact
+were re-derived to the canonical extraction in v1.3.5 (blank-line placement only; legal content proven
+identical; noted per record under `text_derivation`).
 
 ## What is reproducible
 

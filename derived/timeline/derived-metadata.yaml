@@ -3,7 +3,7 @@
   artifact_file: aml-ctf-commencement-timeline.md
   source_corpus_id: aus/act/aml-ctf-amendment-2024
   source_version_id: '2024-12-10'
-  source_text_sha256: sha256:47f35e31724e44594c41c6db4ca341a7be4ebf3a5e5958765a282967c170940e
+  source_text_sha256: sha256:f20c0538b532c33a533a1a92862470506b0af40f304c30626c6e14a4cd06a642
   generation_method: hybrid
   generator: corpus maintainer — deterministic extraction of the s.2 commencement table + curated
     schedule mapping

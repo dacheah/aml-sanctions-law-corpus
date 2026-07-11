@@ -3,10 +3,10 @@
   artifact_file: structure.json
   source_corpus_id: aus/rules/aml-ctf-transitional-2026
   source_version_id: '2026-05-14'
-  source_text_sha256: sha256:c2acf8f506e37422bb253fc2e45ed1e49a32633cc719d206531f51f68753713c
+  source_text_sha256: sha256:df472456fbf749a63e6ccdd7cfaf4011e2b064095094d84a531e7a7f060fea57
   generation_method: rule_based
   generator: build_derived.py (structure)
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: unreviewed
   reviewed_by: null
   license: CC-BY-4.0
@@ -19,10 +19,10 @@
   artifact_file: concepts.json
   source_corpus_id: aus/rules/aml-ctf-transitional-2026
   source_version_id: '2026-05-14'
-  source_text_sha256: sha256:c2acf8f506e37422bb253fc2e45ed1e49a32633cc719d206531f51f68753713c
+  source_text_sha256: sha256:df472456fbf749a63e6ccdd7cfaf4011e2b064095094d84a531e7a7f060fea57
   generation_method: hybrid
   generator: corpus-toolkit build_derived
-  generation_date: '2026-07-10'
+  generation_date: '2026-07-11'
   review_status: human_reviewed
   reviewed_by: corpus maintainer
   license: CC-BY-4.0
