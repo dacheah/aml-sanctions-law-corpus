@@ -49,6 +49,13 @@
       ]
     },
     {
+      "unit": "para 1 Decides that all States shall refrain from providing any form of support to non-State actors that attempt to deve",
+      "concepts": [
+        "proliferation_financing"
+      ],
+      "curated": true
+    },
+    {
       "unit": "para 2 Decides also that all States, in accordance with their national procedures, shall adopt and enforce appropriate e",
       "concepts": [
         "enforcement_and_offences",
@@ -60,8 +67,9 @@
       "unit": "para 3 Decides also that all States shall take and enforce effective measures to establish domestic controls to prevent ",
       "concepts": [
         "asset_freezing",
-        "sanctions_prohibitions",
-        "proliferation_financing"
+        "enforcement_and_offences",
+        "proliferation_financing",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },

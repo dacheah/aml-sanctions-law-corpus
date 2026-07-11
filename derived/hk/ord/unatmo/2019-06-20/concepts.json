@@ -38,26 +38,36 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "record_keeping",
+    "sanctions_permits",
+    "sanctions_prohibitions",
+    "scope_and_application",
     "suspicious_matter_reporting",
-    "un_and_autonomous_sanctions"
+    "tipping_off"
   ],
   "tags": [
     {
       "unit": "2. Interpretation",
       "concepts": [
-        "un_and_autonomous_sanctions",
-        "enforcement_and_offences",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "3. Application of certain provisions outside HKSAR",
       "concepts": [
-        "asset_freezing"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "4. Specification by Chief Executive of persons and property as terrorists, terrorist associates or terrorist property",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "5. Specification by Court of First Instance of persons and property as terrorists, terrorist associates or terrorist pro",
       "concepts": [
         "designation_criteria"
       ],
@@ -73,14 +83,30 @@
     {
       "unit": "7. Prohibition on provision or collection of property to commit terrorist acts",
       "concepts": [
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
     {
       "unit": "8. Prohibition on making property, etc. available to or collecting property, etc. for terrorists and terrorist associate",
       "concepts": [
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "8A. Prohibition on dealing with certain property",
+      "concepts": [
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "9. Prohibition on supply of weapons to terrorists and terrorist associates",
+      "concepts": [
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
@@ -105,9 +131,17 @@
       ]
     },
     {
+      "unit": "11L. Prohibition on providing or collecting property to finance travel for specified purpose",
+      "concepts": [
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
       "unit": "12. Disclosure of knowledge or suspicion that property is terrorist property, etc.",
       "concepts": [
-        "suspicious_matter_reporting"
+        "suspicious_matter_reporting",
+        "tipping_off"
       ],
       "curated": true
     },
@@ -151,8 +185,9 @@
     {
       "unit": "12H. Period for which seized property may be detained",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "12I. Interest",
@@ -169,14 +204,23 @@
     {
       "unit": "13. Forfeiture of certain terrorist property",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "14. Offences",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "15. Supplementary provisions applicable to licences mentioned in section 6(1), 8 or 8A",
+      "concepts": [
+        "sanctions_permits"
+      ],
+      "curated": true
     },
     {
       "unit": "17. Applications to Court of First Instance",

@@ -34,14 +34,15 @@
   "document_concepts": [
     "amlctf_program",
     "beneficial_ownership",
+    "cash_couriers",
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
     "designation_criteria",
     "enforcement_and_offences",
     "enrolment_registration",
-    "funds_transfer_reporting",
     "record_keeping",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
@@ -58,7 +59,8 @@
     {
       "unit": "§ 5312. Definitions and application",
       "concepts": [
-        "definitions_and_interpretation"
+        "definitions_and_interpretation",
+        "scope_and_application"
       ],
       "curated": true
     },
@@ -77,11 +79,19 @@
       "curated": true
     },
     {
+      "unit": "§ 5316. Reports on exporting and importing mon-",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
+    },
+    {
       "unit": "§ 5317. Search and forfeiture of monetary instru-",
       "concepts": [
-        "record_keeping",
-        "designation_criteria"
-      ]
+        "cash_couriers",
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "§ 5318. Compliance, exemptions, and summons",
@@ -95,7 +105,9 @@
     {
       "unit": "§ 5318A. Special measures for jurisdictions, finan-",
       "concepts": [
-        "correspondent_banking"
+        "correspondent_banking",
+        "designation_criteria",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
@@ -107,10 +119,18 @@
       ]
     },
     {
+      "unit": "§ 5320. Injunctions",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
       "unit": "§ 5321. Civil penalties",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "§ 5322. Criminal penalties",
@@ -130,19 +150,32 @@
     {
       "unit": "§ 5324. Structuring transactions to evade report-",
       "concepts": [
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "§ 5325. Identification required to purchase cer-",
+      "concepts": [
+        "customer_due_diligence",
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "§ 5326. Records of certain domestic transactions",
+      "concepts": [
+        "record_keeping"
       ],
       "curated": true
     },
     {
       "unit": "§ 5330. Registration of money transmitting busi-",
       "concepts": [
-        "funds_transfer_reporting",
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "§ 5331. Reports relating to coins and currency re-",
@@ -152,11 +185,33 @@
       "curated": true
     },
     {
+      "unit": "§ 5332. Bulk cash smuggling into or out of the",
+      "concepts": [
+        "cash_couriers",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
       "unit": "§ 5333. Safe harbor with respect to keep open di-",
       "concepts": [
-        "suspicious_matter_reporting",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "§ 5334. Training regarding anti-money laundering and countering the financing of terrorism",
+      "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "§ 5335. Prohibition on concealment of the source",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "§ 5336. Beneficial ownership information report-",
@@ -169,7 +224,8 @@
       "unit": "§ 5340. Definitions",
       "concepts": [
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     }
   ]
 }

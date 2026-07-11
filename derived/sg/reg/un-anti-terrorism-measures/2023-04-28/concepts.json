@@ -33,28 +33,46 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "asset_freezing",
-    "enforcement_and_offences"
+    "definitions_and_interpretation",
+    "enforcement_and_offences",
+    "sanctions_prohibitions",
+    "scope_and_application",
+    "suspicious_matter_reporting",
+    "un_and_autonomous_sanctions"
   ],
   "tags": [
     {
       "unit": "3.—(1) These Regulations do not apply to —",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "scope_and_application"
       ],
       "curated": true
     },
     {
       "unit": "4.—(1) In these Regulations —",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "definitions_and_interpretation",
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "8.—(1) No person in Singapore and no citizen of Singapore outside Singapore shall communicate or make available by any m",
+      "concepts": [
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
     {
       "unit": "10.—(1) Every person in Singapore, and every citizen of Singapore outside Singapore, who has information about any trans",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "enforcement_and_offences",
+        "suspicious_matter_reporting",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
     }
   ]
 }

@@ -32,7 +32,8 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
-    "enforcement_and_offences"
+    "enforcement_and_offences",
+    "sanctions_permits"
   ],
   "tags": [
     {
@@ -53,19 +54,22 @@
       "unit": "83.03 (1) Every person is guilty of an indictable offence",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "83.032 (1) On application, the Public Safety Minister",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "sanctions_permits"
+      ],
+      "curated": true
     },
     {
       "unit": "83.04 Every person is guilty of an indictable offence and",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     }
   ]
 }

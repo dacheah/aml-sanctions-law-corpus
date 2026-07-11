@@ -34,24 +34,24 @@
   "document_concepts": [
     "asset_freezing",
     "beneficial_ownership",
+    "cash_couriers",
+    "definitions_and_interpretation",
     "enforcement_and_offences",
     "enrolment_registration",
     "proliferation_financing",
+    "sanctions_prohibitions",
     "supervisory_architecture",
     "suspicious_matter_reporting",
+    "tipping_off",
     "virtual_assets"
   ],
   "tags": [
     {
       "unit": "Article (1)",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
-        "virtual_assets",
-        "asset_freezing",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (2)",
@@ -61,59 +61,95 @@
       "curated": true
     },
     {
+      "unit": "Article (3)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (4)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Article (5)",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (6)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (7)",
       "concepts": [
-        "suspicious_matter_reporting",
-        "asset_freezing"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (8)",
+      "concepts": [
+        "cash_couriers"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (9)",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enrolment_registration",
-        "virtual_assets"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (10)",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (11)",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (12)",
       "concepts": [
-        "virtual_assets",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (13)",
       "concepts": [
-        "virtual_assets",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (14)",
       "concepts": [
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (15)",
       "concepts": [
-        "suspicious_matter_reporting",
-        "virtual_assets"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (16)",
@@ -129,13 +165,15 @@
       "concepts": [
         "enrolment_registration",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (17)",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (18)",
@@ -144,10 +182,33 @@
       ]
     },
     {
+      "unit": "Article (22)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Article (23)",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (24)",
+      "concepts": [
+        "enforcement_and_offences",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (25) BIS",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (26)",
@@ -156,16 +217,35 @@
       ]
     },
     {
+      "unit": "Article (26) BIS",
+      "concepts": [
+        "enforcement_and_offences",
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Article (27)",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (28)",
       "concepts": [
-        "proliferation_financing"
-      ]
+        "enforcement_and_offences",
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (30)",
+      "concepts": [
+        "cash_couriers",
+        "enforcement_and_offences"
+      ],
+      "curated": true
     }
   ]
 }

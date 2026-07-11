@@ -71,14 +71,16 @@
     {
       "unit": "s.3 Register of overseas entities",
       "concepts": [
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "enrolment_registration"
       ],
       "curated": true
     },
     {
       "unit": "s.4 Application for registration",
       "concepts": [
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "enrolment_registration"
       ],
       "curated": true
     },
@@ -105,7 +107,8 @@
       "unit": "s.5 Registration and allocation of overseas entity ID",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.6 Notice of registration",
@@ -149,9 +152,9 @@
     {
       "unit": "s.8 Failure to comply with updating duty",
       "concepts": [
-        "enrolment_registration",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.9 Application for removal",
@@ -201,7 +204,8 @@
     {
       "unit": "s.12 [F23Identifying registrable beneficial owners][F23Duty to take steps to obtain",
       "concepts": [
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "customer_due_diligence"
       ],
       "curated": true
     },
@@ -209,7 +213,8 @@
       "unit": "s.13 Additional powers to obtain information",
       "concepts": [
         "beneficial_ownership"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.14 Sections 12 and 13: supplementary",
@@ -221,7 +226,8 @@
       "unit": "s.15B False statements under section 12 or 13: aggravated offence",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.16 Verification of registrable beneficial owners and managing officers",
@@ -240,9 +246,9 @@
     {
       "unit": "s.18 Exemptions",
       "concepts": [
-        "beneficial_ownership",
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "s.19 Documents to be in English",
@@ -312,10 +318,9 @@
     {
       "unit": "s.34 Power to require overseas entity to register if it owns certain land",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.35 Liability of officers in default",
@@ -367,10 +372,10 @@
     {
       "unit": "s.42 Requirement for certain unregistered overseas entities to provide information",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "beneficial_ownership",
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.43 Section 42: supplementary",
@@ -381,10 +386,9 @@
     {
       "unit": "s.44 Interpretation",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "PART 2",
@@ -410,13 +414,15 @@
       "unit": "s.47 Alternative test to the income requirement: England and Wales and Northern",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.48 Alternative test to the income requirement: Scotland",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.49 Power to extend period for which interim freezing order has effect: England",
@@ -455,8 +461,8 @@
     {
       "unit": "s.54 Imposition of monetary penalties",
       "concepts": [
-        "sanctions_prohibitions",
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
@@ -477,7 +483,8 @@
     {
       "unit": "s.58 Urgent designation of persons by name",
       "concepts": [
-        "designation_criteria"
+        "designation_criteria",
+        "un_and_autonomous_sanctions"
       ],
       "curated": true
     },
@@ -485,6 +492,13 @@
       "unit": "s.59 Urgent designation of persons by description",
       "concepts": [
         "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "s.60 Specified ships",
+      "concepts": [
+        "sanctions_prohibitions"
       ],
       "curated": true
     },

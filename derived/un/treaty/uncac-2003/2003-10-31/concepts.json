@@ -34,13 +34,14 @@
   "document_concepts": [
     "amlctf_program",
     "asset_freezing",
+    "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
     "enforcement_and_offences",
     "enrolment_registration",
-    "funds_transfer_reporting",
     "politically_exposed_persons",
     "record_keeping",
+    "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting"
   ],
@@ -48,17 +49,16 @@
     {
       "unit": "Article 2. Use of terms",
       "concepts": [
-        "asset_freezing",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 3. Scope of application",
       "concepts": [
-        "asset_freezing",
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 7. Public sector",
@@ -84,8 +84,8 @@
       "concepts": [
         "customer_due_diligence",
         "record_keeping",
-        "suspicious_matter_reporting",
-        "supervisory_architecture"
+        "supervisory_architecture",
+        "suspicious_matter_reporting"
       ],
       "curated": true
     },
@@ -179,6 +179,7 @@
     {
       "unit": "Article 31. Freezing, seizure and confiscation",
       "concepts": [
+        "asset_freezing",
         "enforcement_and_offences"
       ],
       "curated": true
@@ -279,8 +280,9 @@
     {
       "unit": "Article 52. Prevention and detection of transfers",
       "concepts": [
-        "politically_exposed_persons",
-        "customer_due_diligence"
+        "correspondent_banking",
+        "customer_due_diligence",
+        "politically_exposed_persons"
       ],
       "curated": true
     },
@@ -294,17 +296,17 @@
       "unit": "Article 54. Mechanisms for recovery of property through international cooperation in confiscation",
       "concepts": [
         "asset_freezing",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 55. International cooperation for purposes of confiscation",
       "concepts": [
-        "funds_transfer_reporting",
         "asset_freezing",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 56. Special cooperation",
@@ -316,13 +318,15 @@
       "unit": "Article 57. Return and disposal of assets",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 58. Financial intelligence unit",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 60. Training and technical assistance",

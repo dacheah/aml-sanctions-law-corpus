@@ -47,15 +47,16 @@
     {
       "unit": "2. Interpretation",
       "concepts": [
-        "proliferation_financing",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "4. Prohibition on providing services in relation to weapons of mass destruction",
       "concepts": [
-        "sanctions_prohibitions",
-        "proliferation_financing"
+        "enforcement_and_offences",
+        "proliferation_financing",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
@@ -93,13 +94,15 @@
       "unit": "12. Injunctions",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "13. Offences by bodies corporate",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "14. Prosecution of offences",

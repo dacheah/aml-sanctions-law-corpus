@@ -34,14 +34,18 @@
   "document_concepts": [
     "beneficial_ownership",
     "customer_due_diligence",
+    "definitions_and_interpretation",
     "designated_services",
+    "enrolment_registration",
     "funds_transfer_reporting",
     "record_keeping",
     "risk_based_approach",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
-    "threshold_transaction_reporting"
+    "threshold_transaction_reporting",
+    "tipping_off",
+    "virtual_assets"
   ],
   "tags": [
     {
@@ -76,7 +80,8 @@
       "unit": "Art. 4 Dienstleistungen für den Zahlungsverkehr",
       "concepts": [
         "designated_services",
-        "funds_transfer_reporting"
+        "funds_transfer_reporting",
+        "virtual_assets"
       ],
       "curated": true
     },
@@ -124,22 +129,103 @@
       "curated": true
     },
     {
+      "unit": "Art. 11 Wechsel zur berufsmässigen Tätigkeit",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12 Austritt und Ausschluss aus einer SRO",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12a Verbot des Abbruchs der Geschäftsbeziehung",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12b Abbruch der Geschäftsbeziehung",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12c Information an einen Finanzintermediär",
+      "concepts": [
+        "tipping_off"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12d Mitwirkung nach Artikel 2 Absatz 3bis GwG",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12e Kauf und Verkauf von Grundstücken",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12f Berufsmässige Beratung",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12g Wechsel zur berufsmässigen Tätigkeit",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12h Austritt und Ausschluss aus einer SRO",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12i Aufgabe der Tätigkeit",
+      "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 13 Händlerinnen und Händler",
       "concepts": [
-        "designated_services"
+        "designated_services",
+        "scope_and_application"
       ],
       "curated": true
     },
     {
       "unit": "Art. 14 Gewerblicher Handel",
       "concepts": [
-        "designated_services"
+        "definitions_and_interpretation",
+        "designated_services",
+        "scope_and_application"
       ],
       "curated": true
     },
     {
       "unit": "Art. 15 Güter",
       "concepts": [
+        "definitions_and_interpretation",
         "designated_services"
       ],
       "curated": true
@@ -147,6 +233,7 @@
     {
       "unit": "Art. 15a Erfasste Edelmetalle und Edelsteine",
       "concepts": [
+        "definitions_and_interpretation",
         "designated_services"
       ],
       "curated": true
@@ -195,6 +282,13 @@
       "curated": true
     },
     {
+      "unit": "Art. 22",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 22a Zulassung von Prüfgesellschaften",
       "concepts": [
         "supervisory_architecture"
@@ -210,6 +304,13 @@
     },
     {
       "unit": "Art. 22c Zulassung zur Prüfung von Anwältinnen und Anwälten sowie von Notarinnen und Notaren im GwG-Bereich",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 22d Weiterbildung",
       "concepts": [
         "supervisory_architecture"
       ],

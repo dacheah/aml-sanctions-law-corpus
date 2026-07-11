@@ -35,14 +35,16 @@
     "asset_freezing",
     "enforcement_and_offences",
     "proliferation_financing",
+    "sanctions_prohibitions",
     "un_and_autonomous_sanctions"
   ],
   "tags": [
     {
       "unit": "para 1 Decides that all States shall:",
       "concepts": [
-        "enforcement_and_offences",
         "asset_freezing",
+        "enforcement_and_offences",
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions"
       ],
       "curated": true
@@ -50,6 +52,7 @@
     {
       "unit": "para 2 Decides also that all States shall:",
       "concepts": [
+        "enforcement_and_offences",
         "un_and_autonomous_sanctions"
       ],
       "curated": true

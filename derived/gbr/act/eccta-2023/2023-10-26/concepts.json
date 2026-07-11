@@ -93,7 +93,8 @@
     {
       "unit": "s.7 Persons with initial significant control: identity verification",
       "concepts": [
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "customer_due_diligence"
       ],
       "curated": true
     },
@@ -265,36 +266,39 @@
     {
       "unit": "s.35 Power to impose director disqualification sanctions",
       "concepts": [
-        "designation_criteria"
-      ]
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.36 Disqualification of persons designated under sanctions legislation: GB",
       "concepts": [
-        "sanctions_prohibitions",
-        "designation_criteria"
+        "designation_criteria",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
     {
       "unit": "s.37 Section 36: application to other bodies",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.38 Disqualification of persons designated under sanctions legislation: NI",
       "concepts": [
-        "sanctions_prohibitions",
-        "designation_criteria"
+        "designation_criteria",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
     {
       "unit": "s.39 Section 38: application to other bodies",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "s.40 Disqualified directors",
@@ -384,7 +388,8 @@
     {
       "unit": "s.64 Identity verification of persons with significant control",
       "concepts": [
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "customer_due_diligence"
       ],
       "curated": true
     },
@@ -969,8 +974,9 @@
     {
       "unit": "s.163 Information about changes in beneficiaries under trusts",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "s.165 Verification of registrable beneficial owners and managing officers",
@@ -1020,7 +1026,8 @@
       "unit": "s.171 False statement offences in connection with information notices",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "s.172 General false statement offences",
@@ -1031,10 +1038,9 @@
     {
       "unit": "s.173 Enforcement of requirement to register: updated language about penalties etc",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "s.175 Financial penalties: interaction with offences",
@@ -1071,24 +1077,24 @@
     {
       "unit": "s.179 Cryptoassets: confiscation orders",
       "concepts": [
-        "virtual_assets",
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "virtual_assets"
       ],
       "curated": true
     },
     {
       "unit": "s.180 Cryptoassets: civil recovery",
       "concepts": [
-        "virtual_assets",
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "virtual_assets"
       ],
       "curated": true
     },
     {
       "unit": "s.181 Cryptoassets: terrorism",
       "concepts": [
-        "virtual_assets",
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "virtual_assets"
       ],
       "curated": true
     },
@@ -1109,14 +1115,15 @@
     {
       "unit": "s.184 Money laundering: offences of failing to disclose",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "suspicious_matter_reporting"
       ],
       "curated": true
     },
     {
       "unit": "s.185 Money laundering: information orders",
       "concepts": [
+        "enforcement_and_offences",
         "suspicious_matter_reporting"
       ],
       "curated": true
@@ -1124,6 +1131,7 @@
     {
       "unit": "s.186 Terrorist financing: information orders",
       "concepts": [
+        "enforcement_and_offences",
         "suspicious_matter_reporting"
       ],
       "curated": true
@@ -1139,15 +1147,16 @@
     {
       "unit": "s.188 Direct disclosures of information: restrictions on civil liability",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "s.189 Indirect disclosure of information: restrictions on civil liability",
       "concepts": [
-        "virtual_assets",
-        "enforcement_and_offences"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "s.190 Meaning of “privileged disclosure”",
@@ -1261,8 +1270,8 @@
     {
       "unit": "s.214 Sanctions enforcement: monetary penalties",
       "concepts": [
-        "sanctions_prohibitions",
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },

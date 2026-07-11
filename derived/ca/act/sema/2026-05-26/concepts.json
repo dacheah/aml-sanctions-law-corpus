@@ -32,9 +32,13 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
+    "asset_freezing",
     "definitions_and_interpretation",
+    "designation_criteria",
     "enforcement_and_offences",
     "sanctions_prohibitions",
+    "scope_and_application",
+    "supervisory_architecture",
     "un_and_autonomous_sanctions"
   ],
   "tags": [
@@ -51,10 +55,34 @@
       ]
     },
     {
+      "unit": "2.1 (1) If a person controls an entity other than a foreign state, any property that is owned — or that is held or",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "3.1 The purpose of this Act is to enable the Government",
+      "concepts": [
+        "scope_and_application",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
       "unit": "4 (1) The Governor in Council may, if the Governor in",
       "concepts": [
+        "asset_freezing",
+        "designation_criteria",
         "sanctions_prohibitions",
         "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "5.1 (1) A person whose property is the subject of an order made under paragraph 4(1)(b) may, unless the property is the ",
+      "concepts": [
+        "asset_freezing"
       ],
       "curated": true
     },
@@ -71,6 +99,20 @@
       ]
     },
     {
+      "unit": "5.4 (1) On application by the Minister, a judge shall order that the property that is the subject of the application",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "6.3 (1) The Minister of Foreign Affairs may require any",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
       "unit": "7.1 The Minister of Foreign Affairs may, with the approval of the Governor in Council, enter into an agreement with the ",
       "concepts": [
         "enforcement_and_offences"
@@ -80,13 +122,15 @@
       "unit": "8 Every person who wilfully contravenes or fails to comply with an order or regulation made under section 4",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "9 (1) A person having the powers of an officer under the",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11 (1) Any proceedings in respect of an offence under",
@@ -106,6 +150,20 @@
       "concepts": [
         "definitions_and_interpretation"
       ]
+    },
+    {
+      "unit": "14 (1) On the recommendation of the Minister of Finance made after that Minister has consulted with the",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "15 (1) The Minister of Finance may make an order directing a specified federal financial institution to pay to",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
     }
   ]
 }

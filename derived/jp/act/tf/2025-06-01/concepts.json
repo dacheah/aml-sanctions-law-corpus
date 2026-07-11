@@ -32,9 +32,18 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
-    "enforcement_and_offences"
+    "definitions_and_interpretation",
+    "enforcement_and_offences",
+    "scope_and_application"
   ],
   "tags": [
+    {
+      "unit": "第一条　この法律において「公衆等脅迫目的の犯罪行為」とは、公衆又は国若しくは地方公",
+      "concepts": [
+        "definitions_and_interpretation"
+      ],
+      "curated": true
+    },
     {
       "unit": "第二条　公衆等脅迫目的の犯罪行為又は特定犯罪行為（以下「公衆等脅迫目的の犯罪行為等」",
       "concepts": [
@@ -44,6 +53,41 @@
     },
     {
       "unit": "第三条　公衆等脅迫目的の犯罪行為等の実行を容易にする目的で、これを実行しようとする",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第四条　前条第一項の罪の実行を容易にする目的で、これを実行しようとする者に対し、資",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第五条　前二条に規定するもののほか、公衆等脅迫目的の犯罪行為等の実行のために利用さ",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第六条　第二条から前条までの罪を犯した者が当該罪に係る公衆等脅迫目的の犯罪行為等の",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第七条　第二条から第五条までの罪は、刑法（明治四十年法律第四十五号）第三条及び第四",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "第八条　法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又",
       "concepts": [
         "enforcement_and_offences"
       ],

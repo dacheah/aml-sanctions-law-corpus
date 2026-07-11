@@ -16,6 +16,28 @@ never an in-place edit.
 
 _Nothing yet._
 
+## [1.3.7] — 2026-07-11
+
+Second curated-tagging sweep (the remaining records) plus a denominator refinement that measures
+coverage over real provisions. No authoritative texts change.
+
+### Changed
+
+- **Curated coverage 20.0% → 30.1% of all units** (≈1,550 → ~2,326 provision-tags): the ~40 records not
+  reached in v1.3.6 were curated provision-by-provision — the full EU package (AMLR, AMLA, 4AMLD, 6AMLD),
+  the Swiss GwG/GwV/GwV-FINMA and Embargo Act (German), the US BSA/CFR-1010/IEEPA, the UN treaty and
+  Security-Council backbone, the UAE laws and implementing regulation, the Canadian regulations and
+  sanctions Acts, the remaining Hong Kong ordinances, the remaining Singapore and Australian
+  instruments, and the UK Economic Crime Acts (AML/sanctions provisions only). Every tag was verified as
+  before (concept in vocabulary; key resolves to exactly one unit).
+- **New `operative` flag on every structural unit**, and coverage now reported over operative provisions.
+  A unit is non-operative if it is a preamble, a pure Part/Chapter/Schedule heading, or a "Sch. para N"
+  amendment fragment — structural scaffolding that carries no substantive concept. Excluding those 2,226
+  units from the denominator, **curated coverage over real provisions is 42.2%, with untagged at 25.1%**
+  (down from an effective ~55%). The flag is carried into `structure.json` (`operative`, plus a per-record
+  `operative_count`) and the Hugging Face `provisions` export, so consumers can filter to real provisions.
+- Docs: `BUILD.md` and `docs/reproducibility.md` record the v1.3.7 engine fingerprint.
+
 ## [1.3.6] — 2026-07-11
 
 Derived-layer curated-tagging sweep — the deepest yet. No authoritative texts change; this touches only

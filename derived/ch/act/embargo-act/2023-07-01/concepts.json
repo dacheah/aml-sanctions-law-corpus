@@ -32,7 +32,11 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
+    "asset_freezing",
+    "enforcement_and_offences",
+    "sanctions_permits",
     "sanctions_prohibitions",
+    "supervisory_architecture",
     "threshold_transaction_reporting",
     "un_and_autonomous_sanctions"
   ],
@@ -40,6 +44,7 @@
     {
       "unit": "Art. 1 Gegenstand",
       "concepts": [
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions"
       ],
       "curated": true
@@ -47,7 +52,87 @@
     {
       "unit": "Art. 2 Zuständigkeit",
       "concepts": [
-        "sanctions_prohibitions"
+        "sanctions_permits",
+        "sanctions_prohibitions",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 3 Auskunftspflicht",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 4 Befugnisse der Kontrollorgane",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 6 Amtshilfe in der Schweiz",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 7 Amts- und Rechtshilfe zwischen schweizerischen und ausländischen Behörden",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 9 Verbrechen und Vergehen",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 10 Übertretungen",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 11 Zusammentreffen mehrerer Strafbestimmungen",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 12 Verstösse in Geschäftsbetrieben",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 13 Einziehung von Gegenständen und Vermögenswerten",
+      "concepts": [
+        "asset_freezing",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 14 Gerichtsbarkeit",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 16 Nachführung von Verordnungsanhängen",
+      "concepts": [
+        "un_and_autonomous_sanctions"
       ],
       "curated": true
     },

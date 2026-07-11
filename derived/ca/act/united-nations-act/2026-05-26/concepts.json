@@ -40,8 +40,8 @@
     {
       "unit": "2 When, in pursuance of Article 41 of the Charter of the",
       "concepts": [
-        "un_and_autonomous_sanctions",
-        "sanctions_prohibitions"
+        "sanctions_prohibitions",
+        "un_and_autonomous_sanctions"
       ],
       "curated": true
     },
@@ -49,7 +49,8 @@
       "unit": "3 (1) Any person who contravenes an order or regulation made under this Act is guilty of an offence and liable",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "4 (1) Every order and regulation made under this Act",

@@ -38,14 +38,12 @@
     "correspondent_banking",
     "customer_due_diligence",
     "definitions_and_interpretation",
+    "designated_services",
     "enforcement_and_offences",
     "enrolment_registration",
-    "funds_transfer_reporting",
     "politically_exposed_persons",
-    "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
-    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
@@ -62,42 +60,39 @@
     {
       "unit": "Article 1 1. This Directive aims to prevent the use of the Union's financial system for the purposes",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 2 1. This Directive shall apply to the following obliged entities:",
       "concepts": [
-        "risk_based_approach"
-      ]
+        "designated_services",
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 3 For the purposes of this Directive, the following definitions apply:",
       "concepts": [
-        "beneficial_ownership",
-        "funds_transfer_reporting",
-        "record_keeping",
-        "enrolment_registration",
-        "correspondent_banking",
-        "politically_exposed_persons",
-        "virtual_assets",
-        "enforcement_and_offences",
-        "supervisory_architecture",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 4 1. Member States shall, in accordance with the risk-based approach, ensure that the scope",
       "concepts": [
-        "risk_based_approach"
-      ]
+        "risk_based_approach",
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 5 Member States may adopt or retain in force stricter provisions in the field covered by thi",
       "concepts": [
-        "record_keeping"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "SECTION 2",
@@ -108,22 +103,22 @@
     {
       "unit": "Article 6 1. The Commission shall conduct an assessment of the risks of money laundering and terrori",
       "concepts": [
-        "risk_based_approach",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 7 1. Each Member State shall take appropriate steps to identify, assess, understand and miti",
       "concepts": [
         "risk_based_approach"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 8 1. Member States shall ensure that obliged entities take appropriate steps to identify and",
       "concepts": [
-        "risk_based_approach",
-        "amlctf_program"
+        "amlctf_program",
+        "risk_based_approach"
       ],
       "curated": true
     },
@@ -131,10 +126,9 @@
       "unit": "Article 9 1. Third-country jurisdictions which have strategic deficiencies in their national AML/CFT",
       "concepts": [
         "customer_due_diligence",
-        "beneficial_ownership",
-        "suspicious_matter_reporting",
-        "record_keeping"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "CHAPTER II",
@@ -146,7 +140,8 @@
       "unit": "Article 10 1. Member States shall prohibit their credit institutions and financial institutions from",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 11 Member States shall ensure that obliged entities apply customer due diligence measures in",
@@ -158,10 +153,9 @@
     {
       "unit": "Article 12 1. By way of derogation from points (a), (b) and (c) of the first subparagraph of Article",
       "concepts": [
-        "customer_due_diligence",
-        "risk_based_approach",
-        "suspicious_matter_reporting"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 13 1. Customer due diligence measures shall comprise:",
@@ -173,11 +167,9 @@
     {
       "unit": "Article 14 1. Member States shall require that verification of the identity of the customer and the b",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "suspicious_matter_reporting",
-        "enrolment_registration"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "SECTION 2",
@@ -189,14 +181,24 @@
       "unit": "Article 15 1. Where a Member State or an obliged entity identifies areas of lower risk, that Member S",
       "concepts": [
         "customer_due_diligence",
-        "suspicious_matter_reporting"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 16 When assessing the risks of money laundering and terrorist financing relating to types of",
+      "concepts": [
+        "customer_due_diligence",
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 17 ►M2 By 26 June 2017, the ESAs shall issue guidelines, addressed to competent authorities a",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "SECTION 3",
@@ -208,44 +210,41 @@
       "unit": "Article 18 1. ►M1 In the cases referred to in Articles 18a to 24, as well as in other cases of higher",
       "concepts": [
         "customer_due_diligence",
-        "risk_based_approach",
-        "virtual_assets"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 18a 1. With respect to business relationships or transactions involving high-risk third countr",
       "concepts": [
         "customer_due_diligence",
-        "beneficial_ownership",
-        "supervisory_architecture"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 19 With respect to cross-border correspondent relationships involving the execution of paymen",
       "concepts": [
-        "customer_due_diligence",
-        "supervisory_architecture"
-      ]
+        "correspondent_banking",
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 19a 1. Member States shall require crypto-asset service providers to identify and assess the r",
       "concepts": [
         "customer_due_diligence",
-        "beneficial_ownership",
-        "risk_based_approach",
-        "virtual_assets",
-        "sanctions_prohibitions",
-        "proliferation_financing"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 19b 1. By way of derogation from Article 19, with respect to cross-border correspondent relati",
       "concepts": [
-        "customer_due_diligence",
-        "enrolment_registration",
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "correspondent_banking",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 20 With respect to transactions or business relationships with politically exposed persons, M",
@@ -255,12 +254,18 @@
       "curated": true
     },
     {
+      "unit": "Article 20a 1. Each Member State shall issue and keep up to date a list indicating the exact functions",
+      "concepts": [
+        "politically_exposed_persons"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Article 21 Member States shall require obliged entities to take reasonable measures to determine whet",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
         "politically_exposed_persons"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 22 Where a politically exposed person is no longer entrusted with a prominent public function",
@@ -273,48 +278,58 @@
       "unit": "Article 23 The measures referred to in Articles 20 and 21 shall also apply to family members or perso",
       "concepts": [
         "politically_exposed_persons"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 24 Member States shall prohibit credit institutions and financial institutions from entering",
       "concepts": [
         "correspondent_banking"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 24a By 1 January 2024, EBA shall issue guidelines specifying how the enhanced customer due dil",
       "concepts": [
         "customer_due_diligence",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 25 Member States may permit obliged entities to rely on third parties to meet the customer du",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 26 1. For the purposes of this Section, ‘third parties’ means obliged entities listed in Arti",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping",
-        "supervisory_architecture"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 27 1. Member States shall ensure that obliged entities obtain from the third party relied upo",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 28 Member States shall ensure that the competent authority of the home Member State (for grou",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping",
-        "supervisory_architecture"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 29 This Section shall not apply to outsourcing or agency relationships where, on the basis of",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "CHAPTER III",
@@ -339,16 +354,16 @@
     {
       "unit": "Article 31a Implementing acts",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 32 1. Each Member State shall establish an FIU in order to prevent, detect and effectively co",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 32a 1. Member States shall put in place centralised automated mechanisms, such as central regi",
@@ -372,16 +387,37 @@
     {
       "unit": "Article 34 1. By way of derogation from Article 33(1), Member States may, in the case of obliged enti",
       "concepts": [
-        "customer_due_diligence",
-        "suspicious_matter_reporting",
-        "record_keeping"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 35 1. Member States shall require obliged entities to refrain from carrying out transactions",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 36 1. Member States shall ensure that if, in the course of checks carried out on the obliged",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 37 Disclosure of information in good faith by an obliged entity or by an employee or director",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 38 1. Member States shall ensure that individuals, including employees and representatives of",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 39 1. Obliged entities and their directors and employees shall not disclose to the customer c",
@@ -398,6 +434,13 @@
     },
     {
       "unit": "Article 40 1. Member States shall require obliged entities to retain the following documents and info",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 42 Member States shall require that their obliged entities have systems in place that enable",
       "concepts": [
         "record_keeping"
       ],
@@ -422,15 +465,16 @@
     {
       "unit": "Article 45 1. Member States shall require obliged entities that are part of a group to implement grou",
       "concepts": [
-        "virtual_assets",
-        "supervisory_architecture"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 46 1. Member States shall require that obliged entities take measures proportionate to their",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "SECTION 2",
@@ -441,94 +485,135 @@
     {
       "unit": "Article 47 1. Member States shall ensure that currency exchange and cheque-cashing offices and trust",
       "concepts": [
-        "beneficial_ownership",
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 48 1. Member States shall require the competent authorities to monitor effectively, and to ta",
       "concepts": [
-        "risk_based_approach",
-        "enrolment_registration",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 49 Member States shall ensure that policy makers, the FIUs, supervisors and other competent a",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 50 The competent authorities shall provide EBA with all the information necessary to allow it",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 50a Member States shall not prohibit or place unreasonable or unduly restrictive conditions on",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 51 The Commission may lend such assistance as may be needed to facilitate coordination, inclu",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 52 Member States shall ensure that FIUs cooperate with each other to the greatest extent poss",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 53 1. Member States shall ensure that FIUs exchange, spontaneously or upon request, any infor",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 54 Information and documents received pursuant to Articles 52 and 53 shall be used for the ac",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 55 1. Member States shall ensure that the information exchanged pursuant to Articles 52 and 5",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 56 1. Member States shall require their FIUs to use protected channels of communication betwe",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 57 Differences between national law definitions of predicate offences as referred to in point",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 57a 1. Member States shall require that all persons working for or who have worked for compete",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 57b 1. Notwithstanding Article 57a(1) and (3) and without prejudice to Article 34(2), Member S",
       "concepts": [
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 58 1. Member States shall ensure that obliged entities can be held liable for breaches of nat",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 59 1. Member States shall ensure that this Article applies at least to breaches on the part o",
       "concepts": [
-        "customer_due_diligence",
-        "suspicious_matter_reporting",
-        "record_keeping"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 60 1. Member States shall ensure that a decision imposing an adminis­ trative sanction or mea",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 61 1. Member States shall ensure that competent authorities, as well as, where applicable, se",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 62 1. Member States shall ensure that their competent authorities inform EBA of all administr",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 64a 1. The Commission shall be assisted by the Committee on the Prevention of Money Laundering",

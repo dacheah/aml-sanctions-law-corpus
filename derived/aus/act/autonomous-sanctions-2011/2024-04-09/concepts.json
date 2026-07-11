@@ -39,6 +39,7 @@
     "sanctions_permits",
     "sanctions_prohibitions",
     "scope_and_application",
+    "supervisory_architecture",
     "un_and_autonomous_sanctions"
   ],
   "tags": [
@@ -63,8 +64,16 @@
       "curated": true
     },
     {
+      "unit": "5  Specifying a Commonwealth entity as a designated Commonwealth entity",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
       "unit": "6  Specifying a provision as a sanction law",
       "concepts": [
+        "definitions_and_interpretation",
         "un_and_autonomous_sanctions"
       ],
       "curated": true
@@ -85,14 +94,15 @@
     {
       "unit": "9  Relationship with other laws",
       "concepts": [
-        "un_and_autonomous_sanctions"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "10  Regulations may apply sanctions",
       "concepts": [
-        "un_and_autonomous_sanctions",
-        "sanctions_prohibitions"
+        "sanctions_prohibitions",
+        "un_and_autonomous_sanctions"
       ],
       "curated": true
     },
@@ -111,10 +121,18 @@
       "curated": true
     },
     {
+      "unit": "12  Effect of regulations on earlier Commonwealth Acts and on State and Territory laws",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
       "unit": "13  Later Acts not to be interpreted as overriding this Part or the regulations",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "14  Injunctions",
@@ -126,6 +144,7 @@
     {
       "unit": "15  Invalidation of authorisations",
       "concepts": [
+        "enforcement_and_offences",
         "sanctions_permits"
       ],
       "curated": true

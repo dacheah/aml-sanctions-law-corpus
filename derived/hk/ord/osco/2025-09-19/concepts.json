@@ -32,9 +32,9 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
+    "asset_freezing",
     "definitions_and_interpretation",
     "enforcement_and_offences",
-    "enrolment_registration",
     "record_keeping",
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
@@ -51,9 +51,9 @@
     {
       "unit": "2. Interpretation",
       "concepts": [
-        "enforcement_and_offences",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "3. Requirement to furnish information or produce material",
@@ -90,8 +90,9 @@
     {
       "unit": "8. Confiscation orders",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "9. Assessing the proceeds of crime",
@@ -132,21 +133,23 @@
     {
       "unit": "14. Cases in which restraint orders and charging orders may be made",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "15. Restraint orders",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "16. Charging orders in respect of land, securities, etc.",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "17. Realisation of property",
@@ -217,8 +220,9 @@
     {
       "unit": "26. Restriction on revealing disclosure under section 25A",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "27. Sentencing in respect of specified offences",

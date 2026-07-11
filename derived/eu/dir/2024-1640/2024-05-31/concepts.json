@@ -32,20 +32,19 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
-    "amlctf_program",
     "asset_freezing",
     "beneficial_ownership",
     "customer_due_diligence",
     "definitions_and_interpretation",
     "enforcement_and_offences",
     "enrolment_registration",
-    "politically_exposed_persons",
     "record_keeping",
     "risk_based_approach",
     "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
+    "un_and_autonomous_sanctions",
     "virtual_assets"
   ],
   "tags": [
@@ -58,41 +57,45 @@
     {
       "unit": "Article 1 Subject matter",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 2 Definitions",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 3 Identification of exposed sectors at national level",
+      "concepts": [
+        "risk_based_approach",
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 4 Requirements relating to certain service providers",
       "concepts": [
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 5 Requirements relating to the granting of residence rights in exchange for investment",
       "concepts": [
-        "risk_based_approach",
-        "enforcement_and_offences"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 6 Checks on the senior management and beneficial owners of certain obliged entities",
       "concepts": [
-        "beneficial_ownership",
-        "suspicious_matter_reporting",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "SECTION 3",
@@ -149,45 +152,37 @@
     {
       "unit": "Article 11 General rules regarding access to beneficial ownership registers by competent authorities,",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "enrolment_registration",
-        "supervisory_architecture"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 12 Specific access rules to beneficial ownership registers for persons with legitimate intere",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "record_keeping",
-        "enrolment_registration",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 13 Procedure for the verification and mutual recognition of a legitimate interest to access b",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 14 Templates and procedures",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 15 Exceptions to the access rules to beneficial ownership registers",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 16 Bank account registers and electronic data retrieval systems",
@@ -216,58 +211,51 @@
     {
       "unit": "Article 19 Establishment of the FIU",
       "concepts": [
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 21 Access to information",
       "concepts": [
-        "beneficial_ownership",
-        "enrolment_registration",
-        "politically_exposed_persons",
-        "virtual_assets",
-        "sanctions_prohibitions",
-        "asset_freezing",
-        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 22 Responses to requests for information",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 23 Provision of information to supervisors",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences",
-        "supervisory_architecture",
-        "scope_and_application"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 24 Suspension or withholding of consent",
       "concepts": [
-        "virtual_assets",
-        "asset_freezing"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 25 Instructions to monitor transactions or activities",
       "concepts": [
-        "virtual_assets",
-        "enforcement_and_offences"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 26 Alerts to obliged entities",
       "concepts": [
-        "customer_due_diligence",
-        "enforcement_and_offences"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 27 FIU annual report",
@@ -280,29 +268,51 @@
     {
       "unit": "Article 28 Feedback by FIU",
       "concepts": [
-        "risk_based_approach",
-        "suspicious_matter_reporting",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 29 Cooperation between FIUs",
+      "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 30 Protected channels of communication",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 31 Exchange of information between FIUs",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 32 Joint analyses",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 33 Use by FIUs of information exchanged between them",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 34 Consent to further dissemination of information exchanged between FIUs",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 35 Effect of criminal law provisions",
@@ -310,6 +320,13 @@
         "enforcement_and_offences",
         "definitions_and_interpretation"
       ]
+    },
+    {
+      "unit": "Article 36 Confidentiality of reporting",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "CHAPTER IV",
@@ -327,21 +344,21 @@
     {
       "unit": "Article 38 Supervision of forms of infrastructure of certain intermediaries operating under the freed",
       "concepts": [
-        "virtual_assets",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 39 Provision of information to obliged entities",
       "concepts": [
-        "risk_based_approach",
-        "sanctions_prohibitions",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 40 Risk-based supervision",
       "concepts": [
+        "risk_based_approach",
         "supervisory_architecture"
       ],
       "curated": true
@@ -349,55 +366,58 @@
     {
       "unit": "Article 41 Central contact points",
       "concepts": [
-        "virtual_assets",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 42 Disclosure to FIUs",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 43 Provision of information to FIUs",
       "concepts": [
-        "risk_based_approach",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 44 General principles regarding supervisory cooperation",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 45 Provision of information on cross-border activities",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 46 Provisions related to cooperation in the context of group supervision",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 47 Supervisory cooperation regarding obliged entities carrying out cross-border activities",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 48 Exchange of information in relation to implementation of group-wide policies in third coun",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "SECTION 2",
@@ -415,127 +435,137 @@
     {
       "unit": "Article 50 AML/CFT supervisory colleges in the non-financial sector",
       "concepts": [
-        "amlctf_program",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 51 Cooperation with supervisors in third countries",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 52 Oversight of self-regulatory bodies",
       "concepts": [
-        "risk_based_approach",
-        "suspicious_matter_reporting",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 53 General provisions",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 54 Supervisory measures towards establishments of obliged entities and certain activities car",
       "concepts": [
+        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 55 Pecuniary sanctions",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 56 Administrative measures",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 57 Periodic penalty payments",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 58 Publication of pecuniary sanctions, administrative measures and periodic penalty payments",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 59 Exchange of information on pecuniary sanctions and administrative measures",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 60 Reporting of breaches and protection of reporting persons",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 61 General provisions",
       "concepts": [
-        "beneficial_ownership",
-        "sanctions_prohibitions",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 62 Communication of the list of the competent authorities",
       "concepts": [
-        "enrolment_registration",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 63 Cooperation with AMLA",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 64 Cooperation in relation to credit institutions or financial institutions",
       "concepts": [
-        "customer_due_diligence",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 65 Cooperation in relation to auditors",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 66 Cooperation with authorities in charge of implementing targeted financial sanctions",
       "concepts": [
-        "sanctions_prohibitions",
-        "supervisory_architecture"
-      ]
+        "asset_freezing",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 67 Professional secrecy requirements",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 68 Exchange of information among supervisors and with other authorities",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Chapter IV of this Directive, and the public authorities competent for overseeing statutory auditors and audit firms pursuant to Article 32 ",
@@ -547,9 +577,9 @@
     {
       "unit": "Article 69 AML/CFT cooperation guidelines",
       "concepts": [
-        "enrolment_registration",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 70 Processing of certain categories of personal data",

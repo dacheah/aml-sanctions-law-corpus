@@ -40,54 +40,56 @@
     "enrolment_registration",
     "proliferation_financing",
     "record_keeping",
+    "risk_based_approach",
     "sanctions_prohibitions",
     "supervisory_architecture",
-    "suspicious_matter_reporting"
+    "suspicious_matter_reporting",
+    "threshold_transaction_reporting"
   ],
   "tags": [
     {
       "unit": "4.—(1) The Minister may appoint from among public officers —",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "6.—(1) A person must not act as or hold out to be a regulated dealer unless the person is a registered dealer.",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "7.—(1) An application for registration as a registered dealer, or renewal of registration, must be —",
       "concepts": [
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "8.—(1) The Registrar may refuse to grant or renew registration on any of the following grounds:",
       "concepts": [
-        "enrolment_registration",
-        "proliferation_financing",
-        "enforcement_and_offences"
-      ]
+        "enrolment_registration"
+      ],
+      "curated": true
     },
     {
       "unit": "9.—(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers neces",
       "concepts": [
+        "customer_due_diligence",
         "designated_services",
-        "customer_due_diligence"
+        "enrolment_registration"
       ],
       "curated": true
     },
     {
       "unit": "10.—(1) The Registrar may cancel the registration of a registered dealer, or suspend the registration for a period not e",
       "concepts": [
-        "enrolment_registration",
-        "proliferation_financing",
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "11.—(1) Before exercising any power under section 10, the Registrar must, unless it is not practicable or desirable to d",
@@ -115,74 +117,73 @@
     {
       "unit": "16.—(1) Subject to subsections (3) and (4), a regulated dealer must perform the prescribed customer due diligence measur",
       "concepts": [
-        "customer_due_diligence",
-        "proliferation_financing",
-        "enforcement_and_offences"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "17.—(1) A regulated dealer who enters into any designated transaction must submit to a Suspicious Transaction Reporting ",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "18.—(1) A regulated dealer must keep the following documents and information for the prescribed period:",
       "concepts": [
-        "customer_due_diligence",
-        "proliferation_financing",
-        "enforcement_and_offences"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "19.—(1) A regulated dealer must, in relation to the regulated dealer’s business of regulated dealing or business as an i",
       "concepts": [
-        "sanctions_prohibitions",
-        "proliferation_financing",
-        "enforcement_and_offences"
-      ]
+        "amlctf_program",
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "20.—(1) A regulated dealer must perform —",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "21.—(1) A regulated dealer must, if circumstances exist that require the regulated dealer to do so, make a disclosure un",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "22.—(1) The Registrar may give a written direction mentioned in subsection (2) to a regulated dealer in respect of that ",
       "concepts": [
-        "proliferation_financing",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "23.—(1) The Registrar may exercise all or any powers in this section for any of the following purposes:",
       "concepts": [
-        "record_keeping",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "24.—(1) The Registrar may, for the purposes of investigating an offence under this Act, in addition to exercising the po",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "25.—(1) The Registrar may seize any property —",
       "concepts": [
-        "enrolment_registration",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "29.—(1) The Registrar may disclose any information or document obtained in the exercise of his or her functions under th",
@@ -201,23 +202,23 @@
     {
       "unit": "32.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporatio",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "33.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorpo",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "35.—(1) The Registrar may issue, approve, amend or revoke one or more codes of practice, guidelines or standards of perf",
       "concepts": [
-        "enrolment_registration",
-        "proliferation_financing",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "36A.—(1) Any document required or authorised by this Act to be served on any person may be served on the person —",

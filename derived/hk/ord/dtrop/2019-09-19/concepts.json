@@ -33,6 +33,7 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "amlctf_program",
+    "asset_freezing",
     "definitions_and_interpretation",
     "enforcement_and_offences",
     "enrolment_registration",
@@ -45,15 +46,16 @@
     {
       "unit": "2. Interpretation",
       "concepts": [
-        "enforcement_and_offences",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "3. Confiscation orders",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "4. Assessing the proceeds of drug trafficking",
@@ -94,21 +96,23 @@
     {
       "unit": "9. Cases in which restraint orders and charging orders may be made",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "10. Restraint orders",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "11. Charging orders in respect of land, securities, etc.",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "12. Realisation of property",
@@ -183,14 +187,16 @@
     {
       "unit": "24C. Period for which seized property may be detained",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "24D. Forfeiture",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "24E. Interest",
@@ -222,8 +228,9 @@
     {
       "unit": "26. Restriction on revealing disclosure under section 25A",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "27. Compensation",

@@ -33,18 +33,22 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "definitions_and_interpretation",
+    "sanctions_prohibitions",
     "un_and_autonomous_sanctions"
   ],
   "tags": [
     {
       "unit": "2. Interpretation",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "definitions_and_interpretation",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
     },
     {
       "unit": "3. Regulations shall give effect to relevant instructions",
       "concepts": [
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions"
       ],
       "curated": true

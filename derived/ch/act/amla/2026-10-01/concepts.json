@@ -36,18 +36,51 @@
     "asset_freezing",
     "beneficial_ownership",
     "customer_due_diligence",
+    "definitions_and_interpretation",
+    "designated_services",
+    "enforcement_and_offences",
     "enrolment_registration",
+    "politically_exposed_persons",
     "record_keeping",
+    "risk_based_approach",
+    "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
-    "threshold_transaction_reporting"
+    "threshold_transaction_reporting",
+    "tipping_off",
+    "un_and_autonomous_sanctions"
   ],
   "tags": [
     {
+      "unit": "Art. 1 Gegenstand",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 2 Geltungsbereich",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "designated_services",
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 2a Begriffe",
+      "concepts": [
+        "beneficial_ownership",
+        "definitions_and_interpretation",
+        "politically_exposed_persons"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 2b Materiellrechtliche Koordination",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 3 Identifizierung der Vertragspartei",
@@ -66,6 +99,7 @@
     {
       "unit": "Art. 5 Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
       "concepts": [
+        "beneficial_ownership",
         "customer_due_diligence"
       ],
       "curated": true
@@ -73,7 +107,9 @@
     {
       "unit": "Art. 6 Besondere Sorgfaltspflichten",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "politically_exposed_persons",
+        "risk_based_approach"
       ],
       "curated": true
     },
@@ -85,7 +121,46 @@
       "curated": true
     },
     {
+      "unit": "Art. 7a Vermögenswerte von geringem Wert",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 8 Organisatorische Massnahmen",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 8a",
+      "concepts": [
+        "beneficial_ownership",
+        "customer_due_diligence",
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 8b Sorgfaltspflichten",
+      "concepts": [
+        "beneficial_ownership",
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 8c Vereinfachte oder erhöhte Sorgfaltspflichten",
+      "concepts": [
+        "customer_due_diligence",
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 8d Organisatorische Massnahmen",
       "concepts": [
         "amlctf_program"
       ],
@@ -99,9 +174,45 @@
       "curated": true
     },
     {
+      "unit": "Art. 9a Kundenaufträge betreffend die gemeldeten Vermögenswerte",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 9b Abbruch der Geschäftsbeziehung",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 10 Vermögenssperre",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 10a Informationsverbot",
+      "concepts": [
+        "tipping_off"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 11 Straf- und Haftungsausschluss",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 11a",
+      "concepts": [
+        "suspicious_matter_reporting"
       ],
       "curated": true
     },
@@ -113,46 +224,253 @@
       "curated": true
     },
     {
+      "unit": "Art. 12a Koordination der Aufsicht",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 14 Anschluss an eine Selbstregulierungsorganisation",
+      "concepts": [
+        "enrolment_registration",
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 15 Prüfpflicht für Händlerinnen und Händler",
+      "concepts": [
+        "supervisory_architecture",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 16",
+      "concepts": [
+        "supervisory_architecture",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 17",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 18 Aufgaben der FINMA156",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 18a Wahrung des Berufsgeheimnisses",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 18b Öffentliches Verzeichnis",
+      "concepts": [
+        "enrolment_registration",
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 20 Tätigkeit ohne Anschluss an eine Selbstregulierungsorganisation",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "enforcement_and_offences",
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 22a",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "suspicious_matter_reporting",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 23",
+      "concepts": [
+        "supervisory_architecture",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 24 Anerkennung",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 24a Zulassung der Prüfgesellschaften und leitenden Prüferinnen und Prüfer",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 24b Rechtsbeziehungen und Haftung",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 25 Reglement und Sanktionen201",
+      "concepts": [
+        "enforcement_and_offences",
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 25a Schiedsgericht",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 26 Listen",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 26a Inländische Gruppengesellschaften",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 27 Meldepflicht213",
+      "concepts": [
+        "supervisory_architecture",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 28 Entzug der Anerkennung",
+      "concepts": [
+        "enforcement_and_offences",
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 29 Informationsaustausch unter Behörden227",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 29a Strafbehörden",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 29b Informationsaustausch mit der Meldestelle245",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 29c Informationsaustausch mit der FINMA",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 30 Zusammenarbeit mit ausländischen Meldestellen",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 31 Auskunftsverweigerung",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 32 Zusammenarbeit mit ausländischen Strafverfolgungsbehörden253",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 34 Datenbanken und Akten im Zusammenhang mit den Meldungen und den an die Meldestelle herausgegebenen Informationen",
+      "concepts": [
+        "record_keeping",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 35 Bearbeitung durch die Meldestelle",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 35a Überprüfung",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 36",
       "concepts": [
         "enrolment_registration"
       ]
+    },
+    {
+      "unit": "Art. 37 Verletzung der Meldepflicht",
+      "concepts": [
+        "enforcement_and_offences",
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 38 Verletzung der Prüfpflicht",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 41a Einbezug der Branchen bei FATF-Länderprüfungen",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Art. 42 Übergangsbestimmung zur Änderung vom 15. Juni 2018",

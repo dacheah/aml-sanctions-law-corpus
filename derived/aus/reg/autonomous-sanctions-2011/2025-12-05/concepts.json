@@ -33,10 +33,12 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "asset_freezing",
+    "correspondent_banking",
     "definitions_and_interpretation",
     "designation_criteria",
     "enforcement_and_offences",
     "enrolment_registration",
+    "proliferation_financing",
     "sanctions_permits",
     "sanctions_prohibitions",
     "supervisory_architecture",
@@ -52,37 +54,19 @@
     {
       "unit": "3  Definitions",
       "concepts": [
+        "correspondent_banking",
+        "sanctions_prohibitions",
+        "asset_freezing",
+        "designation_criteria",
+        "un_and_autonomous_sanctions",
         "definitions_and_interpretation"
-      ],
-      "curated": true
-    },
-    {
-      "unit": "3\tTravellers’ cheques.",
-      "concepts": [
-        "definitions_and_interpretation"
-      ],
-      "curated": true
-    },
-    {
-      "unit": "4\tMoney orders.",
-      "concepts": [
-        "sanctions_prohibitions"
-      ],
-      "curated": true
-    },
-    {
-      "unit": "5\tBankers’ drafts.",
-      "concepts": [
-        "sanctions_prohibitions"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "6\tElectronic money.",
       "concepts": [
-        "designation_criteria"
-      ],
-      "curated": true
+        "sanctions_prohibitions"
+      ]
     },
     {
       "unit": "3A  Interpretative rule for provisions that specify both a part of a country and that country",
@@ -108,8 +92,7 @@
       "unit": "4  Sanctioned supply",
       "concepts": [
         "sanctions_prohibitions"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "4A  Sanctioned imports",
@@ -122,8 +105,7 @@
       "unit": "5  Sanctioned service",
       "concepts": [
         "sanctions_prohibitions"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "5A  Sanctioned commercial activity—Syria",
@@ -163,29 +145,33 @@
     {
       "unit": "6  Country-specific designation of persons or entities or declaration of persons",
       "concepts": [
-        "designation_criteria"
-      ],
-      "curated": true
+        "designation_criteria",
+        "un_and_autonomous_sanctions",
+        "proliferation_financing",
+        "enforcement_and_offences"
+      ]
     },
     {
       "unit": "6A  Thematic designation of persons or entities or declaration of persons",
       "concepts": [
-        "designation_criteria"
+        "designation_criteria",
+        "proliferation_financing"
       ],
       "curated": true
     },
     {
       "unit": "7  Designating controlled assets",
       "concepts": [
-        "designation_criteria",
-        "asset_freezing"
+        "asset_freezing",
+        "designation_criteria"
       ],
       "curated": true
     },
     {
       "unit": "8  Sanctioned vessels",
       "concepts": [
-        "designation_criteria"
+        "designation_criteria",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
@@ -234,6 +220,7 @@
     {
       "unit": "14  Prohibition of dealing with designated persons or entities",
       "concepts": [
+        "asset_freezing",
         "sanctions_prohibitions"
       ],
       "curated": true
@@ -277,14 +264,15 @@
     {
       "unit": "20  Permit for assets and controlled assets",
       "concepts": [
-        "sanctions_permits",
-        "asset_freezing"
+        "asset_freezing",
+        "sanctions_permits"
       ],
       "curated": true
     },
     {
       "unit": "21  Advance notice of listing of persons, entities and assets",
       "concepts": [
+        "asset_freezing",
         "designation_criteria"
       ],
       "curated": true
@@ -299,6 +287,7 @@
     {
       "unit": "23  Request to AFP for help",
       "concepts": [
+        "asset_freezing",
         "enforcement_and_offences"
       ],
       "curated": true
@@ -306,6 +295,7 @@
     {
       "unit": "24  Informing AFP of opinion about asset",
       "concepts": [
+        "asset_freezing",
         "enforcement_and_offences"
       ],
       "curated": true

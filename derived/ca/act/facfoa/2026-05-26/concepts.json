@@ -36,6 +36,7 @@
     "definitions_and_interpretation",
     "designation_criteria",
     "enforcement_and_offences",
+    "sanctions_permits",
     "sanctions_prohibitions"
   ],
   "tags": [
@@ -56,28 +57,46 @@
       "unit": "4 (1) If a foreign state, in writing, asserts to the Government of Canada that a person has misappropriated property of ",
       "concepts": [
         "asset_freezing",
-        "designation_criteria"
+        "designation_criteria",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
     {
       "unit": "5 (1) The Minister may issue to any person in Canada or",
       "concepts": [
+        "sanctions_permits",
         "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "6 An order or regulation made under section 4 in respect",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "8 Each of the following entities must determine on a",
+      "concepts": [
+        "asset_freezing"
       ],
       "curated": true
     },
     {
       "unit": "9 (1) Every person in Canada and every Canadian outside Canada must, without delay, disclose to the Commissioner of the ",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "10 (1) Every person who wilfully contravenes an order",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "11 (1) Any proceedings in respect of an offence under",
@@ -90,6 +109,27 @@
       "concepts": [
         "enforcement_and_offences"
       ]
+    },
+    {
+      "unit": "13 (1) A person who is the subject of an order or regulation made under section 4 may apply in writing to the",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "14 (1) A person claiming not to be a politically exposed",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "15 (1) A person who is the subject of an order or regulation made under section 4 may apply to the Minister in",
+      "concepts": [
+        "sanctions_permits"
+      ],
+      "curated": true
     }
   ]
 }

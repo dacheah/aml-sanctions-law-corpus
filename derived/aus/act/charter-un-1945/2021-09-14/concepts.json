@@ -56,14 +56,16 @@
     {
       "unit": "2A  Meaning of designated Commonwealth entity",
       "concepts": [
-        "definitions_and_interpretation"
+        "definitions_and_interpretation",
+        "supervisory_architecture"
       ],
       "curated": true
     },
     {
       "unit": "2B  Meaning of UN sanction enforcement law",
       "concepts": [
-        "definitions_and_interpretation"
+        "definitions_and_interpretation",
+        "un_and_autonomous_sanctions"
       ],
       "curated": true
     },
@@ -81,10 +83,17 @@
       ]
     },
     {
+      "unit": "5  Approval",
+      "concepts": [
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
       "unit": "6  Regulations may apply sanctions",
       "concepts": [
-        "un_and_autonomous_sanctions",
-        "sanctions_prohibitions"
+        "sanctions_prohibitions",
+        "un_and_autonomous_sanctions"
       ],
       "curated": true
     },
@@ -103,10 +112,18 @@
       "curated": true
     },
     {
+      "unit": "9  Effect of regulations on earlier Commonwealth Acts and on State and Territory laws",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
       "unit": "10  Later Acts not to be interpreted as overriding this Part or the regulations",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "11  Other instruments giving effect to Security Council decisions",
@@ -132,6 +149,7 @@
     {
       "unit": "13A  Invalidation of permission, authorisations etc.",
       "concepts": [
+        "enforcement_and_offences",
         "sanctions_permits"
       ],
       "curated": true
@@ -139,6 +157,7 @@
     {
       "unit": "14  Definitions",
       "concepts": [
+        "asset_freezing",
         "definitions_and_interpretation"
       ],
       "curated": true
@@ -146,6 +165,7 @@
     {
       "unit": "15  Listing persons, entities and assets",
       "concepts": [
+        "asset_freezing",
         "designation_criteria"
       ],
       "curated": true
@@ -179,6 +199,13 @@
       "curated": true
     },
     {
+      "unit": "19  Effect of resolution ceasing to bind",
+      "concepts": [
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
       "unit": "20  Offence—dealing with freezable assets",
       "concepts": [
         "asset_freezing",
@@ -190,6 +217,7 @@
       "unit": "21  Offence—giving an asset to a proscribed person or entity",
       "concepts": [
         "asset_freezing",
+        "enforcement_and_offences",
         "sanctions_prohibitions"
       ],
       "curated": true
@@ -209,7 +237,28 @@
       "curated": true
     },
     {
+      "unit": "22B  Invalidation of notice for false or misleading information",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "23  Part prevails over conflicting legal obligations",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
       "unit": "25  Compensation for persons wrongly affected",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "26  Injunctions",
       "concepts": [
         "enforcement_and_offences"
       ],
@@ -225,7 +274,8 @@
     {
       "unit": "27  Offence—Contravening a UN sanction enforcement law",
       "concepts": [
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "un_and_autonomous_sanctions"
       ],
       "curated": true
     },

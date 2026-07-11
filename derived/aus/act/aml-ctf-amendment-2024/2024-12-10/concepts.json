@@ -61,8 +61,7 @@
       "unit": "Schedule 1—AML/CTF programs and business groups",
       "concepts": [
         "amlctf_program"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "1  Section 4",
@@ -465,8 +464,7 @@
       "unit": "Schedule 2—Customer due diligence",
       "concepts": [
         "customer_due_diligence"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "1  Section 4",
@@ -802,31 +800,10 @@
       ]
     },
     {
-      "unit": "Schedule 3—Regulating additional high-risk services",
-      "concepts": [
-        "designated_services"
-      ],
-      "curated": true
-    },
-    {
-      "unit": "Part 1—Real estate",
-      "concepts": [
-        "designated_services"
-      ],
-      "curated": true
-    },
-    {
       "unit": "2  After subsection 6(5)",
       "concepts": [
         "designated_services"
       ]
-    },
-    {
-      "unit": "Part 2—Dealers in precious metals and stones",
-      "concepts": [
-        "designated_services"
-      ],
-      "curated": true
     },
     {
       "unit": "6  Subsection 6(3)",
@@ -835,13 +812,6 @@
         "designated_services",
         "virtual_assets"
       ]
-    },
-    {
-      "unit": "Part 3—Professional services",
-      "concepts": [
-        "designated_services"
-      ],
-      "curated": true
     },
     {
       "unit": "9  Subsection 6(2) (table item 46, column headed “Provision of a designated service”, paragraph (b))",
@@ -1004,9 +974,9 @@
     {
       "unit": "Schedule 5—Tipping off offence and disclosure of AUSTRAC information to foreign countries or agencies",
       "concepts": [
-        "tipping_off"
-      ],
-      "curated": true
+        "tipping_off",
+        "enforcement_and_offences"
+      ]
     },
     {
       "unit": "Division 1—Tipping off offence",
@@ -1034,8 +1004,7 @@
       "unit": "Schedule 6—Services relating to virtual assets",
       "concepts": [
         "virtual_assets"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "1  Section 4",
@@ -1405,22 +1374,14 @@
     {
       "unit": "Schedule 7—Definition of bearer negotiable instrument",
       "concepts": [
-        "definitions_and_interpretation"
-      ],
-      "curated": true
+        "cash_couriers"
+      ]
     },
     {
       "unit": "17  Bearer negotiable instruments",
       "concepts": [
         "cash_couriers"
       ]
-    },
-    {
-      "unit": "Schedule 8—Transfers of value and international value transfer services",
-      "concepts": [
-        "funds_transfer_reporting"
-      ],
-      "curated": true
     },
     {
       "unit": "1  Section 4",
@@ -1633,10 +1594,8 @@
     {
       "unit": "Schedule 9—Powers and definitions",
       "concepts": [
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ],
-      "curated": true
+        "definitions_and_interpretation"
+      ]
     },
     {
       "unit": "1  Section 5",
@@ -1791,13 +1750,6 @@
       ]
     },
     {
-      "unit": "Schedule 10—Exemptions",
-      "concepts": [
-        "scope_and_application"
-      ],
-      "curated": true
-    },
-    {
       "unit": "2  Section 5",
       "concepts": [
         "designated_services",
@@ -1902,13 +1854,6 @@
       ]
     },
     {
-      "unit": "Schedule 11—Repeal of the Financial Transaction Reports Act 1988",
-      "concepts": [
-        "record_keeping"
-      ],
-      "curated": true
-    },
-    {
       "unit": "5  Subsection 49(1)",
       "concepts": [
         "designated_services",
@@ -1941,13 +1886,6 @@
       "concepts": [
         "enforcement_and_offences"
       ]
-    },
-    {
-      "unit": "Schedule 12—Transitional rules",
-      "concepts": [
-        "scope_and_application"
-      ],
-      "curated": true
     },
     {
       "unit": "1  Transitional rules",

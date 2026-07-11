@@ -33,30 +33,132 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "asset_freezing",
+    "definitions_and_interpretation",
+    "designation_criteria",
     "enforcement_and_offences",
-    "enrolment_registration",
-    "supervisory_architecture"
+    "scope_and_application",
+    "supervisory_architecture",
+    "tipping_off"
   ],
   "tags": [
     {
       "unit": "Article (1)",
       "concepts": [
-        "asset_freezing",
-        "enforcement_and_offences"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (2)",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (3)",
       "concepts": [
-        "enrolment_registration",
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (4)",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (5)",
+      "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (6)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (7)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (8)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (9)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (10)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (11)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (12)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (13)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (14)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (15)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (16)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (17)",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (193); or in Articles (296) and (304) of Penal Code, shall be punished by life or",
@@ -65,7 +167,169 @@
       ]
     },
     {
+      "unit": "Article (18)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (19)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (21)",
+      "concepts": [
+        "asset_freezing",
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (22)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (23)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (24)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (25)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (26)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (27)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (28)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Article (29)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (30)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (31)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (32)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (33)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (34)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (35)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (36)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (37)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (38)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (39)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (40)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (41)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (42)",
       "concepts": [
         "enforcement_and_offences"
       ],
@@ -84,46 +348,87 @@
       ]
     },
     {
+      "unit": "Article (45)",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Article (48)",
       "concepts": [
         "supervisory_architecture"
       ]
     },
     {
+      "unit": "Article (54)",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Article (55)",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (56)",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (57)",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (58)",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (59)",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (60)",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (61)",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (62)",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (63)",
+      "concepts": [
+        "designation_criteria"
+      ],
+      "curated": true
     }
   ]
 }

@@ -59,23 +59,30 @@
     {
       "unit": "Part 1—Preliminary",
       "concepts": [
+        "customer_due_diligence",
+        "beneficial_ownership",
+        "threshold_transaction_reporting",
+        "funds_transfer_reporting",
+        "designated_services",
+        "enrolment_registration",
+        "politically_exposed_persons",
+        "virtual_assets",
         "definitions_and_interpretation"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "Part 2—Reporting groups",
       "concepts": [
-        "amlctf_program"
-      ],
-      "curated": true
+        "designated_services",
+        "enrolment_registration",
+        "definitions_and_interpretation"
+      ]
     },
     {
       "unit": "Part 3—Enrolment",
       "concepts": [
         "enrolment_registration"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "Division 1—Application for enrolment",
@@ -107,8 +114,7 @@
       "unit": "Part 4—Registration",
       "concepts": [
         "enrolment_registration"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "Division 1—Management of the Remittance Sector Register and the Virtual Asset Service Provider Register",
@@ -189,10 +195,8 @@
     {
       "unit": "Part 5—AML/CTF programs",
       "concepts": [
-        "amlctf_program",
-        "risk_based_approach"
-      ],
-      "curated": true
+        "amlctf_program"
+      ]
     },
     {
       "unit": "Division 1—ML/TF risk assessment",
@@ -266,11 +270,8 @@
     {
       "unit": "Part 6—Customer due diligence",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
-        "politically_exposed_persons"
-      ],
-      "curated": true
+        "customer_due_diligence"
+      ]
     },
     {
       "unit": "Division 1—Initial customer due diligence",
@@ -410,8 +411,7 @@
       "unit": "Part 7—Correspondent banking",
       "concepts": [
         "correspondent_banking"
-      ],
-      "curated": true
+      ]
     },
     {
       "unit": "Division 1—Due diligence assessment for entry into correspondent banking relationship",
@@ -430,13 +430,6 @@
         "correspondent_banking",
         "proliferation_financing"
       ]
-    },
-    {
-      "unit": "Part 8—Transfers of value",
-      "concepts": [
-        "funds_transfer_reporting"
-      ],
-      "curated": true
     },
     {
       "unit": "Division 1—Ordering institutions and beneficiary institutions",
@@ -467,14 +460,6 @@
       "concepts": [
         "virtual_assets"
       ]
-    },
-    {
-      "unit": "Part 9—Reporting",
-      "concepts": [
-        "suspicious_matter_reporting",
-        "threshold_transaction_reporting"
-      ],
-      "curated": true
     },
     {
       "unit": "Division 1—Reports of suspicious matters",
@@ -527,13 +512,6 @@
       ]
     },
     {
-      "unit": "Part 10—Secrecy and access",
-      "concepts": [
-        "tipping_off"
-      ],
-      "curated": true
-    },
-    {
       "unit": "Part 11—Other matters",
       "concepts": [
         "customer_due_diligence",
@@ -544,9 +522,11 @@
     {
       "unit": "Part 12—Application, saving and transitional provisions",
       "concepts": [
-        "scope_and_application"
-      ],
-      "curated": true
+        "suspicious_matter_reporting",
+        "threshold_transaction_reporting",
+        "designated_services",
+        "supervisory_architecture"
+      ]
     },
     {
       "unit": "Schedule 1—Forms",

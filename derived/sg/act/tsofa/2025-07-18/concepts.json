@@ -35,8 +35,8 @@
     "asset_freezing",
     "definitions_and_interpretation",
     "enforcement_and_offences",
+    "sanctions_permits",
     "scope_and_application",
-    "supervisory_architecture",
     "suspicious_matter_reporting",
     "tipping_off"
   ],
@@ -44,8 +44,9 @@
     {
       "unit": "2.—(1) In this Act, unless the context otherwise requires —",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "3.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —",
@@ -71,15 +72,17 @@
     {
       "unit": "6.—(1) No person in Singapore and no citizen of Singapore outside Singapore may —",
       "concepts": [
-        "asset_freezing"
+        "asset_freezing",
+        "enforcement_and_offences"
       ],
       "curated": true
     },
     {
       "unit": "7.—(1) Subject to subsection (2), the Minister may, by order in the Gazette, exempt any person in Singapore, or any citi",
       "concepts": [
-        "tipping_off"
-      ]
+        "sanctions_permits"
+      ],
+      "curated": true
     },
     {
       "unit": "8.—(1) Every person in Singapore and every citizen of Singapore outside Singapore who —",
@@ -91,48 +94,72 @@
     {
       "unit": "9.—(1) The Minister may, by order in the Gazette, require any person or class of persons to determine on a continuing ba",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "10.—(1) Every person in Singapore who has information which the person knows or believes may be of material assistance —",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "10A.—(1) Except as provided in subsection (3) —",
       "concepts": [
-        "tipping_off",
-        "enforcement_and_offences"
-      ]
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "10B.—(1) Any person —",
       "concepts": [
-        "suspicious_matter_reporting",
-        "asset_freezing",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "11.—(1) A Judge may, on an application without notice by the Public Prosecutor, after examining the application in priva",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "15.—(1) On an application under section 11, at the request of the Public Prosecutor, if a Judge is of the opinion that t",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "16.—(1) The power to manage or otherwise deal with property under section 15 includes —",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "19.—(1) Any person who has an interest in the property that was seized under a warrant issued under section 11(1)(a) or ",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "20.—(1) Subject to this section, where property has been seized under a warrant issued under section 11(1)(a) or is the ",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "24.—(1) If a Judge is satisfied on a balance of probabilities that property is property mentioned in section 21(a) or (b",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "27.—(1) A person who claims an interest in any property that was forfeited and who did not receive notice under section ",
@@ -157,8 +184,9 @@
     {
       "unit": "34.—(1) Every person who, outside Singapore, commits an act or omission that, if committed in Singapore, would constitut",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     }
   ]
 }

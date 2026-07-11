@@ -39,6 +39,7 @@
     "definitions_and_interpretation",
     "enforcement_and_offences",
     "funds_transfer_reporting",
+    "politically_exposed_persons",
     "record_keeping",
     "risk_based_approach",
     "sanctions_prohibitions",
@@ -59,6 +60,7 @@
     {
       "unit": "Art. 2 Begriffe",
       "concepts": [
+        "beneficial_ownership",
         "definitions_and_interpretation"
       ],
       "curated": true
@@ -73,6 +75,8 @@
     {
       "unit": "Art. 5 Zweigniederlassungen und Gruppengesellschaften im Ausland",
       "concepts": [
+        "amlctf_program",
+        "risk_based_approach",
         "scope_and_application"
       ],
       "curated": true
@@ -80,6 +84,7 @@
     {
       "unit": "Art. 6 Globale Überwachung der Rechts- und Reputationsrisiken",
       "concepts": [
+        "amlctf_program",
         "risk_based_approach"
       ],
       "curated": true
@@ -87,6 +92,7 @@
     {
       "unit": "Art. 7 Verbotene Vermögenswerte",
       "concepts": [
+        "customer_due_diligence",
         "sanctions_prohibitions"
       ],
       "curated": true
@@ -94,15 +100,24 @@
     {
       "unit": "Art. 8 Verbotene Geschäftsbeziehung",
       "concepts": [
+        "correspondent_banking",
+        "customer_due_diligence",
         "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 9 Verletzung der Bestimmungen",
+      "concepts": [
+        "enforcement_and_offences"
       ],
       "curated": true
     },
     {
       "unit": "Art. 9a Abklärungen bei Sitzgesellschaften",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "customer_due_diligence"
       ],
       "curated": true
     },
@@ -116,20 +131,24 @@
     {
       "unit": "Art. 11 Verzicht auf Einhaltung der Sorgfaltspflichten",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "risk_based_approach"
       ],
       "curated": true
     },
     {
       "unit": "Art. 12 Vereinfachte Sorgfaltspflichten17",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "risk_based_approach"
       ],
       "curated": true
     },
     {
       "unit": "Art. 13 Geschäftsbeziehungen mit erhöhten Risiken",
       "concepts": [
+        "correspondent_banking",
+        "politically_exposed_persons",
         "risk_based_approach"
       ],
       "curated": true
@@ -159,7 +178,8 @@
     {
       "unit": "Art. 17 Zeitpunkt der zusätzlichen Abklärungen",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "risk_based_approach"
       ],
       "curated": true
     },
@@ -173,14 +193,15 @@
     {
       "unit": "Art. 19 Verantwortung des obersten Geschäftsführungsorgans bei erhöhten Risiken",
       "concepts": [
-        "risk_based_approach",
-        "amlctf_program"
+        "amlctf_program",
+        "risk_based_approach"
       ],
       "curated": true
     },
     {
       "unit": "Art. 20 Überwachung der Geschäftsbeziehungen und der Transaktionen",
       "concepts": [
+        "amlctf_program",
         "risk_based_approach"
       ],
       "curated": true
@@ -188,7 +209,8 @@
     {
       "unit": "Art. 21 Qualifiziertes Steuervergehen",
       "concepts": [
-        "enforcement_and_offences"
+        "enforcement_and_offences",
+        "risk_based_approach"
       ],
       "curated": true
     },
@@ -202,13 +224,15 @@
     {
       "unit": "Art. 22a Information von Behörden und Dokumentation",
       "concepts": [
-        "record_keeping"
+        "record_keeping",
+        "suspicious_matter_reporting"
       ],
       "curated": true
     },
     {
       "unit": "Art. 23 Neue Produkte, Geschäftspraktiken und Technologien",
       "concepts": [
+        "amlctf_program",
         "risk_based_approach"
       ],
       "curated": true
@@ -224,7 +248,8 @@
     {
       "unit": "Art. 25 Weitere Aufgaben der Geldwäschereifachstelle",
       "concepts": [
-        "amlctf_program"
+        "amlctf_program",
+        "risk_based_approach"
       ],
       "curated": true
     },
@@ -250,16 +275,31 @@
       "curated": true
     },
     {
+      "unit": "Art. 28 Voraussetzungen",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 29 Modalitäten des Beizugs",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership"
+        "beneficial_ownership",
+        "customer_due_diligence"
       ],
       "curated": true
     },
     {
       "unit": "Art. 36 Professioneller Notenhandel",
       "concepts": [
+        "correspondent_banking",
         "customer_due_diligence"
       ],
       "curated": true
@@ -267,7 +307,8 @@
     {
       "unit": "Art. 37 Korrespondenzbankbeziehungen mit ausländischen Banken",
       "concepts": [
-        "correspondent_banking"
+        "correspondent_banking",
+        "customer_due_diligence"
       ],
       "curated": true
     },
@@ -282,6 +323,43 @@
       "unit": "Art. 39 Dokumentationspflicht",
       "concepts": [
         "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 40 Fondsleitungen und KAG-Investmentgesellschaften",
+      "concepts": [
+        "beneficial_ownership",
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 41 Verwalter von Kollektivvermögen von ausländischen kollektiven Kapitalanlagen",
+      "concepts": [
+        "beneficial_ownership",
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 42 Reglement der Selbstregulierungsorganisation des Schweizerischen Versicherungsverbandes zur Bekämpfung der Geldw",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 43 Ausnahmen",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 43a",
+      "concepts": [
+        "scope_and_application"
       ],
       "curated": true
     },
@@ -328,8 +406,23 @@
       "curated": true
     },
     {
+      "unit": "Art. 50 Verzicht auf die Echtheitsbestätigung und Fehlen der Identifizierungsdokumente",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 51 Kassageschäfte",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 51a Geschäfte mit virtuellen Währungen",
       "concepts": [
+        "customer_due_diligence",
         "virtual_assets"
       ],
       "curated": true
@@ -337,7 +430,22 @@
     {
       "unit": "Art. 52 Geld- und Wertübertragungen",
       "concepts": [
+        "customer_due_diligence",
         "funds_transfer_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 53 Allgemein bekannte juristische Personen, Personengesellschaften und Behörden",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 55 Scheitern der Identifizierung der Vertragspartei",
+      "concepts": [
+        "customer_due_diligence"
       ],
       "curated": true
     },
@@ -377,6 +485,20 @@
       "curated": true
     },
     {
+      "unit": "Art. 61 Kassageschäfte",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 62 Geld- und Wertübertragungen",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 63 Sitzgesellschaften",
       "concepts": [
         "beneficial_ownership"
@@ -393,7 +515,15 @@
     {
       "unit": "Art. 65 Spezialgesetzlich beaufsichtigter Finanzintermediär oder steuerbefreite Einrichtung der beruflichen Vorsorge als",
       "concepts": [
+        "beneficial_ownership",
         "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 65a Lebensversicherung mit separater Konto- oder Depotführung (Insurance Wrapper)",
+      "concepts": [
+        "beneficial_ownership"
       ],
       "curated": true
     },
@@ -401,6 +531,79 @@
       "unit": "Art. 66 Kollektive Anlageform oder Beteiligungsgesellschaft als Vertragspartei",
       "concepts": [
         "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 67 Einfache Gesellschaften",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 68",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 69 Erneute Identifizierung oder Feststellung der Kontrollinhaberin, des Kontrollinhabers und der an Vermögenswerten",
+      "concepts": [
+        "beneficial_ownership",
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 70 Abbruch der Geschäftsbeziehung",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 71 Identifizierung der Vertragspartei und Feststellung der Kontrollinhaberin, des Kontrollinhabers und der an Vermö",
+      "concepts": [
+        "beneficial_ownership",
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 72 Kriterien für Geschäftsbeziehungen mit erhöhten Risiken",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 73 Geld- und Wertübertragung",
+      "concepts": [
+        "funds_transfer_reporting",
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 74",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 75 Geldwäschereifachstelle für Finanzintermediäre",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Art. 75a Geldwäschereifachstelle für Personen nach Artikel 1b BankG",
+      "concepts": [
+        "amlctf_program"
       ],
       "curated": true
     },

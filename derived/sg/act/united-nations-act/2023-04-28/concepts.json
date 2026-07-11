@@ -33,6 +33,7 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "enforcement_and_offences",
+    "scope_and_application",
     "threshold_transaction_reporting",
     "un_and_autonomous_sanctions"
   ],
@@ -54,13 +55,15 @@
       "unit": "5.—(1) Every person who commits, or attempts to commit, or does any act with intent to commit, or counsels, procures, ai",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "6.—(1) The provisions of this Act have effect, in relation to citizens of Singapore, outside as well as within Singapore",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     }
   ]
 }

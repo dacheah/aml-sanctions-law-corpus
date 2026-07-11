@@ -41,8 +41,10 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
+    "politically_exposed_persons",
     "record_keeping",
     "risk_based_approach",
+    "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
     "threshold_transaction_reporting",
@@ -88,10 +90,25 @@
       ]
     },
     {
+      "unit": "6 (1) A financial services cooperative is engaged in a",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
       "unit": "7 (1) A financial entity shall report the following transactions and information to the Centre:",
       "concepts": [
+        "funds_transfer_reporting",
         "threshold_transaction_reporting",
-        "funds_transfer_reporting"
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "8 (1) A financial entity is not required to report the",
+      "concepts": [
+        "threshold_transaction_reporting"
       ],
       "curated": true
     },
@@ -141,6 +158,7 @@
     {
       "unit": "15 (1) A trust company shall also keep the following",
       "concepts": [
+        "beneficial_ownership",
         "record_keeping"
       ],
       "curated": true
@@ -153,71 +171,186 @@
       "curated": true
     },
     {
+      "unit": "17 (1) A life insurance broker or agent is engaged in a",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
       "unit": "18 A life insurance company or life insurance broker or",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "19 A life insurance company or life insurance broker or",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "20 A life insurance company or life insurance broker or",
       "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "21 A life insurance company or life insurance broker or",
+      "concepts": [
         "record_keeping",
-        "enrolment_registration"
-      ]
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "22 (1) A life insurance company or life insurance broker",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "23 A life insurance company or life insurance broker or",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "24.1 A factor is engaged in a business or profession for",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "24.11 (1) A factor shall report the following transactions and information to the Centre:",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "24.12 A factor shall keep a large cash transaction record",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "24.13 A factor shall keep a large virtual currency transaction record in respect of every amount of $10,000 or",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "24.14 A factor shall keep the following records in respect of every factoring agreement that it enters into:",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "24.15 A financing or leasing entity is engaged in a business or profession for the purposes of paragraph 5(j) of",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "24.16 A financing or leasing entity that receives an",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "24.17 A financing or leasing entity that receives an",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "24.18 A financing or leasing entity shall keep a large",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "24.19 A financing or leasing entity shall keep a large virtual currency transaction record in respect of every",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "24.2 A financing or leasing entity shall keep the following records in connection with an activity referred to in",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "25 A securities dealer that receives an amount of $10,000",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "26 A securities dealer that receives an amount of $10,000",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "27 A securities dealer shall keep a large cash transaction",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "28 A securities dealer shall keep a large virtual currency",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "29 A securities dealer shall keep the following records in",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "29.1 For the purposes of subparagraphs 5(h)(v) and",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
     },
     {
       "unit": "30 (1) A money services business shall report the following transactions and information to the Centre:",
       "concepts": [
+        "funds_transfer_reporting",
         "threshold_transaction_reporting",
-        "funds_transfer_reporting"
+        "virtual_assets"
       ],
       "curated": true
     },
@@ -230,13 +363,24 @@
     {
       "unit": "32 A money services business shall keep a large virtual",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "32.1 A money services business is not required to report",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "33 (1) A foreign money services business shall report",
       "concepts": [
-        "threshold_transaction_reporting"
+        "funds_transfer_reporting",
+        "threshold_transaction_reporting",
+        "virtual_assets"
       ],
       "curated": true
     },
@@ -244,58 +388,110 @@
       "unit": "34 A foreign money services business shall keep a large",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "35 A foreign money services business shall keep a large",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "35.1 A foreign money services business is not required",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "36 A money services business shall keep the following",
       "concepts": [
-        "funds_transfer_reporting",
-        "record_keeping",
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "36.1 A money services business, in connection with",
       "concepts": [
+        "designated_services",
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "37 A money services business that enters into an agreement with an entity to provide a service referred to in any",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "37.1 (1) The documents referred to in subsection",
       "concepts": [
+        "enrolment_registration"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "38 (1) A British Columbia notary public or British",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "39 A British Columbia notary public or British Columbia",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "40 A British Columbia notary public or British Columbia",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "41 A British Columbia notary public or British Columbia",
+      "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "42 A British Columbia notary public or British Columbia",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "43 A British Columbia notary public or British Columbia",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "44 (1) Subject to subsection (2), every legal counsel and",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "scope_and_application"
       ],
       "curated": true
     },
     {
       "unit": "45 Subject to subsection 62(2), every legal counsel and",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "record_keeping"
       ],
       "curated": true
     },
@@ -303,104 +499,273 @@
       "unit": "46 A legal counsel or legal firm that, in connection with",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "47 (1) An accountant or accounting firm is engaged in a",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "48 An accountant or accounting firm that receives an",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "49 An accountant or accounting firm that receives an",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "50 An accountant or accounting firm shall keep a large",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "51 An accountant or accounting firm shall keep a large",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "52 An accountant or accounting firm shall keep the following records in connection with an activity referred to",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "53 A real estate broker or sales representative is engaged",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "54 A real estate broker or sales representative that receives an amount of $10,000 or more in cash in a single",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "55 A real estate broker or sales representative that receives an amount of $10,000 or more in virtual currency",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "56 A real estate broker or sales representative shall keep",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "57 A real estate broker or sales representative shall keep",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "58 (1) A real estate broker or sales representative shall",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "59 A real estate developer is engaged in a business or",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "60 A real estate developer that receives an amount",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "61 A real estate developer that receives an amount",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "62 A real estate developer shall keep a large cash transaction record in respect of every amount of $10,000 or",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "63 A real estate developer shall keep a large virtual currency transaction record in respect of every amount",
       "concepts": [
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "64 A real estate developer shall keep the following",
+      "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "64.1 (1) A mortgage administrator is engaged in a business or profession for the purposes of paragraph 5(i) of",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "64.2 A mortgage administrator, mortgage broker or",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "64.3 A mortgage administrator, mortgage broker or",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "64.4 A mortgage administrator, mortgage broker or",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "64.5 A mortgage administrator, mortgage broker or",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "64.6 A mortgage administrator, mortgage broker or",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "64.7 A title insurer is engaged in a business or profession for the purposes of paragraph 5(j) of the Act when",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "64.8 A title insurer must keep, in respect of every title",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "65 (1) A dealer in precious metals and precious stones,",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "66 A dealer in precious metals and precious stones that",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "67 A dealer in precious metals and precious stones that",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "68 A dealer in precious metals and precious stones shall",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "69 A dealer in precious metals and precious stones shall",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "70 (1) A casino shall report the following transactions",
       "concepts": [
-        "funds_transfer_reporting"
-      ]
+        "funds_transfer_reporting",
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "71 A casino shall report to the Centre the disbursement,",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "72 (1) A casino shall keep a large cash transaction",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "73 A casino shall keep a large virtual currency transaction record in respect of every amount of $10,000 or more",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "74 (1) A casino shall keep the following records in respect of every account that the casino opens:",
       "concepts": [
-        "funds_transfer_reporting",
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "75 For the purposes of sections 70 to 74, if a registered",
@@ -410,22 +775,55 @@
       ]
     },
     {
+      "unit": "76 A department or an agent of His Majesty in right of",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "77 A department or an agent of His Majesty in right of",
+      "concepts": [
+        "designated_services"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "78 A department or an agent of His Majesty in right of",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "79 A department or an agent of His Majesty in right of",
+      "concepts": [
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
       "unit": "80 A department or an agent of His Majesty in right of",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "81 A department or an agent of His Majesty in right of",
       "concepts": [
-        "record_keeping"
-      ]
+        "record_keeping",
+        "virtual_assets"
+      ],
+      "curated": true
     },
     {
       "unit": "82 A department or an agent of His Majesty in right of",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "83 The provisions of this Part are subject to the provisions of Parts 5 and 6.",
@@ -437,154 +835,179 @@
     {
       "unit": "84 A person or entity shall verify, in accordance with",
       "concepts": [
-        "suspicious_matter_reporting",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "85 (1) A person or entity that is subject to these Regulations shall take reasonable measures to verify, in accordance w",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "86 A financial entity shall",
       "concepts": [
-        "customer_due_diligence",
-        "funds_transfer_reporting"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "87 A financial entity shall",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "88 A financial entity shall",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "89 A trust company shall also",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "90 A financial entity that enters into a correspondent",
       "concepts": [
         "correspondent_banking",
-        "supervisory_architecture"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "91 If a client of a foreign financial institution has direct",
       "concepts": [
         "correspondent_banking"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "92 A life insurance company or life insurance broker or",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "93.1 (1) A factor shall verify,",
       "concepts": [
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "93.2 (1) A financing or leasing entity shall verify",
       "concepts": [
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "94 A securities dealer shall",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "95 (1) A money services business — or a foreign money",
       "concepts": [
-        "customer_due_diligence",
-        "funds_transfer_reporting",
-        "definitions_and_interpretation"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "96 A British Columbia notary public or British Columbia",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "97 (1) Subject to subsections (2) and 62(2) and section",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "98 Any legal counsel or legal firm that is required to ascertain the identity of any person or confirm the existence of ",
       "concepts": [
-        "record_keeping"
-      ]
+        "customer_due_diligence",
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "99 If, as a result of its ongoing monitoring of a business",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "100 An accountant or accounting firm shall",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "101 (1) A real estate broker or sales representative shall",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "102 A real estate developer shall",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "102.1 A mortgage administrator, mortgage broker or",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "102.2 A title insurer must",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "103 A casino shall",
       "concepts": [
-        "customer_due_diligence",
-        "funds_transfer_reporting",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "104 A department or an agent of His Majesty in right of",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "105 (1) A person or entity that is required to verify a",
       "concepts": [
         "customer_due_diligence"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "106 (1) A person or entity that is required to verify a",
@@ -605,15 +1028,15 @@
       "concepts": [
         "customer_due_diligence",
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "109 (1) A person or entity that is required to verify a",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping",
-        "enrolment_registration"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "109.1 (1) A person or entity that is required to verify a",
@@ -633,18 +1056,16 @@
       "unit": "111 (1) If a person or entity that is referred to in any of",
       "concepts": [
         "customer_due_diligence",
-        "record_keeping",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "112 (1) A person or entity that is required to verify the",
       "concepts": [
-        "customer_due_diligence",
-        "record_keeping",
-        "enrolment_registration"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "112.1 (1) A person or entity that is required to verify an",
@@ -663,10 +1084,9 @@
       "unit": "114 (1) If a person or entity that is referred to in any of",
       "concepts": [
         "customer_due_diligence",
-        "record_keeping",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "115 The provisions of this Part are subject to the provisions of Parts 5 and 6.",
@@ -677,63 +1097,81 @@
     {
       "unit": "116 (1) A financial entity shall take reasonable measures to determine whether",
       "concepts": [
-        "suspicious_matter_reporting",
-        "funds_transfer_reporting"
-      ]
+        "politically_exposed_persons"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "117 A life insurance company or life insurance broker or",
+      "concepts": [
+        "politically_exposed_persons"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "119 (1) A securities dealer shall take reasonable measures to determine whether a person for whom they open",
+      "concepts": [
+        "politically_exposed_persons"
+      ],
+      "curated": true
     },
     {
       "unit": "120 (1) A money services business shall take reasonable",
       "concepts": [
-        "suspicious_matter_reporting",
-        "funds_transfer_reporting",
-        "definitions_and_interpretation"
-      ]
+        "politically_exposed_persons"
+      ],
+      "curated": true
     },
     {
       "unit": "120.1 (1) The following persons and entities shall take",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "politically_exposed_persons"
+      ],
+      "curated": true
     },
     {
       "unit": "120.2 (1) A casino shall take reasonable measures to",
       "concepts": [
-        "suspicious_matter_reporting",
-        "funds_transfer_reporting"
-      ]
+        "politically_exposed_persons"
+      ],
+      "curated": true
     },
     {
       "unit": "121 (1) A financial entity, securities dealer or casino",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "politically_exposed_persons",
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "122 (1) A financial entity, life insurance company, life",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "politically_exposed_persons"
+      ],
+      "curated": true
     },
     {
       "unit": "122.1 (1) A person or entity that determines under subsection 120(3), (4) or (5) or 120.1(1), (2) or (4) that a person i",
       "concepts": [
-        "risk_based_approach",
-        "record_keeping",
-        "enforcement_and_offences"
-      ]
+        "politically_exposed_persons"
+      ],
+      "curated": true
     },
     {
       "unit": "123 (1) If a financial entity, securities dealer or casino",
       "concepts": [
+        "politically_exposed_persons",
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "123.1 A person or entity referred to in section 5 of the",
       "concepts": [
-        "risk_based_approach",
-        "funds_transfer_reporting"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "124 (1) For the purposes of section 9.5 of the Act, the",
@@ -746,80 +1184,103 @@
     {
       "unit": "124.1 (1) A financial entity, money services business or",
       "concepts": [
-        "risk_based_approach"
-      ]
+        "funds_transfer_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "126 If a person or entity that is required under these",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "127 (1) If a person or entity that is required to report",
       "concepts": [
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "128 (1) If a person or entity that is required to report",
       "concepts": [
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "129 (1) If a person or entity that is required under these",
       "concepts": [
-        "record_keeping"
-      ]
+        "threshold_transaction_reporting",
+        "virtual_assets"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "130 If, within 24 consecutive hours, a casino makes two",
+      "concepts": [
+        "threshold_transaction_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "132 (1) A report that is required to be made under these",
       "concepts": [
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "134 (1) A person or entity that is required under these",
       "concepts": [
-        "suspicious_matter_reporting",
-        "record_keeping",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "135 (1) A person or entity that is required under these",
       "concepts": [
-        "suspicious_matter_reporting",
-        "record_keeping",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "136 (1) A person or entity that is required to keep an information record under these Regulations — other than",
       "concepts": [
-        "suspicious_matter_reporting",
-        "record_keeping",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "137 (1) A casino that is required to report a disbursement under section 71 shall, when the casino makes the",
       "concepts": [
-        "suspicious_matter_reporting",
-        "record_keeping",
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "138 (1) Every person or entity, other than a title insurer, that is required to verify an entity’s identity in accordanc",
       "concepts": [
-        "customer_due_diligence",
-        "risk_based_approach",
-        "record_keeping",
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "138.1 (1) Every person or entity that identifies a material discrepancy between the information that they obtain",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "139 A trust company that is required to keep a record in",
       "concepts": [
+        "beneficial_ownership",
         "record_keeping"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "142 (1) For the purposes of sections 10, 20, 27 and 31",
@@ -834,16 +1295,41 @@
       ]
     },
     {
-      "unit": "145 Every person and entity that enters into a business",
+      "unit": "144 A person or entity that sends a report to the Centre",
       "concepts": [
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "145 Every person and entity that enters into a business",
+      "concepts": [
+        "customer_due_diligence",
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "146 (1) A person or entity that is required to verify the",
       "concepts": [
+        "customer_due_diligence",
         "record_keeping"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "148 (1) A person or entity that is required to keep",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "149 Every record that is required to be kept under these",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "150 Sections 7, 10 to 14, 16, 85 to 88 and 116, subsections 123(1) and (2), sections 135, 138 and 145 and subsection 148",
@@ -892,15 +1378,17 @@
     {
       "unit": "156 (1) For the purposes of subsection 9.6(1) of the Act,",
       "concepts": [
-        "amlctf_program",
-        "correspondent_banking"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "157 The prescribed special measures that are required",
       "concepts": [
-        "customer_due_diligence"
-      ]
+        "amlctf_program",
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "160 A code of practice shall meet the following requirements:",

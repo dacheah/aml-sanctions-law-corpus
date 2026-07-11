@@ -37,18 +37,23 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "sanctions_permits",
-    "supervisory_architecture",
+    "scope_and_application",
     "suspicious_matter_reporting"
   ],
   "tags": [
     {
       "unit": "Article 1 Definitions",
       "concepts": [
-        "asset_freezing",
-        "enforcement_and_offences",
-        "supervisory_architecture",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 2",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 3",
@@ -67,6 +72,7 @@
     {
       "unit": "Article 5",
       "concepts": [
+        "asset_freezing",
         "enforcement_and_offences"
       ],
       "curated": true

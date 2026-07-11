@@ -8,101 +8,121 @@
   "adoption_date": null,
   "unit_type": "article",
   "unit_count": 19,
+  "operative_count": 18,
   "units": [
     {
       "number": null,
       "label": "preamble/front matter",
-      "text": "1 / 6\nDie Bundesversammlung der Schweizerischen Eidgenossenschaft, gestützt auf Artikel 54 Absatz 1 der Bundesverfassung1,2 nach Einsicht in die Botschaft des Bundesrates vom 20. Dezember 20003, beschliesst:\n1. Abschnitt: Allgemeine Bestimmungen"
+      "text": "1 / 6\nDie Bundesversammlung der Schweizerischen Eidgenossenschaft, gestützt auf Artikel 54 Absatz 1 der Bundesverfassung1,2 nach Einsicht in die Botschaft des Bundesrates vom 20. Dezember 20003, beschliesst:\n1. Abschnitt: Allgemeine Bestimmungen",
+      "operative": false
     },
     {
       "number": "1",
       "label": "Art. 1 Gegenstand",
-      "text": "Art. 1 Gegenstand\n1 Der Bund kann Zwangsmassnahmen erlassen, um Sanktionen durchzusetzen, die von der Organisation der Vereinten Nationen, der Organisation für Sicherheit und Zusammenarbeit in Europa oder von den wichtigsten Handelspartnern der Schweiz beschlossen worden sind und die der Einhaltung des Völkerrechts, namentlich der Respektierung der Menschenrechte, dienen.\n2 Vorbehalten bleiben Massnahmen des Bundesrates zur Wahrung der Interessen des Landes nach Artikel 184 Absatz 3 der Bundesverfassung.\n3 Zwangsmassnahmen können namentlich:\na. den Waren-, Dienstleistungs-, Zahlungs-, Kapital- und Personenverkehr sowie den wissenschaftlichen, technologischen und kulturellen Austausch unmittelbar oder mittelbar beschränken;\nb. Verbote, Bewilligungs- und Meldepflichten sowie andere Einschränkungen von Rechten umfassen."
+      "text": "Art. 1 Gegenstand\n1 Der Bund kann Zwangsmassnahmen erlassen, um Sanktionen durchzusetzen, die von der Organisation der Vereinten Nationen, der Organisation für Sicherheit und Zusammenarbeit in Europa oder von den wichtigsten Handelspartnern der Schweiz beschlossen worden sind und die der Einhaltung des Völkerrechts, namentlich der Respektierung der Menschenrechte, dienen.\n2 Vorbehalten bleiben Massnahmen des Bundesrates zur Wahrung der Interessen des Landes nach Artikel 184 Absatz 3 der Bundesverfassung.\n3 Zwangsmassnahmen können namentlich:\na. den Waren-, Dienstleistungs-, Zahlungs-, Kapital- und Personenverkehr sowie den wissenschaftlichen, technologischen und kulturellen Austausch unmittelbar oder mittelbar beschränken;\nb. Verbote, Bewilligungs- und Meldepflichten sowie andere Einschränkungen von Rechten umfassen.",
+      "operative": true
     },
     {
       "number": "2",
       "label": "Art. 2 Zuständigkeit",
-      "text": "Art. 2 Zuständigkeit\n1 Für den Erlass der Zwangsmassnahmen ist der Bundesrat zuständig. Er kann zur Unterstützung humanitärer Aktivitäten oder zur Wahrung schweizerischer Interessen Ausnahmen festlegen.\n2 Insbesondere für die Lieferung von Lebensmitteln, Medikamenten und therapeutischen Mitteln, die humanitären Zwecken dienen, kann der Bundesrat Ausnahmen nach Absatz 1 festlegen.\n3 Die Zwangsmassnahmen werden in Form von Verordnungen erlassen.\nAS 2002 3673\n1 SR 101 2 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). 3 BBl 2001 1433\n2 / 6"
+      "text": "Art. 2 Zuständigkeit\n1 Für den Erlass der Zwangsmassnahmen ist der Bundesrat zuständig. Er kann zur Unterstützung humanitärer Aktivitäten oder zur Wahrung schweizerischer Interessen Ausnahmen festlegen.\n2 Insbesondere für die Lieferung von Lebensmitteln, Medikamenten und therapeutischen Mitteln, die humanitären Zwecken dienen, kann der Bundesrat Ausnahmen nach Absatz 1 festlegen.\n3 Die Zwangsmassnahmen werden in Form von Verordnungen erlassen.\nAS 2002 3673\n1 SR 101 2 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). 3 BBl 2001 1433\n2 / 6",
+      "operative": true
     },
     {
       "number": "3",
       "label": "Art. 3 Auskunftspflicht",
-      "text": "Art. 3 Auskunftspflicht\nWer von Massnahmen nach diesem Gesetz unmittelbar oder mittelbar betroffen ist, muss den vom Bundesrat bezeichneten Kontrollorganen die Auskünfte erteilen und die Unterlagen einreichen, die für eine umfassende Beurteilung oder Kontrolle erforderlich sind."
+      "text": "Art. 3 Auskunftspflicht\nWer von Massnahmen nach diesem Gesetz unmittelbar oder mittelbar betroffen ist, muss den vom Bundesrat bezeichneten Kontrollorganen die Auskünfte erteilen und die Unterlagen einreichen, die für eine umfassende Beurteilung oder Kontrolle erforderlich sind.",
+      "operative": true
     },
     {
       "number": "4",
       "label": "Art. 4 Befugnisse der Kontrollorgane",
-      "text": "Art. 4 Befugnisse der Kontrollorgane\n1 Die Kontrollorgane sind befugt, die Geschäftsräume der auskunftspflichtigen Personen während der üblichen Arbeitszeit ohne Voranmeldung zu betreten und zu besichtigen sowie die einschlägigen Unterlagen einzusehen. Sie stellen belastendes Material sicher.\n2 Sie können die Polizei der Kantone und Gemeinden sowie die Untersuchungs-organe des Bundesamtes für Zoll und Grenzsicherheit beiziehen.4\n3 Die Kontrollorgane sowie die beigezogenen Behörden sind zur Wahrung des Amtsgeheimnisses verpflichtet und treffen in ihrem Bereich die Vorsichtsmassnahmen, die zur Verhinderung von Wirtschaftsspionage erforderlich sind. 3. Abschnitt: Datenschutz und Zusammenarbeit von Behörden"
+      "text": "Art. 4 Befugnisse der Kontrollorgane\n1 Die Kontrollorgane sind befugt, die Geschäftsräume der auskunftspflichtigen Personen während der üblichen Arbeitszeit ohne Voranmeldung zu betreten und zu besichtigen sowie die einschlägigen Unterlagen einzusehen. Sie stellen belastendes Material sicher.\n2 Sie können die Polizei der Kantone und Gemeinden sowie die Untersuchungs-organe des Bundesamtes für Zoll und Grenzsicherheit beiziehen.4\n3 Die Kontrollorgane sowie die beigezogenen Behörden sind zur Wahrung des Amtsgeheimnisses verpflichtet und treffen in ihrem Bereich die Vorsichtsmassnahmen, die zur Verhinderung von Wirtschaftsspionage erforderlich sind. 3. Abschnitt: Datenschutz und Zusammenarbeit von Behörden",
+      "operative": true
     },
     {
       "number": "5",
       "label": "Art. 5 Datenbearbeitung",
-      "text": "Art. 5 Datenbearbeitung\n1 Die zuständigen Behörden des Bundes dürfen Personendaten bearbeiten, soweit dies für den Vollzug dieses Gesetzes und der Verordnungen nach Artikel 2 Absatz 3 erforderlich ist.\n2 Besonders schützenswerte Personendaten dürfen sie nur bearbeiten, wenn diese verwaltungs- oder strafrechtliche Verfolgungen und Sanktionen betreffen. Andere besonders schützenswerte Personendaten dürfen nur bearbeitet werden, wenn dies zur Behandlung des Einzelfalles unentbehrlich ist."
+      "text": "Art. 5 Datenbearbeitung\n1 Die zuständigen Behörden des Bundes dürfen Personendaten bearbeiten, soweit dies für den Vollzug dieses Gesetzes und der Verordnungen nach Artikel 2 Absatz 3 erforderlich ist.\n2 Besonders schützenswerte Personendaten dürfen sie nur bearbeiten, wenn diese verwaltungs- oder strafrechtliche Verfolgungen und Sanktionen betreffen. Andere besonders schützenswerte Personendaten dürfen nur bearbeitet werden, wenn dies zur Behandlung des Einzelfalles unentbehrlich ist.",
+      "operative": true
     },
     {
       "number": "6",
       "label": "Art. 6 Amtshilfe in der Schweiz",
-      "text": "Art. 6 Amtshilfe in der Schweiz\nDie zuständigen Behörden des Bundes sowie die Polizeiorgane der Kantone und Gemeinden können einander und den jeweiligen Aufsichtsbehörden Daten, ein-schliesslich besonders schützenswerter Personendaten, bekannt geben, soweit dies für den Vollzug dieses Gesetzes und der Verordnungen nach Artikel 2 Absatz 3 erforderlich ist.\n4 Fassung gemäss Ziff. I 39 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 (AS 2020 2743).\n3 / 6"
+      "text": "Art. 6 Amtshilfe in der Schweiz\nDie zuständigen Behörden des Bundes sowie die Polizeiorgane der Kantone und Gemeinden können einander und den jeweiligen Aufsichtsbehörden Daten, ein-schliesslich besonders schützenswerter Personendaten, bekannt geben, soweit dies für den Vollzug dieses Gesetzes und der Verordnungen nach Artikel 2 Absatz 3 erforderlich ist.\n4 Fassung gemäss Ziff. I 39 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 (AS 2020 2743).\n3 / 6",
+      "operative": true
     },
     {
       "number": "7",
       "label": "Art. 7 Amts- und Rechtshilfe zwischen schweizerischen und ausländischen Behörden",
-      "text": "Art. 7 Amts- und Rechtshilfe zwischen schweizerischen und ausländischen Behörden\n1 Die für den Vollzug, die Kontrolle, die Deliktsverhütung oder die Strafverfolgung zuständigen Behörden des Bundes können mit den zuständigen ausländischen Behörden sowie mit internationalen Organisationen oder Gremien zusammenarbeiten und die Erhebungen koordinieren, soweit:\na. dies zum Vollzug dieses Gesetzes und der Verordnungen nach Artikel 2 Absatz 3, entsprechender ausländischer Vorschriften oder solcher von internationalen Organisationen erforderlich ist; und\nb. die ausländischen Behörden, internationalen Organisationen oder Gremien an das Amtsgeheimnis oder an eine entsprechende Verschwiegenheitspflicht gebunden sind und in ihrem Bereich den Schutz vor Wirtschaftsspionage garantieren.\n2 Sie können ausländische Behörden und internationale Organisationen oder Gremien namentlich um Herausgabe der erforderlichen Daten ersuchen. Zu deren Erlangung können sie ihnen Daten, einschliesslich besonders schützenswerter Personendaten, bekannt geben, namentlich über:\na. Beschaffenheit, Menge, Bestimmungs- und Verwendungsort, Verwendungszweck sowie Empfängerinnen und Empfänger von Gütern;\nb. Personen, die an der Herstellung, Lieferung oder Vermittlung von Gütern beteiligt sind;\nc. die finanzielle Abwicklung des Geschäfts;\nd. gesperrte Konten und Vermögenswerte.\n3 Die Bundesbehörden können die Daten nach Absatz 2 von sich aus oder auf Ersuchen des ausländischen Staates bekannt geben, wenn der betreffende Staat:\na. Gegenrecht hält und die internationalen Sanktionen ebenfalls umsetzt;\nb. zusichert, dass die Daten nur für Zwecke nach diesem Gesetz bearbeitet werden; und\nc. zusichert, dass die Daten nur dann in einem Strafverfahren verwendet werden, wenn die Rechtshilfe in Strafsachen nicht wegen der Art der Tat ausgeschlossen wäre.\n4 Die betroffene Verwaltungseinheit des Bundes entscheidet im Einvernehmen mit dem für Rechtshilfe zuständigen Bundesamt5, ob die Voraussetzungen für die Verwendung von Daten in einem Strafverfahren nach Absatz 3 Buchstabe c erfüllt sind.\n5 Die Bundesbehörden können die Daten unter den Voraussetzungen von Absatz 3 auch internationalen Organisationen oder Gremien bekannt geben; sie können dabei auf das Erfordernis des Gegenrechts verzichten.\n6 In Fällen von Verstössen gegen dieses Gesetz kann den ausländischen Behörden, internationalen Organisationen oder Gremien nach Absatz 1 Rechtshilfe geleistet\n5 Zurzeit Bundesamt für Justiz\n4 / 6"
+      "text": "Art. 7 Amts- und Rechtshilfe zwischen schweizerischen und ausländischen Behörden\n1 Die für den Vollzug, die Kontrolle, die Deliktsverhütung oder die Strafverfolgung zuständigen Behörden des Bundes können mit den zuständigen ausländischen Behörden sowie mit internationalen Organisationen oder Gremien zusammenarbeiten und die Erhebungen koordinieren, soweit:\na. dies zum Vollzug dieses Gesetzes und der Verordnungen nach Artikel 2 Absatz 3, entsprechender ausländischer Vorschriften oder solcher von internationalen Organisationen erforderlich ist; und\nb. die ausländischen Behörden, internationalen Organisationen oder Gremien an das Amtsgeheimnis oder an eine entsprechende Verschwiegenheitspflicht gebunden sind und in ihrem Bereich den Schutz vor Wirtschaftsspionage garantieren.\n2 Sie können ausländische Behörden und internationale Organisationen oder Gremien namentlich um Herausgabe der erforderlichen Daten ersuchen. Zu deren Erlangung können sie ihnen Daten, einschliesslich besonders schützenswerter Personendaten, bekannt geben, namentlich über:\na. Beschaffenheit, Menge, Bestimmungs- und Verwendungsort, Verwendungszweck sowie Empfängerinnen und Empfänger von Gütern;\nb. Personen, die an der Herstellung, Lieferung oder Vermittlung von Gütern beteiligt sind;\nc. die finanzielle Abwicklung des Geschäfts;\nd. gesperrte Konten und Vermögenswerte.\n3 Die Bundesbehörden können die Daten nach Absatz 2 von sich aus oder auf Ersuchen des ausländischen Staates bekannt geben, wenn der betreffende Staat:\na. Gegenrecht hält und die internationalen Sanktionen ebenfalls umsetzt;\nb. zusichert, dass die Daten nur für Zwecke nach diesem Gesetz bearbeitet werden; und\nc. zusichert, dass die Daten nur dann in einem Strafverfahren verwendet werden, wenn die Rechtshilfe in Strafsachen nicht wegen der Art der Tat ausgeschlossen wäre.\n4 Die betroffene Verwaltungseinheit des Bundes entscheidet im Einvernehmen mit dem für Rechtshilfe zuständigen Bundesamt5, ob die Voraussetzungen für die Verwendung von Daten in einem Strafverfahren nach Absatz 3 Buchstabe c erfüllt sind.\n5 Die Bundesbehörden können die Daten unter den Voraussetzungen von Absatz 3 auch internationalen Organisationen oder Gremien bekannt geben; sie können dabei auf das Erfordernis des Gegenrechts verzichten.\n6 In Fällen von Verstössen gegen dieses Gesetz kann den ausländischen Behörden, internationalen Organisationen oder Gremien nach Absatz 1 Rechtshilfe geleistet\n5 Zurzeit Bundesamt für Justiz\n4 / 6",
+      "operative": true
     },
     {
       "number": "8",
       "label": "Art. 8",
-      "text": "Art. 8\nDas Verfahren für Beschwerden gegen Verfügungen nach diesem Gesetz richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege. 5. Abschnitt: Strafbestimmungen und Massnahmen"
+      "text": "Art. 8\nDas Verfahren für Beschwerden gegen Verfügungen nach diesem Gesetz richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege. 5. Abschnitt: Strafbestimmungen und Massnahmen",
+      "operative": true
     },
     {
       "number": "9",
       "label": "Art. 9 Verbrechen und Vergehen",
-      "text": "Art. 97 Verbrechen und Vergehen\n1 Wer vorsätzlich gegen Vorschriften von Verordnungen nach Artikel 2 Absatz 3 verstösst, deren Verletzung für strafbar erklärt wird, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.\n2 In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.\n3 Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 100 000 Franken."
+      "text": "Art. 97 Verbrechen und Vergehen\n1 Wer vorsätzlich gegen Vorschriften von Verordnungen nach Artikel 2 Absatz 3 verstösst, deren Verletzung für strafbar erklärt wird, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.\n2 In schweren Fällen ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.\n3 Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 100 000 Franken.",
+      "operative": true
     },
     {
       "number": "10",
       "label": "Art. 10 Übertretungen",
-      "text": "Art. 10 Übertretungen\n1 Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:8\na. die Auskünfte, die Herausgabe von Unterlagen oder den Zutritt zu Geschäftsräumen nach den Artikeln 3 und 4 Absatz 1 verweigert oder in diesem Zusammenhang falsche oder irreführende Angaben macht;\nb. auf andere Weise gegen dieses Gesetz oder gegen Vorschriften von Verordnungen nach Artikel 2 Absatz 3, deren Übertretung für strafbar erklärt wird, oder gegen eine unter Hinweis auf die Strafdrohung dieses Artikels erlassene Verfügung verstösst, ohne dass ein strafbares Verhalten nach einem andern Straftatbestand vorliegt.\n2 Versuch und Gehilfenschaft sind strafbar.\n3 Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 40 000 Franken.\n4 Die Strafverfolgung verjährt in fünf Jahren.9\n6 SR 351.1 7 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). 8 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). 9 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).\n5 / 6"
+      "text": "Art. 10 Übertretungen\n1 Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:8\na. die Auskünfte, die Herausgabe von Unterlagen oder den Zutritt zu Geschäftsräumen nach den Artikeln 3 und 4 Absatz 1 verweigert oder in diesem Zusammenhang falsche oder irreführende Angaben macht;\nb. auf andere Weise gegen dieses Gesetz oder gegen Vorschriften von Verordnungen nach Artikel 2 Absatz 3, deren Übertretung für strafbar erklärt wird, oder gegen eine unter Hinweis auf die Strafdrohung dieses Artikels erlassene Verfügung verstösst, ohne dass ein strafbares Verhalten nach einem andern Straftatbestand vorliegt.\n2 Versuch und Gehilfenschaft sind strafbar.\n3 Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 40 000 Franken.\n4 Die Strafverfolgung verjährt in fünf Jahren.9\n6 SR 351.1 7 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). 8 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). 9 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).\n5 / 6",
+      "operative": true
     },
     {
       "number": "11",
       "label": "Art. 11 Zusammentreffen mehrerer Strafbestimmungen",
-      "text": "Art. 1110 Zusammentreffen mehrerer Strafbestimmungen\n1 Erfüllt ein Verstoss gegen dieses Gesetz zugleich einen Tatbestand des Kriegsmaterialgesetzes vom 13. Dezember 199611, des Güterkontrollgesetzes vom 13. Dezember 199612 oder des Kernenergiegesetzes vom 21. März 200313, so sind ausschliesslich die Strafbestimmungen desjenigen Gesetzes anwendbar, das die schwerste Strafe vorsieht.\n2 Erfüllt ein Verstoss gegen dieses Gesetz zugleich den Tatbestand eines Bannbruchs nach Artikel 120 des Zollgesetzes vom 18. März 200514, so sind ausschliesslich dessen Strafbestimmungen anwendbar; Absatz 1 bleibt vorbehalten."
+      "text": "Art. 1110 Zusammentreffen mehrerer Strafbestimmungen\n1 Erfüllt ein Verstoss gegen dieses Gesetz zugleich einen Tatbestand des Kriegsmaterialgesetzes vom 13. Dezember 199611, des Güterkontrollgesetzes vom 13. Dezember 199612 oder des Kernenergiegesetzes vom 21. März 200313, so sind ausschliesslich die Strafbestimmungen desjenigen Gesetzes anwendbar, das die schwerste Strafe vorsieht.\n2 Erfüllt ein Verstoss gegen dieses Gesetz zugleich den Tatbestand eines Bannbruchs nach Artikel 120 des Zollgesetzes vom 18. März 200514, so sind ausschliesslich dessen Strafbestimmungen anwendbar; Absatz 1 bleibt vorbehalten.",
+      "operative": true
     },
     {
       "number": "12",
       "label": "Art. 12 Verstösse in Geschäftsbetrieben",
-      "text": "Art. 12 Verstösse in Geschäftsbetrieben\nAuf Verstösse in Geschäftsbetrieben ist Artikel 6 des Bundesgesetzes vom 22. März 197415 über das Verwaltungsstrafrecht anwendbar."
+      "text": "Art. 12 Verstösse in Geschäftsbetrieben\nAuf Verstösse in Geschäftsbetrieben ist Artikel 6 des Bundesgesetzes vom 22. März 197415 über das Verwaltungsstrafrecht anwendbar.",
+      "operative": true
     },
     {
       "number": "13",
       "label": "Art. 13 Einziehung von Gegenständen und Vermögenswerten",
-      "text": "Art. 13 Einziehung von Gegenständen und Vermögenswerten\n1 Die einer Zwangsmassnahme unterliegenden Gegenstände und Vermögenswerte werden ohne Rücksicht auf die Strafbarkeit einer bestimmten Person eingezogen, wenn die rechtmässige weitere Verwendung nicht gewährleistet ist.\n2 Die eingezogenen Gegenstände und Vermögenswerte sowie ein allfälliger Verwertungserlös verfallen unter Vorbehalt des Bundesgesetzes vom 19. März 200416 über die Teilung eingezogener Vermögenswerte dem Bund.17"
+      "text": "Art. 13 Einziehung von Gegenständen und Vermögenswerten\n1 Die einer Zwangsmassnahme unterliegenden Gegenstände und Vermögenswerte werden ohne Rücksicht auf die Strafbarkeit einer bestimmten Person eingezogen, wenn die rechtmässige weitere Verwendung nicht gewährleistet ist.\n2 Die eingezogenen Gegenstände und Vermögenswerte sowie ein allfälliger Verwertungserlös verfallen unter Vorbehalt des Bundesgesetzes vom 19. März 200416 über die Teilung eingezogener Vermögenswerte dem Bund.17",
+      "operative": true
     },
     {
       "number": "14",
       "label": "Art. 14 Gerichtsbarkeit",
-      "text": "Art. 14 Gerichtsbarkeit\n1 Das Bundesgesetz vom 22. März 197418 über das Verwaltungsstrafrecht ist anwendbar. Verfolgende und urteilende Behörde ist das Staatssekretariat für Wirtschaft.19\n2 Finden die Strafbestimmungen dieses Gesetzes Anwendung, so kann die Bundesanwaltschaft auf Ersuchen der betroffenen Verwaltungseinheit ein Ermittlungsverfahren eröffnen, wenn die besondere Bedeutung der Straftat dies rechtfertigt. Die Eröffnung des Ermittlungsverfahrens durch die Bundesanwaltschaft begründet Bundesgerichtsbarkeit.\n10 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). 11 SR 514.51 12 SR 946.202 13 SR 732.1 14 SR 631.0 15 SR 313.0 16 SR 312.4 17 Fassung gemäss Anhang Ziff. 7 des BG vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, in Kraft seit 1. Aug. 2004 (AS 2004 3503). 18 SR 313.0 19 Zweiter Satz eingefügt durch Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).\n6 / 6\n6. Abschnitt: Schlussbestimmungen"
+      "text": "Art. 14 Gerichtsbarkeit\n1 Das Bundesgesetz vom 22. März 197418 über das Verwaltungsstrafrecht ist anwendbar. Verfolgende und urteilende Behörde ist das Staatssekretariat für Wirtschaft.19\n2 Finden die Strafbestimmungen dieses Gesetzes Anwendung, so kann die Bundesanwaltschaft auf Ersuchen der betroffenen Verwaltungseinheit ein Ermittlungsverfahren eröffnen, wenn die besondere Bedeutung der Straftat dies rechtfertigt. Die Eröffnung des Ermittlungsverfahrens durch die Bundesanwaltschaft begründet Bundesgerichtsbarkeit.\n10 Fassung gemäss Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827). 11 SR 514.51 12 SR 946.202 13 SR 732.1 14 SR 631.0 15 SR 313.0 16 SR 312.4 17 Fassung gemäss Anhang Ziff. 7 des BG vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, in Kraft seit 1. Aug. 2004 (AS 2004 3503). 18 SR 313.0 19 Zweiter Satz eingefügt durch Ziff. I 35 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 (AS 2023 259; BBl 2018 2827).\n6 / 6\n6. Abschnitt: Schlussbestimmungen",
+      "operative": true
     },
     {
       "number": "15",
       "label": "Art. 15 Berichterstattung",
-      "text": "Art. 15 Berichterstattung\nDer Bundesrat orientiert die Bundesversammlung über die Anwendung dieses Gesetzes in seinen Berichten zur Aussenwirtschaftspolitik."
+      "text": "Art. 15 Berichterstattung\nDer Bundesrat orientiert die Bundesversammlung über die Anwendung dieses Gesetzes in seinen Berichten zur Aussenwirtschaftspolitik.",
+      "operative": true
     },
     {
       "number": "16",
       "label": "Art. 16 Nachführung von Verordnungsanhängen",
-      "text": "Art. 16 Nachführung von Verordnungsanhängen\nDas zuständige Departement20 kann die Anhänge von Verordnungen nach Artikel 2 Absatz 3 nachführen."
+      "text": "Art. 16 Nachführung von Verordnungsanhängen\nDas zuständige Departement20 kann die Anhänge von Verordnungen nach Artikel 2 Absatz 3 nachführen.",
+      "operative": true
     },
     {
       "number": "17",
       "label": "Art. 17 Änderung bisherigen Rechts",
-      "text": "Art. 17 Änderung bisherigen Rechts\nDie nachstehenden Bundesgesetze werden wie folgt geändert:\n…21"
+      "text": "Art. 17 Änderung bisherigen Rechts\nDie nachstehenden Bundesgesetze werden wie folgt geändert:\n…21",
+      "operative": true
     },
     {
       "number": "18",
       "label": "Art. 18 Referendum und Inkrafttreten",
-      "text": "Art. 18 Referendum und Inkrafttreten\n1 Dieses Gesetz untersteht dem fakultativen Referendum.\n2 Der Bundesrat bestimmt das Inkrafttreten.\nDatum des Inkrafttretens: 1. Januar 200322\n20 Zurzeit das Eidgenössische Departement für Wirtschaft, Bildung und Forschung. 21 Die Änd. können unter AS 2002 3673 konsultiert werden. 22 BRB vom 30. Okt. 2002\n"
+      "text": "Art. 18 Referendum und Inkrafttreten\n1 Dieses Gesetz untersteht dem fakultativen Referendum.\n2 Der Bundesrat bestimmt das Inkrafttreten.\nDatum des Inkrafttretens: 1. Januar 200322\n20 Zurzeit das Eidgenössische Departement für Wirtschaft, Bildung und Forschung. 21 Die Änd. können unter AS 2002 3673 konsultiert werden. 22 BRB vom 30. Okt. 2002\n",
+      "operative": true
     }
   ],
   "citations_detected": []

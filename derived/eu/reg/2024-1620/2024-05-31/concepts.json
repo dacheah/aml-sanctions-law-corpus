@@ -36,12 +36,10 @@
     "customer_due_diligence",
     "definitions_and_interpretation",
     "enforcement_and_offences",
-    "enrolment_registration",
     "politically_exposed_persons",
     "risk_based_approach",
     "scope_and_application",
     "supervisory_architecture",
-    "suspicious_matter_reporting",
     "threshold_transaction_reporting",
     "virtual_assets"
   ],
@@ -62,9 +60,9 @@
     {
       "unit": "Article 2 Definitions",
       "concepts": [
-        "supervisory_architecture",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 5 Tasks",
@@ -77,7 +75,8 @@
       "unit": "Article 6 Powers of the Authority",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Chapter II, Section 4;",
@@ -95,36 +94,37 @@
       "unit": "Article 7 Cooperation within the AML/CFT supervisory system",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 8 AML/CFT supervisory methodology",
       "concepts": [
         "risk_based_approach",
-        "supervisory_architecture",
-        "scope_and_application"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 9 Thematic reviews",
       "concepts": [
-        "risk_based_approach",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 10 Mutual assistance in the AML/CFT supervisory system",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 11 Central AML/CFT database",
       "concepts": [
-        "risk_based_approach",
-        "suspicious_matter_reporting",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "SECTION 3",
@@ -135,10 +135,10 @@
     {
       "unit": "Article 12 Assessment of credit institutions and financial institutions for the purposes of selection",
       "concepts": [
-        "virtual_assets",
-        "supervisory_architecture",
-        "scope_and_application"
-      ]
+        "risk_based_approach",
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Chapter III, Section 2, of Regulation (EU) 2024/1624 and the presence and share of customers identified as politically exposed persons;",
@@ -160,61 +160,111 @@
     {
       "unit": "Article 14 Additional transfer of direct supervision tasks and powers in exceptional circumstances up",
       "concepts": [
-        "risk_based_approach",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 15 Cooperation within the AML/CFT supervisory system for the purposes of direct supervision",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 16 Joint supervisory teams",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 17 Requests for information",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 18 General investigations",
       "concepts": [
+        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 19 On-site inspections",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 20 Authorisation by a judicial authority",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 21 Administrative measures",
       "concepts": [
-        "risk_based_approach",
         "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 22 Pecuniary sanctions",
       "concepts": [
-        "customer_due_diligence",
+        "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 23 Periodic penalty payments",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 24 Hearing of persons subject to proceedings",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 25 Publication of administrative measures, pecuniary sanctions and periodic penalty payments",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 26 Enforcement of pecuniary sanctions and periodic penalty payments and allocation of the amo",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 27 Procedural rules for taking supervisory measures and imposing pecuniary sanctions and peri",
       "concepts": [
         "enforcement_and_offences",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 28 Review by the Court of Justice of the European Union",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 29 Language arrangements in direct supervision",
@@ -232,84 +282,134 @@
       "unit": "Article 30 Assessments of the state of supervisory convergence",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 31 Coordination and facilitation of the work of the AML/CFT supervisory colleges in the finan",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 32 Requests to act in exceptional circumstances following indications of serious, repeated or",
       "concepts": [
-        "risk_based_approach",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 33 Settlement of disagreements between financial supervisors in cross-border situations",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 34 Action in cases of systematic failures of supervision",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 35 Peer reviews",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 36 Coordination and facilitation of the work of AML/CFT supervisory colleges in the non-finan",
       "concepts": [
-        "risk_based_approach",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 37 Warnings of breaches of Union law by non-financial supervisors and public authorities over",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 38 Settlement of disagreements between non-financial supervisors in cross-border situations",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 39 Cooperation between the Authority and Financial Intelligence Units",
       "concepts": [
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 40 Conduct of joint analyses",
       "concepts": [
-        "enrolment_registration",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 41 Reporting and transmission of the results of joint analyses",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 42 Requests by the Authority for the initiation of a joint analysis",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 43 Review of the methods and procedures for, and conduct of, joint analyses",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 44 National FIU delegates",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 45 Mutual assistance in the area of cooperation between FIUs",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 46 Mediation between FIUs",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 47 FIU.net",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 48 Peer review",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enforcement_and_offences"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 54 Guidelines and recommendations",

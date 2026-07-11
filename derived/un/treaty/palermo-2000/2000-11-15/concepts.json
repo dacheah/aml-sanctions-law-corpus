@@ -38,6 +38,7 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "record_keeping",
+    "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting"
   ],
@@ -45,16 +46,16 @@
     {
       "unit": "Article 2. Use of terms",
       "concepts": [
-        "asset_freezing",
-        "enforcement_and_offences",
-        "supervisory_architecture"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 3. Scope of application",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 5. Criminalization of participation in an",
@@ -73,8 +74,8 @@
       "unit": "Article 7. Measures to combat money-laundering",
       "concepts": [
         "customer_due_diligence",
-        "suspicious_matter_reporting",
-        "supervisory_architecture"
+        "supervisory_architecture",
+        "suspicious_matter_reporting"
       ],
       "curated": true
     },
@@ -99,6 +100,7 @@
     {
       "unit": "Article 12. Confiscation and seizure",
       "concepts": [
+        "asset_freezing",
         "enforcement_and_offences"
       ],
       "curated": true
@@ -108,7 +110,15 @@
       "concepts": [
         "asset_freezing",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article 14. Disposal of confiscated proceeds of crime or property",
+      "concepts": [
+        "enforcement_and_offences"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 15. Jurisdiction",

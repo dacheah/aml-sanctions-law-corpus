@@ -65,6 +65,8 @@
     {
       "unit": "5  Remittance Sector Register",
       "concepts": [
+        "amlctf_program",
+        "customer_due_diligence",
         "enrolment_registration"
       ],
       "curated": true
@@ -72,8 +74,9 @@
     {
       "unit": "6  Virtual Asset Service Provider Register",
       "concepts": [
-        "virtual_assets",
-        "enrolment_registration"
+        "customer_due_diligence",
+        "enrolment_registration",
+        "virtual_assets"
       ],
       "curated": true
     },
@@ -87,28 +90,35 @@
       "unit": "7  Requirement for AML/CTF policies to deal with carrying out initial customer due diligence",
       "concepts": [
         "amlctf_program",
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "funds_transfer_reporting"
       ],
       "curated": true
     },
     {
       "unit": "8  Use of applicable customer identification procedures by reporting entity",
       "concepts": [
-        "customer_due_diligence"
+        "customer_due_diligence",
+        "funds_transfer_reporting",
+        "virtual_assets"
       ],
       "curated": true
     },
     {
       "unit": "9  IVTS reporting transition date",
       "concepts": [
-        "funds_transfer_reporting"
+        "enrolment_registration",
+        "funds_transfer_reporting",
+        "virtual_assets"
       ],
       "curated": true
     },
     {
       "unit": "10  Modification of reporting obligations before IVTS reporting transition date",
       "concepts": [
-        "funds_transfer_reporting"
+        "enrolment_registration",
+        "funds_transfer_reporting",
+        "virtual_assets"
       ],
       "curated": true
     },
@@ -116,6 +126,7 @@
       "unit": "11  Delayed application of requirement to report transfers of value involving unverified self-hosted virtual asset wallets",
       "concepts": [
         "funds_transfer_reporting",
+        "scope_and_application",
         "virtual_assets"
       ],
       "curated": true
@@ -129,6 +140,7 @@
     {
       "unit": "12  Delayed application of certain Principal Act provisions",
       "concepts": [
+        "amlctf_program",
         "virtual_assets"
       ],
       "curated": true
@@ -136,6 +148,7 @@
     {
       "unit": "13  Timing of enrolment",
       "concepts": [
+        "amlctf_program",
         "enrolment_registration"
       ],
       "curated": true
@@ -143,8 +156,9 @@
     {
       "unit": "14  Registration to provide registrable virtual asset services",
       "concepts": [
-        "virtual_assets",
-        "enrolment_registration"
+        "amlctf_program",
+        "enrolment_registration",
+        "virtual_assets"
       ],
       "curated": true
     },

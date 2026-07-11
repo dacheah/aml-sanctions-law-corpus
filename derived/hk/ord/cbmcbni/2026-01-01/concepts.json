@@ -32,10 +32,12 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
+    "asset_freezing",
     "cash_couriers",
     "definitions_and_interpretation",
     "enforcement_and_offences",
     "enrolment_registration",
+    "scope_and_application",
     "threshold_transaction_reporting"
   ],
   "tags": [
@@ -50,39 +52,53 @@
     {
       "unit": "2. Interpretation",
       "concepts": [
-        "enrolment_registration",
         "definitions_and_interpretation"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "3. Non-application to persons in transit at Hong Kong International Airport",
+      "concepts": [
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "4. Declaration for CBNIs in possession of persons arriving at specified control points",
       "concepts": [
-        "cash_couriers"
+        "cash_couriers",
+        "enforcement_and_offences"
       ],
       "curated": true
     },
     {
       "unit": "5. Disclosure by persons arriving in Hong Kong other than at specified control points and persons about to leave Hong Ko",
       "concepts": [
+        "cash_couriers",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "6. Declaration by persons making disclosure under section 5",
       "concepts": [
+        "cash_couriers",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "8. CBNIs to which this Division applies",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "9. Declaration by importers or exporters of CBNIs",
       "concepts": [
-        "cash_couriers"
+        "cash_couriers",
+        "enforcement_and_offences"
       ],
       "curated": true
     },
@@ -109,9 +125,9 @@
     {
       "unit": "13. Written notice about not instituting criminal proceedings on payment",
       "concepts": [
-        "enrolment_registration",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "14. Register of records of persons paying specified amount",
@@ -129,15 +145,16 @@
     {
       "unit": "17. Seizure and detention of CBNIs suspected to be crime proceeds or terrorist property",
       "concepts": [
-        "enforcement_and_offences",
-        "definitions_and_interpretation"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "18. Continued detention of CBNIs suspected to be crime proceeds by court order",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "19. Further provisions on detention of CBNIs suspected to be crime proceeds",
@@ -149,7 +166,8 @@
       "unit": "24. Offences in relation to non-compliance with requirements of authorized officers etc.",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "25. Arrest and detention",
@@ -166,9 +184,9 @@
     {
       "unit": "30. Liability of directors, partners, etc.",
       "concepts": [
-        "threshold_transaction_reporting",
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "31. Burden of proof",

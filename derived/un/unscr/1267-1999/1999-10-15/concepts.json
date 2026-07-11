@@ -33,7 +33,10 @@
   "tagging_method": "hybrid",
   "document_concepts": [
     "asset_freezing",
+    "designation_criteria",
     "enforcement_and_offences",
+    "sanctions_permits",
+    "sanctions_prohibitions",
     "un_and_autonomous_sanctions"
   ],
   "tags": [
@@ -49,7 +52,16 @@
       "unit": "para 4 Decides further that, in order to enforce paragraph 2 above, all States shall:",
       "concepts": [
         "asset_freezing",
+        "sanctions_permits",
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "para 6 Decides to establish, in accordance with rule 28 of its provisional rules of procedure, a Committee of the Securi",
+      "concepts": [
+        "designation_criteria"
       ],
       "curated": true
     },

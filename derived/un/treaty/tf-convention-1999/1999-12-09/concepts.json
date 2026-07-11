@@ -38,14 +38,16 @@
     "enforcement_and_offences",
     "enrolment_registration",
     "record_keeping",
+    "scope_and_application",
     "suspicious_matter_reporting"
   ],
   "tags": [
     {
       "unit": "Article 1",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 2",
@@ -57,14 +59,16 @@
     {
       "unit": "Article 3",
       "concepts": [
-        "enforcement_and_offences"
-      ]
+        "scope_and_application"
+      ],
+      "curated": true
     },
     {
       "unit": "Article 4",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article 5",

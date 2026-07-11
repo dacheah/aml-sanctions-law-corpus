@@ -32,20 +32,24 @@
   ],
   "tagging_method": "hybrid",
   "document_concepts": [
+    "amlctf_program",
     "asset_freezing",
     "beneficial_ownership",
     "correspondent_banking",
     "customer_due_diligence",
+    "definitions_and_interpretation",
+    "designated_services",
     "enforcement_and_offences",
     "enrolment_registration",
     "funds_transfer_reporting",
     "politically_exposed_persons",
-    "proliferation_financing",
     "record_keeping",
     "risk_based_approach",
+    "sanctions_prohibitions",
     "scope_and_application",
     "supervisory_architecture",
     "suspicious_matter_reporting",
+    "tipping_off",
     "un_and_autonomous_sanctions",
     "virtual_assets"
   ],
@@ -53,29 +57,23 @@
     {
       "unit": "Article (1)",
       "concepts": [
-        "funds_transfer_reporting",
-        "virtual_assets",
-        "asset_freezing",
-        "enforcement_and_offences"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (2) hereof.",
       "concepts": [
-        "beneficial_ownership",
-        "funds_transfer_reporting",
-        "enrolment_registration",
-        "correspondent_banking",
-        "virtual_assets",
-        "supervisory_architecture",
-        "scope_and_application"
-      ]
+        "definitions_and_interpretation"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (3)",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "designated_services"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (4)",
@@ -87,6 +85,14 @@
     {
       "unit": "Article (20) hereof;",
       "concepts": [
+        "customer_due_diligence",
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (5)",
+      "concepts": [
         "customer_due_diligence"
       ],
       "curated": true
@@ -94,9 +100,9 @@
     {
       "unit": "Article (6)",
       "concepts": [
-        "customer_due_diligence",
-        "funds_transfer_reporting"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (7)",
@@ -115,18 +121,27 @@
     {
       "unit": "Article (9)",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership"
-      ]
+        "beneficial_ownership",
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (10)",
       "concepts": [
         "beneficial_ownership"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (11)",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (12)",
       "concepts": [
         "customer_due_diligence"
       ],
@@ -137,14 +152,16 @@
       "concepts": [
         "customer_due_diligence",
         "suspicious_matter_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (14)",
       "concepts": [
         "correspondent_banking",
-        "politically_exposed_persons"
-      ]
+        "customer_due_diligence"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (15)",
@@ -155,43 +172,61 @@
       "curated": true
     },
     {
+      "unit": "Article (16)",
+      "concepts": [
+        "suspicious_matter_reporting"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Article (17)",
       "concepts": [
         "suspicious_matter_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (18)",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (19)",
-      "concepts": [
-        "customer_due_diligence",
-        "supervisory_architecture"
-      ]
-    },
-    {
-      "unit": "Article (20)",
       "concepts": [
         "customer_due_diligence"
       ],
       "curated": true
     },
     {
-      "unit": "Article (21)",
+      "unit": "Article (20)",
       "concepts": [
+        "customer_due_diligence",
         "suspicious_matter_reporting"
       ]
+    },
+    {
+      "unit": "Article (21)",
+      "concepts": [
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (22)",
       "concepts": [
         "customer_due_diligence",
-        "supervisory_architecture"
-      ]
+        "risk_based_approach"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (23)",
+      "concepts": [
+        "risk_based_approach"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (24)",
@@ -205,97 +240,116 @@
     {
       "unit": "Article (25)",
       "concepts": [
-        "customer_due_diligence",
         "correspondent_banking"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (26)",
       "concepts": [
-        "funds_transfer_reporting",
         "enrolment_registration"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (27)",
       "concepts": [
-        "customer_due_diligence",
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (28)",
       "concepts": [
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (24) hereof.",
       "concepts": [
-        "risk_based_approach",
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (29)",
       "concepts": [
-        "customer_due_diligence",
-        "risk_based_approach",
         "funds_transfer_reporting"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (30)",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "funds_transfer_reporting"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (31)",
       "concepts": [
-        "customer_due_diligence",
-        "suspicious_matter_reporting"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (32)",
       "concepts": [
-        "risk_based_approach"
-      ]
+        "amlctf_program"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (33)",
       "concepts": [
-        "suspicious_matter_reporting",
         "enrolment_registration",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (4) of this Resolution.",
       "concepts": [
-        "record_keeping",
+        "funds_transfer_reporting",
         "virtual_assets"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (34)",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (35)",
+      "concepts": [
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (8) hereof, together with partners or shareholders register, number of stocks or",
       "concepts": [
-        "enrolment_registration"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (36)",
+      "concepts": [
+        "record_keeping"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (37)",
       "concepts": [
-        "beneficial_ownership",
-        "record_keeping"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (38)",
@@ -307,73 +361,87 @@
     {
       "unit": "Article (39)",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "tipping_off"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (40)",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (41)",
       "concepts": [
-        "suspicious_matter_reporting",
-        "enrolment_registration"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (42)",
       "concepts": [
-        "suspicious_matter_reporting"
-      ]
+        "supervisory_architecture"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (43)",
+      "concepts": [
+        "supervisory_architecture"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (44)",
       "concepts": [
-        "customer_due_diligence",
-        "beneficial_ownership",
         "risk_based_approach",
-        "record_keeping",
-        "virtual_assets",
-        "un_and_autonomous_sanctions",
-        "proliferation_financing",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (45)",
       "concepts": [
-        "risk_based_approach",
-        "asset_freezing",
         "supervisory_architecture"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (46)",
       "concepts": [
-        "suspicious_matter_reporting",
         "asset_freezing"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (47)",
       "concepts": [
         "asset_freezing"
-      ]
+      ],
+      "curated": true
+    },
+    {
+      "unit": "Article (48)",
+      "concepts": [
+        "asset_freezing"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (49)",
       "concepts": [
         "enforcement_and_offences"
-      ]
+      ],
+      "curated": true
     },
     {
       "unit": "Article (54)",
       "concepts": [
-        "supervisory_architecture"
-      ]
+        "beneficial_ownership"
+      ],
+      "curated": true
     },
     {
       "unit": "Article (55)",
@@ -398,8 +466,10 @@
     {
       "unit": "Article (60)",
       "concepts": [
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions"
-      ]
+      ],
+      "curated": true
     }
   ]
 }

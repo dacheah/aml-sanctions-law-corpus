@@ -34,8 +34,8 @@
   "document_concepts": [
     "asset_freezing",
     "definitions_and_interpretation",
+    "designation_criteria",
     "enforcement_and_offences",
-    "enrolment_registration",
     "sanctions_prohibitions",
     "un_and_autonomous_sanctions"
   ],
@@ -43,6 +43,7 @@
     {
       "unit": "§ 1701. Unusual and extraordinary threat; dec-",
       "concepts": [
+        "sanctions_prohibitions",
         "un_and_autonomous_sanctions"
       ],
       "curated": true
@@ -50,8 +51,8 @@
     {
       "unit": "§ 1702. Presidential authorities",
       "concepts": [
-        "sanctions_prohibitions",
-        "asset_freezing"
+        "asset_freezing",
+        "sanctions_prohibitions"
       ],
       "curated": true
     },
@@ -69,17 +70,39 @@
       "curated": true
     },
     {
+      "unit": "§ 1707. Multinational economic embargoes against governments in armed conflict with the United States",
+      "concepts": [
+        "sanctions_prohibitions",
+        "un_and_autonomous_sanctions"
+      ],
+      "curated": true
+    },
+    {
       "unit": "§ 1708. Actions to address economic or industrial",
       "concepts": [
-        "definitions_and_interpretation"
-      ]
+        "asset_freezing",
+        "designation_criteria",
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "§ 1709. Imposition of sanctions with respect to",
       "concepts": [
-        "enrolment_registration",
-        "definitions_and_interpretation"
-      ]
+        "asset_freezing",
+        "designation_criteria",
+        "sanctions_prohibitions"
+      ],
+      "curated": true
+    },
+    {
+      "unit": "§ 1710. Confronting asymmetric and malicious",
+      "concepts": [
+        "asset_freezing",
+        "designation_criteria",
+        "sanctions_prohibitions"
+      ],
+      "curated": true
     },
     {
       "unit": "SUBCHAPTER I—ELECTRONIC SURVEILLANCE",
