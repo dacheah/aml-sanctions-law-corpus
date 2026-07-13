@@ -4,329 +4,389 @@
     {
       "name": "AML/CTF Act 2006 — compilations (C2006A00169)",
       "url": "https://www.legislation.gov.au/C2006A00169/latest/versions",
-      "last_sha256": null
+      "last_sha256": "sha256:6ad0bff29c0757e63862a2b65a8604a8fbcbdd693055c1ea3610fed631c3e1b7",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "AML/CTF Amendment Act 2024 (C2024A00110)",
       "url": "https://www.legislation.gov.au/C2024A00110/latest/versions",
-      "last_sha256": null
+      "last_sha256": "sha256:66ff8906176470393b529ba87e7b9cbcdd86c3578a44382656017701d506774c",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "AML/CTF Transitional Rules 2026 (F2026L00393)",
       "url": "https://www.legislation.gov.au/F2026L00393/latest/versions",
-      "last_sha256": null
+      "last_sha256": "sha256:a56432f529c107959a5188a0a5a19414680b4e9ed83537e6f39a7a83101e6b27",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Charter of the United Nations Act 1945 (C1945A00032)",
       "url": "https://www.legislation.gov.au/C1945A00032/latest/versions",
-      "last_sha256": null
+      "last_sha256": "sha256:4ec6aa7d74cbcf021da99f6991dc119a0c7c782dcd43ae6b09dc5d2bbc924a0a",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Autonomous Sanctions Act 2011 (C2011A00038)",
       "url": "https://www.legislation.gov.au/C2011A00038/latest/versions",
-      "last_sha256": null
+      "last_sha256": "sha256:5fc07b62fb2a61984f76100ea2464b00720efac5e350ef76ab0acdee131be0c1",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Autonomous Sanctions Regulations 2011 (F2011L02673)",
       "url": "https://www.legislation.gov.au/F2011L02673/latest/versions",
-      "last_sha256": null
+      "last_sha256": "sha256:e8953f80df4ddc9677a4d9676b9a6181b9eac1f05ac225dea86da50f261d3f07",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "AML/CTF Rules 2025 — principal rules (F2026C00274)",
       "url": "https://www.legislation.gov.au/F2026C00274/latest/versions",
-      "last_sha256": null
+      "last_sha256": "sha256:07e2db50622ce3e435c6c41585eeb9e8bd46b6f9b1c0128c3f57ba7d7daa7523",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "FATF 40 Recommendations (standard)",
       "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UK Proceeds of Crime Act 2002 (c. 29) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2002/29/contents",
-      "last_sha256": null
+      "last_sha256": "sha256:e47029a6e273437ed0ee778fee1656ba3647091f1211c2d51350c3b46048b503",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UK Terrorism Act 2000 (c. 11) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2000/11/contents",
-      "last_sha256": null
+      "last_sha256": "sha256:c5b8f89e0895e6f1d5d614e5eeeaac5ac74631a15a49eee6be1695ec73dc12d1",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UK Money Laundering Regulations 2017 (SI 2017/692) — revised",
       "url": "https://www.legislation.gov.uk/uksi/2017/692/contents",
-      "last_sha256": null
+      "last_sha256": "sha256:335e1d000ff77b734c39a55228831fe7f5f8f1ddd316065feecb09430c5e74c9",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UK Sanctions and Anti-Money Laundering Act 2018 (c. 13) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2018/13/contents",
-      "last_sha256": null
+      "last_sha256": "sha256:030ec7daad20df7ac30ce2d72d957dbb650ec0c15b83e77812aa55d90f976754",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "US Bank Secrecy Act — 31 U.S.C. ch. 53 subch. II (current)",
       "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title31/subtitle4/chapter53/subchapter2&edition=prelim",
-      "last_sha256": null
+      "last_sha256": "sha256:eb143f0ff712bbfefbbb455e1e9325cc631a1d1d92276576f0779d7cae2a03e3",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "US 31 C.F.R. Part 1010 — FinCEN general provisions (eCFR)",
       "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010",
-      "last_sha256": null
+      "last_sha256": "sha256:88139463ac7738f42e4dae57184fdf61ccbe3d60f910ff17e8ddb3d1e7699a63",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "US IEEPA — 50 U.S.C. ch. 35 (current)",
       "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter35&edition=prelim",
-      "last_sha256": null
+      "last_sha256": "sha256:937d3833cb7ce9d67710bd95a74af02c9997966b1d72488ddc8127b1d3c68458",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "EU 4AMLD — Directive (EU) 2015/849 (consolidated, EUR-Lex)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L0849-20241230",
-      "last_sha256": null
+      "last_sha256": "sha256:9c089bccc152a1b3456795af9eaaebecddbfc4c31912919d0af2fe9566e11938",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "EU AML Regulation 2024/1624 (AMLR, EUR-Lex)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1624",
-      "last_sha256": null
+      "last_sha256": "sha256:e377df993ea8671f88d46490a92a2e8ed346245b36a4f9af4d251cdbeb537e71",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "EU 6AMLD — Directive (EU) 2024/1640 (EUR-Lex)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1640",
-      "last_sha256": null
+      "last_sha256": "sha256:c6a2bdd090d59feb257d6ca67769599503d3ff14244a7e75bd1a80946a971482",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "EU AMLA Regulation 2024/1620 (EUR-Lex)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1620",
-      "last_sha256": null
+      "last_sha256": "sha256:e0f237f6767da1e396deb1848aeeb8c5885798a59e76f75249a53c652c811010",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN Vienna Convention 1988 (UNODC)",
       "url": "https://www.unodc.org/pdf/convention_1988_en.pdf",
-      "last_sha256": null
+      "last_sha256": "sha256:07a95ba3bbb9ae7e7c7f80bae88c1858a335fd6b23d12d9a1e18f65b40ed24b5",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN Convention against Transnational Organized Crime (Palermo/UNTOC 2000, UNODC)",
       "url": "https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html",
-      "last_sha256": null
+      "last_sha256": "sha256:0716f60e762e39053b22d0c788ac281ec87c221cea8c018d3652339b3244c562",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN International Convention for the Suppression of the Financing of Terrorism (1999, UNODC)",
       "url": "https://www.unodc.org/documents/treaties/Special/1999%20International%20Convention%20for%20the%20Suppression%20of%20the%20Financing%20of%20Terrorism.pdf",
-      "last_sha256": null
+      "last_sha256": "sha256:41015d1bc6a3f1c7758ae134ba087a79fa92f6c0c103f91d801dd880d4906620",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN Security Council Resolution 1267 (1999)",
       "url": "https://undocs.org/S/RES/1267(1999)",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN Security Council Resolution 1373 (2001)",
       "url": "https://undocs.org/S/RES/1373(2001)",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN Security Council Resolution 1540 (2004)",
       "url": "https://undocs.org/S/RES/1540(2004)",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN Convention against Corruption (UNCAC/Mérida 2003, UNODC)",
       "url": "https://www.unodc.org/documents/treaties/UNCAC/Publications/Convention/08-50026_E.pdf",
-      "last_sha256": null
+      "last_sha256": "sha256:b560461785105c014b1fa45963d2b3c251da922d4019b94e608a7443c044cabb",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Canada — PCMLTFA (S.C. 2000, c. 17)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/",
-      "last_sha256": null
+      "last_sha256": "sha256:2d59431c7d8c5683464a54b0a4a7459666238fd7d89c253d9684f9cd09642610",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Canada — PCMLTFR (SOR/2002-184)",
       "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-184/",
-      "last_sha256": null
+      "last_sha256": "sha256:88da139f2fdfa2657c8202f0f28d1ce7055845d7d66cc27cb5dae40f3bb45422",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Canada — Criminal Code (R.S.C. 1985, c. C-46)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
-      "last_sha256": null
+      "last_sha256": "sha256:f821200c8156c7a1830486fccbc5cf42c56f7e01e5a61991839f85ddc9aec72d",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Canada — Special Economic Measures Act (S.C. 1992, c. 17)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/S-14.5/",
-      "last_sha256": null
+      "last_sha256": "sha256:2e593128a1d611c62173dbf443090379865ece8e710e5f7b264b17475a186dab",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Canada — United Nations Act (R.S.C. 1985, c. U-2)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/U-2/",
-      "last_sha256": null
+      "last_sha256": "sha256:12cdb67f2c245193c2c5c9ecac15d91165b674b85047bfa93e3b2fff6ab4cf00",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Canada — JVCFOA / Magnitsky (S.C. 2017, c. 21)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/J-2.3/",
-      "last_sha256": null
+      "last_sha256": "sha256:727e7ee229adc321de27ef6e2fe99a8ec10297d66f1bd12361840d6427d756d4",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Singapore — CDSA (Act 29 of 1992)",
       "url": "https://sso.agc.gov.sg/Act/CDTOSCCBA1992",
-      "last_sha256": null
+      "last_sha256": "sha256:ad1d2615fc720a92d91ea2f98ab343a0b2dc35175346a56dabfe7cfb497b540c",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Singapore — TSOFA (Act 16 of 2002)",
       "url": "https://sso.agc.gov.sg/Act/TSFA2002",
-      "last_sha256": null
+      "last_sha256": "sha256:d3a570f03e6a25d077c81ef9d269c730af6cb7181fdbbb3a8344be388d20b4fc",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Singapore — United Nations Act 2001 (Act 44 of 2001)",
       "url": "https://sso.agc.gov.sg/Act/UNA2001",
-      "last_sha256": null
+      "last_sha256": "sha256:d50f5bf4c0cde73084a678e0d54a3edb2e3f5827179a0cc61448a4a31199ec0e",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Singapore — UN (Anti-Terrorism Measures) Regs (Rg 1)",
       "url": "https://sso.agc.gov.sg/SL/UNA2001-RG1",
-      "last_sha256": null
+      "last_sha256": "sha256:734b91ce438a1366bc76ce7accaf62ab3c9ae26c4d00c8da529b2e8aae56fcb6",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Singapore — Precious Stones and Precious Metals Act 2019 (Act 7 of 2019)",
       "url": "https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019",
-      "last_sha256": null
+      "last_sha256": "sha256:2e3db863689f779325853eb6f21d53bb368f3489b6a1ec028b74527cea77b6a3",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Switzerland — AMLA / GwG (SR 955.0)",
       "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Switzerland — AMLO / GwV (SR 955.01)",
       "url": "https://www.fedlex.admin.ch/eli/cc/2015/791/de",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Switzerland — AMLO-FINMA / GwV-FINMA (SR 955.033.0)",
       "url": "https://www.fedlex.admin.ch/eli/cc/2015/390/de",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Switzerland — Criminal Code (SR 311.0)",
       "url": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Switzerland — Embargo Act / EmbG (SR 946.231)",
       "url": "https://www.fedlex.admin.ch/eli/cc/2002/564/de",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Canada — Freezing Assets of Corrupt Foreign Officials Act (S.C. 2011, c. 10)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/F-31.6/",
-      "last_sha256": null
+      "last_sha256": "sha256:452a7868d78631a828de8b54cc01c958628f251e06e915ce9a26f58228cc86d6",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Hong Kong — AMLO (Cap. 615)",
       "url": "https://www.elegislation.gov.hk/hk/cap615",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Hong Kong — OSCO (Cap. 455)",
       "url": "https://www.elegislation.gov.hk/hk/cap455",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Hong Kong — DTROP (Cap. 405)",
       "url": "https://www.elegislation.gov.hk/hk/cap405",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Hong Kong — UNATMO (Cap. 575)",
       "url": "https://www.elegislation.gov.hk/hk/cap575",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Hong Kong — UN Sanctions Ordinance (Cap. 537)",
       "url": "https://www.elegislation.gov.hk/hk/cap537",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Hong Kong — WMD(CPS)O (Cap. 526)",
       "url": "https://www.elegislation.gov.hk/hk/cap526",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Hong Kong — Cross-boundary Currency & BNI Ordinance (Cap. 629)",
       "url": "https://www.elegislation.gov.hk/hk/cap629",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Japan — Criminal Proceeds Transfer Prevention Act (Act 22/2007)",
       "url": "https://laws.e-gov.go.jp/law/419AC0000000022",
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/419AC0000000022",
-      "last_sha256": null
+      "last_sha256": "sha256:423c6f35e45c714bc4a3595d3997304c58bcfa367a524f568b95d04aab1afdd9",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Japan — Organized Crime Punishment Act (Act 136/1999)",
       "url": "https://laws.e-gov.go.jp/law/411AC0000000136",
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/411AC0000000136",
-      "last_sha256": null
+      "last_sha256": "sha256:948a98b673eadf681ccaee74646fb9688cc4cb53c2d89212dc069dc0f4722a6b",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Japan — Terrorist Financing Punishment Act (Act 67/2002)",
       "url": "https://laws.e-gov.go.jp/law/414AC0000000067",
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/414AC0000000067",
-      "last_sha256": null
+      "last_sha256": "sha256:26b8061e9828fedb39d044ff44d613e1eae95faab1626b4fa0c6489b28860fcd",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Japan — FEFTA (Act 228/1949)",
       "url": "https://laws.e-gov.go.jp/law/324AC0000000228",
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/324AC0000000228",
-      "last_sha256": null
+      "last_sha256": "sha256:13c06bb9f65b7dce4a3bab52cba90e04b060edba1afaa9b6bc2626c0a422d7e4",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "Japan — International Terrorist Asset-Freezing Act (Act 124/2014)",
       "url": "https://laws.e-gov.go.jp/law/426AC0000000124",
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/426AC0000000124",
-      "last_sha256": null
+      "last_sha256": "sha256:69d7ea88b2dfc94f3c0260b9add979afef543dbe299e7b53a0971b43b80236f2",
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UAE — Federal Decree-Law 10/2025 (AML/CTF/PF)",
       "url": "https://uaelegislation.gov.ae/en/legislations/3314",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UAE — Federal Decree-Law 20/2018 (superseded)",
       "url": "https://uaelegislation.gov.ae/en/legislations/1016",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UAE — Implementing Regulation (Cabinet Decision 10/2019)",
       "url": "https://uaelegislation.gov.ae/en/legislations/1015",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UAE — TFS mechanism (Cabinet Decision 74/2020)",
       "url": "https://uaelegislation.gov.ae/en/legislations/2198",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UAE — Combating Terrorism Crimes Law (7/2014)",
       "url": "https://uaelegislation.gov.ae/en/legislations/1018",
       "render": "spa",
-      "last_sha256": null
+      "last_sha256": null,
+      "last_checked": "2026-07-13T21:13:37Z"
     }
   ],
   "_pending_once_ids_confirmed": [
