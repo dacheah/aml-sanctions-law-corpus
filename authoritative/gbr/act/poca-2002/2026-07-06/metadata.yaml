@@ -60,3 +60,6 @@ verification:
     is wholly attributable to this corpus's deliberate removal of per-page furniture (the repeated 'Changes
     to legislation' banner, 'Document Generated' line and running-header title, which pdftotext retains);
     a token-level diff confirmed the residual is furniture, not substantive provisions.
+binding_force: binding
+issuing_authority: "Parliament of the United Kingdom"
+administering_authority: null

@@ -52,3 +52,6 @@ verification:
   note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers,
     ''Verified Copy''/''Last updated'' footer) the comparison engine retains; a token diff confirms the
     residual is non-substantive.'
+binding_force: binding
+issuing_authority: "Legislative Council of Hong Kong"
+administering_authority: null

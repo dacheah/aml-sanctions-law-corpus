@@ -54,3 +54,6 @@ verification:
   note: 'Reverse direction below 1.0 by design: the stored text omits per-page furniture (running headers/footers)
     and, for bilingual/section-extract records, the untargeted language or sections the comparison engine
     retains; a token diff confirms the residual is non-substantive.'
+binding_force: binding
+issuing_authority: "Government of Canada (Governor in Council)"
+administering_authority: null

@@ -56,3 +56,6 @@ verification:
     the 0.995 English-calibrated gate because German long compound words tokenise differently between
     the two engines; a manual diff confirms every residual token is a real compound present in the source
     (no fabrication).'
+binding_force: binding
+issuing_authority: "Swiss Federal Assembly"
+administering_authority: null

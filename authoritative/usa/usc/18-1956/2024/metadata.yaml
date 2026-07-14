@@ -53,3 +53,6 @@ verification:
   note: 'Reverse direction below 1.0 by design: stored text omits per-page running headers and adjacent-section
     spillover (PDF) / site chrome (HTML) the comparison engine retains; a token diff confirms the residual
     is non-substantive.'
+binding_force: binding
+issuing_authority: "United States Congress"
+administering_authority: null

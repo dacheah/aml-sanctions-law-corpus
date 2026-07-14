@@ -54,3 +54,6 @@ verification:
   note: CJK text (no inter-word spaces); token coverage is computed over whitespace-delimited runs and
     here both engines agree exactly. Reverse below 1.0 reflects only extraction-order/segment differences,
     not missing text.
+binding_force: binding
+issuing_authority: "National Diet of Japan"
+administering_authority: null

@@ -65,3 +65,6 @@ verification:
   note: Verification is of the stored English translation. The authentic Arabic (authentic_source) is
     preserved but not text-verified; only poppler reads Arabic at all and its output has RTL ordering
     artifacts, so cross-engine verification is not available for the Arabic.
+binding_force: binding
+issuing_authority: "President of the United Arab Emirates"
+administering_authority: null

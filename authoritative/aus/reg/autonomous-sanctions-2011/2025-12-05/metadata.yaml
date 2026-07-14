@@ -60,3 +60,6 @@ verification:
   verified_by: corpus maintainer (automated cross-engine gate)
   verified_date: '2026-07-09'
   note: Two independent DOCX renderers agree in both directions to >=0.99, corroborating faithful capture.
+binding_force: binding
+issuing_authority: "Governor-General of Australia in Council"
+administering_authority: null

@@ -60,3 +60,6 @@ verification:
   verified_date: '2026-07-09'
   note: 'Reverse direction below 1.0 by design: stored text omits running-header/masthead furniture (PDF)
     or head/chrome (HTML) the comparison engine retains; a token diff confirms the residual is non-substantive.'
+binding_force: binding
+issuing_authority: "United Nations Security Council"
+administering_authority: null
