@@ -83,6 +83,11 @@
       "name": "US 31 C.F.R. Part 1010 — FinCEN general provisions (eCFR)",
       "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010",
       "monitor_url": "https://www.ecfr.gov/api/versioner/v1/versions/title-31.json?part=1010",
+      "json_extract": {
+        "records": "content_versions",
+        "fields": {"citation": "identifier", "title": "name", "date": "amendment_date"},
+        "_note": "FinCEN's general provisions run to 157 sections. Record-level monitoring names which section was amended and when, rather than reporting that a 157-section payload differs."
+      },
       "_note": "2026-07-18: the human-facing eCFR page BLOCKS automated fetches — it redirected to unblock.federalregister.gov ('Request Access'), so this source was hashing an access-denied page, not FinCEN's rules. Switched to the OFFICIAL eCFR versioner API, published for programmatic use (no stealth, no proxy). It reports amendment dates per SECTION, so a change names the sections amended. The identical defect and identical fix were found in the deep-seabed corpus the same day (15 CFR 970/971). Hash cleared to force a fresh baseline.",
       "last_sha256": null,
       "last_checked": "2026-07-13T21:13:37Z"
