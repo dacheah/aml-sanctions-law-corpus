@@ -5,6 +5,7 @@ scripts/*
 !scripts/hashing.py
 !scripts/validate_corpus.py
 !scripts/watch_sources.py
+!scripts/audit_sources.py
 __pycache__/
 *.pyc
 .DS_Store
