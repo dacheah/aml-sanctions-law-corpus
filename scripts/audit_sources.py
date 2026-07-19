@@ -34,13 +34,18 @@ import os
 import re
 import sys
 import time
+from urllib.parse import quote, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 
 HERE = os.path.dirname(os.path.abspath(__file__))          # scripts/
 REPO = os.path.dirname(HERE)                                # repo root
 SOURCES = os.path.join(REPO, "monitoring", "sources.json")
 REPORT = os.path.join(REPO, "monitoring", "source_audit.md")
-UA = "provenance-corpus-monitor/0.2 (+source audit; honours robots)"
+# MUST match the monitor's agent, or the audit measures the wrong client. Proved 2026-07-18:
+# boletinoficial.gob.ar refused a bare token with URLError but served 136 KB to this string.
+# An audit that fails where the monitor succeeds reports phantom dead sources — and several
+# 403s in the first Neo audit are now suspect for exactly this reason.
+UA = "Mozilla/5.0 (compatible; provenance-corpus-monitor/1.0; +https://github.com/dacheah)"
 
 # Structural words that carry no signal when matching a source name against a page title.
 STOP_BASE = {"the", "and", "for", "with", "from", "list", "page", "new", "official", "document",
@@ -57,7 +62,13 @@ def norm_url(u: str) -> str:
 
 
 def redirected(requested: str, final: str) -> bool:
-    return norm_url(requested) != norm_url(final)
+    """Compare the ENCODED request against the final URL.
+
+    A non-ASCII URL is percent-encoded before the fetch, so the server reports the encoded form
+    back. Comparing that to the raw source URL made every Arabic, Korean and accented-Spanish
+    source look like it redirected. Same resource, different spelling — not a redirect.
+    """
+    return norm_url(encode_url(requested)) != norm_url(final)
 
 
 def page_title(html: str) -> str:
@@ -136,8 +147,30 @@ def duplicate_hashes(sources: list) -> list:
 
 
 # ---- live check -----------------------------------------------------------------------------------
+def encode_url(u: str) -> str:
+    """Make a URL wire-safe without changing what it points at.
+
+    Official sources are not all ASCII: Dubai's legislation portal uses Arabic paths WITH SPACES,
+    Korea's law.go.kr uses Hangul, Argentina uses accented Spanish. urllib raises UnicodeEncodeError
+    or InvalidURL on these, which the audit then misreports as a BROKEN SOURCE. The source is fine;
+    the client was wrong. '%' is kept safe so an already-encoded URL is not double-encoded, and the
+    host is IDNA-encoded separately from the path.
+    """
+    p = urlsplit(u.strip())
+    netloc = p.netloc
+    if p.hostname:
+        try:
+            host = p.hostname.encode("idna").decode("ascii")
+        except Exception:
+            host = p.hostname
+        netloc = f"{host}:{p.port}" if p.port else host
+    safe = "/%:@&=+$,~()!*';"
+    return urlunsplit((p.scheme, netloc, quote(p.path, safe=safe),
+                       quote(p.query, safe=safe + "?"), p.fragment))
+
+
 def fetch(url: str):
-    req = Request(url, headers={"User-Agent": UA})
+    req = Request(encode_url(url), headers={"User-Agent": UA})
     with urlopen(req, timeout=45) as r:
         raw = r.read().decode("utf-8", errors="replace")
         return raw, r.geturl(), int(getattr(r, "status", 200) or 200)
@@ -154,6 +187,11 @@ def selftest() -> int:
         == "Sanctions and Anti-Money Laundering Act 2018"
     assert page_title("<title>e-Gov law search</title>") == "e-Gov law search"
     assert page_title("<title>Proceeds of Crime Act 2002</title>") == "Proceeds of Crime Act 2002"
+    # non-ASCII and space-bearing URLs must be encoded, not reported as broken sources
+    assert encode_url("https://www.law.go.kr/법령/가상자산이용자보호법").isascii()
+    assert " " not in encode_url("https://dlp.dubai.gov.ae/legislation ar reference/2022/x.html")
+    assert encode_url("https://a.test/%D8%A7").count("%D8") == 1, "must not double-encode"
+    assert encode_url("https://a.test/a/b?x=1&y=2") == "https://a.test/a/b?x=1&y=2"
     # real defect: a 'Council documents' source landing on 'Item 16'
     assert not name_matches_title("ISA - Council documents", "Item 16", stop)
     # real limitation, asserted so nobody "fixes" it into false alarms: an overview page titled
