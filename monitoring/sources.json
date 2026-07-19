@@ -81,8 +81,9 @@
     },
     {
       "name": "US 31 C.F.R. Part 1010 — FinCEN general provisions (eCFR)",
-      "url": "https://www.ecfr.gov/current/title-31/subtitle-B/chapter-X/part-1010",
-      "last_sha256": "sha256:88139463ac7738f42e4dae57184fdf61ccbe3d60f910ff17e8ddb3d1e7699a63",
+      "url": "https://www.ecfr.gov/api/versioner/v1/versions/title-31.json?part=1010",
+      "_note": "2026-07-18: the human-facing eCFR page BLOCKS automated fetches — it redirected to unblock.federalregister.gov ('Request Access'), so this source was hashing an access-denied page, not FinCEN's rules. Switched to the OFFICIAL eCFR versioner API, published for programmatic use (no stealth, no proxy). It reports amendment dates per SECTION, so a change names the sections amended. The identical defect and identical fix were found in the deep-seabed corpus the same day (15 CFR 970/971). Hash cleared to force a fresh baseline.",
+      "last_sha256": null,
       "last_checked": "2026-07-13T21:13:37Z"
     },
     {
@@ -135,19 +136,22 @@
     },
     {
       "name": "UN Security Council Resolution 1267 (1999)",
-      "url": "https://undocs.org/S/RES/1267(1999)",
+      "url": "https://docs.un.org/S/RES/1267(1999)",
+    "_note": "2026-07-18: undocs.org now redirects to docs.un.org; pointed at the canonical host rather than relying on a redirect that may not persist. NOTE: last_sha256 was already null — the monitor has never successfully baselined this or the other two resolutions, so they have been listed but effectively unwatched. Likely needs MANUAL classification (document viewer, not plain HTML); confirm before assuming the URL change alone fixes it.",
       "last_sha256": null,
       "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN Security Council Resolution 1373 (2001)",
-      "url": "https://undocs.org/S/RES/1373(2001)",
+      "url": "https://docs.un.org/S/RES/1373(2001)",
+    "_note": "2026-07-18: see the 1267 note — canonical host, never baselined.",
       "last_sha256": null,
       "last_checked": "2026-07-13T21:13:37Z"
     },
     {
       "name": "UN Security Council Resolution 1540 (2004)",
-      "url": "https://undocs.org/S/RES/1540(2004)",
+      "url": "https://docs.un.org/S/RES/1540(2004)",
+    "_note": "2026-07-18: see the 1267 note — canonical host, never baselined.",
       "last_sha256": null,
       "last_checked": "2026-07-13T21:13:37Z"
     },
