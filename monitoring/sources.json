@@ -20,38 +20,98 @@
     {
       "name": "AML/CTF Amendment Act 2024 (C2024A00110)",
       "url": "https://www.legislation.gov.au/C2024A00110/latest/versions",
-      "last_sha256": "sha256:66ff8906176470393b529ba87e7b9cbcdd86c3578a44382656017701d506774c",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27C2024A00110%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
+      "json_extract": {
+        "records": "value",
+        "fields": {
+          "citation": "compilationNumber",
+          "date": "start",
+          "title": "registeredAt"
+        }
+      },
+      "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. "
     },
     {
       "name": "AML/CTF Transitional Rules 2026 (F2026L00393)",
       "url": "https://www.legislation.gov.au/F2026L00393/latest/versions",
-      "last_sha256": "sha256:a56432f529c107959a5188a0a5a19414680b4e9ed83537e6f39a7a83101e6b27",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27F2026L00393%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
+      "json_extract": {
+        "records": "value",
+        "fields": {
+          "citation": "compilationNumber",
+          "date": "start",
+          "title": "registeredAt"
+        }
+      },
+      "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. "
     },
     {
       "name": "Charter of the United Nations Act 1945 (C1945A00032)",
       "url": "https://www.legislation.gov.au/C1945A00032/latest/versions",
-      "last_sha256": "sha256:4ec6aa7d74cbcf021da99f6991dc119a0c7c782dcd43ae6b09dc5d2bbc924a0a",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27C1945A00032%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
+      "json_extract": {
+        "records": "value",
+        "fields": {
+          "citation": "compilationNumber",
+          "date": "start",
+          "title": "registeredAt"
+        }
+      },
+      "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. "
     },
     {
       "name": "Autonomous Sanctions Act 2011 (C2011A00038)",
       "url": "https://www.legislation.gov.au/C2011A00038/latest/versions",
-      "last_sha256": "sha256:5fc07b62fb2a61984f76100ea2464b00720efac5e350ef76ab0acdee131be0c1",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27C2011A00038%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
+      "json_extract": {
+        "records": "value",
+        "fields": {
+          "citation": "compilationNumber",
+          "date": "start",
+          "title": "registeredAt"
+        }
+      },
+      "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. "
     },
     {
       "name": "Autonomous Sanctions Regulations 2011 (F2011L02673)",
       "url": "https://www.legislation.gov.au/F2011L02673/latest/versions",
-      "last_sha256": "sha256:e8953f80df4ddc9677a4d9676b9a6181b9eac1f05ac225dea86da50f261d3f07",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27F2011L02673%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
+      "json_extract": {
+        "records": "value",
+        "fields": {
+          "citation": "compilationNumber",
+          "date": "start",
+          "title": "registeredAt"
+        }
+      },
+      "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. "
     },
     {
-      "name": "AML/CTF Rules 2025 — principal rules (F2026C00274)",
-      "url": "https://www.legislation.gov.au/F2026C00274/latest/versions",
-      "last_sha256": "sha256:07e2db50622ce3e435c6c41585eeb9e8bd46b6f9b1c0128c3f57ba7d7daa7523",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "name": "AML/CTF Rules 2025 — principal rules (F2025L01026, compilation F2026C00274)",
+      "url": "https://www.legislation.gov.au/F2025L01026/latest/versions",
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27F2025L01026%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
+      "json_extract": {
+        "records": "value",
+        "fields": {
+          "citation": "compilationNumber",
+          "date": "start",
+          "title": "registeredAt"
+        }
+      },
+      "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. CORRECTION: this source previously cited compilation id F2026C00274, which returns ZERO versions from this endpoint because it filters on titleId. The title id is F2025L01026 (the as-made instrument). Configuring the compilation id would have produced a permanently empty result indistinguishable from 'no changes'."
     },
     {
       "name": "FATF 40 Recommendations (standard)",
