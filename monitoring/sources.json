@@ -4,6 +4,12 @@
     {
       "name": "AML/CTF Act 2006 — compilations (C2006A00169)",
       "url": "https://www.legislation.gov.au/C2006A00169/latest/versions",
+      "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27C2006A00169%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
+      "json_extract": {
+        "records": "value",
+        "fields": {"citation": "compilationNumber", "date": "start", "title": "registeredAt"}
+      },
+      "_note": "2026-07-21: the Federal Register of Legislation exposes a PUBLIC OData API at api.prod.legislation.gov.au/v1 requiring no key. Monitoring the Versions entity set reports the compilation NUMBER and its start date, so a change reads 'Compilation 62 from 2026-07-01' instead of 'the page differs'. URL is stored percent-encoded because OData filters contain spaces, which urllib rejects. This replaces an unattended Cowork scheduled task that could never work: it used WebFetch, which requires interactive permission approval, so every unattended run failed with a permission timeout. VERIFIED 2026-07-21: the endpoint returns Compilation No. 62 (start 2026-07-01, registered 2026-07-10), superseding the No. 61 baseline — exactly the change that task was asked to watch for.",
       "last_sha256": "sha256:6ad0bff29c0757e63862a2b65a8604a8fbcbdd693055c1ea3610fed631c3e1b7",
       "last_checked": "2026-07-20T21:33:49Z"
     },
@@ -52,26 +58,42 @@
     {
       "name": "UK Proceeds of Crime Act 2002 (c. 29) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2002/29/contents",
-      "last_sha256": "sha256:ab4bc46315c57c6fec7f6651eb6cdc42a8ff127a51108631d19a140a9cc638e0",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "is up to date with all changes known to be in force on or before \\d{1,2} \\w+ \\d{4}"
+      ],
+      "_note": "2026-07-21: legislation.gov.uk revised pages stamp TODAY'S DATE into the body — \"is up to date with all changes known to be in force on or before <date>\" — so the page hash changed every day and this source flagged CHANGED on every run. VERIFIED by fetching the live page: the banner read the current date. The banner is excluded from hashing via ignore_patterns; nothing else is excluded, and a substantive amendment still flags (asserted in the monitor selftest). BETTER FIX LATER: legislation.gov.uk publishes an official API — moving to monitor_url + json_extract would track amendment identifiers structurally instead of excluding a fragment."
     },
     {
       "name": "UK Terrorism Act 2000 (c. 11) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2000/11/contents",
-      "last_sha256": "sha256:b35ad160ab3dd9ee2f8f5964df9a59aba686d35fee352f77fce31ee6ddf16408",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "is up to date with all changes known to be in force on or before \\d{1,2} \\w+ \\d{4}"
+      ],
+      "_note": "2026-07-21: legislation.gov.uk revised pages stamp TODAY'S DATE into the body — \"is up to date with all changes known to be in force on or before <date>\" — so the page hash changed every day and this source flagged CHANGED on every run. VERIFIED by fetching the live page: the banner read the current date. The banner is excluded from hashing via ignore_patterns; nothing else is excluded, and a substantive amendment still flags (asserted in the monitor selftest). BETTER FIX LATER: legislation.gov.uk publishes an official API — moving to monitor_url + json_extract would track amendment identifiers structurally instead of excluding a fragment."
     },
     {
       "name": "UK Money Laundering Regulations 2017 (SI 2017/692) — revised",
       "url": "https://www.legislation.gov.uk/uksi/2017/692/contents",
-      "last_sha256": "sha256:def0ba69eb79454a7b7e946144e62a93367d798cf87f4e3286c93b663d50d69c",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "is up to date with all changes known to be in force on or before \\d{1,2} \\w+ \\d{4}"
+      ],
+      "_note": "2026-07-21: legislation.gov.uk revised pages stamp TODAY'S DATE into the body — \"is up to date with all changes known to be in force on or before <date>\" — so the page hash changed every day and this source flagged CHANGED on every run. VERIFIED by fetching the live page: the banner read the current date. The banner is excluded from hashing via ignore_patterns; nothing else is excluded, and a substantive amendment still flags (asserted in the monitor selftest). BETTER FIX LATER: legislation.gov.uk publishes an official API — moving to monitor_url + json_extract would track amendment identifiers structurally instead of excluding a fragment."
     },
     {
       "name": "UK Sanctions and Anti-Money Laundering Act 2018 (c. 13) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2018/13/contents",
-      "last_sha256": "sha256:897fb7e09630366f4651930ce93a8d0f7208656f5bb0c8e24f50d86f1e60705c",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "is up to date with all changes known to be in force on or before \\d{1,2} \\w+ \\d{4}"
+      ],
+      "_note": "2026-07-21: legislation.gov.uk revised pages stamp TODAY'S DATE into the body — \"is up to date with all changes known to be in force on or before <date>\" — so the page hash changed every day and this source flagged CHANGED on every run. VERIFIED by fetching the live page: the banner read the current date. The banner is excluded from hashing via ignore_patterns; nothing else is excluded, and a substantive amendment still flags (asserted in the monitor selftest). BETTER FIX LATER: legislation.gov.uk publishes an official API — moving to monitor_url + json_extract would track amendment identifiers structurally instead of excluding a fragment."
     },
     {
       "name": "US Bank Secrecy Act — 31 U.S.C. ch. 53 subch. II (current)",
