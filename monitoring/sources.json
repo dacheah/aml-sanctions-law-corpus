@@ -7,7 +7,11 @@
       "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27C2006A00169%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
       "json_extract": {
         "records": "value",
-        "fields": {"citation": "compilationNumber", "date": "start", "title": "registeredAt"}
+        "fields": {
+          "citation": "compilationNumber",
+          "date": "start",
+          "title": "registeredAt"
+        }
       },
       "_note": "2026-07-21: the Federal Register of Legislation exposes a PUBLIC OData API at api.prod.legislation.gov.au/v1 requiring no key. Monitoring the Versions entity set reports the compilation NUMBER and its start date, so a change reads 'Compilation 62 from 2026-07-01' instead of 'the page differs'. URL is stored percent-encoded because OData filters contain spaces, which urllib rejects. This replaces an unattended Cowork scheduled task that could never work: it used WebFetch, which requires interactive permission approval, so every unattended run failed with a permission timeout. VERIFIED 2026-07-21: the endpoint returns Compilation No. 62 (start 2026-07-01, registered 2026-07-10), superseding the No. 61 baseline — exactly the change that task was asked to watch for.",
       "last_sha256": "sha256:6ad0bff29c0757e63862a2b65a8604a8fbcbdd693055c1ea3610fed631c3e1b7",
@@ -233,32 +237,57 @@
     {
       "name": "Singapore — CDSA (Act 29 of 1992)",
       "url": "https://sso.agc.gov.sg/Act/CDTOSCCBA1992",
-      "last_sha256": "sha256:0bb7d61205e164d48871110848eeae2a995049400a56194b972938b5b2f4a0d2",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
+        "Last updated \\d{1,2} \\w{3} \\d{4}"
+      ],
+      "_note": "2026-07-21: Singapore Statutes Online stamps TODAY'S DATE into the status line (\"Status: Current version as at <today>\") and a site-wide footer (\"Last updated <date>\"), so the page hash changed daily and this source flagged CHANGED on every run. VERIFIED against the live page. CRITICAL: the phrase \"current version as at\" ALSO appears in the Timeline with REAL version dates, and stripping those would hide genuine amendments — a silent false negative. The pattern is therefore anchored on \"Status:\" so it cannot match the timeline; the monitor selftest asserts a timeline date survives the strip and that a changed timeline date still flags."
     },
     {
       "name": "Singapore — TSOFA (Act 16 of 2002)",
       "url": "https://sso.agc.gov.sg/Act/TSFA2002",
-      "last_sha256": "sha256:90198a376501d90984f281e160c923c37bb8423d0515d2463d2c0b70e8079066",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
+        "Last updated \\d{1,2} \\w{3} \\d{4}"
+      ],
+      "_note": "2026-07-21: Singapore Statutes Online stamps TODAY'S DATE into the status line (\"Status: Current version as at <today>\") and a site-wide footer (\"Last updated <date>\"), so the page hash changed daily and this source flagged CHANGED on every run. VERIFIED against the live page. CRITICAL: the phrase \"current version as at\" ALSO appears in the Timeline with REAL version dates, and stripping those would hide genuine amendments — a silent false negative. The pattern is therefore anchored on \"Status:\" so it cannot match the timeline; the monitor selftest asserts a timeline date survives the strip and that a changed timeline date still flags."
     },
     {
       "name": "Singapore — United Nations Act 2001 (Act 44 of 2001)",
       "url": "https://sso.agc.gov.sg/Act/UNA2001",
-      "last_sha256": "sha256:a10cfb6cc789fb9378fd1d4d4c814e16be865869f50a5a02ed8ccc3a8583ce49",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
+        "Last updated \\d{1,2} \\w{3} \\d{4}"
+      ],
+      "_note": "2026-07-21: Singapore Statutes Online stamps TODAY'S DATE into the status line (\"Status: Current version as at <today>\") and a site-wide footer (\"Last updated <date>\"), so the page hash changed daily and this source flagged CHANGED on every run. VERIFIED against the live page. CRITICAL: the phrase \"current version as at\" ALSO appears in the Timeline with REAL version dates, and stripping those would hide genuine amendments — a silent false negative. The pattern is therefore anchored on \"Status:\" so it cannot match the timeline; the monitor selftest asserts a timeline date survives the strip and that a changed timeline date still flags."
     },
     {
       "name": "Singapore — UN (Anti-Terrorism Measures) Regs (Rg 1)",
       "url": "https://sso.agc.gov.sg/SL/UNA2001-RG1",
-      "last_sha256": "sha256:679e4d9b5a9028c18388299665268a81c3efc94308b75550946ecf7e8e5d1a55",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
+        "Last updated \\d{1,2} \\w{3} \\d{4}"
+      ],
+      "_note": "2026-07-21: Singapore Statutes Online stamps TODAY'S DATE into the status line (\"Status: Current version as at <today>\") and a site-wide footer (\"Last updated <date>\"), so the page hash changed daily and this source flagged CHANGED on every run. VERIFIED against the live page. CRITICAL: the phrase \"current version as at\" ALSO appears in the Timeline with REAL version dates, and stripping those would hide genuine amendments — a silent false negative. The pattern is therefore anchored on \"Status:\" so it cannot match the timeline; the monitor selftest asserts a timeline date survives the strip and that a changed timeline date still flags."
     },
     {
       "name": "Singapore — Precious Stones and Precious Metals Act 2019 (Act 7 of 2019)",
       "url": "https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019",
-      "last_sha256": "sha256:c558a18944d28214b38d4db7363ace998d42fd1ce593b9493aa853acb0ccb1df",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": null,
+      "last_checked": "2026-07-20T21:33:49Z",
+      "ignore_patterns": [
+        "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
+        "Last updated \\d{1,2} \\w{3} \\d{4}"
+      ],
+      "_note": "2026-07-21: Singapore Statutes Online stamps TODAY'S DATE into the status line (\"Status: Current version as at <today>\") and a site-wide footer (\"Last updated <date>\"), so the page hash changed daily and this source flagged CHANGED on every run. VERIFIED against the live page. CRITICAL: the phrase \"current version as at\" ALSO appears in the Timeline with REAL version dates, and stripping those would hide genuine amendments — a silent false negative. The pattern is therefore anchored on \"Status:\" so it cannot match the timeline; the monitor selftest asserts a timeline date survives the strip and that a changed timeline date still flags."
     },
     {
       "name": "Switzerland — AMLA / GwG (SR 955.0)",

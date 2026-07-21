@@ -369,6 +369,27 @@ def selftest() -> int:
         "substantive change must still flag with the pattern applied"
     # no patterns => byte-identical to the previous behaviour, so existing baselines survive
     assert content_hash(d1) == content_hash(d1, []) == content_hash(d1, None)
+
+    # --- Singapore Statutes Online: the SAME phrase carries today's date in the status line AND
+    # real version dates in the timeline. Stripping the timeline would hide genuine amendments —
+    # a SILENT false negative — so the pattern must be anchored on "Status:".
+    SG = [r"Status:(&nbsp;|\s)*Current version as at \d{1,2} \w{3} \d{4}",
+          r"Last updated \d{1,2} \w{3} \d{4}"]
+    sg_a = ("<p>CDSA 1992 Status: &nbsp; Current version as at 21 Jul 2026 Print "
+            "Timeline Provision Versions 01 May 2026 or find current version as at 01 May 2026 "
+            "Amended. Last updated 20 Jul 2026</p>")
+    sg_b = sg_a.replace("21 Jul 2026", "22 Jul 2026").replace("Last updated 20 Jul 2026",
+                                                              "Last updated 21 Jul 2026")
+    assert content_hash(sg_a) != content_hash(sg_b), "unpatterned, the daily dates must move the hash"
+    assert content_hash(sg_a, SG) == content_hash(sg_b, SG), \
+        "status-line and footer dates must be ignored"
+    # THE CRITICAL ONE: a real amendment moves the TIMELINE version date, which must still flag.
+    sg_amended = sg_a.replace("01 May 2026", "15 Aug 2026")
+    assert content_hash(sg_a, SG) != content_hash(sg_amended, SG), \
+        "timeline version dates MUST survive the strip — otherwise real amendments go unseen"
+    # and the timeline text must literally still be present after stripping
+    assert "01 May 2026" in strip_volatile(to_text(sg_a), SG), \
+        "the anchored pattern must not swallow the timeline"
     # whole-page states, including every guard
     srcs = [{"name": "a", "url": "x", "last_sha256": "sha256:aaa"},
             {"name": "b", "url": "y", "last_sha256": None},
