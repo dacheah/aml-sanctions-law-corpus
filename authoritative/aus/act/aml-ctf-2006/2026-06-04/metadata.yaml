@@ -35,7 +35,7 @@ capture_history:
   note: Initial capture — official Word download of Compilation No. 61 (C2026C00220) from legislation.gov.au;
     PDF of same compilation also retrieved (sha256:ef42b8e1c093c4aaa77c387a584f77bfe35d61648e9b044f416a94f02dd14ecf).
 supersedes: '2026-03-31'
-superseded_by: null
+superseded_by: '2026-07-01'
 related_documents:
 - aus/act/aml-ctf-amendment-2024
 provenance_note: Official point-in-time compilation (Compilation No. 61, C2026C00220, in force from 4
@@ -46,6 +46,9 @@ provenance_note: Official point-in-time compilation (Compilation No. 61, C2026C0
   Retrieved by human download from the official source because the build environment's network policy
   blocks direct egress — a provenance upgrade (official-source human capture). Fidelity extracted_unverified
   pending verification against the official source.
+binding_force: binding
+issuing_authority: Parliament of Australia
+administering_authority: null
 verification:
   status: verified_by_independent_extraction
   method: Independent re-extraction of the byte-exact original with a different engine, compared by order-robust
@@ -60,6 +63,3 @@ verification:
   verified_by: corpus maintainer (automated cross-engine gate)
   verified_date: '2026-07-09'
   note: Two independent DOCX renderers agree in both directions to >=0.99, corroborating faithful capture.
-binding_force: binding
-issuing_authority: "Parliament of Australia"
-administering_authority: null
