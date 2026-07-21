@@ -31,10 +31,18 @@ jobs:
         run: python scripts/watch_sources.py
 
       - name: Commit advanced baseline and report
+        # monitoring/snapshots/ MUST be staged. Record mode (json_extract) decides
+        # baseline-vs-changed on `not os.path.isfile(snapshot)`, so an uncommitted snapshot means
+        # every run starts with no prior records and reports "baseline" forever. This repo has
+        # EIGHT json_extract sources — the Federal Register OData feeds for the AML/CTF Act, the
+        # Autonomous Sanctions instruments and FinCEN 31 CFR 1010 — and none of them could have
+        # reported a change from CI. Compilation No. 62 was found by a LOCAL run, where the
+        # snapshot survives on disk.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add monitoring/sources.json monitoring/last_report.md
+          git add monitoring/snapshots monitoring/false_alarm_log.jsonl || true
           if git diff --cached --quiet; then
             echo "No baseline or report changes to commit."
           else
@@ -42,19 +50,30 @@ jobs:
             git push
           fi
 
-      - name: Open triage issue on change
+      - name: Open triage issue on change or breakage
+        # `changes` now also goes true when a source could not be checked at all. Until monitor
+        # v3.5 the flag omitted both error terms, so a run in which every source errored exited 0
+        # and opened nothing.
         if: steps.watch.outputs.changes == 'true'
         uses: actions/github-script@v7
+        env:
+          BROKEN: ${{ steps.watch.outputs.broken }}
         with:
           script: |
             const fs = require('fs');
-            let body = 'A monitored official source changed. See `monitoring/last_report.md` in the repo.';
-            try { body = fs.readFileSync('monitoring/last_report.md', 'utf8'); } catch (e) {}
+            let report = 'See `monitoring/last_report.md` in the repo.';
+            try { report = fs.readFileSync('monitoring/last_report.md', 'utf8'); } catch (e) {}
+            const broken = process.env.BROKEN === 'true';
             const today = new Date().toISOString().slice(0, 10);
+            const foot = broken
+              ? '\n\n_An error means the monitor DID NOT LOOK. It does not mean nothing changed — do not read the rest of this report as reassurance until the monitor is fixed._'
+              : '\n\n_Automated flag. A change may be a genuinely new/amended instrument OR a cosmetic page update — triage before ingesting._';
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `Source monitor: a monitored source changed (${today})`,
-              body: body + '\n\n_Automated flag. A change may be a genuinely new/amended instrument OR a cosmetic page update — triage before ingesting._',
-              labels: ['source-monitor']
+              title: broken
+                ? `Source monitor: MONITOR BROKEN — source(s) not checked (${today})`
+                : `Source monitor: a monitored source changed (${today})`,
+              body: report + foot,
+              labels: broken ? ['source-monitor', 'monitor-broken'] : ['source-monitor']
             });
