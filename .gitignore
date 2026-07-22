@@ -6,6 +6,10 @@ scripts/*
 !scripts/validate_corpus.py
 !scripts/watch_sources.py
 !scripts/audit_sources.py
+# The reproducibility POLICY is public (what is declared excluded, and the backlog ceiling) —
+# transparency of the corpus's own claims. The GATE that reads it (repro_gate.py) and the
+# extraction engine (extract.py) stay private, provided from the toolkit at build time.
+!scripts/repro-policy.json
 __pycache__/
 *.pyc
 .DS_Store
