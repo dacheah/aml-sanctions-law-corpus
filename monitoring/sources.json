@@ -290,13 +290,15 @@
       "name": "Canada — PCMLTFA (S.C. 2000, c. 17)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/",
       "last_sha256": "sha256:2d59431c7d8c5683464a54b0a4a7459666238fd7d89c253d9684f9cd09642610",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-20T21:33:49Z",
+      "expect_contains": "Terrorist Financing Act"
     },
     {
       "name": "Canada — PCMLTFR (SOR/2002-184)",
       "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-184/",
       "last_sha256": "sha256:88da139f2fdfa2657c8202f0f28d1ce7055845d7d66cc27cb5dae40f3bb45422",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-20T21:33:49Z",
+      "expect_contains": "Terrorist Financing Regulations"
     },
     {
       "name": "Canada — Criminal Code (R.S.C. 1985, c. C-46)",
