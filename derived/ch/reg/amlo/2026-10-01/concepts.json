@@ -63,7 +63,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 2a Erklärung über die Unterstellung der gesamten Tätigkeiten unter die Bestimmungen, die auf die Finanzintermediä",
+      "unit": "Art. 2a11 Erklärung über die Unterstellung der gesamten Tätigkeiten unter die Bestimmungen, die auf die Finanzintermediä",
       "concepts": [
         "scope_and_application"
       ],
@@ -125,13 +125,6 @@
       "unit": "Art. 10 Handelstätigkeit",
       "concepts": [
         "scope_and_application"
-      ],
-      "curated": true
-    },
-    {
-      "unit": "Art. 11 Wechsel zur berufsmässigen Tätigkeit",
-      "concepts": [
-        "enrolment_registration"
       ],
       "curated": true
     },
@@ -231,7 +224,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 15a Erfasste Edelmetalle und Edelsteine",
+      "unit": "Art. 15a32 Erfasste Edelmetalle und Edelsteine",
       "concepts": [
         "definitions_and_interpretation",
         "designated_services"

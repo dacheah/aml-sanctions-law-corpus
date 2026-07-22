@@ -73,6 +73,13 @@
       "curated": true
     },
     {
+      "unit": "Art. 48",
+      "concepts": [
+        "customer_due_diligence"
+      ],
+      "curated": true
+    },
+    {
       "unit": "Art. 5 Zweigniederlassungen und Gruppengesellschaften im Ausland",
       "concepts": [
         "amlctf_program",
@@ -114,7 +121,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 9a Abklärungen bei Sitzgesellschaften",
+      "unit": "Art. 9a13 Abklärungen bei Sitzgesellschaften",
       "concepts": [
         "beneficial_ownership",
         "customer_due_diligence"
@@ -222,7 +229,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 22a Information von Behörden und Dokumentation",
+      "unit": "Art. 22a35 Information von Behörden und Dokumentation",
       "concepts": [
         "record_keeping",
         "suspicious_matter_reporting"
@@ -254,7 +261,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 25a Entscheidungskompetenz bei Meldungen",
+      "unit": "Art. 25a36 Entscheidungskompetenz bei Meldungen",
       "concepts": [
         "suspicious_matter_reporting"
       ],
@@ -284,14 +291,6 @@
     {
       "unit": "Art. 29 Modalitäten des Beizugs",
       "concepts": [
-        "customer_due_diligence"
-      ],
-      "curated": true
-    },
-    {
-      "unit": "Art. 35 Pflicht zur Identifizierung der Vertragspartei und zur Feststellung der Kontrollinhaberin oder des Kontrollinh",
-      "concepts": [
-        "beneficial_ownership",
         "customer_due_diligence"
       ],
       "curated": true
@@ -357,7 +356,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 43a",
+      "unit": "Art. 43a59",
       "concepts": [
         "scope_and_application"
       ],
@@ -420,7 +419,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 51a Geschäfte mit virtuellen Währungen",
+      "unit": "Art. 51a67 Geschäfte mit virtuellen Währungen",
       "concepts": [
         "customer_due_diligence",
         "virtual_assets"
@@ -521,7 +520,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 65a Lebensversicherung mit separater Konto- oder Depotführung (Insurance Wrapper)",
+      "unit": "Art. 65a79 Lebensversicherung mit separater Konto- oder Depotführung (Insurance Wrapper)",
       "concepts": [
         "beneficial_ownership"
       ],
@@ -594,21 +593,14 @@
       "curated": true
     },
     {
-      "unit": "Art. 75 Geldwäschereifachstelle für Finanzintermediäre",
+      "unit": "Art. 75a89 Geldwäschereifachstelle für Personen nach Artikel 1b BankG",
       "concepts": [
         "amlctf_program"
       ],
       "curated": true
     },
     {
-      "unit": "Art. 75a Geldwäschereifachstelle für Personen nach Artikel 1b BankG",
-      "concepts": [
-        "amlctf_program"
-      ],
-      "curated": true
-    },
-    {
-      "unit": "Art. 78b Übergangsbestimmung zur Änderung vom 27. Oktober 2022",
+      "unit": "Art. 78b97 Übergangsbestimmung zur Änderung vom 27. Oktober 2022",
       "concepts": [
         "threshold_transaction_reporting"
       ]

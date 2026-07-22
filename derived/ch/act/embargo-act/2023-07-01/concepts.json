@@ -87,21 +87,7 @@
       "curated": true
     },
     {
-      "unit": "Art. 9 Verbrechen und Vergehen",
-      "concepts": [
-        "enforcement_and_offences"
-      ],
-      "curated": true
-    },
-    {
       "unit": "Art. 10 Übertretungen",
-      "concepts": [
-        "enforcement_and_offences"
-      ],
-      "curated": true
-    },
-    {
-      "unit": "Art. 11 Zusammentreffen mehrerer Strafbestimmungen",
       "concepts": [
         "enforcement_and_offences"
       ],
