@@ -21,6 +21,7 @@ recorded against each release here:
 
 | Corpus release | Engine fingerprint |
 |---|---|
+| v1.4.1 | `9e48c44172461d239bf4956115b3147cf9ac13edf778327f7addbd383db9857d` |
 | v1.4.0 | `4c7a6d2f3722ddddfcd40729595ec80d64276fef78feaa0a1357bbc6a24e2712` |
 | v1.3.7 | `b978a9f50e0234b7cc306dd8c7469e9c27ffdef0fcde5db4f50c01c323efe78a` |
 | v1.3.6 | `b9e9e35fc4e0dc83f7d888f733a78811f8f8a6b9be7618745d46523aecdd5f22` |
@@ -28,8 +29,8 @@ recorded against each release here:
 | v1.3.4 | `42b74c8b7de0bfa1a6eb32efd6809b0be92fb9ca85ce72ff1ffe34483688e6e3` |
 
 To reproduce this corpus, assemble a build tree (the toolkit's `scripts/` alongside this repo's
-`authoritative/`, `schema/`, and `site.json`), verify the engine with `sha256sum -c
-scripts/MANIFEST.sha256`, then run the build. Full procedure: `BUILD.md` in the toolkit repo.
+`authoritative/`, `schema/`, and `site.json`), verify the engine with `python3
+scripts/verify_engine.py`, then run the build. Full procedure: `BUILD.md` in the toolkit repo.
 
 ## Authoritative text reproducibility
 
