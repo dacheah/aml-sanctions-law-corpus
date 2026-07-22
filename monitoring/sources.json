@@ -145,7 +145,9 @@
       "name": "FATF 40 Recommendations (standard)",
       "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-20T21:33:49Z",
+      "monitor": "manual",
+      "_manual_note": "Persistent HTTP 403 to the monitor's own fetch (fatf-gafi.org WAF). Also restricted_withheld, so no text is ingested. Declared manual to stop a recurring ERROR every run; the standard is reviewed by hand."
     },
     {
       "name": "UK Proceeds of Crime Act 2002 (c. 29) — revised",
