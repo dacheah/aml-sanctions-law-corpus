@@ -15,17 +15,18 @@
         }
       },
       "_note": "2026-07-21: the Federal Register of Legislation exposes a PUBLIC OData API at api.prod.legislation.gov.au/v1 requiring no key. Monitoring the Versions entity set reports the compilation NUMBER and its start date, so a change reads 'Compilation 62 from 2026-07-01' instead of 'the page differs'. URL is stored percent-encoded because OData filters contain spaces, which urllib rejects. This replaces an unattended Cowork scheduled task that could never work: it used WebFetch, which requires interactive permission approval, so every unattended run failed with a permission timeout. VERIFIED 2026-07-21: the endpoint returns Compilation No. 62 (start 2026-07-01, registered 2026-07-10), superseding the No. 61 baseline — exactly the change that task was asked to watch for.",
-      "last_sha256": "sha256:6ad0bff29c0757e63862a2b65a8604a8fbcbdd693055c1ea3610fed631c3e1b7",
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:55ce176395db122c15baa8ca7941fd4dead930bd7c472f28af20b655cb90dbbc",
+      "last_checked": "2026-07-27T21:30:46Z",
       "corpus_id": "aus/act/aml-ctf-2006",
       "title_id": "C2006A00169",
-      "version_records": true
+      "version_records": true,
+      "last_page_sha256": "sha256:4aac260733949d4fc88bf44ed21e43be22df0d96e5453435ac06fc4671328ed9"
     },
     {
       "name": "AML/CTF Amendment Act 2024 (C2024A00110)",
       "url": "https://www.legislation.gov.au/C2024A00110/latest/versions",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:b82b57fb179b3dcb0485c537a5b4d3093bc866a37f6b41f1d37a1cb832531793",
+      "last_checked": "2026-07-27T21:30:46Z",
       "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27C2024A00110%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
       "json_extract": {
         "records": "value",
@@ -39,13 +40,14 @@
       "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. ",
       "corpus_id": "aus/act/aml-ctf-amendment-2024",
       "title_id": "C2024A00110",
-      "version_records": true
+      "version_records": true,
+      "last_page_sha256": "sha256:5bead7505a8369af4be40c708a1c54361c015608fde35c1f46d91e8e0408251d"
     },
     {
       "name": "AML/CTF Transitional Rules 2026 (F2026L00393)",
       "url": "https://www.legislation.gov.au/F2026L00393/latest/versions",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:76b664a63dd2f8bf2a37583a0db03f3cbef0c7c93dd48e4062d396072df1d1f6",
+      "last_checked": "2026-07-27T21:30:46Z",
       "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27F2026L00393%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
       "json_extract": {
         "records": "value",
@@ -59,13 +61,14 @@
       "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. ",
       "corpus_id": "aus/rules/aml-ctf-transitional-2026",
       "title_id": "F2026L00393",
-      "version_records": true
+      "version_records": true,
+      "last_page_sha256": "sha256:df6081f316690f4d20fddff3689831ecf3c7d266b4b04d35681662add83f9c29"
     },
     {
       "name": "Charter of the United Nations Act 1945 (C1945A00032)",
       "url": "https://www.legislation.gov.au/C1945A00032/latest/versions",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:5909aa34bd348c7885179a8af1d43b336171a2f2f0c3b5f0f9e7af6351f4ae8c",
+      "last_checked": "2026-07-27T21:30:46Z",
       "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27C1945A00032%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
       "json_extract": {
         "records": "value",
@@ -79,13 +82,14 @@
       "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. ",
       "corpus_id": "aus/act/charter-un-1945",
       "title_id": "C1945A00032",
-      "version_records": true
+      "version_records": true,
+      "last_page_sha256": "sha256:91ac77f413e0cc04852ed4a2dc638527850b916d5134c4bfa451a0617ef1a4de"
     },
     {
       "name": "Autonomous Sanctions Act 2011 (C2011A00038)",
       "url": "https://www.legislation.gov.au/C2011A00038/latest/versions",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:f0949b5659b0ed7c632dce129f4a800d5cfb7aa4871c708f8dd02a81e42e1ad5",
+      "last_checked": "2026-07-27T21:30:46Z",
       "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27C2011A00038%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
       "json_extract": {
         "records": "value",
@@ -99,13 +103,14 @@
       "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. ",
       "corpus_id": "aus/act/autonomous-sanctions-2011",
       "title_id": "C2011A00038",
-      "version_records": true
+      "version_records": true,
+      "last_page_sha256": "sha256:78407c443e6b4ed1a2d1f8dcfea1dda9e5582b553fe479162acf94fc38e19e51"
     },
     {
       "name": "Autonomous Sanctions Regulations 2011 (F2011L02673)",
       "url": "https://www.legislation.gov.au/F2011L02673/latest/versions",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:61b3ad027e062ab6ceb0c60b0ea82c73376e9826f6232f3fa133b2feda2b2051",
+      "last_checked": "2026-07-27T21:30:46Z",
       "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27F2011L02673%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
       "json_extract": {
         "records": "value",
@@ -119,13 +124,14 @@
       "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. ",
       "corpus_id": "aus/reg/autonomous-sanctions-2011",
       "title_id": "F2011L02673",
-      "version_records": true
+      "version_records": true,
+      "last_page_sha256": "sha256:52c2432fe00d5274f760e1840d9059a9a959d7f0fea0de553c3e54d43139f0a6"
     },
     {
       "name": "AML/CTF Rules 2025 — principal rules (F2025L01026, compilation F2026C00274)",
       "url": "https://www.legislation.gov.au/F2025L01026/latest/versions",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:16a715dbb82ccbd3ac443333b526ae5f407a2e857577ae00bd6ed3e1f5aa322f",
+      "last_checked": "2026-07-27T21:30:46Z",
       "monitor_url": "https://api.prod.legislation.gov.au/v1/Versions?%24filter=titleId%20eq%20%27F2025L01026%27&%24orderby=start%20desc&%24top=10&%24select=titleId%2CcompilationNumber%2Cstart%2Cend%2CregisteredAt",
       "json_extract": {
         "records": "value",
@@ -139,21 +145,22 @@
       "_note": "2026-07-21: moved to the Federal Register OData API (api.prod.legislation.gov.au/v1, no key). Hashing the version SET means any new version — including staged future commencements — is detected. PROBED before configuring: Acts (C...A...) populate compilationNumber; instruments (F...L...) return null for it, so their records key on the version start/registration dates instead. CORRECTION: this source previously cited compilation id F2026C00274, which returns ZERO versions from this endpoint because it filters on titleId. The title id is F2025L01026 (the as-made instrument). Configuring the compilation id would have produced a permanently empty result indistinguishable from 'no changes'.",
       "corpus_id": "aus/rules/aml-ctf-2025",
       "title_id": "F2025L01026",
-      "version_records": true
+      "version_records": true,
+      "last_page_sha256": "sha256:a8f922635946dd312f4e9e44b40262e43bb0d90befed6823759cdb816960b2ef"
     },
     {
       "name": "FATF 40 Recommendations (standard)",
       "url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_checked": "2026-07-27T21:30:46Z",
       "monitor": "manual",
       "_manual_note": "Persistent HTTP 403 to the monitor's own fetch (fatf-gafi.org WAF). Also restricted_withheld, so no text is ingested. Declared manual to stop a recurring ERROR every run; the standard is reviewed by hand."
     },
     {
       "name": "UK Proceeds of Crime Act 2002 (c. 29) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2002/29/contents",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:e7b3b7e041a80f385db5de076bf509b39108b306a1fdb6c75491d39eb6ddffde",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "is up to date with all changes known to be in force on or before \\d{1,2} \\w+ \\d{4}"
       ],
@@ -162,8 +169,8 @@
     {
       "name": "UK Terrorism Act 2000 (c. 11) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2000/11/contents",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:20b7fff02ccd339ee4f0204a06d562c02a42b553b13541ecccba130118e6d7b5",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "is up to date with all changes known to be in force on or before \\d{1,2} \\w+ \\d{4}"
       ],
@@ -172,8 +179,8 @@
     {
       "name": "UK Money Laundering Regulations 2017 (SI 2017/692) — revised",
       "url": "https://www.legislation.gov.uk/uksi/2017/692/contents",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:e9fda91f7252a14f89cddf22d3f91e7270f983b7e38bfd588683e705205540d1",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "is up to date with all changes known to be in force on or before \\d{1,2} \\w+ \\d{4}"
       ],
@@ -182,8 +189,8 @@
     {
       "name": "UK Sanctions and Anti-Money Laundering Act 2018 (c. 13) — revised",
       "url": "https://www.legislation.gov.uk/ukpga/2018/13/contents",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:013249510502373ff92fa156a48dcd6d169ea9a1bfb49155645608401ec7b318",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "is up to date with all changes known to be in force on or before \\d{1,2} \\w+ \\d{4}"
       ],
@@ -193,7 +200,7 @@
       "name": "US Bank Secrecy Act — 31 U.S.C. ch. 53 subch. II (current)",
       "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title31/subtitle4/chapter53/subchapter2&edition=prelim",
       "last_sha256": "sha256:eb143f0ff712bbfefbbb455e1e9325cc631a1d1d92276576f0779d7cae2a03e3",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "US 31 C.F.R. Part 1010 — FinCEN general provisions (eCFR)",
@@ -210,127 +217,127 @@
       },
       "_note": "2026-07-18: the human-facing eCFR page BLOCKS automated fetches — it redirected to unblock.federalregister.gov ('Request Access'), so this source was hashing an access-denied page, not FinCEN's rules. Switched to the OFFICIAL eCFR versioner API, published for programmatic use (no stealth, no proxy). It reports amendment dates per SECTION, so a change names the sections amended. The identical defect and identical fix were found in the deep-seabed corpus the same day (15 CFR 970/971). Hash cleared to force a fresh baseline.",
       "last_sha256": "sha256:b9e2cd02c29f7b9e94a00fa0ac4836e1c95d7a8fd5d1ab088b1398aa4f383916",
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_checked": "2026-07-27T21:30:46Z",
       "last_page_sha256": "sha256:b0eb28b714e1fe0e09b674016f2088623f1a99e6dde5f73e3afb13855dddcdeb"
     },
     {
       "name": "US IEEPA — 50 U.S.C. ch. 35 (current)",
       "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter35&edition=prelim",
       "last_sha256": "sha256:937d3833cb7ce9d67710bd95a74af02c9997966b1d72488ddc8127b1d3c68458",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "EU 4AMLD — Directive (EU) 2015/849 (consolidated, EUR-Lex)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L0849-20241230",
       "last_sha256": "sha256:9c089bccc152a1b3456795af9eaaebecddbfc4c31912919d0af2fe9566e11938",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "EU AML Regulation 2024/1624 (AMLR, EUR-Lex)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1624",
       "last_sha256": "sha256:e377df993ea8671f88d46490a92a2e8ed346245b36a4f9af4d251cdbeb537e71",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "EU 6AMLD — Directive (EU) 2024/1640 (EUR-Lex)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1640",
       "last_sha256": "sha256:c6a2bdd090d59feb257d6ca67769599503d3ff14244a7e75bd1a80946a971482",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "EU AMLA Regulation 2024/1620 (EUR-Lex)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1620",
       "last_sha256": "sha256:e0f237f6767da1e396deb1848aeeb8c5885798a59e76f75249a53c652c811010",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UN Vienna Convention 1988 (UNODC)",
       "url": "https://www.unodc.org/pdf/convention_1988_en.pdf",
-      "last_sha256": "sha256:07a95ba3bbb9ae7e7c7f80bae88c1858a335fd6b23d12d9a1e18f65b40ed24b5",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": "sha256:bdc7cef0def1aadc98dac8d6527076e32fe057722a7acacc348063bdd4b432c5",
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UN Convention against Transnational Organized Crime (Palermo/UNTOC 2000, UNODC)",
       "url": "https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html",
-      "last_sha256": "sha256:0716f60e762e39053b22d0c788ac281ec87c221cea8c018d3652339b3244c562",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": "sha256:33b9d56fb358c37d6b543f80dfbca98f7c03698d1cd574d84ea3ad729b0bc60a",
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UN International Convention for the Suppression of the Financing of Terrorism (1999, UNODC)",
       "url": "https://www.unodc.org/documents/treaties/Special/1999%20International%20Convention%20for%20the%20Suppression%20of%20the%20Financing%20of%20Terrorism.pdf",
-      "last_sha256": "sha256:41015d1bc6a3f1c7758ae134ba087a79fa92f6c0c103f91d801dd880d4906620",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": "sha256:fb49f3c26727a955e6194bce151df3a3639fe8d68dece78aee809294ccdd28c0",
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UN Security Council Resolution 1267 (1999)",
       "url": "https://docs.un.org/S/RES/1267(1999)",
       "_note": "2026-07-18: undocs.org now redirects to docs.un.org; pointed at the canonical host rather than relying on a redirect that may not persist. NOTE: last_sha256 was already null — the monitor has never successfully baselined this or the other two resolutions, so they have been listed but effectively unwatched. Likely needs MANUAL classification (document viewer, not plain HTML); confirm before assuming the URL change alone fixes it.",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UN Security Council Resolution 1373 (2001)",
       "url": "https://docs.un.org/S/RES/1373(2001)",
       "_note": "2026-07-18: see the 1267 note — canonical host, never baselined.",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UN Security Council Resolution 1540 (2004)",
       "url": "https://docs.un.org/S/RES/1540(2004)",
       "_note": "2026-07-18: see the 1267 note — canonical host, never baselined.",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UN Convention against Corruption (UNCAC/Mérida 2003, UNODC)",
       "url": "https://www.unodc.org/documents/treaties/UNCAC/Publications/Convention/08-50026_E.pdf",
-      "last_sha256": "sha256:b560461785105c014b1fa45963d2b3c251da922d4019b94e608a7443c044cabb",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": "sha256:8b49e5d7fea11d0b7e8bbbad7161a617ac480bec17d6e1f6a13f76d7ff8b1960",
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Canada — PCMLTFA (S.C. 2000, c. 17)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/P-24.501/",
       "last_sha256": "sha256:2d59431c7d8c5683464a54b0a4a7459666238fd7d89c253d9684f9cd09642610",
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_checked": "2026-07-27T21:30:46Z",
       "expect_contains": "Terrorist Financing Act"
     },
     {
       "name": "Canada — PCMLTFR (SOR/2002-184)",
       "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-184/",
       "last_sha256": "sha256:88da139f2fdfa2657c8202f0f28d1ce7055845d7d66cc27cb5dae40f3bb45422",
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_checked": "2026-07-27T21:30:46Z",
       "expect_contains": "Terrorist Financing Regulations"
     },
     {
       "name": "Canada — Criminal Code (R.S.C. 1985, c. C-46)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
       "last_sha256": "sha256:f821200c8156c7a1830486fccbc5cf42c56f7e01e5a61991839f85ddc9aec72d",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Canada — Special Economic Measures Act (S.C. 1992, c. 17)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/S-14.5/",
       "last_sha256": "sha256:2e593128a1d611c62173dbf443090379865ece8e710e5f7b264b17475a186dab",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Canada — United Nations Act (R.S.C. 1985, c. U-2)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/U-2/",
       "last_sha256": "sha256:12cdb67f2c245193c2c5c9ecac15d91165b674b85047bfa93e3b2fff6ab4cf00",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Canada — JVCFOA / Magnitsky (S.C. 2017, c. 21)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/J-2.3/",
       "last_sha256": "sha256:727e7ee229adc321de27ef6e2fe99a8ec10297d66f1bd12361840d6427d756d4",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Singapore — CDSA (Act 29 of 1992)",
       "url": "https://sso.agc.gov.sg/Act/CDTOSCCBA1992",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:c3ef127a149102481ed96a6f21fe122e7930479f34dcf70eeaf13913c15e9a1e",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
         "Last updated \\d{1,2} \\w{3} \\d{4}"
@@ -340,8 +347,8 @@
     {
       "name": "Singapore — TSOFA (Act 16 of 2002)",
       "url": "https://sso.agc.gov.sg/Act/TSFA2002",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:e0138a6e7e458d40d39370c6f958bdce7e456f75560f79a857511893034ceaeb",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
         "Last updated \\d{1,2} \\w{3} \\d{4}"
@@ -351,8 +358,8 @@
     {
       "name": "Singapore — United Nations Act 2001 (Act 44 of 2001)",
       "url": "https://sso.agc.gov.sg/Act/UNA2001",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:4e1b2a7764676e60f2449a5bab5bde9a919683433cb155ba063c0cb599fdbd5c",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
         "Last updated \\d{1,2} \\w{3} \\d{4}"
@@ -362,8 +369,8 @@
     {
       "name": "Singapore — UN (Anti-Terrorism Measures) Regs (Rg 1)",
       "url": "https://sso.agc.gov.sg/SL/UNA2001-RG1",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:e7a76fd727edb51c973ed4306512493939a2ca57300063052440377e8377efe3",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
         "Last updated \\d{1,2} \\w{3} \\d{4}"
@@ -373,8 +380,8 @@
     {
       "name": "Singapore — Precious Stones and Precious Metals Act 2019 (Act 7 of 2019)",
       "url": "https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019",
-      "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z",
+      "last_sha256": "sha256:bf0a63bc78a1d91b7be939bfaf76130932dc418712a267b671fa47ac28aa7621",
+      "last_checked": "2026-07-27T21:30:46Z",
       "ignore_patterns": [
         "Status:(&nbsp;|\\s)*Current version as at \\d{1,2} \\w{3} \\d{4}",
         "Last updated \\d{1,2} \\w{3} \\d{4}"
@@ -386,98 +393,98 @@
       "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Switzerland — AMLO / GwV (SR 955.01)",
       "url": "https://www.fedlex.admin.ch/eli/cc/2015/791/de",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Switzerland — AMLO-FINMA / GwV-FINMA (SR 955.033.0)",
       "url": "https://www.fedlex.admin.ch/eli/cc/2015/390/de",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Switzerland — Criminal Code (SR 311.0)",
       "url": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Switzerland — Embargo Act / EmbG (SR 946.231)",
       "url": "https://www.fedlex.admin.ch/eli/cc/2002/564/de",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Canada — Freezing Assets of Corrupt Foreign Officials Act (S.C. 2011, c. 10)",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/F-31.6/",
       "last_sha256": "sha256:452a7868d78631a828de8b54cc01c958628f251e06e915ce9a26f58228cc86d6",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Hong Kong — AMLO (Cap. 615)",
       "url": "https://www.elegislation.gov.hk/hk/cap615",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Hong Kong — OSCO (Cap. 455)",
       "url": "https://www.elegislation.gov.hk/hk/cap455",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Hong Kong — DTROP (Cap. 405)",
       "url": "https://www.elegislation.gov.hk/hk/cap405",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Hong Kong — UNATMO (Cap. 575)",
       "url": "https://www.elegislation.gov.hk/hk/cap575",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Hong Kong — UN Sanctions Ordinance (Cap. 537)",
       "url": "https://www.elegislation.gov.hk/hk/cap537",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Hong Kong — WMD(CPS)O (Cap. 526)",
       "url": "https://www.elegislation.gov.hk/hk/cap526",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Hong Kong — Cross-boundary Currency & BNI Ordinance (Cap. 629)",
       "url": "https://www.elegislation.gov.hk/hk/cap629",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Japan — Criminal Proceeds Transfer Prevention Act (Act 22/2007)",
       "url": "https://laws.e-gov.go.jp/law/419AC0000000022",
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/419AC0000000022",
-      "last_sha256": "sha256:423c6f35e45c714bc4a3595d3997304c58bcfa367a524f568b95d04aab1afdd9",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": "sha256:63bef3bcf9e429228fe8bc088bcc8315c1f5025dff5ec64db26634ae8c3abc6e",
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Japan — Organized Crime Punishment Act (Act 136/1999)",
@@ -485,7 +492,7 @@
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/411AC0000000136",
       "last_sha256": "sha256:948a98b673eadf681ccaee74646fb9688cc4cb53c2d89212dc069dc0f4722a6b",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Japan — Terrorist Financing Punishment Act (Act 67/2002)",
@@ -493,15 +500,15 @@
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/414AC0000000067",
       "last_sha256": "sha256:26b8061e9828fedb39d044ff44d613e1eae95faab1626b4fa0c6489b28860fcd",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Japan — FEFTA (Act 228/1949)",
       "url": "https://laws.e-gov.go.jp/law/324AC0000000228",
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/324AC0000000228",
-      "last_sha256": "sha256:13c06bb9f65b7dce4a3bab52cba90e04b060edba1afaa9b6bc2626c0a422d7e4",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_sha256": "sha256:94ebf9766570246eb7e7c0b58735c90b5ba5ab090cca8d7a61e7612a04835807",
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "Japan — International Terrorist Asset-Freezing Act (Act 124/2014)",
@@ -509,42 +516,42 @@
       "render": "spa",
       "monitor_url": "https://laws.e-gov.go.jp/api/1/lawdata/426AC0000000124",
       "last_sha256": "sha256:69d7ea88b2dfc94f3c0260b9add979afef543dbe299e7b53a0971b43b80236f2",
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UAE — Federal Decree-Law 10/2025 (AML/CTF/PF)",
       "url": "https://uaelegislation.gov.ae/en/legislations/3314",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UAE — Federal Decree-Law 20/2018 (superseded)",
       "url": "https://uaelegislation.gov.ae/en/legislations/1016",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UAE — Implementing Regulation (Cabinet Decision 10/2019)",
       "url": "https://uaelegislation.gov.ae/en/legislations/1015",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UAE — TFS mechanism (Cabinet Decision 74/2020)",
       "url": "https://uaelegislation.gov.ae/en/legislations/2198",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     },
     {
       "name": "UAE — Combating Terrorism Crimes Law (7/2014)",
       "url": "https://uaelegislation.gov.ae/en/legislations/1018",
       "render": "spa",
       "last_sha256": null,
-      "last_checked": "2026-07-20T21:33:49Z"
+      "last_checked": "2026-07-27T21:30:46Z"
     }
   ],
   "_pending_once_ids_confirmed": [
