@@ -1,5 +1,8 @@
 {
-  "name": "AML/CTF & Financial-Sanctions Legal Corpus — UN · AU · UK · US · EU · CA · SG · CH · HK · JP · AE (v1)",
+  "status": "frozen",
+  "frozen_as_at": "2026-07-26",
+  "frozen_reason": "Source monitoring deliberately switched off. Records remain byte-exact and accurate as at each record's own retrieval_date, and will NOT be updated. AML/CTF and sanctions law changes frequently — do not use for compliance. See docs/frozen-notice.md.",
+  "name": "AML/CTF & Financial-Sanctions Legal Corpus — UN · AU · UK · US · EU · CA · SG · CH · HK · JP · AE (v1) [FROZEN 2026-07-26]",
   "tagline": "A neutral, provenance-first record of anti-money-laundering / counter-terrorism-financing and financial-sanctions law across ten cross-referenced jurisdictions (Australia, the United Kingdom, the United States, the European Union, Canada, Singapore, Switzerland, Hong Kong, Japan, the United Arab Emirates), rooted in the UN treaty and Security Council backbone, with the FATF standard as the connective spine. Every text carries its official source, retrieval date, citation, jurisdiction, legal status, language, an authoritative-status flag, and a SHA-256 hash; every change is a new dated version. A reference record of the law — not legal or compliance advice.",
   "card": {
     "pretty_name": "AML/CTF & Financial-Sanctions Legal Corpus (UN · Australia · UK · US · EU · Canada · Singapore · Switzerland · Hong Kong · Japan · UAE, v1)",

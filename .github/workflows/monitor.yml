@@ -7,8 +7,14 @@ name: Source monitor
 # the latest report are committed back so the next run diffs against them.
 
 on:
-  schedule:
-    - cron: "17 20 * * 1"   # every Monday 20:17 UTC
+  # FROZEN 2026-07-26 — the weekly schedule is deliberately disabled, not broken.
+  # See docs/frozen-notice.md. This corpus is no longer monitored; leaving the schedule
+  # running would produce reports nobody triages, which is how a corpus comes to LOOK
+  # maintained while going stale. workflow_dispatch is retained so the sweep can still be
+  # run by hand if the corpus is ever un-frozen (expect widespread source rot after a gap).
+  #
+  # schedule:
+  #   - cron: "17 20 * * 1"   # every Monday 20:17 UTC
   workflow_dispatch:
 
 permissions:

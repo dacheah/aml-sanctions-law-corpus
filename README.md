@@ -2,6 +2,25 @@
 
 [![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21279526.svg)](https://doi.org/10.5281/zenodo.21279526)
 
+> # ⚠️ FROZEN — NOT MAINTAINED AS AT 26 JULY 2026
+>
+> **Source monitoring for this corpus has been deliberately switched off. The law recorded here is
+> accurate as at each record's own `retrieval_date`, and will NOT be updated. AML/CTF and sanctions law
+> changes frequently; assume every instrument below is out of date.**
+>
+> **Do not use this corpus for compliance purposes.** A superseded compilation looks identical to a
+> current one, and in this field relying on superseded law has consequences. Check the official source
+> for anything operative — each record carries its `source_url`, official citation and retrieval date
+> precisely so you can go back to the authority.
+>
+> **What remains valid:** every record is still byte-exact, hash-verifiable and honestly dated. The
+> corpus stands as a point-in-time record and as a worked example of the provenance methodology. It is
+> frozen, not withdrawn.
+>
+> **Why:** maintaining ~60 official sources across ten jurisdictions is not sustainable alongside the
+> corpora where this project is not duplicating well-funded commercial coverage. See
+> `docs/frozen-notice.md`.
+
 A neutral, provenance-tracked, machine-readable record of the **law** of anti-money-laundering /
 counter-terrorism-financing (AML/CTF) and financial sanctions, on the FATF standard as backbone and rooted
 in the **UN treaty and Security Council** layer beneath it. Version 1 covers ten separate,
