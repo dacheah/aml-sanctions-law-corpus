@@ -1,6 +1,18 @@
 # Frozen notice — AML/CTF & financial-sanctions corpus
 
-**Status:** FROZEN · **Frozen as at:** 2026-07-26 · **Last monitored:** see `monitoring/last_report.md`
+**Status:** FROZEN · **Frozen as at:** 2026-08-04 · **Last automated sweep:** 2026-08-03
+
+## Dates, precisely
+
+The decision to freeze was taken on 26 July 2026, but monitoring did not stop then: the weekly workflow
+continued to run and completed sweeps on **27 July** and **3 August 2026**, both committed by
+`github-actions[bot]`. The freeze takes effect on **4 August 2026**, the date the workflow was actually
+disabled.
+
+An earlier draft of this notice recorded the freeze as 26 July. That was the date of the decision, not
+of the last monitoring — and in a corpus whose entire premise is that recorded dates mean what they say,
+a freeze date predating two real sweeps is exactly the kind of small inaccuracy the method exists to
+prevent. Corrected here rather than left to stand.
 
 ## What "frozen" means here
 
