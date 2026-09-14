@@ -14,7 +14,30 @@ never an in-place edit.
 
 ## [Unreleased]
 
-_Nothing yet._
+### Fixed
+
+- **The source monitor compared hashes as strings, so an unchanged source could be reported as
+  CHANGED.** `scripts/watch_sources.py` → v3.9.
+
+  The whole-page branch used `h != s["last_sha256"]` — a raw string comparison. `content_hash()`
+  always returns `sha256:`-prefixed hex, so a baseline entry stored without the prefix compared
+  unequal to the *identical* digest. Three ODS record copies in the space-law corpus flagged that way
+  on 2026-08-01 and the resulting issue sat open for six weeks; the digests were never different.
+
+  This is the failure mode this project is least able to absorb. An alert that means "the text
+  changed" when the text did not is worse than no alert, because it spends the reader's willingness
+  to believe the next one — the same reasoning that froze this corpus.
+
+  - `norm_digest()` — the comparison is now on the digest, not its spelling.
+  - `classify()` state `reformatted` — same digest, non-canonical stored form. Rendered in its own
+    report section, excluded from the alert path by construction, and self-healing: the canonical
+    form is written back on the same run.
+  - `advances_baseline()` — the advance decision is now a pure function, so it is assertable.
+
+  Code only. No authoritative text, derived artifact, snapshot, baseline or version changes, and the
+  frozen status is unaffected — `monitor.yml` retains `workflow_dispatch` only. Verified with
+  `--selftest`, `validate_corpus.py` (OK), and an end-to-end re-injection of the failing condition
+  (run 1 reports one reformat note and rewrites the baseline canonically; run 2 is clean).
 
 ## [1.3.7] — 2026-07-11
 
