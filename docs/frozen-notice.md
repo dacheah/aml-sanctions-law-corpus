@@ -43,6 +43,29 @@ completeness expectation: a compliance-grade AML source that is 95% complete is 
 the missing 5% is the liability. An independent single-maintainer corpus cannot honestly make that
 claim, and this project does not make claims it cannot support.
 
+## What could never be machine-checked
+
+The corpus's own source audit (`monitoring/source_audit.md`, 2026-07-22) belongs with this notice, because
+it is the honest edge of the monitoring claim above. Of the 60 monitored sources:
+
+- **17 declared manual** (`render:spa` or `monitor:manual`) — SPA-rendered or otherwise fetch-opaque
+  portals (Switzerland's fedlex, Hong Kong's e-legislation and others). They were checked by hand, and
+  they are why a green monitor run must never be read as "every source was checked".
+- **4 broken** at the last audit: FATF's recommendations page returning `403`; the two
+  `uscode.house.gov` `view.xhtml` endpoints timing out; Canada's Criminal Code page resetting the
+  connection. Each needs a browser or a replacement URL rather than a retry loop — the portfolio's
+  standing rule is escalate, never bypass.
+- **2 for review**: Canada's PCMLTFA and PCMLTFR, whose page titles do not resemble the source names and
+  may therefore be the wrong pages.
+- **0 of 60 sources declared an `expect_contains` anchor**, so the plumbing check could not have caught a
+  source that resolves cleanly to a *wrong* page. That is the durable fix this corpus never got to, and
+  it is recorded rather than implied away.
+
+The four source-monitor issues open at the freeze (#1–#4, July–August 2026) are closed against this
+notice. Two of them recorded **real** content changes (the UK Proceeds of Crime Act 2002 and Terrorism
+Act 2000 on-as-amended pages, 20 July 2026); those were **not** ingested, because the freeze is a
+deliberate stop. Every record speaks only as at its own `retrieval_date`.
+
 ## Do not use this for compliance
 
 Superseded law is indistinguishable from current law at a glance. Every record here carries its
