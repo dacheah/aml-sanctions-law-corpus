@@ -1,6 +1,6 @@
 # AML/CTF & Financial-Sanctions Legal Corpus (Australia, United Kingdom, United States & European Union, v1)
 
-[![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21279526.svg)](https://doi.org/10.5281/zenodo.21279526)
+[![Validate corpus](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml/badge.svg)](https://github.com/dacheah/aml-sanctions-law-corpus/actions/workflows/validate.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21279525.svg)](https://doi.org/10.5281/zenodo.21279525)
 
 > # ⚠️ FROZEN — NOT MAINTAINED AS AT 4 AUGUST 2026
 >

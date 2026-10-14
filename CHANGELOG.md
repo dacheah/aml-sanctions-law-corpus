@@ -12,6 +12,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 The `authoritative/` layer is append-only: a correction or amendment is always a **new dated version**,
 never an in-place edit.
 
+## [Unreleased]
+
+### Changed
+
+- **The citation record points at the archive that exists.** `CITATION.cff` now names version 1.4.2 and the
+  **concept** DOI `10.5281/zenodo.21279525` rather than the first version's DOI, and the README DOI badge
+  does the same: a version DOI pins a citer to the version it was minted for, so GitHub's "Cite this
+  repository" button was resolving to the first deposit. Metadata only.
+
 ## [1.4.2] — 2026-10-15
 
 The frozen state is recorded in the archive's own deposit metadata, so that the citable record says the
