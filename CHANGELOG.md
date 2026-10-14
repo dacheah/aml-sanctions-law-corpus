@@ -12,7 +12,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 The `authoritative/` layer is append-only: a correction or amendment is always a **new dated version**,
 never an in-place edit.
 
-## [Unreleased]
+## [1.4.2] — 2026-10-15
+
+The frozen state is recorded in the archive's own deposit metadata, so that the citable record says the
+corpus is frozen and out of date rather than only the repository doing so. No authoritative text, derived
+artefact, snapshot or baseline changes.
+
+### Changed
+
+- **The Zenodo deposit metadata now states the freeze.** `.zenodo.json`'s `description` opens with the
+  frozen status — frozen as at 4 August 2026, source monitoring deliberately off, final automated sweep
+  3 August 2026, assume every instrument out of date, not for compliance use, frozen rather than
+  withdrawn. Zenodo reads this file at release time and takes nothing from the repository's README, so
+  without it a citable version would have carried no warning at all.
+- **This release also carries the source-monitor fix recorded below**, committed after v1.4.1 and never
+  released before the corpus was frozen.
 
 ### Fixed
 
