@@ -80,7 +80,6 @@ from urllib.request import Request, urlopen
 #        CHANGED. On 2026-08-01 three unmoved ODS record copies flagged that way and the issue sat
 #        open for six weeks — a false alarm in a corpus whose product is proving nothing changed.
 #        Same digest in a different spelling is now a self-clearing baseline repair, never an alarm.
-MONITOR_VERSION = "3.9"
 #  3.11-PORT NOTE: this copy is anchored on the 3.9 line. It carries the 3.11 retention
 #        change and NOT 3.10's HTML-entity unescaping or unrecognised-argument guard,
 #        because BOTH alter behaviour this corpus has not re-baselined for: the entity fix
