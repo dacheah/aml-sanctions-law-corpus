@@ -90,6 +90,18 @@ ingest, validation, the reproducibility gate, the set-aware engine manifest veri
 builder, the Arabic OCR profile, the cross-engine fidelity checker) are retained there as domain modules
 rather than being discarded with this corpus.
 
+**Monitor port, 2026-10-15.** The generic source monitor was brought to v3.11 — a moved page source now
+retains its comparable text and writes a bounded diff note, so a flag can be triaged after the fact from
+the retained text instead of by re-reading a live page that may already have replaced it. This corpus's
+copy is anchored on its own **3.9** line, so it does **not** carry v3.10's HTML-entity unescaping or its
+unrecognised-argument guard. Both are deliberate omissions: the entity fix changes comparable text
+globally and can only be adopted with a deliberate per-source re-baseline, and a frozen corpus carrying a
+standing CHANGED backlog must not re-baseline casually. Whoever un-freezes this corpus should adopt both
+— re-baselining per source, comparing old and new digests first, so a genuine pending change is never
+swallowed by the reset. The port was verified offline (its own `--selftest`, plus an end-to-end run
+against a local fixture page and a shell) and deliberately **not** swept: a sweep would advance the ten
+baselines the freeze left untriaged, which is the one thing this corpus's record must not lose.
+
 ## Reversal
 
 Freezing is reversible. Restarting means: re-enabling the monitoring workflow, running a full source
